@@ -4,18 +4,20 @@ from __future__ import annotations
 
 from collections import defaultdict
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 from scrapers.location import COUNTRY_ORDER, get_primary_location
 
 MARKER_START = "<!-- LISTINGS:START -->"
 MARKER_END = "<!-- LISTINGS:END -->"
 
+TORONTO = ZoneInfo("America/Toronto")
+
 
 def format_date(timestamp: int) -> str:
     if not timestamp:
         return "—"
-    return datetime.fromtimestamp(timestamp, tz=timezone.utc).strftime("%Y-%m-%d")
-
+    return datetime.fromtimestamp(timestamp, tz=TORONTO).strftime("%Y-%m-%d")
 
 def _escape_md(text: str) -> str:
     return text.replace("|", "\\|")
@@ -24,7 +26,7 @@ def _escape_md(text: str) -> str:
 def generate_listings_section(listings: list[dict]) -> str:
     active = [l for l in listings if l.get("active") and l.get("is_visible", True)]
     inactive_count = len(listings) - len(active)
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    now = datetime.now(TORONTO).strftime("%Y-%m-%d %H:%M ET")
 
     boards: dict[tuple[str, str], list[dict]] = defaultdict(list)
     for listing in active:
