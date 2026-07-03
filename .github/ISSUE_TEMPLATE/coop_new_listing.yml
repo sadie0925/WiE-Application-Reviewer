@@ -1,0 +1,49 @@
+name: Co-op Listing Submission
+description: Submit a co-op or internship posting
+title: "[Co-op Listing] "
+labels: ["coop-submission"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company Name
+      placeholder: "e.g. Google"
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Job Title
+      placeholder: "e.g. Software Engineering Intern - Summer 2026"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Application URL
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: locations
+    attributes:
+      label: Location(s)
+      placeholder: "San Francisco, CA or Remote"
+    validations:
+      required: true
+
+  - type: input
+    id: terms
+    attributes:
+      label: Term(s)
+      placeholder: "Summer 2026"
+      value: "Summer 2026"
+
+  - type: markdown
+    attributes:
+      value: |
+        A maintainer will review your submission. Once the `approved` label is added,
+        a GitHub Action will automatically add it to `coop-internships/listings.json`.

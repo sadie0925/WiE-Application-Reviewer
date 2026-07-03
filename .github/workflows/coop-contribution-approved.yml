@@ -1,0 +1,71 @@
+name: Co-op Process Approved Submission
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  add-listing:
+    if: github.event.label.name == 'approved'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Parse issue body and add listing
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          CONTRIBUTOR: ${{ github.event.issue.user.login }}
+        working-directory: coop-internships
+        run: |
+          python3 << 'PYEOF'
+          import os, re, subprocess
+
+          body = os.environ["ISSUE_BODY"]
+          contributor = os.environ["CONTRIBUTOR"]
+
+          def extract(label):
+              match = re.search(rf"### {label}\s*\n+(.+?)(?:\n###|\Z)", body, re.S)
+              return match.group(1).strip() if match else ""
+
+          company = extract("Company Name")
+          title = extract("Job Title")
+          url = extract("Application URL")
+          locations = extract("Location\\(s\\)") or "Unknown"
+          terms = extract("Term\\(s\\)") or "Summer 2026"
+
+          subprocess.run([
+              "python", "main.py", "add",
+              "--company", company,
+              "--title", title,
+              "--url", url,
+              "--locations", locations,
+              "--terms", terms,
+              "--contributor", contributor,
+          ], check=True)
+          PYEOF
+
+      - name: Commit and close issue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add coop-internships/listings.json
+          git commit -m "feat: add co-op listing from issue #${{ github.event.issue.number }} (@${{ github.event.issue.user.login }})"
+          git push
+
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });

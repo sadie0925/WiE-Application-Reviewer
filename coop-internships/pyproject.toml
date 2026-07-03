@@ -1,0 +1,11 @@
+[project]
+name = "coop-internships"
+version = "0.1.0"
+description = "Automated co-op and internship listings from company career pages"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31.0",
+]
+
+[project.scripts]
+coop-listings = "main:main"

@@ -1,0 +1,16 @@
+[
+  { "name": "Stripe", "platform": "greenhouse", "slug": "stripe" },
+  { "name": "Figma", "platform": "greenhouse", "slug": "figma" },
+  { "name": "Discord", "platform": "greenhouse", "slug": "discord" },
+  { "name": "Coinbase", "platform": "greenhouse", "slug": "coinbase" },
+  { "name": "Dropbox", "platform": "greenhouse", "slug": "dropbox" },
+  { "name": "Anthropic", "platform": "greenhouse", "slug": "anthropic" },
+  { "name": "Palantir", "platform": "lever", "slug": "palantir" },
+  { "name": "Ramp", "platform": "ashby", "slug": "ramp" },
+  { "name": "Notion", "platform": "ashby", "slug": "notion" },
+  { "name": "Linear", "platform": "ashby", "slug": "linear" },
+  { "name": "Vercel", "platform": "greenhouse", "slug": "vercel" },
+  { "name": "Databricks", "platform": "greenhouse", "slug": "databricks" },
+  { "name": "Roblox", "platform": "greenhouse", "slug": "roblox" },
+  { "name": "Nvidia", "platform": "workday", "slug": "nvidia", "workday_host": "nvidia.wd5.myworkdayjobs.com", "workday_site": "NVIDIAExternalCareerSite" }
+]
