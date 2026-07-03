@@ -1432,98 +1432,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "8ca4b42d-fb99-4e08-b801-82269a5217c0",
-    "company_name": "BAE Systems",
-    "company_url": "",
-    "title": "Software Engineering Intern I, Summer 2026",
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118005BREXTERNAL/Software-Engineering-Intern-I-Summer-2026",
-    "locations": [
-      "Nashua, NH",
-      "Hudson, NH",
-      "Manchester, NH",
-      "Merrimack, NH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762359659,
-    "date_updated": 1762359659,
-    "category": "Software Engineering",
-    "sponsorship": "U.S. Citizenship is Required"
-  },
-  {
-    "id": "f63004ff-57a4-4c86-94d8-1f80db185047",
-    "company_name": "BAE Systems",
-    "company_url": "",
-    "title": "Software Engineering Intern II, Summer 2026",
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026",
-    "locations": [
-      "Nashua, NH",
-      "Hudson, NH",
-      "Manchester, NH",
-      "Merrimack, NH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762359606,
-    "date_updated": 1762359606,
-    "category": "Software Engineering",
-    "sponsorship": "U.S. Citizenship is Required"
-  },
-  {
-    "id": "eaaaa2a1-14fb-4a6c-9052-3c815acb5cf3",
-    "company_name": "BAE Systems",
-    "company_url": "",
-    "title": "Software Engineering Intern III, Summer 2026",
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026",
-    "locations": [
-      "Nashua, NH",
-      "Hudson, NH",
-      "Manchester, NH",
-      "Merrimack, NH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762359570,
-    "date_updated": 1762359570,
-    "category": "Software Engineering",
-    "sponsorship": "U.S. Citizenship is Required"
-  },
-  {
-    "id": "bacc96af-0e15-4ea1-b47c-4ad97d58c67e",
-    "company_name": "BAE Systems",
-    "company_url": "",
-    "title": "Software Engineering Intern IV, Summer 2026",
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026",
-    "locations": [
-      "Nashua, NH",
-      "Hudson, NH",
-      "Manchester, NH",
-      "Merrimack, NH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762359538,
-    "date_updated": 1762359538,
-    "category": "Software Engineering",
-    "sponsorship": "U.S. Citizenship is Required"
-  },
-  {
     "id": "55a10ae5-b7a1-4452-b639-83400bdc2afb",
     "company_name": "BAE Systems",
     "company_url": "",
@@ -1540,26 +1448,6 @@
     "source": "simplify",
     "date_posted": 1763048472,
     "date_updated": 1763048472,
-    "category": "Software Engineering",
-    "sponsorship": "U.S. Citizenship is Required"
-  },
-  {
-    "id": "b3e52a34-e086-462c-91c8-256e3c550922",
-    "company_name": "BAE Systems",
-    "company_url": "",
-    "title": "Software Engineering Intern, Summer 2026",
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762359692,
-    "date_updated": 1762359692,
     "category": "Software Engineering",
     "sponsorship": "U.S. Citizenship is Required"
   },
