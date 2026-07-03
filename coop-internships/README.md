@@ -2,7 +2,7 @@
 
 <!-- LISTINGS:START -->
 
-**713 active US/Canada co-op & intern listings** · 0 inactive · Last updated: 2026-07-03 01:41 ET
+**713 active US/Canada co-op & intern listings** · 0 inactive · Last updated: 2026-07-03 01:43 ET
 
 
 ## Canada
