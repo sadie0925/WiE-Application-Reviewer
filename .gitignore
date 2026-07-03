@@ -106,6 +106,8 @@ Thumbs.db
 !package.json
 !package-lock.json
 !vercel.json
+!coop-internships/listings.json
+!coop-internships/companies.json
 
 # Application data files
 server/data.json
