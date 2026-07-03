@@ -50,7 +50,7 @@ def normalize_listing(
         "title": title.strip(),
         "url": url,
         "locations": us_ca or ["Unknown"],
-        "terms": extract_terms(title),
+        # "terms": extract_terms(title),
         "active": True,
         "is_visible": True,
         "source": source,

@@ -39,9 +39,6 @@ def generate_listings_section(listings: list[dict]) -> str:
         f"**{len(active)} active US/Canada co-op & intern listings** · "
         f"{inactive_count} inactive · Last updated: {now}",
         "",
-        "Filtered for **undergraduate** roles in **United States & Canada** only. "
-        "Data synced from the [Simplify Jobs](https://github.com/SimplifyJobs/Summer2026-Internships) "
-        "community feed.",
         "",
     ]
 

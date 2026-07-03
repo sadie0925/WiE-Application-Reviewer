@@ -1,16 +1,9 @@
 # Co-op & Internship Listings (US & Canada)
 
-## Contributing
-
-Open a [co-op listing issue](../../issues/new/choose). Maintainer adds `approved` label.
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md).
-
 <!-- LISTINGS:START -->
 
-**713 active US/Canada co-op & intern listings** · 0 inactive · Last updated: 2026-07-03 01:34 ET
+**713 active US/Canada co-op & intern listings** · 0 inactive · Last updated: 2026-07-03 01:41 ET
 
-Filtered for **undergraduate** roles in **United States & Canada** only. Data synced from the [Simplify Jobs](https://github.com/SimplifyJobs/Summer2026-Internships) community feed.
 
 ## Canada
 
