@@ -1,24 +1,7 @@
 import re
 import uuid
 
-# Must match at least one of these
-INCLUDE_PATTERN = re.compile(
-    r"\b(intern(ship)?|co-?op|undergraduate\s+intern)\b",
-    re.IGNORECASE,
-)
-
-# Exclude grad / non-student / recruiting roles even if they contain "intern"
-EXCLUDE_PATTERN = re.compile(
-    r"\b("
-    r"phd|doctorate|postdoc|post-doc|"
-    r"new\s*grad|new-grad|"
-    r"master'?s?|mba|"
-    r"recruiter|recruiting|head\s+of|"
-    r"people\s+strategy|inside\s+sales|"
-    r"early\s+career(?!\s+(engineer|developer|intern))"
-    r")\b",
-    re.IGNORECASE,
-)
+from scrapers.filters import is_intern_title
 
 TERM_PATTERNS = [
     (re.compile(r"summer\s*20(\d{2})", re.I), "Summer 20{}"),
@@ -30,9 +13,7 @@ TERM_PATTERNS = [
 
 
 def is_intern_role(title: str) -> bool:
-    if EXCLUDE_PATTERN.search(title):
-        return False
-    return bool(INCLUDE_PATTERN.search(title))
+    return is_intern_title(title)
 
 
 def extract_terms(title: str) -> list[str]:
@@ -59,13 +40,16 @@ def normalize_listing(
     source: str,
     now: int,
 ) -> dict:
+    from scrapers.location import filter_us_ca_locations
+
+    us_ca = filter_us_ca_locations(locations)
     return {
         "id": make_listing_id(url),
         "company_name": company_name,
         "company_url": "",
         "title": title.strip(),
         "url": url,
-        "locations": locations or ["Unknown"],
+        "locations": us_ca or ["Unknown"],
         "terms": extract_terms(title),
         "active": True,
         "is_visible": True,

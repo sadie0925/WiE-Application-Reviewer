@@ -1,16 +1,17 @@
-name: Co-op Scrape Listings
+name: Co-op Sync Listings
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # Every 6 hours — one HTTP request to Simplify feed, low load
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 concurrency:
-  group: coop-scrape-listings
+  group: coop-sync-listings
   cancel-in-progress: true
 
 jobs:
-  scrape:
+  sync:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -25,17 +26,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run scrapers
+      - name: Sync from Simplify feed
         working-directory: coop-internships
-        run: python main.py scrape
+        run: python main.py sync
 
       - name: Commit listings.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add coop-internships/listings.json
+          git add coop-internships/listings.json coop-internships/.listings-hash
           git diff --staged --quiet || \
-            git commit -m "chore: update co-op listings.json from scraper ($(date -u +%Y-%m-%d))"
+            git commit -m "chore: sync co-op listings from Simplify feed ($(date -u +%Y-%m-%d))"
 
       - name: Push
         run: git push

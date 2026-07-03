@@ -1,6 +1,11 @@
-"""Generate README listings section from listings.json."""
+"""Generate README listings section grouped by location."""
 
+from __future__ import annotations
+
+from collections import defaultdict
 from datetime import datetime, timezone
+
+from scrapers.location import COUNTRY_ORDER, get_primary_location
 
 MARKER_START = "<!-- LISTINGS:START -->"
 MARKER_END = "<!-- LISTINGS:END -->"
@@ -12,36 +17,72 @@ def format_date(timestamp: int) -> str:
     return datetime.fromtimestamp(timestamp, tz=timezone.utc).strftime("%Y-%m-%d")
 
 
+def _escape_md(text: str) -> str:
+    return text.replace("|", "\\|")
+
+
 def generate_listings_section(listings: list[dict]) -> str:
     active = [l for l in listings if l.get("active") and l.get("is_visible", True)]
     inactive_count = len(listings) - len(active)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
+    boards: dict[tuple[str, str], list[dict]] = defaultdict(list)
+    for listing in active:
+        country, location = get_primary_location(listing)
+        boards[(country, location)].append(listing)
+
     lines = [
         MARKER_START,
         "",
-        f"**{len(active)} active listings** · {inactive_count} inactive · Last updated: {now}",
+        f"**{len(active)} active US/Canada co-op & intern listings** · "
+        f"{inactive_count} inactive · Last updated: {now}",
         "",
-        "## Active Listings",
+        "Filtered for **undergraduate** roles in **United States & Canada** only. "
+        "Data synced from the [Simplify Jobs](https://github.com/SimplifyJobs/Summer2026-Internships) "
+        "community feed.",
         "",
-        "| Company | Role | Location | Term | Posted | Apply |",
-        "| ------- | ---- | -------- | ---- | ------ | ----- |",
     ]
 
-    for listing in active:
-        company = listing.get("company_name", "—")
-        title = listing.get("title", "—").replace("|", "\\|")
-        locations = ", ".join(listing.get("locations", [])) or "—"
-        terms = ", ".join(listing.get("terms", [])) or "—"
-        posted = format_date(listing.get("date_posted", 0))
-        url = listing.get("url", "")
-        apply_link = f"[Apply]({url})" if url else "—"
-        lines.append(f"| {company} | {title} | {locations} | {terms} | {posted} | {apply_link} |")
-
     if not active:
-        lines.append("| — | No active listings yet. Run the scraper! | — | — | — | — |")
+        lines.append("No active listings. Run `python main.py sync`.")
+        lines.extend(["", MARKER_END])
+        return "\n".join(lines)
 
-    lines.extend(["", MARKER_END])
+    sorted_boards = sorted(
+        boards.items(),
+        key=lambda item: (
+            COUNTRY_ORDER.get(item[0][0], 99),
+            -len(item[1]),
+            item[0][1],
+        ),
+    )
+
+    current_country = None
+    for (country, location), board_listings in sorted_boards:
+        if country != current_country:
+            if current_country is not None:
+                lines.append("")
+            lines.append(f"## {country}")
+            lines.append("")
+            current_country = country
+
+        lines.append(f"### {location} ({len(board_listings)})")
+        lines.append("")
+        lines.append("| Company | Role | Term | Posted | Apply |")
+        lines.append("| ------- | ---- | ---- | ------ | ----- |")
+
+        for listing in sorted(board_listings, key=lambda x: (x.get("company_name", ""), x.get("title", ""))):
+            company = _escape_md(listing.get("company_name", "—"))
+            title = _escape_md(listing.get("title", "—"))
+            terms = _escape_md(", ".join(listing.get("terms", [])) or "—")
+            posted = format_date(listing.get("date_posted", 0))
+            url = listing.get("url", "")
+            apply_link = f"[Apply]({url})" if url else "—"
+            lines.append(f"| {company} | {title} | {terms} | {posted} | {apply_link} |")
+
+        lines.append("")
+
+    lines.append(MARKER_END)
     return "\n".join(lines)
 
 
