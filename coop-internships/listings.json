@@ -42,13 +42,13 @@
     "sponsorship": "Other"
   },
   {
-    "id": "2f83c02a-b2e6-4e93-b7cf-9f6e1871f276",
+    "id": "44e2d8e0-1adf-4090-8543-87e3ee669f2f",
     "company_name": "ABB",
     "company_url": "https://simplify.jobs/c/ABB",
-    "title": "AI Data Scientist Intern",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI---Data-Scientist-AI-Intern---Fall-2026_JR00036225",
+    "title": "Integrated Motor Drive Co-op",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-Co-Op---Fall-2026_JR00040102",
     "locations": [
-      "Morrisville, NC"
+      "Greenville, SC"
     ],
     "terms": [
       "Fall 2026"
@@ -56,9 +56,9 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1781639478,
-    "date_updated": 1781648646,
-    "category": "AI/ML/Data",
+    "date_posted": 1783127562,
+    "date_updated": 1783127776,
+    "category": "Hardware",
     "sponsorship": "Other"
   },
   {
@@ -5860,6 +5860,27 @@
     "sponsorship": "Other"
   },
   {
+    "id": "2f63f3e7-afc3-4a28-a187-dca0d89123c1",
+    "company_name": "Manulife Financial",
+    "company_url": "https://simplify.jobs/c/Manulife-Financial",
+    "title": "Print & Post Intern / Co-op - P&P",
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Print---Post--P-P--Operations---Data-Analyst-Intern---Co-op_JR26060039",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Kitchener, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783116700,
+    "date_updated": 1783117449,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
     "id": "7e945aa4-66d7-4494-a9df-1f3ac98f51ef",
     "company_name": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
     "company_url": "https://simplify.jobs/c/MLSE",
@@ -7133,26 +7154,6 @@
     "source": "simplify",
     "date_posted": 1777068440,
     "date_updated": 1777068541,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "80c7c165-b50f-4379-9cc0-b2370c069c36",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Web Developer Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777511344,
-    "date_updated": 1777511521,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -8721,46 +8722,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
-    "company_name": "Rise8",
-    "company_url": "https://simplify.jobs/c/Rise8",
-    "title": "Skillbridge Intern - Product Manager",
-    "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782771852,
-    "date_updated": 1783042220,
-    "category": "Product",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
-    "company_name": "Rise8",
-    "company_url": "https://simplify.jobs/c/Rise8",
-    "title": "Software Engineer Intern - Software Engineer",
-    "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782771852,
-    "date_updated": 1782868507,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
     "company_name": "Rivian",
     "company_url": "https://simplify.jobs/c/Rivian",
@@ -9212,26 +9173,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "532987f0-bfae-4a4f-a3fb-c33755ac93fa",
-    "company_name": "SOTI",
-    "company_url": "https://simplify.jobs/c/SOTI",
-    "title": "Software Developer Intern",
-    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777414036,
-    "date_updated": 1777414540,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "572bd542-bdd6-4494-adf5-c3e38316b280",
     "company_name": "SOTI",
     "company_url": "https://simplify.jobs/c/SOTI",
@@ -9437,6 +9378,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "33c527f2-ac7d-48ff-8bda-4961e809a00b",
+    "company_name": "Sentra",
+    "company_url": "https://simplify.jobs/c/Sentra",
+    "title": "Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783116640,
+    "date_updated": 1783117418,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
     "id": "a321ad73-583a-4203-bee3-a9fe75923346",
     "company_name": "ServiceNow",
     "company_url": "https://simplify.jobs/c/ServiceNow",
@@ -9466,13 +9427,13 @@
       "Remote in Canada"
     ],
     "terms": [
-      "Winter 2025"
+      "Summer 2026"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1762385463,
-    "date_updated": 1762385463,
+    "date_posted": 1778710242,
+    "date_updated": 1779113341,
     "category": "Product",
     "sponsorship": "Other"
   },
@@ -10225,26 +10186,6 @@
     "date_posted": 1783001101,
     "date_updated": 1783002241,
     "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "72197bee-e9b3-4978-88cd-1cc51ba6254c",
-    "company_name": "TDS",
-    "company_url": "https://simplify.jobs/c/TDS",
-    "title": "Software Engineer Intern",
-    "url": "https://external-telecom-teldta.icims.com/jobs/29561/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782482706,
-    "date_updated": 1782483055,
-    "category": "Software",
     "sponsorship": "Other"
   },
   {
@@ -12648,26 +12589,6 @@
     "source": "simplify",
     "date_posted": 1766129575,
     "date_updated": 1766129575,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "f9741a17-06d3-4c2c-a2e5-75d3bcc10db9",
-    "company_name": "TikTok",
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "title": "Data Science Intern - Advertisement Team - 2026 Summer",
-    "url": "https://lifeattiktok.com/search/7598068289244809525",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1769123847,
-    "date_updated": 1769123847,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
