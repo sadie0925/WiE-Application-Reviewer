@@ -1946,6 +1946,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
+    "company_name": "Boys Town",
+    "company_url": "https://simplify.jobs/c/Boys-Town",
+    "title": "Artificial Intelligence & Machine Learning Intern",
+    "url": "https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780132264,
+    "date_updated": 1780281077,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
     "id": "88f5a6f1-62c1-4a91-bf47-30e41b086fde",
     "company_name": "BrightAI",
     "company_url": "https://simplify.jobs/c/BrightAI",
@@ -2965,6 +2985,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
+    "company_name": "Copart",
+    "company_url": "https://simplify.jobs/c/Copart",
+    "title": "Software Engineer Intern",
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1779527612,
+    "date_updated": 1782816676,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
     "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
     "company_name": "Copart",
     "company_url": "https://simplify.jobs/c/Copart",
@@ -2981,6 +3021,26 @@
     "source": "simplify",
     "date_posted": 1766445706,
     "date_updated": 1766445706,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "6ab465b6-9bbd-4003-b0c0-b76c76d4ceaf",
+    "company_name": "Copart",
+    "company_url": "https://simplify.jobs/c/Copart",
+    "title": "Software Engineering Intern",
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106983",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1770766024,
+    "date_updated": 1770766024,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -4675,6 +4735,46 @@
     "sponsorship": "Other"
   },
   {
+    "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
+    "company_name": "Intel",
+    "company_url": "https://simplify.jobs/c/Intel",
+    "title": "Data Engineer Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783030661,
+    "date_updated": 1783031924,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "806bad6e-8c09-49ad-abad-04b898fa8ff4",
+    "company_name": "Intel",
+    "company_url": "https://simplify.jobs/c/Intel",
+    "title": "Silicon Performance Validation and Characterization Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1779919844,
+    "date_updated": 1779921542,
+    "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
     "id": "769cd552-cfd3-4f19-be8c-43ed9f454f5d",
     "company_name": "Interdigital",
     "company_url": "https://simplify.jobs/c/Interdigital",
@@ -5967,6 +6067,26 @@
     "date_posted": 1773269336,
     "date_updated": 1773269336,
     "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "f55b9a62-891c-491e-b541-edf1e930d143",
+    "company_name": "Micron Technology",
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "title": "Assembly Process Technician Intern - Yield Enhancement / Failure Analysis",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-Process-Technician--Yield-Enhancement---Failure-Analysis-_JR104101",
+    "locations": [
+      "Leander, TX"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783161315,
+    "date_updated": 1783168623,
+    "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
   {
@@ -8246,6 +8366,26 @@
     "sponsorship": "Does Not Offer Sponsorship"
   },
   {
+    "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
+    "company_name": "Regal Rexnord",
+    "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+    "title": "Application Engineering Co-Op",
+    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Summer-_R26_01164",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1776895676,
+    "date_updated": 1776896747,
+    "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
     "id": "6d922f2a-8b5e-4ae7-adb7-688c70b424a1",
     "company_name": "Remarcable",
     "company_url": "https://simplify.jobs/c/Remarcable",
@@ -9915,6 +10055,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
+    "company_name": "Tencent",
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "title": "Game Research & Development Intern - Engine Research",
+    "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1776982042,
+    "date_updated": 1776982844,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
     "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
     "company_name": "Tencent",
     "company_url": "https://simplify.jobs/c/Tencent",
@@ -10052,26 +10212,6 @@
     "date_posted": 1773181383,
     "date_updated": 1773181383,
     "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "231dffe9-ac41-405c-bea5-304cb8da7efc",
-    "company_name": "Tenstorrent",
-    "company_url": "https://simplify.jobs/c/Tenstorrent",
-    "title": "Chiplet Security Research Intern",
-    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762434507,
-    "date_updated": 1762434507,
-    "category": "Hardware",
     "sponsorship": "Other"
   },
   {
@@ -13304,6 +13444,26 @@
     "date_posted": 1778652706,
     "date_updated": 1778706031,
     "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
+    "company_name": "Verne Robotics",
+    "company_url": "https://simplify.jobs/c/Verne-Robotics",
+    "title": "Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783174066,
+    "date_updated": 1783174145,
+    "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
   {
