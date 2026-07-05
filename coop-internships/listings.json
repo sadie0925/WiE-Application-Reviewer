@@ -6881,27 +6881,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "765ee212-ae49-4415-83b1-c513541055d8",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Software Engineering Co-op - Information and Communication Technology",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "terms": [
-      "Fall 2026",
-      "Winter 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780005807,
-    "date_updated": 1781169563,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "ef28b998-9837-4977-b29f-394f8f217639",
     "company_name": "Nokia",
     "company_url": "https://simplify.jobs/c/Nokia",
@@ -13791,46 +13770,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "3233bc5d-9026-42f2-acc6-1cbf5cd4e5f2",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Embedded Software Engineer Intern",
-    "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780726498,
-    "date_updated": 1780726501,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "72e1792e-aad9-40a4-9464-641c1c28ccd1",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Enterprise Systems Software Engineer Intern",
-    "url": "https://www.zipline.com/careers?gh_jid=7767667003#open-roles",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781054356,
-    "date_updated": 1781054461,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "b47e22be-63c8-4907-bae9-8d159b87afa9",
     "company_name": "Zipline",
     "company_url": "https://simplify.jobs/c/Zipline",
@@ -13848,67 +13787,6 @@
     "date_posted": 1779833594,
     "date_updated": 1781256961,
     "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "36c3316e-beef-4d82-99dd-0b061669b32a",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Maps Intern",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782598076,
-    "date_updated": 1782598323,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "02b310b9-4510-4ae2-9b3f-54bcb3eaab3b",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Perception Intern",
-    "url": "https://www.zipline.com/careers?gh_jid=7761650003#open-roles",
-    "locations": [
-      "Dallas, TX",
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780449234,
-    "date_updated": 1780449301,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "ae07548a-a2c2-42c2-950d-889a02c663bc",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Software Engineer Intern",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7787509003",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782522464,
-    "date_updated": 1782522541,
-    "category": "Software",
     "sponsorship": "Other"
   },
   {
