@@ -9158,31 +9158,11 @@
     "sponsorship": "Other"
   },
   {
-    "id": "33c527f2-ac7d-48ff-8bda-4961e809a00b",
-    "company_name": "Sentra",
-    "company_url": "https://simplify.jobs/c/Sentra",
-    "title": "Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783116640,
-    "date_updated": 1783117418,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "a321ad73-583a-4203-bee3-a9fe75923346",
+    "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
     "company_name": "ServiceNow",
     "company_url": "https://simplify.jobs/c/ServiceNow",
-    "title": "Futures Summit Intern",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849",
+    "title": "Servicenow Futures Summit Intern",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129555059",
     "locations": [
       "West Palm Beach, FL"
     ],
@@ -9192,8 +9172,8 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1780437900,
-    "date_updated": 1780438274,
+    "date_posted": 1780351502,
+    "date_updated": 1780351827,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -13786,46 +13766,6 @@
     "date_posted": 1774649286,
     "date_updated": 1774649286,
     "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "83eafbc5-8c79-43e8-8d3d-b06bff9f0c93",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Computational Physics Intern",
-    "url": "https://www.zipline.com/careers?gh_jid=7766408003#open-roles",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780956931,
-    "date_updated": 1780960142,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "b47e22be-63c8-4907-bae9-8d159b87afa9",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Hardware Test Intern",
-    "url": "https://www.zipline.com/careers?gh_jid=7747248003#open-roles",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779833594,
-    "date_updated": 1781256961,
-    "category": "Hardware",
     "sponsorship": "Other"
   },
   {
