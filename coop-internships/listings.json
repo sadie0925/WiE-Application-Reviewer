@@ -1886,26 +1886,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "065e5761-d574-4c20-a590-6fd396d58e47",
-    "company_name": "Bosch Home Comfort",
-    "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
-    "title": "Business Intelligence Intern",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135497810",
-    "locations": [
-      "Belmont, MA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783001160,
-    "date_updated": 1783002781,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "3e31bf3f-b681-4efa-8ddd-f5586886d019",
     "company_name": "Bosch Home Comfort",
     "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
@@ -2444,6 +2424,48 @@
     "date_updated": 1765904594,
     "category": "Hardware Engineering",
     "sponsorship": "Offers Sponsorship"
+  },
+  {
+    "id": "fafb52bd-9836-425b-8b98-418d1bbf3712",
+    "company_name": "Capital One",
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "title": "Data Analyst Intern",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2027_R244317-1",
+    "locations": [
+      "McLean, VA",
+      "Richmond, VA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783346928,
+    "date_updated": 1783347664,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "fd6664b1-b682-4a0c-a15c-193d9a9c67c5",
+    "company_name": "Capital One",
+    "company_url": "https://simplify.jobs/c/Capital-One",
+    "title": "Product Development Intern",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1",
+    "locations": [
+      "Plano, TX",
+      "McLean, VA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783346926,
+    "date_updated": 1783348063,
+    "category": "Product",
+    "sponsorship": "Other"
   },
   {
     "id": "3eaa4047-09fb-406b-87b1-737ea7d163ae",
@@ -3473,26 +3495,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
-    "company_name": "Duke University",
-    "company_url": "https://simplify.jobs/c/Duke-University",
-    "title": "Administrative Intern - Sanford School of Public Policy",
-    "url": "https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors",
-    "locations": [
-      "Durham, NC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780437900,
-    "date_updated": 1780911538,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "d2e42b14-80d7-45a6-ab23-6aafffab74b5",
     "company_name": "EUNA Solutions",
     "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
@@ -4175,23 +4177,23 @@
     "sponsorship": "Other"
   },
   {
-    "id": "6198d30f-d48b-4179-b867-53db2b98abe5",
-    "company_name": "General Dynamics UK",
-    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-    "title": "Software Developer Co-op",
-    "url": "https://jobs.smartrecruiters.com/GDMSI/744000133125725",
+    "id": "e429452e-d5a5-4ee1-99ce-5248b3ce962d",
+    "company_name": "General Dynamics",
+    "company_url": "https://simplify.jobs/c/General-Dynamics",
+    "title": "Engineering Intern - Business Support",
+    "url": "https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false",
     "locations": [
-      "Halifax Regional Municipality, NS, Canada"
+      "Gadsden, AL"
     ],
     "terms": [
-      "Fall 2026"
+      "Summer 2026"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1781906721,
-    "date_updated": 1781907086,
-    "category": "Software",
+    "date_posted": 1783346953,
+    "date_updated": 1783348074,
+    "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
   {
@@ -5702,6 +5704,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
+    "company_name": "Magna",
+    "company_url": "https://simplify.jobs/c/Magna",
+    "title": "Systems Intern",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1781345571,
+    "date_updated": 1781648443,
+    "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
     "id": "068879a3-b42f-4394-adff-ac6eebc9038f",
     "company_name": "Magnet Forensics",
     "company_url": "https://simplify.jobs/c/Magnet-Forensics",
@@ -6885,26 +6907,6 @@
     "company_url": "https://simplify.jobs/c/Nokia",
     "title": "Software Designer Co-op/Intern",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34982",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777511345,
-    "date_updated": 1777511521,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "cdc18b7e-0c00-430b-9e72-ec96ba943281",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Software Designer Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34714",
     "locations": [
       "Ottawa, ON, Canada"
     ],
@@ -8467,26 +8469,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
-    "company_name": "Regal Rexnord",
-    "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
-    "title": "Lab Co-op",
-    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Lab-Co-Op--Fall-2026-_R26_02156",
-    "locations": [
-      "Vandalia, OH"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778019004,
-    "date_updated": 1778019841,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
     "id": "6d922f2a-8b5e-4ae7-adb7-688c70b424a1",
     "company_name": "Remarcable",
     "company_url": "https://simplify.jobs/c/Remarcable",
@@ -8563,46 +8545,6 @@
     "source": "simplify",
     "date_posted": 1780697360,
     "date_updated": 1780698556,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
-    "company_name": "Rise8",
-    "company_url": "https://simplify.jobs/c/Rise8",
-    "title": "Skillbridge Intern - Product Manager",
-    "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782771852,
-    "date_updated": 1783042220,
-    "category": "Product",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
-    "company_name": "Rise8",
-    "company_url": "https://simplify.jobs/c/Rise8",
-    "title": "Software Engineer Intern - Software Engineer",
-    "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782771852,
-    "date_updated": 1782868507,
     "category": "Software",
     "sponsorship": "Other"
   },
