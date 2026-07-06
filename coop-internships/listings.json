@@ -1512,26 +1512,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "64dfd400-2a8b-48e5-8a0a-0da0ac931046",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Database Analyst Co-op/Intern",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782957319,
-    "date_updated": 1782963207,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "d8d464b4-b131-453f-ae9a-2db23f02f687",
     "company_name": "Barclays",
     "company_url": "",
@@ -2426,26 +2406,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "5ed7f6fd-9a93-4c69-bc9f-6bd7b68e363a",
-    "company_name": "CIBC",
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "title": "Data Analyst Co-op - Global Asset Management - Bilingual",
-    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Data-Analyst-Co-op-Fall-2026---Global-Asset-Management---Bilingual_2613609",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782425175,
-    "date_updated": 1782425995,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "9ee25c43-14d2-48c6-9657-2f9919fc5cbe",
     "company_name": "Capella",
     "company_url": "",
@@ -2504,27 +2464,6 @@
     "source": "simplify",
     "date_posted": 1782963030,
     "date_updated": 1782966278,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "5422cc4b-e8cc-4455-8067-5eea2cebcf86",
-    "company_name": "Centific",
-    "company_url": "https://simplify.jobs/c/Centific",
-    "title": "Technical Intern",
-    "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR105488-1",
-    "locations": [
-      "Remote in USA",
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783040845,
-    "date_updated": 1783041121,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
@@ -2647,6 +2586,130 @@
     "date_posted": 1782223612,
     "date_updated": 1782295542,
     "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "48327e8c-a8f7-4339-83a4-019ef774f663",
+    "company_name": "Citadel",
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "title": "Quantitative Research Analyst Intern",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+    "locations": [
+      "Greenwich, CT",
+      "Miami, FL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783318145,
+    "date_updated": 1783318624,
+    "category": "Quant",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "28286b52-4c99-4d00-a870-d919c13d68c6",
+    "company_name": "Citadel",
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "title": "Software Engineer Intern",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "locations": [
+      "Greenwich, CT",
+      "Houston, TX",
+      "Miami, FL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783318141,
+    "date_updated": 1783318226,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "79ceb913-ca59-4a50-9fa9-18c378d86c3e",
+    "company_name": "Citadel",
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "title": "Trader: Fixed Income & Macro Intern",
+    "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
+    "locations": [
+      "Greenwich, CT",
+      "Miami, FL"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783318135,
+    "date_updated": 1783318674,
+    "category": "Quant",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
+    "company_name": "Citadel Securities",
+    "company_url": "https://simplify.jobs/c/Citadel-Securities",
+    "title": "Quantitative Research Analyst Intern",
+    "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
+    "locations": [
+      "Miami, FL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783328996,
+    "date_updated": 1783329420,
+    "category": "Quant",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
+    "company_name": "Citadel Securities",
+    "company_url": "https://simplify.jobs/c/Citadel-Securities",
+    "title": "Quantitative Trader Intern",
+    "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
+    "locations": [
+      "Miami, FL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783318267,
+    "date_updated": 1783318659,
+    "category": "Quant",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
+    "company_name": "Citadel Securities",
+    "company_url": "https://simplify.jobs/c/Citadel-Securities",
+    "title": "Software Engineer Intern",
+    "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+    "locations": [
+      "Miami, FL"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783318197,
+    "date_updated": 1783318523,
+    "category": "Software",
     "sponsorship": "Other"
   },
   {
@@ -9782,6 +9845,26 @@
     "source": "simplify",
     "date_posted": 1776981863,
     "date_updated": 1776982190,
+    "category": "Quant",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "5e40a228-3721-4f88-96d5-3f59b73be6c4",
+    "company_name": "Susquehanna International Group (SIG)",
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "title": "Quantitative Strategy Developer Intern",
+    "url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783317943,
+    "date_updated": 1783318209,
     "category": "Quant",
     "sponsorship": "Other"
   },
