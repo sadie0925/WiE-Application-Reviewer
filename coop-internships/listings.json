@@ -7502,28 +7502,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
-    "company_name": "Palantir",
-    "company_url": "https://simplify.jobs/c/Palantir",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "terms": [
-      "Winter 2027",
-      "Spring 2027",
-      "Summer 2027"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762540592,
-    "date_updated": 1767695073,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "da1074aa-7344-4ad3-9b53-078f1dbd2edc",
     "company_name": "Palantir",
     "company_url": "https://simplify.jobs/c/Palantir",
@@ -7608,6 +7586,28 @@
     "source": "simplify",
     "date_posted": 1782770695,
     "date_updated": 1782770793,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
+    "company_name": "Palantir",
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "title": "Software Engineer Intern - Defense Tech",
+    "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter 2028",
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1782770693,
+    "date_updated": 1782770802,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -9158,11 +9158,11 @@
     "sponsorship": "Other"
   },
   {
-    "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
+    "id": "a321ad73-583a-4203-bee3-a9fe75923346",
     "company_name": "ServiceNow",
     "company_url": "https://simplify.jobs/c/ServiceNow",
-    "title": "Servicenow Futures Summit Intern",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129555059",
+    "title": "Futures Summit Intern",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849",
     "locations": [
       "West Palm Beach, FL"
     ],
@@ -9172,8 +9172,8 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1780351502,
-    "date_updated": 1780351827,
+    "date_posted": 1780437900,
+    "date_updated": 1780438274,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -12587,8 +12587,8 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1762544593,
-    "date_updated": 1762544593,
+    "date_posted": 1781503941,
+    "date_updated": 1781504821,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
@@ -13093,6 +13093,46 @@
     "date_posted": 1782771121,
     "date_updated": 1782772021,
     "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
+    "company_name": "Tower Research Capital",
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "title": "Quantitative Developer Intern",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783290840,
+    "date_updated": 1783290961,
+    "category": "Quant",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "a619c6de-ef67-4039-af21-31cf505b8ee2",
+    "company_name": "Tower Research Capital",
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "title": "Quantitative Trader Intern",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783290840,
+    "date_updated": 1783290961,
+    "category": "Quant",
     "sponsorship": "Other"
   },
   {
