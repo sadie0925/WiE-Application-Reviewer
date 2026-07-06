@@ -1131,26 +1131,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "5c99289c-7083-430e-9511-14fa13015733",
-    "company_name": "Arine",
-    "company_url": "https://simplify.jobs/c/Arine",
-    "title": "Full Stack Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/arine/jobs/6026856004",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781302177,
-    "date_updated": 1781303479,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
     "company_name": "Arlington County VA",
     "company_url": "https://simplify.jobs/c/Arlington-County-VA",
@@ -1649,28 +1629,6 @@
     "source": "simplify",
     "date_posted": 1766444785,
     "date_updated": 1774954621,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "8356ebe6-d27a-4c5b-a609-a029ea5e55d1",
-    "company_name": "Berkshire Hathaway Energy",
-    "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-    "title": "Intern – Engineer Operations & Analytics",
-    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003877",
-    "locations": [
-      "Omaha, NE"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762618330,
-    "date_updated": 1762618330,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
@@ -4860,26 +4818,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
-    "company_name": "Intel",
-    "company_url": "https://simplify.jobs/c/Intel",
-    "title": "Data Engineer Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783030661,
-    "date_updated": 1783031924,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "806bad6e-8c09-49ad-abad-04b898fa8ff4",
     "company_name": "Intel",
     "company_url": "https://simplify.jobs/c/Intel",
@@ -6902,26 +6840,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "3dbbea9a-ca63-4fa8-945f-abc2639bae1e",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Software Designer Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34982",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777511345,
-    "date_updated": 1777511521,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "b6bad08e-5aba-42dd-9885-70896516ce8b",
     "company_name": "Nokia",
     "company_url": "https://simplify.jobs/c/Nokia",
@@ -6981,46 +6899,6 @@
     "source": "simplify",
     "date_posted": 1777068440,
     "date_updated": 1777068541,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "60ff2402-2f73-4588-8aff-0f7c78e9654d",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Web Developer Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34616",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777511345,
-    "date_updated": 1777511521,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "8362ad8d-1386-49b5-b768-0a87bbacd936",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Web Developer Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778537001,
-    "date_updated": 1778537543,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -8125,27 +8003,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "5a8f88cd-754a-4346-9ce0-61112aaec6f7",
-    "company_name": "Point C",
-    "company_url": "https://simplify.jobs/c/Point-C",
-    "title": "Data Science AI Intern",
-    "url": "https://job-boards.greenhouse.io/pointc/jobs/5236086008",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782425363,
-    "date_updated": 1782425701,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
     "company_name": "Point72",
     "company_url": "https://simplify.jobs/c/Point72",
@@ -8545,6 +8402,46 @@
     "source": "simplify",
     "date_posted": 1780697360,
     "date_updated": 1780698556,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
+    "company_name": "Rise8",
+    "company_url": "https://simplify.jobs/c/Rise8",
+    "title": "Skillbridge Intern - Product Manager",
+    "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1782771852,
+    "date_updated": 1783042220,
+    "category": "Product",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
+    "company_name": "Rise8",
+    "company_url": "https://simplify.jobs/c/Rise8",
+    "title": "Software Engineer Intern - Software Engineer",
+    "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1782771852,
+    "date_updated": 1782868507,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -13772,26 +13669,6 @@
     "date_updated": 1765387587,
     "category": "Software Engineering",
     "sponsorship": "Does Not Offer Sponsorship"
-  },
-  {
-    "id": "9e6f6814-6fd9-427b-84d5-0c0b1944a4a0",
-    "company_name": "WindBorne Systems",
-    "company_url": "https://simplify.jobs/c/WindBorne-Systems",
-    "title": "Firmware Intern",
-    "url": "https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application",
-    "locations": [
-      "San Carlos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1775005751,
-    "date_updated": 1775005741,
-    "category": "Hardware",
-    "sponsorship": "Other"
   },
   {
     "id": "b1e7848c-2bcb-4141-8a17-fde660e87b84",
