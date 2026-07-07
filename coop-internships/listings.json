@@ -265,26 +265,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "cd37a9ed-984b-4df9-9072-bbe48e1dc9e3",
-    "company_name": "ATCO",
-    "company_url": "https://simplify.jobs/c/ATCO",
-    "title": "Customer Connections Co-op",
-    "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20129",
-    "locations": [
-      "Edmonton, AB, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779228432,
-    "date_updated": 1779831905,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "72a990c3-d541-41db-9b3c-7ca3dc7bb197",
     "company_name": "ATCO",
     "company_url": "https://simplify.jobs/c/ATCO",
@@ -1449,26 +1429,6 @@
     "date_updated": 1765902540,
     "category": "Software Engineering",
     "sponsorship": "U.S. Citizenship is Required"
-  },
-  {
-    "id": "442e3d06-4417-4303-bd31-cbbef3634a88",
-    "company_name": "BP",
-    "company_url": "https://simplify.jobs/c/BP",
-    "title": "Finance & Risk Intern - Supply - Trading",
-    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ112383",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781639270,
-    "date_updated": 1781647486,
-    "category": "Quant",
-    "sponsorship": "Other"
   },
   {
     "id": "3b42c248-89b6-4e59-94bc-3d92930dbd27",
@@ -5281,6 +5241,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "90f0f122-3e2a-49f2-a6c8-688ce3720044",
+    "company_name": "Kimley-Horn",
+    "company_url": "https://simplify.jobs/c/Kimley-Horn",
+    "title": "GIS Intern",
+    "url": "https://careers-kimley-horn.icims.com/jobs/24873/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Fort Worth, TX"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783433154,
+    "date_updated": 1783435141,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
     "id": "e7dc0189-14fe-4910-a64f-2eabfc192e2f",
     "company_name": "Kinaxis",
     "company_url": "https://simplify.jobs/c/Kinaxis",
@@ -6755,26 +6735,6 @@
     "source": "simplify",
     "date_posted": 1779267689,
     "date_updated": 1779267781,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "251e416d-565e-4d4a-a3e3-5ec833d1751f",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "DSP Firmware Engineering Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1775686101,
-    "date_updated": 1775688849,
     "category": "Hardware",
     "sponsorship": "Other"
   },
@@ -13155,6 +13115,26 @@
     "source": "simplify",
     "date_posted": 1763162595,
     "date_updated": 1763162595,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
+    "company_name": "Trane Technologies",
+    "company_url": "https://simplify.jobs/c/Trane-Technologies",
+    "title": "Collections Data Analyst Intern",
+    "url": "https://careers.tranetechnologies.com/global/en/job/JR-4222",
+    "locations": [
+      "Winona, MN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1778278090,
+    "date_updated": 1778279025,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
