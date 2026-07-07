@@ -1,26 +1,5 @@
 [
   {
-    "id": "b329a355-37a2-4a60-8ff5-bc9b42bf00c0",
-    "company_name": "1Password",
-    "company_url": "https://simplify.jobs/c/1Password",
-    "title": "Developer Intern - Service Development",
-    "url": "https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application",
-    "locations": [
-      "Remote in USA",
-      "Remote in Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781820605,
-    "date_updated": 1781821621,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "4474324d-fc29-44ab-ac6b-ad29c0babae6",
     "company_name": "1Password",
     "company_url": "https://simplify.jobs/c/1Password",
@@ -3188,26 +3167,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
-    "company_name": "Copart",
-    "company_url": "https://simplify.jobs/c/Copart",
-    "title": "Software Engineer Intern",
-    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101987",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778941026,
-    "date_updated": 1782275728,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
     "company_name": "Copart",
     "company_url": "https://simplify.jobs/c/Copart",
@@ -4614,6 +4573,108 @@
     "date_posted": 1778537308,
     "date_updated": 1778538523,
     "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "a0948c1a-8ffa-4ed1-bee6-a7d2d6e0ebd1",
+    "company_name": "Hitachi",
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "title": "ALM Scripting & Reporting Intern",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/ALM-Scripting---Reporting-Intern_R1012816-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783404638,
+    "date_updated": 1783405441,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "3c775d29-c599-4fd1-828e-591304e4cdd0",
+    "company_name": "Hitachi",
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "title": "Software Analyst Intern",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--12months-_R1012380-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783404634,
+    "date_updated": 1783405622,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "3274d779-e985-4d1a-a236-73e8fe32e66e",
+    "company_name": "Hitachi",
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "title": "Software Analyst Intern",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783404655,
+    "date_updated": 1783405622,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "bec6ff98-96c4-4532-8ffa-4bb1365c60c5",
+    "company_name": "Hitachi",
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "title": "Software Analyst Intern",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012739-1",
+    "locations": [
+      "Scarborough, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783404633,
+    "date_updated": 1783405441,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "a86f5630-f0c3-4242-8953-47503546c39f",
+    "company_name": "Hitachi",
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "title": "Software Analyst Intern",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783404633,
+    "date_updated": 1783405081,
+    "category": "Software",
     "sponsorship": "Other"
   },
   {
