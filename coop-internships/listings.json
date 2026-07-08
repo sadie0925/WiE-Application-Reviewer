@@ -3994,26 +3994,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
-    "company_name": "FHLBank Topeka",
-    "company_url": "https://simplify.jobs/c/FHLBank-Topeka",
-    "title": "Financial Analyst Intern",
-    "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
-    "locations": [
-      "Topeka, KS"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779527840,
-    "date_updated": 1779876357,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "9609650c-e6a6-42c1-87ab-3b9293ce3259",
     "company_name": "Fanatics",
     "company_url": "https://simplify.jobs/c/Fanatics",
@@ -5155,26 +5135,6 @@
     "date_posted": 1775225283,
     "date_updated": 1775226421,
     "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "821df725-8277-4656-845f-df116ea22cc6",
-    "company_name": "Intermountain Healthcare",
-    "company_url": "https://simplify.jobs/c/Intermountain-Health",
-    "title": "Investment Analyst Intern",
-    "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Investment-Analyst-Intern_R174949",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782956352,
-    "date_updated": 1782961023,
-    "category": "Quant",
     "sponsorship": "Other"
   },
   {
@@ -6656,6 +6616,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "49ac286b-0d2a-44df-b39a-c6540778f26a",
+    "company_name": "NVIDIA",
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "title": "Performance Engineer Intern - Systems Software",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783375946,
+    "date_updated": 1783503120,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
     "id": "335d47b1-5a15-4ba4-8d65-94a8b563ff34",
     "company_name": "NXP Semiconductors",
     "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
@@ -7980,6 +7960,26 @@
     "date_posted": 1776204516,
     "date_updated": 1776242398,
     "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "df9cfb0a-2665-4639-bfb4-b6b6872f0f82",
+    "company_name": "Pennsylvania State University",
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "title": "Research and Development Engineer Intern",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000063995-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780740376,
+    "date_updated": 1781258825,
+    "category": "Hardware",
     "sponsorship": "Other"
   },
   {
