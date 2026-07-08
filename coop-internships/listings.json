@@ -1840,29 +1840,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "746e1c61-ef5b-46fd-8384-970dce81b9e3",
-    "company_name": "BorgWarner",
-    "company_url": "https://simplify.jobs/c/BorgWarner",
-    "title": "Software Engineer Intern",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1",
-    "locations": [
-      "Auburn Hills, MI"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782511531,
-    "date_updated": 1782512006,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
     "id": "eb6abc1f-b44d-436b-a6ab-6ab6af1e18c6",
     "company_name": "Bosch Home Comfort",
     "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
@@ -1999,26 +1976,6 @@
     "source": "simplify",
     "date_posted": 1779372529,
     "date_updated": 1779372946,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "5a68ce5f-816a-422c-99ab-76aaed1f7303",
-    "company_name": "Bugcrowd",
-    "company_url": "https://simplify.jobs/c/Bugcrowd",
-    "title": "Engineering Intern",
-    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8016582",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781820420,
-    "date_updated": 1781820903,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -2404,26 +2361,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "92e89d05-7057-4f32-bcb4-571771bb67ae",
-    "company_name": "CSL",
-    "company_url": "https://simplify.jobs/c/CSL",
-    "title": "AI Technology Product Co-op",
-    "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/AI-Technology-Product-Co-op_R-277204",
-    "locations": [
-      "King of Prussia, PA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783376098,
-    "date_updated": 1783376641,
-    "category": "Product",
-    "sponsorship": "Other"
-  },
-  {
     "id": "50289bb2-c07c-4ad3-b05f-27e264769e70",
     "company_name": "CSL",
     "company_url": "https://simplify.jobs/c/CSL",
@@ -2444,26 +2381,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "bf2fded8-39e1-4742-bce3-d79e0d3c0674",
-    "company_name": "CSL",
-    "company_url": "https://simplify.jobs/c/CSL",
-    "title": "Data Science / Analytics Co-op",
-    "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Co-Op-Data-Science---Analytics--Interim-6-Months-_R-278061",
-    "locations": [
-      "King of Prussia, PA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783376098,
-    "date_updated": 1783377253,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "513e722c-3aff-4a90-b1d8-29f0c9675acf",
     "company_name": "CSL",
     "company_url": "https://simplify.jobs/c/CSL",
@@ -2480,26 +2397,6 @@
     "source": "simplify",
     "date_posted": 1783376098,
     "date_updated": 1783377252,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "e7812b17-fad6-4024-b51f-b3a6e1fb1ceb",
-    "company_name": "CSL",
-    "company_url": "https://simplify.jobs/c/CSL",
-    "title": "Data Science/Analytics Co-op",
-    "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Co-Op-Data-Science-Analytics_R-279483",
-    "locations": [
-      "King of Prussia, PA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783376097,
-    "date_updated": 1783378237,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
@@ -4636,26 +4533,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "a0948c1a-8ffa-4ed1-bee6-a7d2d6e0ebd1",
-    "company_name": "Hitachi",
-    "company_url": "https://simplify.jobs/c/Hitachi",
-    "title": "ALM Scripting & Reporting Intern",
-    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/ALM-Scripting---Reporting-Intern_R1012816-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783404638,
-    "date_updated": 1783405441,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "3c775d29-c599-4fd1-828e-591304e4cdd0",
     "company_name": "Hitachi",
     "company_url": "https://simplify.jobs/c/Hitachi",
@@ -4694,26 +4571,6 @@
     "source": "simplify",
     "date_posted": 1783404655,
     "date_updated": 1783405622,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "bec6ff98-96c4-4532-8ffa-4bb1365c60c5",
-    "company_name": "Hitachi",
-    "company_url": "https://simplify.jobs/c/Hitachi",
-    "title": "Software Analyst Intern",
-    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012739-1",
-    "locations": [
-      "Scarborough, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783404633,
-    "date_updated": 1783405441,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -5377,26 +5234,6 @@
     "date_posted": 1781301985,
     "date_updated": 1781303037,
     "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "90f0f122-3e2a-49f2-a6c8-688ce3720044",
-    "company_name": "Kimley-Horn",
-    "company_url": "https://simplify.jobs/c/Kimley-Horn",
-    "title": "GIS Intern",
-    "url": "https://careers-kimley-horn.icims.com/jobs/24873/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783433154,
-    "date_updated": 1783435141,
-    "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
   {
@@ -6898,26 +6735,6 @@
     "sponsorship": "Does Not Offer Sponsorship"
   },
   {
-    "id": "3a98b62d-7278-49e8-b012-9c22e133db65",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "ASIC Verification Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779267689,
-    "date_updated": 1779267781,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
     "id": "c8594304-a742-434c-82a0-46f0a41e9f03",
     "company_name": "Nokia",
     "company_url": "https://simplify.jobs/c/Nokia",
@@ -7143,6 +6960,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "8085b0fb-3683-4307-b90e-062ef95c0389",
+    "company_name": "Northrop Grumman",
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "title": "Software Engineer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783519989,
+    "date_updated": 1783521174,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
     "id": "363bf983-6b24-4bf3-abba-83242e26fd12",
     "company_name": "Northwestern Mutual",
     "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
@@ -7219,6 +7056,26 @@
     "source": "simplify",
     "date_posted": 1782339764,
     "date_updated": 1782339841,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "464d3bee-1f3b-477c-ac68-50ee629f3a9d",
+    "company_name": "OLG",
+    "company_url": "https://simplify.jobs/c/OLG",
+    "title": "Data Scientist Co-op",
+    "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Student_R26_00479",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783519649,
+    "date_updated": 1783520597,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
@@ -8706,26 +8563,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
-    "company_name": "Rise8",
-    "company_url": "https://simplify.jobs/c/Rise8",
-    "title": "Software Engineer Intern - Software Engineer",
-    "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782771852,
-    "date_updated": 1782868507,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
     "company_name": "Rivian",
     "company_url": "https://simplify.jobs/c/Rivian",
@@ -9374,29 +9211,6 @@
     "source": "simplify",
     "date_posted": 1782770970,
     "date_updated": 1782772021,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "c397c573-0849-4481-968f-9dd2b5b1ab87",
-    "company_name": "Schweitzer Engineering Laboratories",
-    "company_url": "https://simplify.jobs/c/SEL",
-    "title": "Software Engineering Intern",
-    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720",
-    "locations": [
-      "Round Rock, TX"
-    ],
-    "terms": [
-      "Fall 2026",
-      "Winter 2027",
-      "Spring 2027",
-      "Summer 2027"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783462685,
-    "date_updated": 1783463870,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -13806,28 +13620,6 @@
     "source": "simplify",
     "date_posted": 1781042525,
     "date_updated": 1781042785,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "49770307-3bc7-4198-b335-47ffbddda332",
-    "company_name": "Vertex Pharmaceuticals",
-    "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
-    "title": "Lab Systems Engineering Co-op",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--Lab-Systems-Engineering_REQ-28223-1",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Summer 2026",
-      "Fall 2026",
-      "Winter 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1772753131,
-    "date_updated": 1772753131,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
