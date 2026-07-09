@@ -368,26 +368,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "c0236e7f-aeeb-463e-a68a-152612780877",
-    "company_name": "Achievers",
-    "company_url": "https://simplify.jobs/c/Achievers",
-    "title": "Software Engineering Co-op",
-    "url": "https://jobs.lever.co/achievers/6a348eef-0078-4d6a-bc90-f2d7077d2987/apply",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779239204,
-    "date_updated": 1779239579,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "f59e5b11-d1a0-4afa-ac2f-9c1e54ef6179",
     "company_name": "Ada",
     "company_url": "https://simplify.jobs/c/Ada",
@@ -2337,6 +2317,26 @@
     "source": "simplify",
     "date_posted": 1769566339,
     "date_updated": 1769566339,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "1bfc9357-5590-4abc-b602-691403283106",
+    "company_name": "CACI",
+    "company_url": "https://simplify.jobs/c/CACI",
+    "title": "Software Engineer Intern",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783555200,
+    "date_updated": 1783606233,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -5735,26 +5735,6 @@
     "sponsorship": "Offers Sponsorship"
   },
   {
-    "id": "00bb6bac-77e5-4bdc-8de2-5007d1937338",
-    "company_name": "Loblaw Companies",
-    "company_url": "https://simplify.jobs/c/Loblaw-Companies",
-    "title": "AI Engineering Co-op",
-    "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/AI-Engineering---Co-op-Student_R2000681500",
-    "locations": [
-      "Brampton, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783549118,
-    "date_updated": 1783550926,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "d85decfc-b921-457f-ab28-666ca0739529",
     "company_name": "Lucid Motors",
     "company_url": "https://simplify.jobs/c/Lucid-Motors",
@@ -6101,26 +6081,6 @@
     "date_posted": 1771672050,
     "date_updated": 1771672050,
     "category": "Product",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "0f6e6212-087f-40cf-afdb-cc7cb7fe0596",
-    "company_name": "Marvell",
-    "company_url": "",
-    "title": "Computer Science/Data Science Intern - Bachelor's Degree",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762875719,
-    "date_updated": 1762875719,
-    "category": "Data Science, AI & Machine Learning",
     "sponsorship": "Other"
   },
   {
@@ -7078,26 +7038,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "ccebacf3-3a78-4dc6-8622-681d550955d1",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Hardware Engineer Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34232",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777511343,
-    "date_updated": 1777511685,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
     "id": "a457e9a6-68a7-469b-8187-7b5ce3c3ccc6",
     "company_name": "Nokia",
     "company_url": "https://simplify.jobs/c/Nokia",
@@ -7627,27 +7567,6 @@
     "date_posted": 1783416111,
     "date_updated": 1783418247,
     "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "79204fa0-81f5-4295-96d3-0a63bb614715",
-    "company_name": "Outmarket AI",
-    "company_url": "https://simplify.jobs/c/Outmarket-AI",
-    "title": "AI Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application",
-    "locations": [
-      "Remote in India",
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782511718,
-    "date_updated": 1782512101,
-    "category": "Software",
     "sponsorship": "Other"
   },
   {
@@ -13739,6 +13658,27 @@
     "date_posted": 1781638808,
     "date_updated": 1781643062,
     "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "51146492-0c25-4e83-b0f2-9bd98505db21",
+    "company_name": "Uber Freight",
+    "company_url": "https://simplify.jobs/c/Uber-Freight",
+    "title": "Data Scientist Intern",
+    "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5194491008",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783607776,
+    "date_updated": 1783608151,
+    "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
   {
