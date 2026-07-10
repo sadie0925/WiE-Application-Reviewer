@@ -885,6 +885,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "242592f3-d34b-4408-83fc-12609e3b71f9",
+    "company_name": "Amgen",
+    "company_url": "https://simplify.jobs/c/Amgen",
+    "title": "Software Engineer Co-op - Multiple Teams",
+    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783462574,
+    "date_updated": 1783463658,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
     "id": "96edf10e-0444-407a-bdcd-f798aedcb75d",
     "company_name": "Amwins",
     "company_url": "https://simplify.jobs/c/61149ad1-851f-4dac-8f8f-4fba1d81babd",
@@ -2360,6 +2380,27 @@
     "sponsorship": "Other"
   },
   {
+    "id": "513d3867-26bc-4203-8cd2-ade981572975",
+    "company_name": "CHEP",
+    "company_url": "https://simplify.jobs/c/060f3244-8261-437d-837f-2f8bce40f7a4",
+    "title": "FP&A Business Intelligence Intern",
+    "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+    "locations": [
+      "Orlando, FL",
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780668331,
+    "date_updated": 1780668632,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
     "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
     "company_name": "Cadence Design Systems",
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
@@ -2646,46 +2687,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
-    "company_name": "Citadel Securities",
-    "company_url": "https://simplify.jobs/c/Citadel-Securities",
-    "title": "Quantitative Research Analyst Intern",
-    "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
-    "locations": [
-      "Miami, FL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783328996,
-    "date_updated": 1783329420,
-    "category": "Quant",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
-    "company_name": "Citadel Securities",
-    "company_url": "https://simplify.jobs/c/Citadel-Securities",
-    "title": "Quantitative Trader Intern",
-    "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
-    "locations": [
-      "Miami, FL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783318267,
-    "date_updated": 1783318659,
-    "category": "Quant",
-    "sponsorship": "Other"
-  },
-  {
     "id": "c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
     "company_name": "Citadel Securities",
     "company_url": "https://simplify.jobs/c/Citadel-Securities",
@@ -2748,6 +2749,30 @@
     "source": "simplify",
     "date_posted": 1780380700,
     "date_updated": 1780380817,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
+    "company_name": "Clio",
+    "company_url": "https://simplify.jobs/c/Clio",
+    "title": "Software Developer Co-op",
+    "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Calgary, AB, Canada",
+      "Vancouver, BC, Canada"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Winter 2026",
+      "Spring 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1781639242,
+    "date_updated": 1782206629,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -3758,26 +3783,6 @@
     "source": "simplify",
     "date_posted": 1781082360,
     "date_updated": 1781082848,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
-    "company_name": "FHLBank Topeka",
-    "company_url": "https://simplify.jobs/c/FHLBank-Topeka",
-    "title": "Financial Analyst Intern",
-    "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
-    "locations": [
-      "Topeka, KS"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779527840,
-    "date_updated": 1779876357,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
@@ -5668,6 +5673,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "5baf8620-6e7e-443a-bab5-755a61362095",
+    "company_name": "Magna",
+    "company_url": "https://simplify.jobs/c/Magna",
+    "title": "Infrared Imaging & Algorithms Intern",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602",
+    "locations": [
+      "Goleta, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1781647859,
+    "date_updated": 1781703880,
+    "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
     "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
     "company_name": "Magna",
     "company_url": "https://simplify.jobs/c/Magna",
@@ -6848,27 +6873,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "a457e9a6-68a7-469b-8187-7b5ce3c3ccc6",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Hardware Engineering Co-op",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36271",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Fall 2026",
-      "Winter 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779267690,
-    "date_updated": 1779267860,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
     "id": "aef8e1d7-1422-403a-ba01-d5800f15dfcf",
     "company_name": "Nokia",
     "company_url": "https://simplify.jobs/c/Nokia",
@@ -6907,27 +6911,6 @@
     "source": "simplify",
     "date_posted": 1779314596,
     "date_updated": 1779314934,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "fe347c80-23fe-4197-a774-4f3fe8bb2780",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Software Development Co-op",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36934",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Fall 2026",
-      "Winter 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780351420,
-    "date_updated": 1780351721,
     "category": "Hardware",
     "sponsorship": "Other"
   },
@@ -7068,6 +7051,30 @@
     "source": "simplify",
     "date_posted": 1783519649,
     "date_updated": 1783520597,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "387d5861-f87f-4086-b76b-88018de85a3f",
+    "company_name": "Occidental Petroleum",
+    "company_url": "https://simplify.jobs/c/Occidental-Petroleum",
+    "title": "Intern/Co-op Data - Well Servicing & Engineering",
+    "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413",
+    "locations": [
+      "Midland, TX",
+      "Houston, TX",
+      "Fort Lupton, CO",
+      "Morton, TX",
+      "Denver, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1772681873,
+    "date_updated": 1772681873,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
@@ -7352,26 +7359,6 @@
     "source": "simplify",
     "date_posted": 1782858537,
     "date_updated": 1782858781,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "e7eed9ab-a801-4a42-9b5c-8ed27ef3795d",
-    "company_name": "Paccar",
-    "company_url": "https://simplify.jobs/c/Paccar",
-    "title": "Facilities MRO Information Systems Intern",
-    "url": "https://jobs.paccar.com/job/Columbus-Facilities-MRO-Information-Systems-Fall-2026-Intern-MS-39701/1285884201/?ats=successfactors",
-    "locations": [
-      "Columbus, MS"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778911537,
-    "date_updated": 1778911670,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
@@ -7763,6 +7750,26 @@
     "source": "simplify",
     "date_posted": 1772579002,
     "date_updated": 1772579002,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
+    "company_name": "Pennsylvania State University",
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1776204516,
+    "date_updated": 1776242398,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -9184,26 +9191,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "534e330d-1ccf-4d74-b28e-3c9a73a7a005",
-    "company_name": "Sentara Health",
-    "company_url": "https://simplify.jobs/c/Sentara-Health",
-    "title": "AI Intern",
-    "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Intern--AI_JR-102248",
-    "locations": [
-      "Virginia Beach, VA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783519975,
-    "date_updated": 1783600312,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "a321ad73-583a-4203-bee3-a9fe75923346",
     "company_name": "ServiceNow",
     "company_url": "https://simplify.jobs/c/ServiceNow",
@@ -10255,26 +10242,6 @@
     "source": "simplify",
     "date_posted": 1766370010,
     "date_updated": 1766370010,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "f083247a-cf19-43ae-8834-7db704881503",
-    "company_name": "Tencent",
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "title": "Multimedia Development Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780535299,
-    "date_updated": 1780535476,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
