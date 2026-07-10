@@ -201,6 +201,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "e52310c1-4967-4939-a114-b918546141cf",
+    "company_name": "ALFA LAVAL",
+    "company_url": "https://simplify.jobs/c/ALFA-LAVAL",
+    "title": "Database Analyst Intern",
+    "url": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Warminster-PA/Database-Analyst-Intern_JR0046726",
+    "locations": [
+      "Horsham, PA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783692362,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
     "id": "cae7ba56-b661-44a0-ad83-07cbc36b4ca4",
     "company_name": "AMAROK Security",
     "company_url": "https://simplify.jobs/c/AMAROK",
@@ -4027,46 +4047,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "05aaf802-075e-467c-8e96-02dc1f9a1cd0",
-    "company_name": "Generac",
-    "company_url": "https://simplify.jobs/c/Generac",
-    "title": "Manufacturing Test Engineer Intern",
-    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern--Manufacturing-Test-Engineering_JR15204",
-    "locations": [
-      "Reno, NV"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782857090,
-    "date_updated": 1782858369,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "e429452e-d5a5-4ee1-99ce-5248b3ce962d",
-    "company_name": "General Dynamics",
-    "company_url": "https://simplify.jobs/c/General-Dynamics",
-    "title": "Engineering Intern - Business Support",
-    "url": "https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Gadsden, AL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783346953,
-    "date_updated": 1783348074,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "a34fd6fd-c9fc-43d2-bff0-d75f752bbed7",
     "company_name": "Ginkgo Bioworks",
     "company_url": "https://simplify.jobs/c/Ginkgo-Bioworks",
@@ -4611,26 +4591,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "252e949a-a495-490e-882c-b0c301195d36",
-    "company_name": "ITT",
-    "company_url": "https://simplify.jobs/c/ITT",
-    "title": "Supply Chain Data Analyst Co-op",
-    "url": "https://careersenus-itt-inc.icims.com/jobs/15908/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Seneca Falls, NY"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783548252,
-    "date_updated": 1783548363,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "8d3b136a-e903-480d-b1ff-ac54f742b8b7",
     "company_name": "Impulse Space",
     "company_url": "https://simplify.jobs/c/Impulse-Space",
@@ -4788,46 +4748,6 @@
     "date_posted": 1783029880,
     "date_updated": 1783029961,
     "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
-    "company_name": "Intel",
-    "company_url": "https://simplify.jobs/c/Intel",
-    "title": "Data Engineer Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783030661,
-    "date_updated": 1783031924,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "806bad6e-8c09-49ad-abad-04b898fa8ff4",
-    "company_name": "Intel",
-    "company_url": "https://simplify.jobs/c/Intel",
-    "title": "Silicon Performance Validation and Characterization Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779919844,
-    "date_updated": 1779921542,
-    "category": "Hardware",
     "sponsorship": "Other"
   },
   {
@@ -5591,26 +5511,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "9c51b9b0-e4da-4393-8990-143f4c42b142",
-    "company_name": "Lyft",
-    "company_url": "",
-    "title": "Data Analyst Intern",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762971491,
-    "date_updated": 1762971728,
-    "category": "Data Science, AI & Machine Learning",
-    "sponsorship": "Does Not Offer Sponsorship"
-  },
-  {
     "id": "5428a3c8-3c8c-496a-87c2-2afbd536b54f",
     "company_name": "MCG Health",
     "company_url": "",
@@ -5938,26 +5838,6 @@
     "date_updated": 1781707869,
     "category": "Hardware",
     "sponsorship": "Other"
-  },
-  {
-    "id": "2371d956-f37b-4de2-af10-47e306aa3230",
-    "company_name": "Marvell",
-    "company_url": "",
-    "title": "Firmware Engineer Intern - Bachelor's Degree",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1762960795,
-    "date_updated": 1762960795,
-    "category": "Hardware Engineering",
-    "sponsorship": "Does Not Offer Sponsorship"
   },
   {
     "id": "da228603-aa5d-4d28-94e6-89b4d8db92e7",
@@ -6890,28 +6770,6 @@
     "date_posted": 1777511343,
     "date_updated": 1781170454,
     "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "b6bad08e-5aba-42dd-9885-70896516ce8b",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Software Development Co-op",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36548",
-    "locations": [
-      "Naperville, IL",
-      "Dallas, TX"
-    ],
-    "terms": [
-      "Fall 2026",
-      "Winter 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779314596,
-    "date_updated": 1779314934,
-    "category": "Hardware",
     "sponsorship": "Other"
   },
   {
