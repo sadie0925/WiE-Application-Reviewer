@@ -1270,6 +1270,46 @@
     "sponsorship": "Other"
   },
   {
+    "id": "cee814d5-6814-4bea-b567-0b0b7460e127",
+    "company_name": "Arrowstreet Capital",
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "title": "Quantitative Developer Intern",
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783722242,
+    "category": "Quant",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "6db9e02b-faca-4e0e-ac29-f4fb8c87be71",
+    "company_name": "Arrowstreet Capital",
+    "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+    "title": "Quantitative Researcher Intern",
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783722242,
+    "category": "Quant",
+    "sponsorship": "Other"
+  },
+  {
     "id": "2bf9596e-6416-4fef-8c6d-48ac964d59fa",
     "company_name": "Astera",
     "company_url": "https://simplify.jobs/c/Astera",
@@ -1611,26 +1651,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "425f9072-8894-4abe-aff3-1bf6ccd9c848",
-    "company_name": "Base Power",
-    "company_url": "https://simplify.jobs/c/Base-Power",
-    "title": "Hardware Reliability & Test Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780697371,
-    "date_updated": 1780698592,
-    "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
     "id": "7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
     "company_name": "Base Power",
     "company_url": "https://simplify.jobs/c/Base-Power",
@@ -1732,26 +1752,6 @@
     "source": "simplify",
     "date_posted": 1781734240,
     "date_updated": 1781735941,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "d084a76f-d982-4334-b23c-16232dd2c71a",
-    "company_name": "BillionToOne",
-    "company_url": "https://simplify.jobs/c/BillionToOne",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4702398005",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780524510,
-    "date_updated": 1780525439,
     "category": "Software",
     "sponsorship": "Other"
   },
@@ -3807,6 +3807,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "c0a71d19-4941-44c1-9408-7c39f29dfb85",
+    "company_name": "Exowatt",
+    "company_url": "https://simplify.jobs/c/Exowatt",
+    "title": "Software Engineer Intern - Agent Platform - AI",
+    "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783721242,
+    "date_updated": 1783721957,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
     "id": "9609650c-e6a6-42c1-87ab-3b9293ce3259",
     "company_name": "Fanatics",
     "company_url": "https://simplify.jobs/c/Fanatics",
@@ -4024,6 +4044,26 @@
     "date_posted": 1779286403,
     "date_updated": 1779869305,
     "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
+    "company_name": "GE Appliances",
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "title": "Software Engineering Co-op Spring 2027",
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "terms": [
+      "Spring 2027"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1769182182,
+    "date_updated": 1769182182,
+    "category": "Software",
     "sponsorship": "Other"
   },
   {
@@ -5408,6 +5448,26 @@
     "date_posted": 1776377042,
     "date_updated": 1776377161,
     "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
+    "company_name": "LexisNexis Risk Solutions",
+    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+    "title": "Editorial Data Reporting Intern",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783722508,
+    "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
   {
@@ -7590,6 +7650,28 @@
     "sponsorship": "Other"
   },
   {
+    "id": "d02d254a-90f8-42a3-a7d2-178982f54fc7",
+    "company_name": "Parsons",
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "title": "AI & Digital Innovation Engineer Intern",
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/CA---ON-Toronto/AI---Digital-Innovation-Engineering-Intern_R180895",
+    "locations": [
+      "Toronto, ON, Canada",
+      "Markham, ON, Canada",
+      "Oakville, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783722758,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other"
+  },
+  {
     "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "company_name": "PennState University",
     "company_url": "https://simplify.jobs/c/Penn-State",
@@ -7649,26 +7731,6 @@
     "date_posted": 1779833355,
     "date_updated": 1781641802,
     "category": "Hardware",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "733294db-8186-4a47-b274-92585cfb0b66",
-    "company_name": "Pika",
-    "company_url": "https://simplify.jobs/c/Pika",
-    "title": "Research Intern",
-    "url": "https://jobs.ashbyhq.com/pika/6c9ba89d-91f3-4cf1-a318-70783773323a/application",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782954578,
-    "date_updated": 1782954721,
-    "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
   {
@@ -8332,26 +8394,6 @@
     "date_posted": 1780697360,
     "date_updated": 1780698556,
     "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
-    "company_name": "Rise8",
-    "company_url": "https://simplify.jobs/c/Rise8",
-    "title": "Skillbridge Intern - Product Manager",
-    "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782771852,
-    "date_updated": 1783042220,
-    "category": "Product",
     "sponsorship": "Other"
   },
   {
@@ -12180,26 +12222,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "022f3758-1e00-41a6-bf19-b759c3041f18",
-    "company_name": "TikTok",
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "title": "Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer",
-    "url": "https://lifeattiktok.com/search/7592001144580262197",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1768955761,
-    "date_updated": 1768955761,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -13393,26 +13415,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "2bdc2d18-cdab-4fad-86d4-859502c8c4b5",
-    "company_name": "Vertex Pharmaceuticals",
-    "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
-    "title": "AI and Governance Co-op - AI and Governance",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--AI-and-Governance_REQ-28615-1",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781042525,
-    "date_updated": 1781042785,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
     "id": "3b16aba4-17cf-4636-b0fa-03bc53122db2",
     "company_name": "VetsEZ",
     "company_url": "",
@@ -13652,6 +13654,46 @@
     "date_posted": 1777961452,
     "date_updated": 1777961656,
     "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "d37c57dd-2a33-4fb5-a1f5-71e277f49809",
+    "company_name": "Xsolla",
+    "company_url": "https://simplify.jobs/c/Xsolla",
+    "title": "AI Engineer Intern",
+    "url": "https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783721165,
+    "date_updated": 1783721845,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "cbc90c52-de35-4d7b-b7f2-bc0a30bb1d72",
+    "company_name": "Xsolla",
+    "company_url": "https://simplify.jobs/c/Xsolla",
+    "title": "AI-First Engineer Intern",
+    "url": "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783721167,
+    "date_updated": 1783721849,
+    "category": "Software",
     "sponsorship": "Other"
   },
   {
