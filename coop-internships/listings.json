@@ -1899,6 +1899,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "ce80bcf6-6d8c-468a-9fec-fb8418fd27af",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "3D Graphics Engineer Intern - PICO Foundation",
+    "url": "https://jobs.bytedance.com/en/position/7564516412456306997/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780610910,
+    "date_updated": 1780611664,
+    "category": "Software",
+    "sponsorship": "Other"
+  },
+  {
     "id": "9b2c8392-e286-400e-95e9-809d118e367e",
     "company_name": "ByteDance",
     "company_url": "https://simplify.jobs/c/ByteDance",
@@ -8029,6 +8049,26 @@
     "sponsorship": "Other"
   },
   {
+    "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
+    "company_name": "Rise8",
+    "company_url": "https://simplify.jobs/c/Rise8",
+    "title": "Skillbridge Intern - Product Manager",
+    "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1782771852,
+    "date_updated": 1783042220,
+    "category": "Product",
+    "sponsorship": "Other"
+  },
+  {
     "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
     "company_name": "Rivian",
     "company_url": "https://simplify.jobs/c/Rivian",
@@ -11466,46 +11506,6 @@
     "date_updated": 1766068117,
     "category": "Software Engineering",
     "sponsorship": "U.S. Citizenship is Required"
-  },
-  {
-    "id": "a1882eaf-a1fc-44de-b03d-aad32d325664",
-    "company_name": "The Home Depot",
-    "company_url": "https://simplify.jobs/c/The-Home-Depot",
-    "title": "Data Scientist Intern",
-    "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Data-Scientist_Req185609",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2027"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782857338,
-    "date_updated": 1782858232,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "98ab0522-0f4a-4c35-bc28-cf7cd06d5618",
-    "company_name": "The Home Depot",
-    "company_url": "https://simplify.jobs/c/The-Home-Depot",
-    "title": "Full Stack Software Developer Intern",
-    "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req185610",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2027"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782857339,
-    "date_updated": 1782858223,
-    "category": "Software",
-    "sponsorship": "Other"
   },
   {
     "id": "974f472c-99c1-4cb0-9268-756997175373",
