@@ -3768,19 +3768,19 @@
     "id": "4c29c5cb-a89e-426b-92f8-09ff54edf5f7",
     "company_name": "Figure",
     "company_url": "https://simplify.jobs/c/Figure-AI",
-    "title": "Hardware Reliability Intern - Winter 2026",
+    "title": "Hardware Reliability Intern",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
     "locations": [
       "San Jose, CA"
     ],
     "terms": [
-      "Winter 2026"
+      "Fall 2026"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1763163411,
-    "date_updated": 1763163411,
+    "date_posted": 1782252642,
+    "date_updated": 1782253621,
     "category": "Hardware",
     "sponsorship": "Other"
   },
@@ -12531,26 +12531,6 @@
     "date_posted": 1783290840,
     "date_updated": 1783290961,
     "category": "Quant",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "9a61bf02-26d8-441a-b583-2c75f25ee9a5",
-    "company_name": "Toyota Research Institute",
-    "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-    "title": "Human Interactive Driving Intern - World Models",
-    "url": "https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1763162595,
-    "date_updated": 1763162595,
-    "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
   {
