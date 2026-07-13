@@ -590,32 +590,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "c895bb20-219c-416d-972e-21199a4af2c4",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Software Development Engineer Intern",
-    "url": "https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada",
-    "locations": [
-      "Winnipeg, MB, Canada",
-      "Toronto, ON, Canada",
-      "Victoria, BC, Canada",
-      "Calgary, AB, Canada",
-      "Ottawa, ON, Canada",
-      "Vancouver, BC, Canada"
-    ],
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1775743775,
-    "date_updated": 1775746748,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "8cfec360-0de7-4099-97df-66400369c836",
     "company_name": "Amazon",
     "company_url": "https://simplify.jobs/c/Amazon",
@@ -6546,26 +6520,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "8085b0fb-3683-4307-b90e-062ef95c0389",
-    "company_name": "Northrop Grumman",
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "title": "Software Engineer Intern",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783519989,
-    "date_updated": 1783521174,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "363bf983-6b24-4bf3-abba-83242e26fd12",
     "company_name": "Northwestern Mutual",
     "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
@@ -6728,26 +6682,6 @@
     "date_updated": 1775478975,
     "category": "Software Engineering",
     "sponsorship": "U.S. Citizenship is Required"
-  },
-  {
-    "id": "f5f1dcf1-49eb-4ce8-9868-0a412ac7b641",
-    "company_name": "Ontic",
-    "company_url": "https://simplify.jobs/c/Ontic",
-    "title": "Data Migration Analyst Intern",
-    "url": "https://jobs.ashbyhq.com/Ontic/20af94c6-329e-45f5-b02b-4be582b5dee3/application",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783548666,
-    "date_updated": 1783550553,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
   },
   {
     "id": "6f0dbd5a-a41a-4a05-a5f4-7fa193dbc2ab",
@@ -7625,26 +7559,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "2d7e6351-1991-46ea-98cf-af4a5c9fa957",
-    "company_name": "Podium",
-    "company_url": "https://simplify.jobs/c/Podium",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/podium81/jobs/7939921",
-    "locations": [
-      "Lehi, UT"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779142075,
-    "date_updated": 1779142928,
-    "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
     "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
     "company_name": "Point72",
     "company_url": "https://simplify.jobs/c/Point72",
@@ -7787,42 +7701,23 @@
     "sponsorship": "Other"
   },
   {
-    "id": "54f693b7-fa40-4fa3-a2ce-c1463b73ef57",
+    "id": "4add536b-2385-45cb-a5b4-45157793163e",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Data Science and Advanced Analytics Internship",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Science-des-donnes-et-analytique-avance---Automne-2026_01836944-1",
+    "title": "Transformation numerique Intern - Digital Transformation",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099",
     "locations": [
       "Longueuil, QC, Canada"
     ],
     "terms": [
-      "N/A"
+      "Summer 2026",
+      "Fall 2026"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1782857229,
-    "date_updated": 1782857960,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "4a3fdf9b-d8cb-4c5a-9a47-60c3b9a7d8c4",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Intern Operations Program Management",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1",
-    "locations": [
-      "Longueuil, QC, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1773490826,
-    "date_updated": 1773490826,
+    "date_posted": 1783900800,
+    "date_updated": 1783952889,
     "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
@@ -13159,26 +13054,6 @@
     "date_posted": 1781745737,
     "date_updated": 1781745841,
     "category": "Software",
-    "sponsorship": "Other"
-  },
-  {
-    "id": "3fa70c31-5b5a-41e7-8aa4-3e415e17364f",
-    "company_name": "iSpot.tv",
-    "company_url": "https://simplify.jobs/c/ISpot-TV",
-    "title": "Data Science Intern",
-    "url": "https://job-boards.greenhouse.io/ispottv/jobs/4703297005",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781015024,
-    "date_updated": 1781015401,
-    "category": "AI/ML/Data",
     "sponsorship": "Other"
   },
   {
