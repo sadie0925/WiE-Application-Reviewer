@@ -5451,28 +5451,6 @@
     "sponsorship": "Does Not Offer Sponsorship"
   },
   {
-    "id": "6e10494e-9f9e-403a-b4f7-8429fef82c51",
-    "company_name": "Mackenzie Investments",
-    "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
-    "title": "Quantitative Research Intern - Investment Management - Multi-Asset Allocation",
-    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5846/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Ontario, Canada"
-    ],
-    "terms": [
-      "Fall 2026",
-      "Winter 2027",
-      "Spring 2027"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782425260,
-    "date_updated": 1782425785,
-    "category": "Quant",
-    "sponsorship": "Other"
-  },
-  {
     "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
     "company_name": "Magna",
     "company_url": "https://simplify.jobs/c/Magna",
@@ -8396,26 +8374,6 @@
     "sponsorship": "Other"
   },
   {
-    "id": "5d6d7dc9-642a-4e6e-85dc-94e769a60939",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Relationship Manager Business Markets Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/175-WALLACE-AVE-NNORTH-PERTH/Relationship-Manager-Business-Markets-Intern_R-0000172273-2",
-    "locations": [
-      "Kitchener, ON, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779833551,
-    "date_updated": 1779837662,
-    "category": "Quant",
-    "sponsorship": "Other"
-  },
-  {
     "id": "6852e344-03a1-4352-bfc1-e98277cf707f",
     "company_name": "Royal Bank of Canada",
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
@@ -10529,6 +10487,26 @@
     "source": "simplify",
     "date_posted": 1782770937,
     "date_updated": 1782772484,
+    "category": "Hardware",
+    "sponsorship": "Other"
+  },
+  {
+    "id": "0a544fc0-5a83-40b1-9e39-60f900f0406b",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Low Voltage Power Systems Integration Engineer Intern - Vehicle Firmware",
+    "url": "https://www.tesla.com/careers/search/job/275207",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1782868188,
+    "date_updated": 1783931173,
     "category": "Hardware",
     "sponsorship": "Other"
   },
