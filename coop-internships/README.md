@@ -11,29 +11,9 @@ python3 main.py sync      # fetch feed + regenerate README (1 HTTP request)
 python3 main.py readme    # regenerate README only
 ```
 
-## Layout
-
-- **Canada** and **United States** (no city/province sub-sections)
-- Within each country: **CS / Software** and **Other programs**
-- Location stays as a table column
-
-## Architecture
-
-```
-Simplify public feed (1 HTTP request every 6 hours)
-        ↓
-Filter: undergrad intern/co-op · US/Canada · annotate cs vs other
-        ↓
-listings.json
-        ↓
-README.md regenerated in the SAME GitHub Action (fixes stale "Last updated")
-```
-
 <!-- LISTINGS:START -->
 
 **648 active US/Canada co-op & intern listings** · 544 CS/software · 104 other programs · 0 inactive · Last updated: 2026-07-13 17:57 ET
-
-Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
 ## Canada
 
