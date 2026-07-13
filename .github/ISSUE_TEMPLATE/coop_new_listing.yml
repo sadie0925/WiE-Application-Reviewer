@@ -31,19 +31,15 @@ body:
     id: locations
     attributes:
       label: Location(s)
-      placeholder: "San Francisco, CA or Remote"
+      placeholder: "San Francisco, CA or Toronto, ON"
     validations:
       required: true
-
-  - type: input
-    id: terms
-    attributes:
-      label: Term(s)
-      placeholder: "Summer 2026"
-      value: "Summer 2026"
 
   - type: markdown
     attributes:
       value: |
         A maintainer will review your submission. Once the `approved` label is added,
         a GitHub Action will automatically add it to `coop-internships/listings.json`.
+
+        Listings are grouped by **Canada / United States** and **CS/software vs other programs**.
+        Only US and Canada locations are accepted. Season/term is not collected (titles are enough).

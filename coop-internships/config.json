@@ -3,5 +3,7 @@
   "sync_interval_hours": 6,
   "regions": ["United States", "Canada"],
   "scrape_batch_size": 5,
-  "scrape_delay_seconds": 2
+  "scrape_delay_seconds": 2,
+  "readme_group_by": ["country", "program"],
+  "include_terms": false
 }

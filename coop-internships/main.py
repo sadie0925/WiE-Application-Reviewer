@@ -11,6 +11,7 @@ from pathlib import Path
 
 from readme_generator import update_readme
 from scrapers import scrape_company
+from scrapers.filters import classify_program
 from scrapers.location import filter_us_ca_locations
 from sync_simplify import (
     listings_fingerprint,
@@ -22,6 +23,7 @@ ROOT = Path(__file__).parent
 LISTINGS_PATH = ROOT / "listings.json"
 COMPANIES_PATH = ROOT / "companies.json"
 HASH_PATH = ROOT / ".listings-hash"
+README_PATH = ROOT / "README.md"
 
 
 def load_json(path: Path) -> list | dict:
@@ -47,6 +49,20 @@ def save_hash(value: str) -> None:
     HASH_PATH.write_text(value + "\n", encoding="utf-8")
 
 
+def annotate_programs(listings: list[dict]) -> list[dict]:
+    """Ensure every listing has a cs/other program tag."""
+    for listing in listings:
+        listing["program"] = classify_program(listing)
+        # Drop unreliable season metadata from feed
+        listing.pop("terms", None)
+    return listings
+
+
+def regenerate_readme(listings: list[dict]) -> None:
+    update_readme(README_PATH, listings)
+    print(f"Updated listings section in {README_PATH}")
+
+
 def cmd_sync(args) -> int:
     """Sync from Simplify public feed (primary, low-load)."""
     existing = load_json(LISTINGS_PATH)
@@ -56,7 +72,7 @@ def cmd_sync(args) -> int:
     print("Fetching Simplify community feed (1 HTTP request)...")
     simplify_listings, stats = sync()
 
-    merged = merge_with_community(simplify_listings, existing)
+    merged = annotate_programs(merge_with_community(simplify_listings, existing))
     new_hash = listings_fingerprint(merged)
     old_hash = load_hash()
 
@@ -66,13 +82,18 @@ def cmd_sync(args) -> int:
     )
     print(f"  Total in listings.json: {len(merged)}")
 
-    if new_hash == old_hash and not args.force:
-        print("No changes detected — skipping write.")
-        return 0
+    listings_changed = new_hash != old_hash or args.force
+    if listings_changed:
+        save_json(LISTINGS_PATH, merged)
+        save_hash(new_hash)
+        print("listings.json updated.")
+    else:
+        print("No listing changes detected — listings.json unchanged.")
+        # Persist program tags / drop terms even when URLs unchanged
+        save_json(LISTINGS_PATH, merged)
 
-    save_json(LISTINGS_PATH, merged)
-    save_hash(new_hash)
-    print("listings.json updated.")
+    # Always regenerate README so "Last updated" refreshes every sync period.
+    regenerate_readme(merged)
     return 0
 
 
@@ -115,21 +136,27 @@ def cmd_scrape(args) -> int:
         url = listing.get("url")
         if url:
             listing["date_updated"] = now
+            listing["program"] = classify_program(listing)
+            listing.pop("terms", None)
             by_url[url] = listing
 
-    merged = list(by_url.values())
+    merged = annotate_programs(list(by_url.values()))
     save_json(LISTINGS_PATH, merged)
     save_hash(listings_fingerprint(merged))
     save_json(state_path, {"offset": next_offset})
+    regenerate_readme(merged)
     print(f"Batch done ({len(batch)} companies). Next offset: {next_offset}")
     return 0
 
 
 def cmd_readme() -> int:
     listings = load_json(LISTINGS_PATH)
-    readme_path = ROOT / "README.md"
-    update_readme(readme_path, listings if isinstance(listings, list) else [])
-    print(f"Updated listings section in {readme_path}")
+    if not isinstance(listings, list):
+        listings = []
+    listings = annotate_programs(listings)
+    # Persist program tags if missing so next sync is cheaper to reason about
+    save_json(LISTINGS_PATH, listings)
+    regenerate_readme(listings)
     return 0
 
 
@@ -140,7 +167,6 @@ def cmd_add_manual(args) -> int:
 
     now = int(time.time())
     from scrapers.base import make_listing_id
-    from scrapers.location import filter_us_ca_locations
 
     locations = filter_us_ca_locations(
         [loc.strip() for loc in args.locations.split(",") if loc.strip()]
@@ -156,19 +182,21 @@ def cmd_add_manual(args) -> int:
         "title": args.title,
         "url": args.url,
         "locations": locations,
-        "terms": [t.strip() for t in args.terms.split(",") if t.strip()],
         "active": True,
         "is_visible": True,
         "source": args.contributor,
         "date_posted": now,
         "date_updated": now,
+        "category": "",
     }
+    listing["program"] = classify_program(listing)
 
     by_url = {item["url"]: item for item in existing if item.get("url")}
     by_url[listing["url"]] = listing
-    merged = list(by_url.values())
+    merged = annotate_programs(list(by_url.values()))
     save_json(LISTINGS_PATH, merged)
     save_hash(listings_fingerprint(merged))
+    regenerate_readme(merged)
     print(f"Added listing: {listing['title']} at {listing['company_name']}")
     return 0
 
@@ -191,7 +219,6 @@ def main() -> int:
     add_parser.add_argument("--title", required=True)
     add_parser.add_argument("--url", required=True)
     add_parser.add_argument("--locations", required=True, help="Comma-separated US/CA locations")
-    add_parser.add_argument("--terms", default="Unknown")
     add_parser.add_argument("--contributor", default="community")
 
     args = parser.parse_args()

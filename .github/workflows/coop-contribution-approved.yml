@@ -39,7 +39,6 @@ jobs:
           title = extract("Job Title")
           url = extract("Application URL")
           locations = extract("Location\\(s\\)") or "Unknown"
-          terms = extract("Term\\(s\\)") or "Summer 2026"
 
           subprocess.run([
               "python", "main.py", "add",
@@ -47,16 +46,15 @@ jobs:
               "--title", title,
               "--url", url,
               "--locations", locations,
-              "--terms", terms,
               "--contributor", contributor,
           ], check=True)
           PYEOF
 
-      - name: Commit and close issue
+      - name: Commit listings + README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add coop-internships/listings.json
+          git add coop-internships/listings.json coop-internships/.listings-hash coop-internships/README.md
           git commit -m "feat: add co-op listing from issue #${{ github.event.issue.number }} (@${{ github.event.issue.user.login }})"
           git push
 

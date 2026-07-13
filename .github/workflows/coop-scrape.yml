@@ -26,17 +26,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Sync from Simplify feed
+      - name: Sync listings and regenerate README
         working-directory: coop-internships
         run: python main.py sync
 
-      - name: Commit listings.json
+      - name: Commit listings + README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add coop-internships/listings.json coop-internships/.listings-hash
+          git add coop-internships/listings.json coop-internships/.listings-hash coop-internships/README.md
           git diff --staged --quiet || \
-            git commit -m "chore: sync co-op listings from Simplify feed ($(date -u +%Y-%m-%d))"
+            git commit -m "chore: sync co-op listings + README ($(date -u +%Y-%m-%d))"
 
       - name: Push
         run: git push

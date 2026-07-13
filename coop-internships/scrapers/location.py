@@ -21,6 +21,14 @@ CA_CITIES = (
 REMOTE_PATTERN = re.compile(r"\bremote\b", re.IGNORECASE)
 
 
+def _region_code(location: str) -> str | None:
+    """Return the last comma-separated region token (state/province) if present."""
+    parts = [p.strip() for p in location.split(",") if p.strip()]
+    if len(parts) < 2:
+        return None
+    return parts[-1].upper().replace(".", "")
+
+
 def is_us_or_canada_location(location: str) -> bool:
     if not location or not location.strip():
         return False
@@ -33,9 +41,8 @@ def is_us_or_canada_location(location: str) -> bool:
     if "canada" in lower or "united states" in lower or ", usa" in lower:
         return True
 
-    parts = [p.strip() for p in loc.split(",")]
-    if len(parts) >= 2:
-        region = parts[-1].upper().replace(".", "")
+    region = _region_code(loc)
+    if region:
         if region in US_STATES or region in CA_PROVINCES:
             return True
         if region in ("US", "USA", "CANADA"):
@@ -55,22 +62,30 @@ def filter_us_ca_locations(locations: list[str]) -> list[str]:
 
 
 def classify_country(location: str) -> str:
+    """Classify a location into a country board (no city/province sub-boards)."""
     lower = location.lower()
     if REMOTE_PATTERN.search(lower):
         if "canada" in lower:
             return "Remote (Canada)"
-        if any(x in lower for x in ("us", "usa", "united states")):
+        if any(x in lower for x in ("united states", ", usa", " us)")):
             return "Remote (US)"
+        # Ambiguous remote → keep as generic Remote
         return "Remote"
 
     if "canada" in lower:
         return "Canada"
 
-    parts = [p.strip() for p in location.split(",")]
-    if len(parts) >= 2:
-        region = parts[-1].upper().replace(".", "")
-        if region in CA_PROVINCES:
+    region = _region_code(location)
+    if region:
+        # Prefer explicit state/province codes over city-name heuristics
+        # (e.g. "Vancouver, WA" must be US, not Canada).
+        if region in US_STATES or region in ("US", "USA"):
+            return "United States"
+        if region in CA_PROVINCES or region == "CANADA":
             return "Canada"
+
+    if "united states" in lower or ", usa" in lower:
+        return "United States"
 
     for city in CA_CITIES:
         if city in lower:
@@ -79,19 +94,18 @@ def classify_country(location: str) -> str:
     return "United States"
 
 
-def get_primary_location(listing: dict) -> tuple[str, str]:
-    """Return (country_board, location_board) for grouping in README."""
+def get_board_country(listing: dict) -> str:
+    """Return the country board key for README grouping (no city split)."""
     locations = filter_us_ca_locations(listing.get("locations", []))
     if not locations:
-        return ("Unknown", "Unknown")
+        return "Unknown"
+    return classify_country(locations[0])
 
-    loc = locations[0]
-    country = classify_country(loc)
 
-    if country.startswith("Remote"):
-        return (country, country)
-
-    return (country, loc)
+# Back-compat alias used by older call sites
+def get_primary_location(listing: dict) -> tuple[str, str]:
+    country = get_board_country(listing)
+    return (country, country)
 
 
 COUNTRY_ORDER = {

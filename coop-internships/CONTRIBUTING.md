@@ -3,18 +3,24 @@
 ## Submit a new listing
 
 1. Open a [Co-op Listing Submission](../../issues/new/choose) issue
-2. Fill in company, title, URL, **US or Canada location**, and term
+2. Fill in company, title, URL, and **US or Canada location**
 3. A maintainer adds the `approved` label
-4. GitHub Action adds it to `listings.json` and closes the issue
+4. GitHub Action adds it to `listings.json`, regenerates the README, and closes the issue
 
 **Note:** Only US and Canada locations are accepted.
 
 ## Data source
 
 Primary data comes from the [Simplify Jobs](https://github.com/SimplifyJobs/Summer2026-Internships) public feed, filtered for:
-- Undergraduate intern/co-op roles
+- Undergraduate intern/co-op roles (any program — not CS-only)
 - United States & Canada locations only
 - Excludes PhD, new grad, recruiter roles
+
+README sections:
+- **Canada** / **United States** (no city/province sub-boards)
+- Within each country: **CS / Software** vs **Other programs**
+
+Season/term columns are intentionally omitted — feed metadata is often wrong unless the title itself names a season.
 
 ## listings.json schema
 
@@ -25,7 +31,7 @@ Primary data comes from the [Simplify Jobs](https://github.com/SimplifyJobs/Summ
   "title": "Software Engineer Intern - Summer 2026",
   "url": "https://...",
   "locations": ["San Francisco, CA"],
-  "terms": ["Summer 2026"],
+  "program": "cs",
   "active": true,
   "is_visible": true,
   "source": "simplify",
@@ -33,3 +39,5 @@ Primary data comes from the [Simplify Jobs](https://github.com/SimplifyJobs/Summ
   "date_updated": 1690430400
 }
 ```
+
+`program` is `"cs"` or `"other"`, derived from title/category.

@@ -1,10 +1,8 @@
-Undergraduate co-op and internship postings in **United States & Canada only**, synced automatically from the [Simplify Jobs](https://github.com/SimplifyJobs/Summer2026-Internships) community feed.
-
-## Quick start
+Undergraduate co-op and internship postings in **United States & Canada**, synced from the Simplify Jobs feed.
 
 ```bash
 cd coop-internships
 python3 -m pip install requests
-python3 main.py sync      
-python3 main.py readme    
+python3 main.py sync      # fetch + regenerate README
+python3 main.py readme    # regenerate README only
 ```
