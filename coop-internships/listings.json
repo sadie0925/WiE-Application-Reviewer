@@ -821,24 +821,6 @@
     "program": "other"
   },
   {
-    "id": "1aca22ce-3304-47a3-9b5c-fb3e553e848f",
-    "company_name": "Amentum",
-    "company_url": "https://simplify.jobs/c/Amentum",
-    "title": "HLS Intern",
-    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---HLS-Fall-Intern_R0164860",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782963527,
-    "date_updated": 1782966158,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "2a5bc14d-3a98-403c-97a8-ed0fdf322add",
     "company_name": "American Bureau of Shipping",
     "company_url": "https://simplify.jobs/c/American-Bureau-Of-Shipping",
@@ -3220,6 +3202,24 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "a00d36e2-97e7-4df7-9732-450b605fe4d6",
+    "company_name": "Duracell",
+    "company_url": "https://simplify.jobs/c/Duracell",
+    "title": "Electronics Tech Intern",
+    "url": "https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783991336,
+    "date_updated": 1783991581,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "be6493df-d454-4e77-b102-3eef5e546c99",
@@ -6262,28 +6262,6 @@
     "program": "cs"
   },
   {
-    "id": "387d5861-f87f-4086-b76b-88018de85a3f",
-    "company_name": "Occidental Petroleum",
-    "company_url": "https://simplify.jobs/c/Occidental-Petroleum",
-    "title": "Intern/Co-op Data - Well Servicing & Engineering",
-    "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413",
-    "locations": [
-      "Midland, TX",
-      "Houston, TX",
-      "Fort Lupton, CO",
-      "Morton, TX",
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1772681873,
-    "date_updated": 1772681873,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "cc2fec71-d445-40e3-be3e-b8dd51184164",
     "company_name": "OfferUp",
     "company_url": "https://simplify.jobs/c/OfferUp",
@@ -7808,24 +7786,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "6852e344-03a1-4352-bfc1-e98277cf707f",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Relationship Manager Commercial Markets Intern - Agriculture",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BRANTFORD-Ontario-Canada/Relationship-Manager-Commercial-Markets-Intern--Agriculture_R-0000178814",
-    "locations": [
-      "Oakland, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782958137,
-    "date_updated": 1782963189,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "1e24ca64-daad-4e93-b51b-88f86f72518a",
@@ -11514,80 +11474,6 @@
     "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "1ef581d4-9bfe-444c-8684-84d5c0732106",
-    "company_name": "Travelers",
-    "company_url": "https://simplify.jobs/c/Travelers",
-    "title": "Business Insights & Analytics Leadership Development Program Geospatial Intern",
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-51333-1",
-    "locations": [
-      "Hartford, CT",
-      "St Paul, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783058952,
-    "date_updated": 1783059445,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "68319bca-98b4-425e-a9f1-826f84185db6",
-    "company_name": "Travelers",
-    "company_url": "https://simplify.jobs/c/Travelers",
-    "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1",
-    "locations": [
-      "Hartford, CT",
-      "St Paul, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783058956,
-    "date_updated": 1783059561,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "66abf653-73b2-4490-8902-fd003a1987ce",
-    "company_name": "Travelers",
-    "company_url": "https://simplify.jobs/c/Travelers",
-    "title": "Product Management Development Program Intern",
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Internship---Summer-2027_R-51214",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783058952,
-    "date_updated": 1783059442,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "8e880f43-881f-428a-a0df-2499ae363955",
-    "company_name": "Travelers",
-    "company_url": "https://simplify.jobs/c/Travelers",
-    "title": "Product Management Development Program Intern - Pricing Analyst",
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Pricing-Analyst---Summer-2027_R-51216",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783058951,
-    "date_updated": 1783059529,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "f201c4fb-0c02-4b0c-910d-f94f40ef4e92",
