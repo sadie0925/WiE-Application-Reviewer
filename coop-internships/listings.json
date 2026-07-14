@@ -18,24 +18,6 @@
     "program": "cs"
   },
   {
-    "id": "a0d29a12-d869-4289-950a-cd29da15410c",
-    "company_name": "ABB",
-    "company_url": "https://simplify.jobs/c/ABB",
-    "title": "Integrated Motor Drive SW Intern",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Intern---Fall-2026_JR00038957",
-    "locations": [
-      "Greenville, SC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782957983,
-    "date_updated": 1782963189,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "eb155b8f-4890-4334-912c-10a8f422ed8e",
     "company_name": "ACI Worldwide ",
     "company_url": "https://simplify.jobs/c/ACI-Worldwide",
@@ -4634,6 +4616,26 @@
     "program": "cs"
   },
   {
+    "id": "fe972247-600c-481b-961d-3abad929c277",
+    "company_name": "KION Group",
+    "company_url": "https://simplify.jobs/c/KION-Group",
+    "title": "AI Intern",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
+    "locations": [
+      "Grand Rapids, MI",
+      "Plano, TX",
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1773267873,
+    "date_updated": 1773267873,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "4401a54c-67ae-4c00-b345-06a085c8844b",
     "company_name": "KLA",
     "company_url": "",
@@ -5097,6 +5099,24 @@
     "source": "simplify",
     "date_posted": 1779977342,
     "date_updated": 1779977986,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "47c8f8b7-82f7-465e-b6ca-9d1565be305c",
+    "company_name": "Magna",
+    "company_url": "https://simplify.jobs/c/Magna",
+    "title": "Software Engineering Co-op",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013",
+    "locations": [
+      "Newmarket, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1781791885,
+    "date_updated": 1781792687,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -6042,42 +6062,6 @@
     "program": "cs"
   },
   {
-    "id": "aef8e1d7-1422-403a-ba01-d5800f15dfcf",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "IT Network Software/AI Development Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34296",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777511343,
-    "date_updated": 1781170454,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ef28b998-9837-4977-b29f-394f8f217639",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Support Software Developer Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34551",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777068440,
-    "date_updated": 1777068541,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "363bf983-6b24-4bf3-abba-83242e26fd12",
     "company_name": "Northwestern Mutual",
     "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
@@ -6694,6 +6678,42 @@
     "program": "cs"
   },
   {
+    "id": "1321df93-f6e4-4e90-a109-4823e8c107a3",
+    "company_name": "PartnerRe",
+    "company_url": "https://simplify.jobs/c/PartnerRe",
+    "title": "Business Data Analyst Co-op",
+    "url": "https://careers.partnerre.com/job/Toronto-Business-Data-Analyst-Student-ON/1414882233/?ats=successfactors",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784038122,
+    "date_updated": 1784038698,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
+    "company_name": "PennState University",
+    "company_url": "https://simplify.jobs/c/Penn-State",
+    "title": "Research and Development Engineering Intern",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1772579002,
+    "date_updated": 1772579002,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "4284c1a9-1025-463f-97ee-3b175776e726",
     "company_name": "Periodic Labs",
     "company_url": "https://simplify.jobs/c/Periodic-Labs",
@@ -7088,24 +7108,6 @@
     "source": "simplify",
     "date_posted": 1770160610,
     "date_updated": 1770160610,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e145c456-c733-4a4e-8479-18edd9cd7eae",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "DPHM Analytics Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458-1",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779228393,
-    "date_updated": 1779229057,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -10241,24 +10243,6 @@
     "source": "simplify",
     "date_posted": 1782886099,
     "date_updated": 1782886550,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5023b582-d7cc-49cf-9ae0-49dca04f35b1",
-    "company_name": "Tessera Labs",
-    "company_url": "https://simplify.jobs/c/Tessera-Labs",
-    "title": "Software Engineering Intern - Frontend",
-    "url": "https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06/application",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1775628495,
-    "date_updated": 1775629261,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
