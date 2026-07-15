@@ -13,13 +13,13 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**673 active US/Canada co-op & intern listings** · 567 CS/software · 106 other programs · 0 inactive · Last updated: 2026-07-15 03:50 ET
+**669 active US/Canada co-op & intern listings** · 562 CS/software · 107 other programs · 0 inactive · Last updated: 2026-07-15 09:12 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
 ## Canada
 
-### CS / Software (78)
+### CS / Software (77)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -76,7 +76,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | OLG | Data Scientist Co-op | Toronto, ON, Canada | 2026-07-08 | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Student_R26_00479) |
 | Orennia | Analytics Intern | Calgary, AB, Canada | 2026-07-07 | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008) |
 | PartnerRe | Business Data Analyst Co-op | Toronto, ON, Canada | 2026-07-14 | [Apply](https://careers.partnerre.com/job/Toronto-Business-Data-Analyst-Student-ON/1414882233/?ats=successfactors) |
-| Primetals Technologies | Software Development & Data Science Analyst Intern - Month contract | Laval, QC, Canada, Mississauga, ON, Canada | 2026-04-16 | [Apply](https://mhicareers.com/job/Boisbriand-Software-Development-&-Data-Science-Analyst-(12-Month-contract)-Queb-J7H-0E2/1384663333/?ats=successfactors) |
 | RTX | Transformation numerique Intern - Digital Transformation | Longueuil, QC, Canada | 2026-07-12 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099) |
 | Remarcable | Full Stack Developer Co-op | Vancouver, BC, Canada | 2026-06-29 | [Apply](https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/application) |
 | Revvity | AI Developer Intern/Co-op | Kitchener, ON, Canada | 2026-07-12 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/AI-Developer--Intern-Co-op---REMOTE--Fall-2026-_JR-044467) |
@@ -123,7 +122,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (470)
+### CS / Software (466)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -186,7 +185,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | BlinqLABS | Java Web Development Intern | Southfield, MI | 2026-02-19 | [Apply](https://jobs.smartrecruiters.com/Blinqlabs/743999734120603) |
 | Blockhouse | Rust Developer Intern | Detroit, MI | 2026-04-21 | [Apply](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application) |
 | Blue Cross Blue Shield of Michigan | IT Intern | Detroit, MI | 2026-07-01 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393) |
-| Blue Origin | Avionics Software Intern | Seattle, WA, Denver, CO | 2026-06-10 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Graduate_R66209) |
 | Blue River Technology | Machine Learning Intern - Autonomy | Santa Clara, CA | 2026-07-06 | [Apply](https://www.bluerivertechnology.com/job/?gh_jid=7947246) |
 | Bosch Home Comfort | A.1. Integration Intern | Columbia City, IN | 2026-07-01 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) |
 | Boston Properties | IT Data Services Co-op | Boston, MA | 2026-06-18 | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26107) |
@@ -314,7 +312,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | MCG Health | Software Engineering Intern | Seattle, WA | 2025-12-26 | [Apply](https://job-boards.greenhouse.io/mcghealth/jobs/8350486002) |
 | Magna | Engineering ADAS Perception Features Intern | Auburn Hills, MI | 2026-05-27 | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) |
 | Magna | Product Engineering Engineer Intern | Grand Rapids, MI | 2026-05-28 | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) |
-| Magna | Systems Engineer Intern | Southfield, MI | 2026-06-12 | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) |
 | Markem-Imaje | Software Engineer Intern | Keene, NH | 2026-06-23 | [Apply](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033) |
 | Marmon Holdings | Data Engineering Intern Co-op | Milwaukee, WI | 2026-05-16 | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) |
 | Marmon Holdings | Data Engineering Intern/Co-op | Milwaukee, WI | 2026-03-04 | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) |
@@ -393,7 +390,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | PlusAI | Software Engineer Intern - Robotics | Santa Clara, CA | 2026-05-22 | [Apply](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db/apply) |
 | PlusAI | Software Engineer Intern-Runtime - Robotics | Santa Clara, CA | 2026-05-22 | [Apply](https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply) |
 | Point72 | Point72 Academy Investment Analyst Program for Upcoming Graduates Intern | Chicago, IL | 2026-05-08 | [Apply](https://boards.greenhouse.io/point72/jobs/8541241002) |
-| Procter & Gamble (P&G) | R&D Engineer Co-op | Boston, MA | 2026-07-12 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/BOSTON-GO--TECH-CENTER/Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305) |
 | Procter & Gamble (P&G) | R&D Engineer Co-op | Boston, MA | 2026-07-13 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/BOSTON-GO--TECH-CENTER/Northeastern-University-R-D-Engineer-Co-op--Northeastern-Students-Graduating-in-2028-2029-ONLY_R000155302) |
 | QuEra Computing | Photonics Data Engineer Intern - Data Management | Boston, MA | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008) |
 | RESPEC | Student Engineering Intern - Data Science | Rapid City, SD | 2026-02-03 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) |
@@ -485,7 +481,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Tesla | Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering | Palo Alto, CA | 2026-07-01 | [Apply](https://www.tesla.com/careers/search/job/275689) |
 | Tesla | Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware | Palo Alto, CA | 2026-06-07 | [Apply](https://www.tesla.com/careers/search/job/270509) |
 | Tesla | Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure | Palo Alto, CA | 2026-06-06 | [Apply](https://www.tesla.com/careers/search/job/267005) |
-| Tesla | Low Voltage Power Systems Integration Engineer Intern - Vehicle Firmware | Palo Alto, CA | 2026-06-30 | [Apply](https://www.tesla.com/careers/search/job/275207) |
 | Tesla | Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software | Fremont, CA | 2026-06-30 | [Apply](https://www.tesla.com/careers/search/job/275380) |
 | Tesla | Machine Learning Intern - AI Engineer - Tesla AI | Palo Alto, CA | 2026-07-01 | [Apply](https://www.tesla.com/careers/search/job/275331) |
 | Tesla | Machine Learning Platform Intern - Multiple Teams | Palo Alto, CA | 2026-05-06 | [Apply](https://www.tesla.com/careers/search/job/269812) |
@@ -598,7 +593,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | thyssenkrupp | Analytics Intern | Cleveland, OH | 2026-06-30 | [Apply](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) |
 | thyssenkrupp | Sustainability Systems Intern | Cleveland, OH | 2025-12-23 | [Apply](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) |
 
-### Other programs (88)
+### Other programs (89)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -607,6 +602,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | AccuWeather | Product Analyst Intern | State College, PA, Remote in USA | 2025-12-08 | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/7453001) |
 | Advanced Energy | Electronics Service Intern | Fort Collins, CO | 2026-05-08 | [Apply](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors) |
 | Agilent Technologies | Predictive Sales Prospecting Intern | Wilmington, DE | 2026-05-30 | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245) |
+| Agilent Technologies | Predictive Sales Prospecting Intern | Wilmington, DE | 2026-06-08 | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038181) |
 | Akuna Capital University | Hardware Engineer Intern | Chicago, IL | 2026-07-13 | [Apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | Amazon | Hardware Development Engineer Co-op | Sunnyvale, CA | 2026-05-17 | [Apply](https://amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall) |
 | Ambarella | ASIC Design Engineer Intern | United States | 2025-11-27 | [Apply](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100) |

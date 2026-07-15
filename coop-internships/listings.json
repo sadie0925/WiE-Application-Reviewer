@@ -397,6 +397,24 @@
     "program": "other"
   },
   {
+    "id": "4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
+    "company_name": "Agilent Technologies",
+    "company_url": "https://simplify.jobs/c/Agilent-Technologies",
+    "title": "Predictive Sales Prospecting Intern",
+    "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038181",
+    "locations": [
+      "Wilmington, DE"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780956584,
+    "date_updated": 1780960306,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "14d3699d-c47b-49aa-a37d-92ba2f907b04",
     "company_name": "Akuna Capital University",
     "company_url": "https://simplify.jobs/c/Akuna-Capital-University",
@@ -1640,25 +1658,6 @@
     "date_posted": 1782943736,
     "date_updated": 1782944551,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3cf8c81a-cf6a-4d33-8b8a-e221d86aa57b",
-    "company_name": "Blue Origin",
-    "company_url": "https://simplify.jobs/c/Blue-Origin",
-    "title": "Avionics Software Intern",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Graduate_R66209",
-    "locations": [
-      "Seattle, WA",
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781129377,
-    "date_updated": 1781130662,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -5303,24 +5302,6 @@
     "program": "cs"
   },
   {
-    "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
-    "company_name": "Magna",
-    "company_url": "https://simplify.jobs/c/Magna",
-    "title": "Systems Engineer Intern",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413",
-    "locations": [
-      "Southfield, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781273413,
-    "date_updated": 1781274060,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "068879a3-b42f-4394-adff-ac6eebc9038f",
     "company_name": "Magnet Forensics",
     "company_url": "https://simplify.jobs/c/Magnet-Forensics",
@@ -7272,43 +7253,6 @@
     "date_posted": 1778278880,
     "date_updated": 1778279499,
     "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a72ca479-44bf-46ff-8d2b-0ec7e74731b0",
-    "company_name": "Primetals Technologies",
-    "company_url": "https://simplify.jobs/c/Primetals-Technologies",
-    "title": "Software Development & Data Science Analyst Intern - Month contract",
-    "url": "https://mhicareers.com/job/Boisbriand-Software-Development-&-Data-Science-Analyst-(12-Month-contract)-Queb-J7H-0E2/1384663333/?ats=successfactors",
-    "locations": [
-      "Laval, QC, Canada",
-      "Mississauga, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776377297,
-    "date_updated": 1776378008,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "70567d14-93a2-4b6f-b4bd-a9e981c14af4",
-    "company_name": "Procter & Gamble (P&G)",
-    "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
-    "title": "R&D Engineer Co-op",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/BOSTON-GO--TECH-CENTER/Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783900800,
-    "date_updated": 1783981216,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -9762,24 +9706,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "0a544fc0-5a83-40b1-9e39-60f900f0406b",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Low Voltage Power Systems Integration Engineer Intern - Vehicle Firmware",
-    "url": "https://www.tesla.com/careers/search/job/275207",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782868188,
-    "date_updated": 1783931173,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "77fe355c-f71a-4b4f-8ac1-348d2b156c64",
