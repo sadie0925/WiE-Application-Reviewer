@@ -2481,6 +2481,24 @@
     "program": "cs"
   },
   {
+    "id": "7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
+    "company_name": "Cloudflare",
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "title": "Software Engineer Intern",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784097228,
+    "date_updated": 1784099881,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "a7ef9f52-96c8-4e0d-8788-af7650bc8e9b",
     "company_name": "Cloudflare",
     "company_url": "https://simplify.jobs/c/Cloudflare",
@@ -4957,24 +4975,6 @@
     "date_posted": 1784066916,
     "date_updated": 1784067953,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "66f8c5dd-ab2d-449d-a8d3-aafde4c1acc9",
-    "company_name": "Kulicke & Soffa",
-    "company_url": "https://simplify.jobs/c/Kulicke-And-Soffa",
-    "title": "Software Intern",
-    "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11499",
-    "locations": [
-      "Ambler, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784066915,
-    "date_updated": 1784067945,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -7915,24 +7915,6 @@
     "program": "other"
   },
   {
-    "id": "37998569-3501-402e-baa5-4dcdbf1b7bae",
-    "company_name": "Rocket Lab USA",
-    "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
-    "title": "Software Intern",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003",
-    "locations": [
-      "Albuquerque, NM"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779402163,
-    "date_updated": 1779403462,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "36b79a50-6c90-42a0-8884-86ce10b25d38",
     "company_name": "Rockwell Automation",
     "company_url": "https://simplify.jobs/c/Rockwell-Automation",
@@ -8854,24 +8836,6 @@
     "date_posted": 1781638798,
     "date_updated": 1781643090,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2ec22e8c-8004-46f2-943c-b71ca142908f",
-    "company_name": "TDS",
-    "company_url": "https://simplify.jobs/c/TDS",
-    "title": "GIS Intern",
-    "url": "https://external-telecom-teldta.icims.com/jobs/29612/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783462184,
-    "date_updated": 1783462326,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -10120,24 +10084,6 @@
     "date_posted": 1780794778,
     "date_updated": 1780795466,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "476c1940-e6f7-4c8b-ac8c-d04259a2bac7",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Software Engineer Intern - Integration Tools",
-    "url": "https://www.tesla.com/careers/search/job/269445",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778050930,
-    "date_updated": 1778051169,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
