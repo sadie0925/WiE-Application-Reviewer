@@ -785,6 +785,24 @@
     "program": "other"
   },
   {
+    "id": "b7ce9d33-8b07-4a15-9258-6067fd375c26",
+    "company_name": "Amentum",
+    "company_url": "https://simplify.jobs/c/Amentum",
+    "title": "Spaceflight Hardware Intern",
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096",
+    "locations": [
+      "Houston, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784160000,
+    "date_updated": 1784216913,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "2a5bc14d-3a98-403c-97a8-ed0fdf322add",
     "company_name": "American Bureau of Shipping",
     "company_url": "https://simplify.jobs/c/American-Bureau-Of-Shipping",
@@ -2711,6 +2729,24 @@
     "source": "simplify",
     "date_posted": 1782511469,
     "date_updated": 1782816211,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
+    "company_name": "Copart",
+    "company_url": "https://simplify.jobs/c/Copart",
+    "title": "Software Engineer Intern",
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1779527612,
+    "date_updated": 1782816676,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -4832,6 +4868,26 @@
     "program": "cs"
   },
   {
+    "id": "fe972247-600c-481b-961d-3abad929c277",
+    "company_name": "KION Group",
+    "company_url": "https://simplify.jobs/c/KION-Group",
+    "title": "AI Intern",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
+    "locations": [
+      "Grand Rapids, MI",
+      "Plano, TX",
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1773267873,
+    "date_updated": 1773267873,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "4401a54c-67ae-4c00-b345-06a085c8844b",
     "company_name": "KLA",
     "company_url": "",
@@ -5134,24 +5190,6 @@
     "date_posted": 1776377042,
     "date_updated": 1776377161,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
-    "company_name": "LexisNexis Risk Solutions",
-    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-    "title": "Editorial Data Reporting Intern",
-    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783641600,
-    "date_updated": 1783722508,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6273,42 +6311,6 @@
     "date_posted": 1779862836,
     "date_updated": 1779862876,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9e6bfed5-144f-4120-94d0-868f2cb83d3a",
-    "company_name": "NextGen Federal Systems",
-    "company_url": "https://simplify.jobs/c/NextGen-Federal-Systems",
-    "title": "Data Science & Machine Learning Intern",
-    "url": "https://jobs.lever.co/nextgenfed/35e13d92-343a-4c17-9789-1a6a9cff2bc6/apply",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784066642,
-    "date_updated": 1784066761,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d557630f-831a-471f-a70b-deeebe4ca3a6",
-    "company_name": "NextGen Federal Systems",
-    "company_url": "https://simplify.jobs/c/NextGen-Federal-Systems",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784066642,
-    "date_updated": 1784066799,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -7633,96 +7635,6 @@
     "program": "cs"
   },
   {
-    "id": "599919c9-248d-495b-a106-81088707bc82",
-    "company_name": "Revvity",
-    "company_url": "https://simplify.jobs/c/Revvity",
-    "title": "Full-Stack AI Developer Intern",
-    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044915",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784073600,
-    "date_updated": 1784153524,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "069e94c8-0ad8-44b9-9f03-5cd31a1154ff",
-    "company_name": "Revvity",
-    "company_url": "https://simplify.jobs/c/Revvity",
-    "title": "Full-Stack AI Developer Intern",
-    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044914",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784073600,
-    "date_updated": 1784153524,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "365705d7-043e-406a-a42b-c1114d889dfb",
-    "company_name": "Revvity",
-    "company_url": "https://simplify.jobs/c/Revvity",
-    "title": "Full-Stack AI Developer Intern",
-    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044782-1",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784073600,
-    "date_updated": 1784154244,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9f3c0656-6cef-4be9-9103-18c13986bef8",
-    "company_name": "Revvity",
-    "company_url": "https://simplify.jobs/c/Revvity",
-    "title": "Full-Stack AI Developer Intern",
-    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044913",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784073600,
-    "date_updated": 1784164141,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8557ee50-9c1f-49e9-98b8-692547114b0a",
-    "company_name": "Revvity",
-    "company_url": "https://simplify.jobs/c/Revvity",
-    "title": "Product Manager Intern",
-    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Product-Manager-Intern_JR-044908-1",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784073600,
-    "date_updated": 1784153524,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "bfbac627-9987-4efa-8b4f-0e2b108f660a",
     "company_name": "Revvity",
     "company_url": "https://simplify.jobs/c/Revvity",
@@ -8144,6 +8056,24 @@
     "program": "cs"
   },
   {
+    "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
+    "company_name": "SOTI",
+    "company_url": "https://simplify.jobs/c/SOTI",
+    "title": "Product Manager Intern - Sales Enablement Products",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1778767715,
+    "date_updated": 1778768559,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "f20fbf83-d899-41f4-a660-9c88cdebc5f9",
     "company_name": "Samsung Research America",
     "company_url": "https://simplify.jobs/c/Samsung-Research-America",
@@ -8484,6 +8414,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
+    "company_name": "Solar Turbines",
+    "company_url": "https://simplify.jobs/c/Solar-Turbines",
+    "title": "Gas Turbine Products Engineering Intern",
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784160000,
+    "date_updated": 1784209221,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "45798e16-2cea-4d21-91df-f4c604c2e02b",
@@ -11724,24 +11672,6 @@
     "date_posted": 1783030493,
     "date_updated": 1783031941,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2bef29e6-fbc8-4d38-bf89-2ea3edabb152",
-    "company_name": "UL Solutions",
-    "company_url": "https://simplify.jobs/c/UL-Solutions",
-    "title": "Software Development Intern",
-    "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9366",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781638808,
-    "date_updated": 1781643062,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
