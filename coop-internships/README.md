@@ -13,13 +13,13 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**680 active US/Canada co-op & intern listings** · 572 CS/software · 108 other programs · 0 inactive · Last updated: 2026-07-15 21:44 ET
+**678 active US/Canada co-op & intern listings** · 570 CS/software · 108 other programs · 0 inactive · Last updated: 2026-07-16 03:55 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
 ## Canada
 
-### CS / Software (75)
+### CS / Software (74)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -74,7 +74,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Nokia | Data Science Co-op/Intern | Ottawa, ON, Canada | 2026-04-14 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) |
 | Nokia | Embedded C/C++ Software Developer Co-op/Intern | Ottawa, ON, Canada | 2026-05-20 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) |
 | Nuclear Promise X | AI Developer Co-op | Canada | 2026-05-18 | [Apply](https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2/application) |
-| OLG | Data Scientist Co-op | Toronto, ON, Canada | 2026-07-08 | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Student_R26_00479) |
 | Orennia | Analytics Intern | Calgary, AB, Canada | 2026-07-07 | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008) |
 | PartnerRe | Business Data Analyst Co-op | Toronto, ON, Canada | 2026-07-14 | [Apply](https://careers.partnerre.com/job/Toronto-Business-Data-Analyst-Student-ON/1414882233/?ats=successfactors) |
 | RTX | Transformation numerique Intern - Digital Transformation | Longueuil, QC, Canada | 2026-07-12 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099) |
@@ -120,7 +119,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (470)
+### CS / Software (469)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -333,7 +332,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | National Laboratory of the Rockies | Energy Data Analysis Intern | Golden, CO | 2026-07-12 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/Energy-Data-Analysis----Year-Round--Graduate-Internship_R14400) |
 | National Laboratory of the Rockies | Graduate Intern - Transportation Systems Analysis | Golden, CO | 2026-07-13 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153) |
 | Navaide | Technology & Innovation Intern | Arlington, VA, San Diego, CA | 2026-06-17 | [Apply](https://navaide.breezy.hr/p/3fe610df21d6/apply) |
-| Navy Federal | Frontend Application Engineer Intern | Pensacola, FL, Vienna, VA | 2026-07-14 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776) |
 | Navy Federal | Year Round Intern - Business Intelligence Analyst | Winchester, VA, Vienna, VA | 2026-07-14 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/30289) |
 | Nelnet | AI Engineer Intern | Lincoln, NE | 2026-06-18 | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
 | Neuralink | Machine Learning Engineer Intern | Fremont, CA | 2026-05-12 | [Apply](https://boards.greenhouse.io/neuralink/jobs/6594261003) |
@@ -413,6 +411,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Sandhills Global | Software Development Intern | Scottsdale, AZ | 2026-06-23 | [Apply](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern) |
 | Saronic | Enterprise Technology Intern - AI and Automation | Austin, TX | 2026-07-02 | [Apply](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3/application) |
 | Saronic | Software Engineer Intern | Austin, TX | 2026-06-29 | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application) |
+| Schweitzer Engineering Laboratories | Software Engineering Intern | Round Rock, TX | 2026-07-07 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720) |
 | Sentara Health | Enterprise Data & AI Intern | Virginia Beach, VA | 2026-07-14 | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685) |
 | ServiceNow | Futures Summit Intern | West Palm Beach, FL | 2026-06-02 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000129860849) |
 | SharkNinja | Applied AI & Analytics Co-op | Miami, FL | 2026-04-02 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006) |
@@ -467,7 +466,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Tesla | Data Capture Engineering Intern - Data Capture Application Engineer - Energy Engineering | Palo Alto, CA | 2026-06-16 | [Apply](https://www.tesla.com/careers/search/job/273927) |
 | Tesla | Data Engineer Intern - Applications Engineering | Fremont, CA | 2026-06-29 | [Apply](https://www.tesla.com/careers/search/job/272928) |
 | Tesla | Data Engineer Intern - Data Engineer - Energy | Palo Alto, CA | 2026-06-06 | [Apply](https://www.tesla.com/careers/search/job/271331) |
-| Tesla | Data Engineer Intern - Multiple Teams | Palo Alto, CA | 2026-05-06 | [Apply](https://www.tesla.com/careers/search/job/269828) |
 | Tesla | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | 2026-05-06 | [Apply](https://www.tesla.com/careers/search/job/269819) |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | 2026-06-07 | [Apply](https://www.tesla.com/careers/search/job/270618) |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | 2026-06-16 | [Apply](https://www.tesla.com/careers/search/job/274047) |

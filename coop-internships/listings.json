@@ -6097,25 +6097,6 @@
     "program": "cs"
   },
   {
-    "id": "4e9240aa-a379-4464-a140-2114eff885a2",
-    "company_name": "Navy Federal",
-    "company_url": "https://simplify.jobs/c/Navy-Federal",
-    "title": "Frontend Application Engineer Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776",
-    "locations": [
-      "Pensacola, FL",
-      "Vienna, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784066943,
-    "date_updated": 1784068009,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "9c4450f8-1d47-4583-9fa1-88cd8b48025a",
     "company_name": "Navy Federal",
     "company_url": "https://simplify.jobs/c/Navy-Federal",
@@ -6456,24 +6437,6 @@
     "date_posted": 1779152915,
     "date_updated": 1779152941,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "464d3bee-1f3b-477c-ac68-50ee629f3a9d",
-    "company_name": "OLG",
-    "company_url": "https://simplify.jobs/c/OLG",
-    "title": "Data Scientist Co-op",
-    "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Student_R26_00479",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783519649,
-    "date_updated": 1783520597,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -8255,6 +8218,24 @@
     "program": "cs"
   },
   {
+    "id": "c397c573-0849-4481-968f-9dd2b5b1ab87",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "company_url": "https://simplify.jobs/c/SEL",
+    "title": "Software Engineering Intern",
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720",
+    "locations": [
+      "Round Rock, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783462685,
+    "date_updated": 1783463870,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "60991e37-67ca-469f-8e49-c284d1974106",
     "company_name": "Seaspan",
     "company_url": "https://simplify.jobs/c/Seaspan",
@@ -9521,24 +9502,6 @@
     "source": "simplify",
     "date_posted": 1780794591,
     "date_updated": 1780795457,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "60a4718f-a0f3-41c8-99e8-7e1535bd4516",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Data Engineer Intern - Multiple Teams",
-    "url": "https://www.tesla.com/careers/search/job/269828",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778050864,
-    "date_updated": 1778051046,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
