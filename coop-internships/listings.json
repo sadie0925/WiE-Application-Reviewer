@@ -2584,6 +2584,24 @@
     "program": "cs"
   },
   {
+    "id": "a9c0f61f-1d7a-470d-9bcc-d4e4c85a0b36",
+    "company_name": "City of Charlotte",
+    "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
+    "title": "Management Analyst Intern - Research and Planning Division",
+    "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784246400,
+    "date_updated": 1784298181,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "980b782f-08f5-4d65-8cde-74e2a0a76186",
     "company_name": "Clarity Innovations",
     "company_url": "https://simplify.jobs/c/Clarity-Innovations",
@@ -4470,24 +4488,6 @@
     "program": "cs"
   },
   {
-    "id": "7717c612-0855-40d4-8f2d-ceb5c5bc2d57",
-    "company_name": "Hitachi Energy",
-    "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
-    "title": "Software Analyst Intern",
-    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Burnaby-British-Columbia-Canada/Software-Analyst-Intern--Fall-2026--4-8-12-months-_R1012892-1",
-    "locations": [
-      "Burnaby, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783417388,
-    "date_updated": 1783417861,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8990370a-d091-498f-98bb-082a18262cfa",
     "company_name": "Hone Health",
     "company_url": "https://simplify.jobs/c/Hone-Health",
@@ -5121,24 +5121,6 @@
     "program": "cs"
   },
   {
-    "id": "4401a54c-67ae-4c00-b345-06a085c8844b",
-    "company_name": "KLA",
-    "company_url": "",
-    "title": "AI & Process Automation Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/AI---Process-Automation-Intern_2532515-1",
-    "locations": [
-      "Ann Arbor, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1763569512,
-    "date_updated": 1763569512,
-    "category": "Data Science, AI & Machine Learning",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "e3b700af-e7ed-4996-8e20-210929055da8",
     "company_name": "KPH Healthcare Services",
     "company_url": "https://simplify.jobs/c/KPH-Healthcare-Services",
@@ -5391,24 +5373,6 @@
     "program": "other"
   },
   {
-    "id": "6aed2ed8-771a-4522-b036-0441ac28a101",
-    "company_name": "Legrand North America",
-    "company_url": "https://simplify.jobs/c/Legrand-North-America",
-    "title": "Applied Data Analytics Intern",
-    "url": "https://jobs-legrand.icims.com/jobs/10117/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Syracuse, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779746684,
-    "date_updated": 1779835502,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "d565c190-51ef-4bd5-af51-6c97526c1a1a",
     "company_name": "Lennox International",
     "company_url": "https://simplify.jobs/c/Lennox-International",
@@ -5423,6 +5387,24 @@
     "date_posted": 1776377042,
     "date_updated": 1776377161,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
+    "company_name": "LexisNexis Risk Solutions",
+    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+    "title": "Editorial Data Reporting Intern",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783722508,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -7344,6 +7326,24 @@
     "program": "cs"
   },
   {
+    "id": "e3832dea-fb21-489b-b1cb-1dd91cd40a1e",
+    "company_name": "Pennsylvania State University",
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "title": "Nittany AI Intern",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Nittany-AI-Innovator_REQ_0000080373-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784246400,
+    "date_updated": 1784297734,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "4284c1a9-1025-463f-97ee-3b175776e726",
     "company_name": "Periodic Labs",
     "company_url": "https://simplify.jobs/c/Periodic-Labs",
@@ -7724,60 +7724,6 @@
     "program": "cs"
   },
   {
-    "id": "972e03ef-c056-4f91-b82e-b8a7547ba855",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Digital Project Engineer Intern - Digital Project Engineering",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887-1",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784067386,
-    "date_updated": 1784283527,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ffbb5a63-45f4-4589-8f3e-814233effd30",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Digital Project Engineer Intern - Digital Project Engineering",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784153865,
-    "date_updated": 1784291252,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4add536b-2385-45cb-a5b4-45157793163e",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Transformation numerique Intern - Digital Transformation",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099",
-    "locations": [
-      "Longueuil, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783900800,
-    "date_updated": 1783952889,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "6d5e8652-a493-422e-ba2a-0811ef8f8cff",
     "company_name": "Radix Trading",
     "company_url": "https://simplify.jobs/c/Radix-Trading",
@@ -7847,24 +7793,6 @@
     "date_updated": 1781791841,
     "category": "Hardware",
     "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "7268da41-7d8d-4639-8007-09b1e8a2aeb9",
-    "company_name": "Reacher",
-    "company_url": "",
-    "title": "Software Engineering Intern",
-    "url": "https://jobs.ashbyhq.com/reacher/99eb7e94-ebde-41c6-acae-efef58d3babe",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1763569750,
-    "date_updated": 1763569750,
-    "category": "Software Engineering",
-    "sponsorship": "Does Not Offer Sponsorship",
     "program": "cs"
   },
   {
