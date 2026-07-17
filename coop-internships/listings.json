@@ -252,6 +252,24 @@
     "program": "other"
   },
   {
+    "id": "8c643851-d7eb-41d5-9c08-aa99ae659141",
+    "company_name": "Acceldata",
+    "company_url": "https://simplify.jobs/c/Acceldata",
+    "title": "Software Engineering Co-op",
+    "url": "https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply",
+    "locations": [
+      "Kitchener, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1778306803,
+    "date_updated": 1778306941,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "8b5a3466-7c18-4d0d-8bd5-93107823d12e",
     "company_name": "Accenture",
     "company_url": "https://simplify.jobs/c/Accenture-FS",
@@ -2894,24 +2912,6 @@
     "program": "cs"
   },
   {
-    "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
-    "company_name": "Copart",
-    "company_url": "https://simplify.jobs/c/Copart",
-    "title": "Software Engineer Intern",
-    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784073600,
-    "date_updated": 1784124669,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
     "company_name": "Copart",
     "company_url": "https://simplify.jobs/c/Copart",
@@ -3396,24 +3396,6 @@
     "date_posted": 1778882606,
     "date_updated": 1778882877,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
-    "company_name": "Duke University",
-    "company_url": "https://simplify.jobs/c/Duke-University",
-    "title": "Administrative Intern - Sanford School of Public Policy",
-    "url": "https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors",
-    "locations": [
-      "Durham, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780437900,
-    "date_updated": 1780911538,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -3917,6 +3899,24 @@
     "source": "simplify",
     "date_posted": 1782252548,
     "date_updated": 1782252904,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "6d7eaee5-c397-4318-a363-1aca5bdb6bde",
+    "company_name": "Formlabs",
+    "company_url": "https://simplify.jobs/c/Formlabs",
+    "title": "Supply Chain Operations Software Intern",
+    "url": "https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784280488,
+    "date_updated": 1784283304,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -5589,6 +5589,24 @@
     "program": "cs"
   },
   {
+    "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
+    "company_name": "Magna",
+    "company_url": "https://simplify.jobs/c/Magna",
+    "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784160000,
+    "date_updated": 1784290069,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
     "company_name": "Magna",
     "company_url": "https://simplify.jobs/c/Magna",
@@ -5621,24 +5639,6 @@
     "date_posted": 1781791885,
     "date_updated": 1781792687,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
-    "company_name": "Magna",
-    "company_url": "https://simplify.jobs/c/Magna",
-    "title": "Systems Engineer Intern",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413",
-    "locations": [
-      "Southfield, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781273413,
-    "date_updated": 1781274060,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -7724,6 +7724,60 @@
     "program": "cs"
   },
   {
+    "id": "972e03ef-c056-4f91-b82e-b8a7547ba855",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Digital Project Engineer Intern - Digital Project Engineering",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887-1",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784067386,
+    "date_updated": 1784283527,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "ffbb5a63-45f4-4589-8f3e-814233effd30",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Digital Project Engineer Intern - Digital Project Engineering",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784153865,
+    "date_updated": 1784291252,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "4add536b-2385-45cb-a5b4-45157793163e",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Transformation numerique Intern - Digital Transformation",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783900800,
+    "date_updated": 1783952889,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "6d5e8652-a493-422e-ba2a-0811ef8f8cff",
     "company_name": "Radix Trading",
     "company_url": "https://simplify.jobs/c/Radix-Trading",
@@ -7827,6 +7881,24 @@
     "source": "simplify",
     "date_posted": 1776895676,
     "date_updated": 1776896747,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
+    "company_name": "Regal Rexnord",
+    "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+    "title": "Lab Co-op",
+    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Lab-Co-Op--Fall-2026-_R26_02156",
+    "locations": [
+      "Vandalia, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1778019004,
+    "date_updated": 1778019841,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
