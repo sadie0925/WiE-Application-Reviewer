@@ -1226,42 +1226,6 @@
     "program": "cs"
   },
   {
-    "id": "951ea1eb-5dba-4124-a68e-3b001ca355d9",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Data Scientist Co-op/Internship - Months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783462710,
-    "date_updated": 1783463899,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5e294159-e3e6-40db-afb9-65ff63749aa3",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Data Scientist Co-op/Internship - Months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783462635,
-    "date_updated": 1783463745,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "d8d464b4-b131-453f-ae9a-2db23f02f687",
     "company_name": "Barclays",
     "company_url": "",
@@ -10893,24 +10857,6 @@
     "date_posted": 1782771121,
     "date_updated": 1782772021,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8c876217-e8c7-4d37-9703-ecd3485077ae",
-    "company_name": "Torch Technologies",
-    "company_url": "https://simplify.jobs/c/Torch-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784160000,
-    "date_updated": 1784241364,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
