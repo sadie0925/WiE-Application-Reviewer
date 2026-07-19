@@ -1950,6 +1950,25 @@
     "program": "cs"
   },
   {
+    "id": "513d3867-26bc-4203-8cd2-ade981572975",
+    "company_name": "CHEP",
+    "company_url": "https://simplify.jobs/c/060f3244-8261-437d-837f-2f8bce40f7a4",
+    "title": "FP&A Business Intelligence Intern",
+    "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+    "locations": [
+      "Orlando, FL",
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780668331,
+    "date_updated": 1780668632,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
     "company_name": "Cadence Design Systems",
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
@@ -3360,24 +3379,6 @@
     "date_posted": 1783721242,
     "date_updated": 1783721957,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
-    "company_name": "FHLBank Topeka",
-    "company_url": "https://simplify.jobs/c/FHLBank-Topeka",
-    "title": "Financial Analyst Intern",
-    "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
-    "locations": [
-      "Topeka, KS"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779527840,
-    "date_updated": 1779876357,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -4920,24 +4921,6 @@
     "program": "cs"
   },
   {
-    "id": "3206a3c7-6479-4c8b-a740-4ef15061ca24",
-    "company_name": "Light & Wonder",
-    "company_url": "https://simplify.jobs/c/Light-And-Wonder",
-    "title": "Mathematics Intern",
-    "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Math-Intern_R322327",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782511486,
-    "date_updated": 1784394284,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "6328a189-9c8c-4d76-a8c2-02dc892720ae",
     "company_name": "Lila Sciences",
     "company_url": "https://simplify.jobs/c/Lila-Sciences",
@@ -5150,6 +5133,24 @@
     "date_posted": 1781791885,
     "date_updated": 1781792687,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
+    "company_name": "Magna",
+    "company_url": "https://simplify.jobs/c/Magna",
+    "title": "Systems Engineer Intern",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1781273413,
+    "date_updated": 1781274060,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6603,6 +6604,24 @@
     "program": "cs"
   },
   {
+    "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
+    "company_name": "Pennsylvania State University",
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1776204516,
+    "date_updated": 1776242398,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "4284c1a9-1025-463f-97ee-3b175776e726",
     "company_name": "Periodic Labs",
     "company_url": "https://simplify.jobs/c/Periodic-Labs",
@@ -7050,6 +7069,24 @@
     "source": "simplify",
     "date_posted": 1776895676,
     "date_updated": 1776896747,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
+    "company_name": "Regal Rexnord",
+    "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+    "title": "Lab Co-op",
+    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Lab-Co-Op--Fall-2026-_R26_02156",
+    "locations": [
+      "Vandalia, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1778019004,
+    "date_updated": 1778019841,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
