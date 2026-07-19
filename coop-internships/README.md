@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**639 active US/Canada co-op & intern listings** · 538 CS/software · 101 other programs · 0 inactive · Last updated: 2026-07-19 08:54 ET
+**639 active US/Canada co-op & intern listings** · 538 CS/software · 101 other programs · 0 inactive · Last updated: 2026-07-19 14:51 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -680,7 +680,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
-| Advantmed | AI Automation Intern | Remote in USA | 2025-11-21 | [Apply](https://apply.workable.com/advantmed/j/45F5E3C394/) |
 | Binance | Software Engineer Intern | Remote in USA | 2026-06-24 | [Apply](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application) |
 | Clerkie | Software Engineer Intern | Remote in USA | 2026-06-02 | [Apply](http://getfiber.ai/careers?gh_jid=5152467007) |
 | Cotiviti | AI Engineer Intern | Remote in USA | 2026-07-09 | [Apply](https://careers-cotiviti.icims.com/jobs/19531/job?mobile=true&needsRedirect=false) |
@@ -688,6 +687,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Cresta | Data Science Intern - Customer Success | Remote in USA | 2026-05-07 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
 | Deepgram | Software Engineer Intern | Remote in USA | 2026-07-17 | [Apply](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) |
 | Hone Health | Data Engineering Intern | Remote in USA | 2026-07-08 | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
+| LexisNexis Risk Solutions | Editorial Data Reporting Intern | Remote in USA | 2026-07-09 | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) |
 | MyEmployment | AI Product Engineer Intern | Remote in US | 2026-06-23 | [Apply](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) |
 | Symmetry Systems | Full Stack Software Engineer Intern | Remote in USA | 2025-12-16 | [Apply](https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65/apply) |
 | Two Six Technologies | China Subject Matter Expert Intern | Remote in USA | 2026-07-02 | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) |
