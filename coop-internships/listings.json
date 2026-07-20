@@ -2551,24 +2551,6 @@
     "program": "cs"
   },
   {
-    "id": "6ab465b6-9bbd-4003-b0c0-b76c76d4ceaf",
-    "company_name": "Copart",
-    "company_url": "https://simplify.jobs/c/Copart",
-    "title": "Software Engineering Intern",
-    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106983",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770766024,
-    "date_updated": 1770766024,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
     "company_name": "Corpay",
     "company_url": "https://simplify.jobs/c/Corpay",
@@ -3687,6 +3669,43 @@
     "date_posted": 1769182182,
     "date_updated": 1769182182,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
+    "company_name": "GE Healthcare",
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "title": "Engineering Development Program Intern - Hardware",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1",
+    "locations": [
+      "Twinsburg, OH",
+      "Waukesha, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784505600,
+    "date_updated": 1784557847,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
+    "company_name": "GE Healthcare",
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "title": "Engineering Development Program Intern - Software",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
+    "locations": [
+      "Waukesha, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784505600,
+    "date_updated": 1784559831,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -5335,24 +5354,6 @@
     "program": "cs"
   },
   {
-    "id": "1274597e-7eae-4cdf-9743-7cc810bd3531",
-    "company_name": "McKesson",
-    "company_url": "https://simplify.jobs/c/McKesson",
-    "title": "Supply Chain Engineering and Analytics Intern",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819",
-    "locations": [
-      "Surrey, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783029880,
-    "date_updated": 1783030291,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "74a463ca-e5ee-4f23-ab53-9a132f2123b2",
     "company_name": "Medical Informatics Engineering",
     "company_url": "https://simplify.jobs/c/Medical-Informatics-Engineering",
@@ -5657,24 +5658,6 @@
     "category": "Data Science, AI & Machine Learning",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "335d47b1-5a15-4ba4-8d65-94a8b563ff34",
-    "company_name": "NXP Semiconductors",
-    "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-    "title": "Digital Verification Engineer Intern",
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Engineer-Intern---Fall-2026_R-10064107",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782252264,
-    "date_updated": 1782253621,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "9d4d4142-dae0-42bc-897a-5f7b37800d08",
@@ -6908,24 +6891,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "317d57d2-a3a8-464a-83f5-2030397de656",
-    "company_name": "QuEra Computing",
-    "company_url": "https://simplify.jobs/c/QuEra-Computing",
-    "title": "Photonics Data Engineer Intern - Data Management",
-    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780438861,
-    "date_updated": 1780440037,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "683140b0-3387-4bc2-b341-7ea5fa65f78f",
