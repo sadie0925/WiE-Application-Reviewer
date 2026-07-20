@@ -13,13 +13,13 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**634 active US/Canada co-op & intern listings** · 533 CS/software · 101 other programs · 0 inactive · Last updated: 2026-07-19 23:17 ET
+**632 active US/Canada co-op & intern listings** · 531 CS/software · 101 other programs · 0 inactive · Last updated: 2026-07-20 04:40 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
 ## Canada
 
-### CS / Software (66)
+### CS / Software (65)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -31,7 +31,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Arcadis | Disaster and Climate Resilience Co-op | Vancouver, BC, Canada | 2026-07-14 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42479) |
 | Astera Labs | Firmware Engineer Intern | Vancouver, BC, Canada | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005) |
 | Astera Labs | Platform Applications Engineer Intern Co-op | Vancouver, BC, Canada | 2026-05-26 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005) |
-| BDO Canada | Indirect Tax Intern Co-op - Indirect Tax | Toronto, ON, Canada, Markham, ON, Canada (+1) | 2026-07-12 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Fall-2026--GTA-Offices_JR6580) |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | 2026-02-17 | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) |
 | CAE | AI Intern | Montreal, QC, Canada | 2026-07-15 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-106---AI-Intern_122744) |
 | CAE | Data Specialist Intern | Montreal, QC, Canada | 2026-07-15 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741) |
@@ -671,7 +670,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## Remote
 
-### CS / Software (15)
+### CS / Software (14)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -682,7 +681,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Cresta | Data Science Intern - Customer Success | Remote in USA | 2026-05-07 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
 | Deepgram | Software Engineer Intern | Remote in USA | 2026-07-17 | [Apply](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) |
 | Hone Health | Data Engineering Intern | Remote in USA | 2026-07-08 | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
-| LexisNexis Risk Solutions | Editorial Data Reporting Intern | Remote in USA | 2026-07-09 | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) |
 | MyEmployment | AI Product Engineer Intern | Remote in US | 2026-06-23 | [Apply](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) |
 | Symmetry Systems | Full Stack Software Engineer Intern | Remote in USA | 2025-12-16 | [Apply](https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65/apply) |
 | Two Six Technologies | China Subject Matter Expert Intern | Remote in USA | 2026-07-02 | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) |

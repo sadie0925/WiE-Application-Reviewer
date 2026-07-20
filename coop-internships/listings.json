@@ -1170,26 +1170,6 @@
     "program": "cs"
   },
   {
-    "id": "7f86a888-d698-45ae-b11a-7f53afe01ccd",
-    "company_name": "BDO Canada",
-    "company_url": "https://simplify.jobs/c/BDO-Canada",
-    "title": "Indirect Tax Intern Co-op - Indirect Tax",
-    "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Fall-2026--GTA-Offices_JR6580",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Markham, ON, Canada",
-      "Oakville, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783900800,
-    "date_updated": 1783980631,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "3b42c248-89b6-4e59-94bc-3d92930dbd27",
     "company_name": "BSE Global",
     "company_url": "https://simplify.jobs/c/Bse-Global",
@@ -4899,24 +4879,6 @@
     "date_posted": 1776377042,
     "date_updated": 1776377161,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
-    "company_name": "LexisNexis Risk Solutions",
-    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-    "title": "Editorial Data Reporting Intern",
-    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783641600,
-    "date_updated": 1783722508,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
