@@ -3345,6 +3345,24 @@
     "program": "cs"
   },
   {
+    "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
+    "company_name": "FHLBank Topeka",
+    "company_url": "https://simplify.jobs/c/FHLBank-Topeka",
+    "title": "Financial Analyst Intern",
+    "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
+    "locations": [
+      "Topeka, KS"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1779527840,
+    "date_updated": 1779876357,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "9609650c-e6a6-42c1-87ab-3b9293ce3259",
     "company_name": "Fanatics",
     "company_url": "https://simplify.jobs/c/Fanatics",
@@ -3632,6 +3650,24 @@
     "source": "simplify",
     "date_posted": 1783900800,
     "date_updated": 1783981019,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
+    "company_name": "GE Appliances",
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "title": "Engineering Intern/Co-op",
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
+    "locations": [
+      "Calhoun, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1775299204,
+    "date_updated": 1775303474,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -6566,24 +6602,6 @@
     "program": "cs"
   },
   {
-    "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
-    "company_name": "Pennsylvania State University",
-    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-    "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1",
-    "locations": [
-      "State College, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776204516,
-    "date_updated": 1776242398,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "4284c1a9-1025-463f-97ee-3b175776e726",
     "company_name": "Periodic Labs",
     "company_url": "https://simplify.jobs/c/Periodic-Labs",
@@ -7031,24 +7049,6 @@
     "source": "simplify",
     "date_posted": 1776895676,
     "date_updated": 1776896747,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
-    "company_name": "Regal Rexnord",
-    "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
-    "title": "Lab Co-op",
-    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Lab-Co-Op--Fall-2026-_R26_02156",
-    "locations": [
-      "Vandalia, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778019004,
-    "date_updated": 1778019841,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -8257,24 +8257,6 @@
     "program": "other"
   },
   {
-    "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
-    "company_name": "Tencent",
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "title": "Game Research & Development Intern - Engine Research",
-    "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776982042,
-    "date_updated": 1776982844,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
     "company_name": "Tencent",
     "company_url": "https://simplify.jobs/c/Tencent",
@@ -8360,24 +8342,6 @@
     "source": "simplify",
     "date_posted": 1766370010,
     "date_updated": 1766370010,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f083247a-cf19-43ae-8834-7db704881503",
-    "company_name": "Tencent",
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "title": "Multimedia Development Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780535299,
-    "date_updated": 1780535476,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
