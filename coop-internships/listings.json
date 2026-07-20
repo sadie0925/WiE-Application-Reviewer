@@ -7916,78 +7916,6 @@
     "program": "cs"
   },
   {
-    "id": "283f7d1d-4364-49dc-a0f1-674fe71b7fb8",
-    "company_name": "Stevens Capital Management",
-    "company_url": "https://simplify.jobs/c/SCM",
-    "title": "Developer Intern",
-    "url": "https://job-boards.greenhouse.io/scminternships/jobs/1146391",
-    "locations": [
-      "Villanova, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1763767822,
-    "date_updated": 1763767822,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d873eaf5-b5a9-4677-89fb-c98543c04428",
-    "company_name": "Stevens Capital Management",
-    "company_url": "https://simplify.jobs/c/SCM",
-    "title": "Developer Internship",
-    "url": "https://job-boards.greenhouse.io/ftandinternships/jobs/1304476",
-    "locations": [
-      "Villanova, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1763767817,
-    "date_updated": 1763767817,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e370315a-2fa0-4c29-8878-e0f3de2d1386",
-    "company_name": "Stevens Capital Management",
-    "company_url": "https://simplify.jobs/c/SCM",
-    "title": "Quantitative Research Analyst Intern",
-    "url": "https://job-boards.greenhouse.io/ftandinternships/jobs/1304473",
-    "locations": [
-      "Villanova, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1763767813,
-    "date_updated": 1763767813,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "7bbab239-1693-4eb7-a90e-e56f9a8a9e5e",
-    "company_name": "Stevens Capital Management",
-    "company_url": "https://simplify.jobs/c/SCM",
-    "title": "Quantitative Research Analyst Internship",
-    "url": "https://job-boards.greenhouse.io/scminternships/jobs/1146416",
-    "locations": [
-      "Villanova, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1763767818,
-    "date_updated": 1763767818,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "2845d21e-63c0-4afb-b882-9a71cd501850",
     "company_name": "Stoke Space",
     "company_url": "https://simplify.jobs/c/Stoke-Space",
@@ -8290,24 +8218,6 @@
     "date_posted": 1763999898,
     "date_updated": 1763999898,
     "category": "Software Engineering",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "214f12da-7d0d-4625-96b9-108cc4ed94ce",
-    "company_name": "TENEX.AI",
-    "company_url": "https://simplify.jobs/c/TENEX-AI",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304/application",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1763770704,
-    "date_updated": 1763770704,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },

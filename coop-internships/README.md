@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**639 active US/Canada co-op & intern listings** · 538 CS/software · 101 other programs · 0 inactive · Last updated: 2026-07-19 14:51 ET
+**634 active US/Canada co-op & intern listings** · 533 CS/software · 101 other programs · 0 inactive · Last updated: 2026-07-19 23:17 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -109,7 +109,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (455)
+### CS / Software (450)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -401,10 +401,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Sony | Software Engineer Intern | San Diego, CA | 2026-06-17 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) |
 | SpaceX | Software Engineering Intern/Co-op | Bastrop, TX, Irvine, CA (+6) | 2026-03-16 | [Apply](https://boards.greenhouse.io/spacex/jobs/8403219002) |
 | Sparksoft | Data Development Intern | Columbia, MD | 2026-07-15 | [Apply](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5187532007) |
-| Stevens Capital Management | Developer Intern | Villanova, PA | 2025-11-21 | [Apply](https://job-boards.greenhouse.io/scminternships/jobs/1146391) |
-| Stevens Capital Management | Developer Internship | Villanova, PA | 2025-11-21 | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304476) |
-| Stevens Capital Management | Quantitative Research Analyst Intern | Villanova, PA | 2025-11-21 | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304473) |
-| Stevens Capital Management | Quantitative Research Analyst Internship | Villanova, PA | 2025-11-21 | [Apply](https://job-boards.greenhouse.io/scminternships/jobs/1146416) |
 | Stoke Space | Software Intern - Software | Kent, WA | 2026-05-04 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=5987663004) |
 | Sundt | Support Group Intern - Artificial Intelligence | Tempe, AZ | 2026-06-05 | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10300) |
 | Sundt | Support Group Intern - Data Engineering | Tempe, AZ | 2026-03-05 | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9662) |
@@ -419,7 +415,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Susquehanna International Group (SIG) | Technology Co-op | Ardmore, PA | 2026-07-01 | [Apply](https://careers-sig.icims.com/jobs/11159/job?mobile=true&needsRedirect=false) |
 | Susquehanna International Group (SIG) | Trading System Engineering Intern | Ardmore, PA | 2026-04-23 | [Apply](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) |
 | TENEX.AI | Software Engineer Intern | San Jose, CA | 2025-11-24 | [Apply](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) |
-| TENEX.AI | Software Engineer Intern | San Jose, CA | 2025-11-21 | [Apply](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304/application) |
 | TIFIN | AI Engineering Intern | Charlotte, NC, Boulder, CO | 2026-04-24 | [Apply](https://tifin.com/careers/apply/?gh_jid=5981740004) |
 | TMEIC | Intern - Applications, AI and Machine Learning | Roanoke, VA | 2026-05-01 | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) |
 | Tencent | Game Research & Development Intern - Engine Research | Bellevue, WA | 2026-04-23 | [Apply](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363) |
