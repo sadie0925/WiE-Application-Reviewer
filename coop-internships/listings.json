@@ -973,24 +973,6 @@
     "program": "other"
   },
   {
-    "id": "8229df40-7faa-475d-8805-f0c10dad0a39",
-    "company_name": "Aptiv",
-    "company_url": "https://simplify.jobs/c/Aptiv",
-    "title": "Engineer Intern",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250",
-    "locations": [
-      "Kanata, Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784160000,
-    "date_updated": 1784240569,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "edf05719-a4c3-410a-8e40-e6506e1e7844",
     "company_name": "Aptiv",
     "company_url": "https://simplify.jobs/c/Aptiv",
@@ -1603,6 +1585,24 @@
     "date_posted": 1779844123,
     "date_updated": 1779844183,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "01b270c0-bcc3-4a92-9479-f42a11d910d0",
+    "company_name": "Bee Sweet Citrus",
+    "company_url": "https://simplify.jobs/c/7fc571b3-1ef3-49f1-afa3-c425f6c6d35e",
+    "title": "Data Processing Intern - Multiple Teams",
+    "url": "https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern",
+    "locations": [
+      "Fresno, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784787711,
+    "date_updated": 1784789567,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -2750,42 +2750,6 @@
     "program": "cs"
   },
   {
-    "id": "9ec52711-cf87-406e-83ad-c5bb73c1e65d",
-    "company_name": "Chicago Trading Company",
-    "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
-    "title": "Quant Trading Intern",
-    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784585922,
-    "date_updated": 1784587636,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5fdbf0e9-e98a-4251-b983-801d494ae586",
-    "company_name": "Chicago Trading Company",
-    "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
-    "title": "Software Engineering Intern",
-    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784585921,
-    "date_updated": 1784587638,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "42d6ca6a-8aa6-404b-a0fa-0251620e1565",
     "company_name": "Ciena",
     "company_url": "https://simplify.jobs/c/Ciena",
@@ -3094,6 +3058,24 @@
     "source": "simplify",
     "date_posted": 1780380700,
     "date_updated": 1780380817,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "52bbfd3d-d9c3-4963-9367-97c721bcced4",
+    "company_name": "CloudFit Software",
+    "company_url": "https://simplify.jobs/c/b76d8161-7a57-4a7e-a01a-0a646b7a2037",
+    "title": "CloudFit Software Internship - Company name withheld",
+    "url": "https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027",
+    "locations": [
+      "Lynchburg, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784787346,
+    "date_updated": 1784788429,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -3567,60 +3549,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "e7fc3ab1-8a1d-4b71-b1aa-d3179e9244f9",
-    "company_name": "DRW",
-    "company_url": "https://simplify.jobs/c/DRW",
-    "title": "Quantitative Research Intern",
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783980952,
-    "date_updated": 1783982881,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "82a9dd04-7074-414b-8928-07e34a66ca17",
-    "company_name": "DRW",
-    "company_url": "https://simplify.jobs/c/DRW",
-    "title": "Quantitative Trading Analyst Intern",
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783980952,
-    "date_updated": 1783981441,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d1bb038f-04a0-4995-9bcc-ff779f3a2054",
-    "company_name": "DRW",
-    "company_url": "https://simplify.jobs/c/DRW",
-    "title": "Software Developer Intern",
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783980957,
-    "date_updated": 1783982881,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "9d3f1c22-843d-4d5f-822e-542fba89e477",
@@ -6090,24 +6018,6 @@
     "program": "cs"
   },
   {
-    "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
-    "company_name": "Kinaxis",
-    "company_url": "https://simplify.jobs/c/Kinaxis",
-    "title": "Software Development Co-op/Intern - C++",
-    "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779671117,
-    "date_updated": 1779671333,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "169ee4eb-3319-4a8b-9ea1-9e765661b92b",
     "company_name": "Later",
     "company_url": "https://simplify.jobs/c/Later",
@@ -7664,24 +7574,6 @@
     "program": "cs"
   },
   {
-    "id": "8975659b-0873-4463-9888-45451e2e150b",
-    "company_name": "NewsBreak",
-    "company_url": "https://simplify.jobs/c/NewsBreak",
-    "title": "Growth Engineer Intern - Growth Engineering",
-    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784067265,
-    "date_updated": 1784070965,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ee5e38e3-bc10-4546-b6de-d39065ac25f1",
     "company_name": "NewsBreak",
     "company_url": "https://simplify.jobs/c/NewsBreak",
@@ -9006,6 +8898,42 @@
     "program": "cs"
   },
   {
+    "id": "e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
+    "company_name": "Rantec Power Systems Inc.",
+    "company_url": "https://simplify.jobs/c/5c001c0b-6adf-491d-843c-2f5e3d92250d",
+    "title": "PCB Design Engineer Intern",
+    "url": "https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern",
+    "locations": [
+      "San Luis Obispo, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784787216,
+    "date_updated": 1784788131,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "9a3e5294-d914-4470-8231-855d92e407d6",
+    "company_name": "Red Bull",
+    "company_url": "https://simplify.jobs/c/Red-Bull",
+    "title": "Data Science Intern - Data Science",
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000139168339",
+    "locations": [
+      "Morristown, NJ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784769002,
+    "date_updated": 1784777455,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
     "company_name": "Regal Rexnord",
     "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
@@ -9055,24 +8983,6 @@
     "source": "simplify",
     "date_posted": 1784073600,
     "date_updated": 1784153524,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "97d542d1-34cd-4cd5-a7fc-6d841b5b0a28",
-    "company_name": "Ribbon",
-    "company_url": "https://simplify.jobs/c/Ribbon",
-    "title": "UI Engineer Co-op",
-    "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Canada--Co-op-_REQ-2026-2965",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782828484,
-    "date_updated": 1782829016,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -9479,6 +9389,24 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "2c1e4de1-dc7c-4c61-a87f-e32d307d8d5c",
+    "company_name": "SPHERIX GLOBAL INSIGHTS US INC",
+    "company_url": "https://simplify.jobs/c/2f8adf2c-7be9-4f3e-b2b7-2592c7eef5c8",
+    "title": "Market Research Insights Intern",
+    "url": "https://spherixglobalinsights.applytojob.com/apply/tXLqnpK9I3/Market-Research-Insights-Internship",
+    "locations": [
+      "Exton, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784787190,
+    "date_updated": 1784788869,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "4261438c-b2b0-4cdc-a13d-9642454eef75",
@@ -10312,6 +10240,79 @@
     "date_posted": 1781638798,
     "date_updated": 1781643090,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "56695ff1-b6c0-40d2-b758-8cdd4c91994b",
+    "company_name": "T. Rowe Price",
+    "company_url": "https://simplify.jobs/c/t-rowe-price",
+    "title": "Global Product Intern",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784764800,
+    "date_updated": 1784790018,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "1a3e9e00-5d2c-4657-be1b-e639c34231eb",
+    "company_name": "T. Rowe Price",
+    "company_url": "https://simplify.jobs/c/t-rowe-price",
+    "title": "Global Trading Intern",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784764800,
+    "date_updated": 1784788293,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "fb1333ce-9156-4a30-a89d-92ec4d2b6185",
+    "company_name": "T. Rowe Price",
+    "company_url": "https://simplify.jobs/c/t-rowe-price",
+    "title": "Quantitative Equity Investing Intern",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784764800,
+    "date_updated": 1784788303,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "911caa98-2914-42a0-82e3-458130b9de36",
+    "company_name": "T. Rowe Price",
+    "company_url": "https://simplify.jobs/c/t-rowe-price",
+    "title": "Technology and Data Intern",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
+    "locations": [
+      "Owings Mills, MD",
+      "Baltimore, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784764800,
+    "date_updated": 1784788305,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -12115,28 +12116,6 @@
     "program": "cs"
   },
   {
-    "id": "1cb48f29-b8a3-47e1-98f2-1a2b893d0027",
-    "company_name": "The Trade Desk",
-    "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
-    "title": "Software Engineering Intern",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
-    "locations": [
-      "Seattle, WA",
-      "Irvine, CA",
-      "Bellevue, WA",
-      "Denver, CO",
-      "Boulder, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784154357,
-    "date_updated": 1784155264,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "340cf1d5-2f86-48ad-ba6d-24877471ebcf",
     "company_name": "The Wonderful Company",
     "company_url": "https://simplify.jobs/c/The-Wonderful-Company",
@@ -13420,6 +13399,24 @@
     "program": "cs"
   },
   {
+    "id": "a998ee7a-7f05-482d-82bb-d6e84da94314",
+    "company_name": "Warner Bros.",
+    "company_url": "https://simplify.jobs/c/Warner-Bros",
+    "title": "Sports Growth Strategy and Data Intern",
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784764800,
+    "date_updated": 1784788128,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "6c56bd42-aaca-45b8-b770-128f543898e0",
     "company_name": "Wealth.com",
     "company_url": "https://simplify.jobs/c/Wealth",
@@ -13567,24 +13564,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "b8d37958-94eb-4403-bf94-50b5a7809a39",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Applications Engineer Intern",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7765099003",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780956931,
-    "date_updated": 1784640782,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "72e1792e-aad9-40a4-9464-641c1c28ccd1",
