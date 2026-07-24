@@ -1229,24 +1229,6 @@
     "program": "cs"
   },
   {
-    "id": "04df6f78-d556-4fc7-964d-e85ebb3a67ff",
-    "company_name": "Axogen",
-    "company_url": "https://simplify.jobs/c/Axogen",
-    "title": "AI/ML Engineer Intern",
-    "url": "https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784844440,
-    "date_updated": 1784845116,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f4bde942-8a53-4997-8a6e-3c3ad226eb46",
     "company_name": "Axos Bank",
     "company_url": "https://simplify.jobs/c/Axos-Bank",
@@ -2395,24 +2377,6 @@
     "program": "cs"
   },
   {
-    "id": "fec42271-5a2c-43cd-8fc9-d3ab4140f87c",
-    "company_name": "Centerstone",
-    "company_url": "https://simplify.jobs/c/Centerstone",
-    "title": "Bachelor Level Intern",
-    "url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-028686-1",
-    "locations": [
-      "Ellenton, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784153400,
-    "date_updated": 1784385541,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "09855ad6-f11c-4939-b41a-39ff8df98ee6",
     "company_name": "Chevron Corporation",
     "company_url": "https://simplify.jobs/c/Chevron-Corporation",
@@ -2427,42 +2391,6 @@
     "date_posted": 1784160000,
     "date_updated": 1784240310,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "42d6ca6a-8aa6-404b-a0fa-0251620e1565",
-    "company_name": "Ciena",
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "title": "Embedded Software Engineer Intern",
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782252271,
-    "date_updated": 1782252361,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8c0e53b2-9855-47d4-a4eb-5a83f80e3e7f",
-    "company_name": "Ciena",
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "title": "Embedded Software Engineer Intern",
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782252271,
-    "date_updated": 1782253621,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -3793,42 +3721,6 @@
     "program": "cs"
   },
   {
-    "id": "e5716292-b894-459b-87fd-e4c3f4077547",
-    "company_name": "Eurofins",
-    "company_url": "https://simplify.jobs/c/Eurofins",
-    "title": "Engineering Intern - Test Engineer",
-    "url": "https://jobs.smartrecruiters.com/Eurofins/744000102591529",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1768001083,
-    "date_updated": 1774956540,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "4cebd7e3-5455-4983-b475-3512278305c2",
-    "company_name": "Eurofins",
-    "company_url": "https://simplify.jobs/c/Eurofins",
-    "title": "Intern",
-    "url": "https://jobs.smartrecruiters.com/Eurofins/744000102593098",
-    "locations": [
-      "Hayward, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1767977283,
-    "date_updated": 1774954621,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
     "company_name": "Evolver",
     "company_url": "https://simplify.jobs/c/Evolver",
@@ -4063,24 +3955,6 @@
     "program": "other"
   },
   {
-    "id": "e45157b9-46dc-4611-a3d0-94318359142c",
-    "company_name": "Formlabs",
-    "company_url": "https://simplify.jobs/c/Formlabs",
-    "title": "Manufacturing Test Software Intern",
-    "url": "https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782252548,
-    "date_updated": 1782252904,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "86bafca9-f202-4817-8184-32aabc6ac975",
     "company_name": "Four Hands",
     "company_url": "https://simplify.jobs/c/Four-Hands",
@@ -4131,43 +4005,6 @@
     "date_posted": 1769182182,
     "date_updated": 1769182182,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
-    "company_name": "GE Healthcare",
-    "company_url": "https://simplify.jobs/c/GE-Healthcare",
-    "title": "Engineering Development Program Intern - Hardware",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1",
-    "locations": [
-      "Twinsburg, OH",
-      "Waukesha, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784505600,
-    "date_updated": 1784557847,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
-    "company_name": "GE Healthcare",
-    "company_url": "https://simplify.jobs/c/GE-Healthcare",
-    "title": "Engineering Development Program Intern - Software",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
-    "locations": [
-      "Waukesha, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784505600,
-    "date_updated": 1784559831,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -5527,24 +5364,6 @@
     "program": "cs"
   },
   {
-    "id": "fbe907df-048b-4499-93d8-d597c25a6efb",
-    "company_name": "Leidos",
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "title": "Signal Processing Technical Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Signal-Processing-Technical-Intern_R-00187499",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784246400,
-    "date_updated": 1784845648,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "6e043ff4-35f3-4dd9-b704-1be62043d4e9",
     "company_name": "Lennox International",
     "company_url": "https://simplify.jobs/c/Lennox-International",
@@ -5577,6 +5396,24 @@
     "date_posted": 1776377042,
     "date_updated": 1776377161,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
+    "company_name": "LexisNexis Risk Solutions",
+    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+    "title": "Editorial Data Reporting Intern",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783722508,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6504,24 +6341,6 @@
     "program": "cs"
   },
   {
-    "id": "c54c2724-23e7-4ffe-a01b-8640a88be59e",
-    "company_name": "Motorola",
-    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-    "title": "Software Engineer Co-op",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R66130",
-    "locations": [
-      "Gatineau, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784764800,
-    "date_updated": 1784847421,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "97e90df1-ce3c-402c-b01a-191b722209e1",
     "company_name": "Multiply Labs",
     "company_url": "",
@@ -6626,24 +6445,6 @@
     "date_posted": 1784596657,
     "date_updated": 1784598398,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9ed0d36f-ac09-4b6a-9e11-cc94757ed49a",
-    "company_name": "NXP Semiconductors",
-    "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-    "title": "AI / Software Engineering Intern",
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784505600,
-    "date_updated": 1784587141,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -9101,24 +8902,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "72d8a4a8-d0c7-40a5-bad9-c085945a7d7e",
-    "company_name": "Spectrum Control",
-    "company_url": "https://simplify.jobs/c/Spectrum-Control",
-    "title": "Engineering Intern",
-    "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Fairview-PA/Engineering-Intern_JR101449",
-    "locations": [
-      "Erie, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784764800,
-    "date_updated": 1784846702,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "2845d21e-63c0-4afb-b882-9a71cd501850",
@@ -11925,24 +11708,6 @@
     "date_posted": 1783290840,
     "date_updated": 1783290961,
     "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
-    "company_name": "Trane Technologies",
-    "company_url": "https://simplify.jobs/c/Trane-Technologies",
-    "title": "Collections Data Analyst Intern",
-    "url": "https://careers.tranetechnologies.com/global/en/job/JR-4222",
-    "locations": [
-      "Winona, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778278090,
-    "date_updated": 1778279025,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
