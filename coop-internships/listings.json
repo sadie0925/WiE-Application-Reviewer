@@ -1084,24 +1084,6 @@
     "program": "cs"
   },
   {
-    "id": "eca14cf3-9cb2-4442-9923-14a6d67b70fd",
-    "company_name": "AtkinsRéalis",
-    "company_url": "https://simplify.jobs/c/AtkinsRealis",
-    "title": "Cost and Data Analyst Intern",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Cost-and-Data-Analyst-Student---Fall_R-158933",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784160000,
-    "date_updated": 1784241720,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "d01c4677-7ce0-40d5-85fe-0ed50a4d160c",
     "company_name": "Atomic Semi",
     "company_url": "",
@@ -5073,24 +5055,6 @@
     "date_updated": 1773236130,
     "category": "Data Science, AI & Machine Learning",
     "sponsorship": "Offers Sponsorship",
-    "program": "cs"
-  },
-  {
-    "id": "d249bf80-6b21-4361-bcab-b047533c7142",
-    "company_name": "Intuit",
-    "company_url": "https://simplify.jobs/c/Intuit",
-    "title": "Software Developer Co-op",
-    "url": "https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782770899,
-    "date_updated": 1782812833,
-    "category": "Software",
-    "sponsorship": "Other",
     "program": "cs"
   },
   {

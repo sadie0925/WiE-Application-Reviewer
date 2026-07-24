@@ -13,13 +13,13 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**708 active US/Canada co-op & intern listings** · 595 CS/software · 113 other programs · 0 inactive · Last updated: 2026-07-23 21:48 ET
+**706 active US/Canada co-op & intern listings** · 593 CS/software · 113 other programs · 0 inactive · Last updated: 2026-07-24 04:07 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
 ## Canada
 
-### CS / Software (74)
+### CS / Software (72)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -29,7 +29,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Apera AI | Software Developer Co-op - C++ | Vancouver, BC, Canada | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007) |
 | Astera Labs | Firmware Engineer Intern | Vancouver, BC, Canada | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005) |
 | Astera Labs | Platform Applications Engineer Intern Co-op | Vancouver, BC, Canada | 2026-05-26 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005) |
-| AtkinsRéalis | Cost and Data Analyst Intern | Mississauga, ON, Canada | 2026-07-15 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Cost-and-Data-Analyst-Student---Fall_R-158933) |
 | Autodesk | Machine Learning Developer Intern | Toronto, ON, Canada | 2026-06-10 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) |
 | Autodesk | Software Developer Intern - Stagiaire en Développement Logiciel | Canada | 2026-05-30 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) |
 | Autodesk | Software Developer Intern - Stagiaire en Développement Logiciel | Canada | 2026-05-30 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1) |
@@ -56,7 +55,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | 2026-07-07 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | 2026-07-07 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1) |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada | 2026-07-01 | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) |
-| Intuit | Software Developer Co-op | Toronto, ON, Canada | 2026-06-29 | [Apply](https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056) |
 | KRAFTON | Programming Intern | Montreal, QC, Canada | 2026-06-30 | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) |
 | Kinaxis | Engineer Co-op/Intern - Data & Analytics | Ottawa, ON, Canada | 2026-05-20 | [Apply](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) |
 | Later | AI Automation Engineer Co-op | Vancouver, BC, Canada | 2026-06-23 | [Apply](https://job-boards.greenhouse.io/later/jobs/8604889002) |
