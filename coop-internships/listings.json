@@ -3232,24 +3232,6 @@
     "program": "other"
   },
   {
-    "id": "6d0287f3-5874-4a1b-acc3-7ecb0018c46f",
-    "company_name": "Dandy",
-    "company_url": "",
-    "title": "Software Engineer, Intern",
-    "url": "https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f",
-    "locations": [
-      "New York, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1764260175,
-    "date_updated": 1764260175,
-    "category": "Software Engineering",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a7d8ee7d-d813-4aac-afa0-b2cc56b8b7f6",
     "company_name": "DataRobot",
     "company_url": "https://simplify.jobs/c/e9018a18-f399-4722-9811-7b6136d4a44b",
@@ -5236,26 +5218,6 @@
     "program": "other"
   },
   {
-    "id": "fe972247-600c-481b-961d-3abad929c277",
-    "company_name": "KION Group",
-    "company_url": "https://simplify.jobs/c/KION-Group",
-    "title": "AI Intern",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
-    "locations": [
-      "Grand Rapids, MI",
-      "Plano, TX",
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1773267873,
-    "date_updated": 1773267873,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "621d8a9b-9609-45e9-b8be-2a06366dcd4d",
     "company_name": "KLA",
     "company_url": "https://simplify.jobs/c/KLA",
@@ -5378,6 +5340,24 @@
     "date_posted": 1779257101,
     "date_updated": 1779257445,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "4b6839e2-e49a-4a07-8df2-fae7b6226e2b",
+    "company_name": "Kobo",
+    "company_url": "https://simplify.jobs/c/Kobo",
+    "title": "Software Engineer Co-op",
+    "url": "https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Software-Quality-Assurance-Engineer-Co-op_1035873",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784073600,
+    "date_updated": 1784983776,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -7737,6 +7717,24 @@
     "program": "cs"
   },
   {
+    "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
+    "company_name": "Pennsylvania State University",
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "title": "Research Engineering Intern",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784678400,
+    "date_updated": 1784984864,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "a543ce3e-1976-406e-9398-c700e1bfcbad",
     "company_name": "Pennsylvania State University",
     "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
@@ -9533,6 +9531,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
+    "company_name": "Tencent",
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "title": "Game Research & Development Intern - Engine Research",
+    "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1776982042,
+    "date_updated": 1776982844,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
@@ -12105,6 +12121,24 @@
     "date_posted": 1780610681,
     "date_updated": 1780610961,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
+    "company_name": "University of Maryland - College Park",
+    "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+    "title": "Office of Career Services Intern - Technology Team",
+    "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1",
+    "locations": [
+      "Hyattsville, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783160483,
+    "date_updated": 1783162796,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
