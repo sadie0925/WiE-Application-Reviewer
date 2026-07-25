@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**706 active US/Canada co-op & intern listings** · 595 CS/software · 111 other programs · 0 inactive · Last updated: 2026-07-24 21:48 ET
+**705 active US/Canada co-op & intern listings** · 594 CS/software · 111 other programs · 0 inactive · Last updated: 2026-07-25 03:51 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -119,7 +119,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (503)
+### CS / Software (502)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -565,7 +565,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | TikTok | Frontend Software Engineer Project Intern - Global CRM | San Jose, CA | 2026-07-01 | [Apply](https://lifeattiktok.com/search/7654431844394322229) |
 | TikTok | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - 2026 Summer | San Jose, CA | 2025-12-01 | [Apply](https://lifeattiktok.com/search/7572358528171510069) |
 | TikTok | General Hire – Software Engineer Intern | San Jose, CA | 2026-01-07 | [Apply](https://lifeattiktok.com/search/7592368550477465909) |
-| TikTok | Machine Learning Engineer Intern | San Jose, CA | 2026-06-15 | [Apply](https://lifeattiktok.com/search/7534855949620119815) |
 | TikTok | Machine Learning Engineer Intern  Lead Ads - 2026 Summer - BS/MS | San Jose, CA | 2026-01-28 | [Apply](https://lifeattiktok.com/search/7600251462900140341) |
 | TikTok | Machine Learning Engineer Intern - App Ads | San Jose, CA | 2026-03-30 | [Apply](https://lifeattiktok.com/search/7623166673809770757) |
 | TikTok | Machine Learning Engineer Intern - Commerce Ads - 2026 Summer | San Jose, CA | 2026-01-16 | [Apply](https://lifeattiktok.com/search/7595346361319491893) |
