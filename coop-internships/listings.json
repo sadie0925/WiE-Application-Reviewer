@@ -3722,19 +3722,19 @@
     "program": "cs"
   },
   {
-    "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
+    "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
     "company_name": "Eurofins",
     "company_url": "https://simplify.jobs/c/Eurofins",
     "title": "Business Intelligence Intern",
-    "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
     "locations": [
       "Lancaster, PA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1780956373,
-    "date_updated": 1780958897,
+    "date_posted": 1781014019,
+    "date_updated": 1781014157,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -6045,24 +6045,6 @@
     "date_posted": 1778945618,
     "date_updated": 1784609824,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5c5c4c46-e9d5-4a1b-9fef-0e4d36cbc982",
-    "company_name": "Mercor",
-    "company_url": "",
-    "title": "Data Science Intern",
-    "url": "https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1764346884,
-    "date_updated": 1764346884,
-    "category": "Data Science, AI & Machine Learning",
     "sponsorship": "Other",
     "program": "cs"
   },
