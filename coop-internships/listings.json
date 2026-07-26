@@ -464,42 +464,6 @@
     "program": "cs"
   },
   {
-    "id": "22d08295-47cf-4b31-9064-5548c060a73f",
-    "company_name": "Ambarella",
-    "company_url": "https://simplify.jobs/c/Ambarella",
-    "title": "ASIC Design Engineer Intern",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1764286888,
-    "date_updated": 1764286888,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
-    "company_name": "Ambarella",
-    "company_url": "https://simplify.jobs/c/Ambarella",
-    "title": "Algorithm Engineer Intern",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100102",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1764286884,
-    "date_updated": 1764286884,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "74ed046a-1c48-4657-89f1-1f609aefff4b",
     "company_name": "Ambarella",
     "company_url": "https://simplify.jobs/c/Ambarella",
@@ -513,24 +477,6 @@
     "source": "simplify",
     "date_posted": 1772679693,
     "date_updated": 1772679693,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "cd94083e-cc43-4ac3-ab77-eb4e883cf7ab",
-    "company_name": "Ambarella",
-    "company_url": "https://simplify.jobs/c/Ambarella",
-    "title": "Software Development Engineer Intern",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1764286886,
-    "date_updated": 1764286886,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -565,8 +511,8 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1764286888,
-    "date_updated": 1764286888,
+    "date_posted": 1779516417,
+    "date_updated": 1784608383,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -5484,6 +5430,24 @@
     "date_posted": 1776377042,
     "date_updated": 1776377161,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
+    "company_name": "LexisNexis Risk Solutions",
+    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+    "title": "Editorial Data Reporting Intern",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783722508,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
