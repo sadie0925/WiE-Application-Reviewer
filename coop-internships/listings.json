@@ -2085,6 +2085,25 @@
     "program": "cs"
   },
   {
+    "id": "513d3867-26bc-4203-8cd2-ade981572975",
+    "company_name": "CHEP",
+    "company_url": "https://simplify.jobs/c/060f3244-8261-437d-837f-2f8bce40f7a4",
+    "title": "FP&A Business Intelligence Intern",
+    "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+    "locations": [
+      "Orlando, FL",
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780668331,
+    "date_updated": 1780668632,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
     "company_name": "Cadence Design Systems",
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
@@ -3703,19 +3722,19 @@
     "program": "cs"
   },
   {
-    "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
+    "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "company_name": "Eurofins",
     "company_url": "https://simplify.jobs/c/Eurofins",
     "title": "Business Intelligence Intern",
-    "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
     "locations": [
       "Lancaster, PA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1781014019,
-    "date_updated": 1781014157,
+    "date_posted": 1780956373,
+    "date_updated": 1780958897,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -3752,24 +3771,6 @@
     "source": "simplify",
     "date_posted": 1784672038,
     "date_updated": 1784678750,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
-    "company_name": "FHLBank Topeka",
-    "company_url": "https://simplify.jobs/c/FHLBank-Topeka",
-    "title": "Financial Analyst Intern",
-    "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
-    "locations": [
-      "Topeka, KS"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779527840,
-    "date_updated": 1779876357,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -3989,24 +3990,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
-    "company_name": "GE Appliances",
-    "company_url": "https://simplify.jobs/c/GE-Appliances",
-    "title": "Engineering Intern/Co-op",
-    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
-    "locations": [
-      "Calhoun, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1775299204,
-    "date_updated": 1775303474,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
@@ -5326,7 +5309,7 @@
     "program": "cs"
   },
   {
-    "id": "eda1aead-c8ff-4d2b-84d5-5e921bdfc622",
+    "id": "ad5c3ca9-6619-499f-a5c9-e1776db1c6d8",
     "company_name": "Later",
     "company_url": "https://simplify.jobs/c/Later",
     "title": "Software Development Co-op - Later Influence",
@@ -5682,6 +5665,24 @@
     "date_posted": 1780136024,
     "date_updated": 1780281368,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
+    "company_name": "Magna",
+    "company_url": "https://simplify.jobs/c/Magna",
+    "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784160000,
+    "date_updated": 1784290069,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6337,6 +6338,24 @@
     "program": "cs"
   },
   {
+    "id": "e3601b6a-4638-441c-9854-c14ef8a978d7",
+    "company_name": "Mosaic",
+    "company_url": "https://simplify.jobs/c/Mosaic",
+    "title": "Operations & Automation Engineering Co-op/Intern",
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1",
+    "locations": [
+      "Bartow, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784678400,
+    "date_updated": 1785064476,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "eb7c9278-b747-41eb-bd43-ea34cc2fb046",
     "company_name": "Moss & Associates",
     "company_url": "https://simplify.jobs/c/Moss-And-Associates",
@@ -6878,6 +6897,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "29f7ea93-41b1-408b-a3e0-8b6945e95e3e",
+    "company_name": "North Cloud",
+    "company_url": "https://simplify.jobs/c/3de1f21b-5ddf-4f65-af9f-c7654865ecbd",
+    "title": "AI Automation Intern",
+    "url": "https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4",
+    "locations": [
+      "Brooklyn, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784596630,
+    "date_updated": 1784711359,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "c9e4f3b2-4e34-43ea-add3-ddcd7ae26931",
@@ -8877,19 +8914,19 @@
     "program": "cs"
   },
   {
-    "id": "244c4d01-6a38-4298-9fef-4a12ee37a4ea",
+    "id": "0a319815-2604-4c98-94da-26b6a462a885",
     "company_name": "Smiths Detection Group",
     "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
-    "title": "Technical Service Engineer Intern",
-    "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000128739981",
+    "title": "Depot Service Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499",
     "locations": [
-      "Parsippany-Troy Hills, NJ"
+      "Gunpowder, MD"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1779919479,
-    "date_updated": 1779920012,
+    "date_posted": 1778191442,
+    "date_updated": 1778193575,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -11114,24 +11151,6 @@
     "program": "cs"
   },
   {
-    "id": "008e0d90-7269-48e2-83ff-7df9f23e5d28",
-    "company_name": "The Federal Reserve System",
-    "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-    "title": "Business Survey Intern",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Fall-2026-Business-Survey-Intern_R-0000032532",
-    "locations": [
-      "Richmond, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781707050,
-    "date_updated": 1784968029,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "340cf1d5-2f86-48ad-ba6d-24877471ebcf",
     "company_name": "The Wonderful Company",
     "company_url": "https://simplify.jobs/c/The-Wonderful-Company",
@@ -12031,24 +12050,6 @@
     "date_posted": 1780610681,
     "date_updated": 1780610961,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
-    "company_name": "University of Maryland - College Park",
-    "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
-    "title": "Office of Career Services Intern - Technology Team",
-    "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1",
-    "locations": [
-      "Hyattsville, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783160483,
-    "date_updated": 1783162796,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
