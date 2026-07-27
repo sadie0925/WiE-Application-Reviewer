@@ -493,8 +493,8 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1764364800,
-    "date_updated": 1764364800,
+    "date_posted": 1779516420,
+    "date_updated": 1784694079,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -1952,8 +1952,8 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1764374244,
-    "date_updated": 1764374244,
+    "date_posted": 1780610909,
+    "date_updated": 1780611664,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -6280,42 +6280,6 @@
     "date_posted": 1784678400,
     "date_updated": 1784762013,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "de36e85a-366d-49db-98a9-fb9c3004ef0b",
-    "company_name": "Moon",
-    "company_url": "https://simplify.jobs/c/252d5901-ea5c-4117-9126-ed17c95dc16b",
-    "title": "Software Engineer Intern - Backend & API",
-    "url": "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
-    "locations": [
-      "Glendale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784596648,
-    "date_updated": 1784598352,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "88bc4fe7-cbcb-4692-9f88-d12ee309d254",
-    "company_name": "Moon",
-    "company_url": "https://simplify.jobs/c/252d5901-ea5c-4117-9126-ed17c95dc16b",
-    "title": "Software Engineer Intern - Data & Machine Learning",
-    "url": "https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094",
-    "locations": [
-      "Glendale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784596648,
-    "date_updated": 1784598357,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -11815,6 +11779,42 @@
     "date_posted": 1782771121,
     "date_updated": 1782772021,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3393d4cf-e1e5-47d1-8143-309545e4195f",
+    "company_name": "Toshiba Global Commerce",
+    "company_url": "https://simplify.jobs/c/Toshiba-Global-Commerce",
+    "title": "AI Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785115127,
+    "date_updated": 1785115305,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "5dc00cee-4e2e-4533-9b44-94c295ffddd4",
+    "company_name": "Toshiba Global Commerce",
+    "company_url": "https://simplify.jobs/c/Toshiba-Global-Commerce",
+    "title": "Agentic Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
+    "locations": [
+      "Durham, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785115127,
+    "date_updated": 1785115591,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
