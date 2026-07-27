@@ -2085,25 +2085,6 @@
     "program": "cs"
   },
   {
-    "id": "513d3867-26bc-4203-8cd2-ade981572975",
-    "company_name": "CHEP",
-    "company_url": "https://simplify.jobs/c/060f3244-8261-437d-837f-2f8bce40f7a4",
-    "title": "FP&A Business Intelligence Intern",
-    "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
-    "locations": [
-      "Orlando, FL",
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780668331,
-    "date_updated": 1780668632,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
     "company_name": "Cadence Design Systems",
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
@@ -2468,6 +2449,24 @@
     "program": "cs"
   },
   {
+    "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
+    "company_name": "Cirrus Logic",
+    "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+    "title": "AI Business Analytics Co-op Intern",
+    "url": "https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784585308,
+    "date_updated": 1784586710,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "76fbd27f-031b-4e0c-b021-d0af8831c9a3",
     "company_name": "Cirrus Logic",
     "company_url": "https://simplify.jobs/c/Cirrus-Logic",
@@ -2579,6 +2578,24 @@
     "date_posted": 1783318197,
     "date_updated": 1783318523,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
+    "company_name": "City of Austin",
+    "company_url": "https://simplify.jobs/c/City-Of-Austin",
+    "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
+    "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784851200,
+    "date_updated": 1784932575,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -3285,6 +3302,24 @@
     "date_posted": 1783472786,
     "date_updated": 1783473091,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
+    "company_name": "Denari",
+    "company_url": "https://simplify.jobs/c/Denari",
+    "title": "Product & Software Internship",
+    "url": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282",
+    "locations": [
+      "Madison, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784596339,
+    "date_updated": 1784596996,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -4131,6 +4166,24 @@
     "source": "simplify",
     "date_posted": 1769614520,
     "date_updated": 1769614520,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
+    "company_name": "Gitar, Inc.",
+    "company_url": "https://simplify.jobs/c/42b415fb-4293-4fed-abbf-4e5d8b16ffd4",
+    "title": "Software Engineer Intern",
+    "url": "https://ats.rippling.com/gitar-careers/jobs/bfc2d948-40d8-4479-9885-fd1619ec2bda",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784596657,
+    "date_updated": 1784598410,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -5309,6 +5362,24 @@
     "program": "cs"
   },
   {
+    "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
+    "company_name": "LexisNexis Risk Solutions",
+    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+    "title": "Editorial Data Reporting Intern",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783722508,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
     "company_name": "LightGuide, Inc.",
     "company_url": "https://simplify.jobs/c/e4ceb7ca-b9b5-4eda-b494-85c226f01789",
@@ -5468,6 +5539,24 @@
     "date_updated": 1766764373,
     "category": "Software Engineering",
     "sponsorship": "Does Not Offer Sponsorship",
+    "program": "cs"
+  },
+  {
+    "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
+    "company_name": "MSM Inc.",
+    "company_url": "https://simplify.jobs/c/8d1b7256-9f2c-4705-9492-153d0cf3dbb2",
+    "title": "AI Solutions Co-op",
+    "url": "https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4",
+    "locations": [
+      "Webster, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784931075,
+    "date_updated": 1784931984,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
     "program": "cs"
   },
   {
@@ -6156,24 +6245,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "e3601b6a-4638-441c-9854-c14ef8a978d7",
-    "company_name": "Mosaic",
-    "company_url": "https://simplify.jobs/c/Mosaic",
-    "title": "Operations & Automation Engineering Co-op/Intern",
-    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1",
-    "locations": [
-      "Bartow, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784678400,
-    "date_updated": 1785064476,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "eb7c9278-b747-41eb-bd43-ea34cc2fb046",
@@ -7466,24 +7537,6 @@
     "program": "cs"
   },
   {
-    "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
-    "company_name": "Pennsylvania State University",
-    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-    "title": "Research Engineering Intern",
-    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1",
-    "locations": [
-      "State College, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784678400,
-    "date_updated": 1784984864,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a543ce3e-1976-406e-9398-c700e1bfcbad",
     "company_name": "Pennsylvania State University",
     "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
@@ -8372,6 +8425,24 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
+    "company_name": "SOTI",
+    "company_url": "https://simplify.jobs/c/SOTI",
+    "title": "Data Scientist Intern",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1778623764,
+    "date_updated": 1778709195,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
