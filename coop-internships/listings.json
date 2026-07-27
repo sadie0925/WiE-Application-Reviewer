@@ -2468,24 +2468,6 @@
     "program": "cs"
   },
   {
-    "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
-    "company_name": "Cirrus Logic",
-    "company_url": "https://simplify.jobs/c/Cirrus-Logic",
-    "title": "AI Business Analytics Co-op Intern",
-    "url": "https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784585308,
-    "date_updated": 1784586710,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "76fbd27f-031b-4e0c-b021-d0af8831c9a3",
     "company_name": "Cirrus Logic",
     "company_url": "https://simplify.jobs/c/Cirrus-Logic",
@@ -2597,42 +2579,6 @@
     "date_posted": 1783318197,
     "date_updated": 1783318523,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
-    "company_name": "City of Austin",
-    "company_url": "https://simplify.jobs/c/City-Of-Austin",
-    "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-    "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784851200,
-    "date_updated": 1784932575,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a9c0f61f-1d7a-470d-9bcc-d4e4c85a0b36",
-    "company_name": "City of Charlotte",
-    "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
-    "title": "Management Analyst Intern - Research and Planning Division",
-    "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784246400,
-    "date_updated": 1784298181,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -3339,24 +3285,6 @@
     "date_posted": 1783472786,
     "date_updated": 1783473091,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
-    "company_name": "Denari",
-    "company_url": "https://simplify.jobs/c/Denari",
-    "title": "Product & Software Internship",
-    "url": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282",
-    "locations": [
-      "Madison, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784596339,
-    "date_updated": 1784596996,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -4208,24 +4136,6 @@
     "program": "cs"
   },
   {
-    "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
-    "company_name": "Gitar, Inc.",
-    "company_url": "https://simplify.jobs/c/42b415fb-4293-4fed-abbf-4e5d8b16ffd4",
-    "title": "Software Engineer Intern",
-    "url": "https://ats.rippling.com/gitar-careers/jobs/bfc2d948-40d8-4479-9885-fd1619ec2bda",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784596657,
-    "date_updated": 1784598410,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "5ce66ca1-bdc4-4872-82cf-4966b1f7d9a3",
     "company_name": "Grant Thornton",
     "company_url": "https://simplify.jobs/c/Grant-Thornton",
@@ -4821,24 +4731,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "c043acbe-1a9f-4818-a8e7-a82d105c32d1",
-    "company_name": "Interac",
-    "company_url": "https://simplify.jobs/c/Interac",
-    "title": "Product Intern - Money Movement",
-    "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2240",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784326212,
-    "date_updated": 1784327045,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "769cd552-cfd3-4f19-be8c-43ed9f454f5d",
@@ -5576,24 +5468,6 @@
     "date_updated": 1766764373,
     "category": "Software Engineering",
     "sponsorship": "Does Not Offer Sponsorship",
-    "program": "cs"
-  },
-  {
-    "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
-    "company_name": "MSM Inc.",
-    "company_url": "https://simplify.jobs/c/8d1b7256-9f2c-4705-9492-153d0cf3dbb2",
-    "title": "AI Solutions Co-op",
-    "url": "https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4",
-    "locations": [
-      "Webster, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784931075,
-    "date_updated": 1784931984,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
     "program": "cs"
   },
   {
@@ -6843,42 +6717,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "29f7ea93-41b1-408b-a3e0-8b6945e95e3e",
-    "company_name": "North Cloud",
-    "company_url": "https://simplify.jobs/c/3de1f21b-5ddf-4f65-af9f-c7654865ecbd",
-    "title": "AI Automation Intern",
-    "url": "https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4",
-    "locations": [
-      "Brooklyn, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784596630,
-    "date_updated": 1784711359,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "c9e4f3b2-4e34-43ea-add3-ddcd7ae26931",
-    "company_name": "Northwell Health",
-    "company_url": "https://simplify.jobs/c/Northwell-Health",
-    "title": "Data Analytics / Data Science Intern",
-    "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734",
-    "locations": [
-      "Manhasset, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784930867,
-    "date_updated": 1784931122,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "363bf983-6b24-4bf3-abba-83242e26fd12",
@@ -8534,24 +8372,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
-    "company_name": "SOTI",
-    "company_url": "https://simplify.jobs/c/SOTI",
-    "title": "Data Scientist Intern",
-    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778623764,
-    "date_updated": 1778709195,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
