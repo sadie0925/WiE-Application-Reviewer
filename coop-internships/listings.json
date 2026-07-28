@@ -2159,6 +2159,25 @@
     "program": "cs"
   },
   {
+    "id": "513d3867-26bc-4203-8cd2-ade981572975",
+    "company_name": "CHEP",
+    "company_url": "https://simplify.jobs/c/060f3244-8261-437d-837f-2f8bce40f7a4",
+    "title": "FP&A Business Intelligence Intern",
+    "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+    "locations": [
+      "Orlando, FL",
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780668331,
+    "date_updated": 1780668632,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
     "company_name": "Cadence Design Systems",
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
@@ -2451,6 +2470,24 @@
     "program": "cs"
   },
   {
+    "id": "6109bd0c-7437-4f90-899d-80846b776bc2",
+    "company_name": "Chevron Corporation",
+    "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+    "title": "Supply & Trading TRIP Program Intern",
+    "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485",
+    "locations": [
+      "Houston, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784505600,
+    "date_updated": 1784586322,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "5110ed9d-97da-4a84-9d8e-2bc857dc3dc5",
     "company_name": "Ciena",
     "company_url": "https://simplify.jobs/c/Ciena",
@@ -2670,24 +2707,6 @@
     "date_posted": 1783318197,
     "date_updated": 1783318523,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
-    "company_name": "City of Austin",
-    "company_url": "https://simplify.jobs/c/City-Of-Austin",
-    "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-    "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784851200,
-    "date_updated": 1784932575,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -4189,6 +4208,24 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "16245ae0-c25a-4918-a292-b5fdd502742f",
+    "company_name": "GE Healthcare",
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "title": "Surgery Field Engineer Apprentice Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
+    "locations": [
+      "Stamford, CT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1776377195,
+    "date_updated": 1776377999,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "b999705a-0da3-486f-bf67-52950468bbe9",
@@ -5831,24 +5868,6 @@
     "program": "cs"
   },
   {
-    "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
-    "company_name": "Magna",
-    "company_url": "https://simplify.jobs/c/Magna",
-    "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658",
-    "locations": [
-      "Oakville, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784160000,
-    "date_updated": 1784290069,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
     "company_name": "Magna",
     "company_url": "https://simplify.jobs/c/Magna",
@@ -5880,24 +5899,6 @@
     "source": "simplify",
     "date_posted": 1784851200,
     "date_updated": 1784932671,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "b00bb3e9-1948-4552-b774-ff0117f8b02f",
-    "company_name": "Magna",
-    "company_url": "https://simplify.jobs/c/Magna",
-    "title": "Student Intern",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865",
-    "locations": [
-      "Ferndale, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783163651,
-    "date_updated": 1784664523,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -7749,6 +7750,25 @@
     "source": "simplify",
     "date_posted": 1776528250,
     "date_updated": 1776531988,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "d3981dc2-eb59-464b-bef9-70365bd9af64",
+    "company_name": "Pennsylvania State University",
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "title": "R&D Engineer Intern",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000079178-1",
+    "locations": [
+      "State College, PA",
+      "Reston, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784073600,
+    "date_updated": 1785242973,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -11655,24 +11675,6 @@
     "program": "other"
   },
   {
-    "id": "4a90203d-7ab9-4b43-be0f-6ca5034548cb",
-    "company_name": "TikTok",
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "title": "Product Manager Intern - TikTok Product Content Ecosystem - BS/MS",
-    "url": "https://lifeattiktok.com/search/7611679957136574773",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1772493440,
-    "date_updated": 1772493440,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "63b37cdd-9cee-4eaa-94b3-a8bca7c6fc75",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -12760,6 +12762,42 @@
     "date_posted": 1777961452,
     "date_updated": 1777961656,
     "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "d37c57dd-2a33-4fb5-a1f5-71e277f49809",
+    "company_name": "Xsolla",
+    "company_url": "https://simplify.jobs/c/Xsolla",
+    "title": "AI Engineer Intern",
+    "url": "https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783721165,
+    "date_updated": 1783721845,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "cbc90c52-de35-4d7b-b7f2-bc0a30bb1d72",
+    "company_name": "Xsolla",
+    "company_url": "https://simplify.jobs/c/Xsolla",
+    "title": "AI-First Engineer Intern",
+    "url": "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783721167,
+    "date_updated": 1783721849,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
