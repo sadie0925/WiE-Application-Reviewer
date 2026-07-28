@@ -536,24 +536,6 @@
     "program": "other"
   },
   {
-    "id": "582e9be1-3aea-4306-9445-4c38d9d05ed1",
-    "company_name": "American Enterprise Institute",
-    "company_url": "https://simplify.jobs/c/American-Enterprise-Institute",
-    "title": "Data Analysis & AI Policy Intern",
-    "url": "https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Washington, DC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777673154,
-    "date_updated": 1777673547,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f878e10c-cdc3-43e4-ad04-ce59b74620e5",
     "company_name": "American Enterprise Institute",
     "company_url": "https://simplify.jobs/c/American-Enterprise-Institute",
@@ -1286,24 +1268,6 @@
     "source": "simplify",
     "date_posted": 1783462710,
     "date_updated": 1783463899,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "b3adad35-fbd3-410d-a07f-c9df9cf024d9",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785110400,
-    "date_updated": 1785194698,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -2693,6 +2657,24 @@
     "program": "cs"
   },
   {
+    "id": "d4041518-dc22-4f01-96d9-aa0030510fd8",
+    "company_name": "Citadel Securities",
+    "company_url": "https://simplify.jobs/c/Citadel-Securities",
+    "title": "FPGA Engineer Intern",
+    "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+    "locations": [
+      "Miami, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783318269,
+    "date_updated": 1785248432,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
     "company_name": "Citadel Securities",
     "company_url": "https://simplify.jobs/c/Citadel-Securities",
@@ -3431,24 +3413,6 @@
     "date_posted": 1781215633,
     "date_updated": 1781216744,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "375081c2-b95b-4526-ba98-1002490a3e1b",
-    "company_name": "Democratic Governors Association",
-    "company_url": "https://simplify.jobs/c/Democratic-Governors-Association",
-    "title": "Data and Coding Intern",
-    "url": "https://jobs.lever.co/dga/cc41da12-5af0-41b6-b85e-301af4868bca/apply",
-    "locations": [
-      "Washington, DC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783472786,
-    "date_updated": 1783473091,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -4372,24 +4336,6 @@
     "program": "other"
   },
   {
-    "id": "209876e2-f7a5-41d9-a9de-f124384bd927",
-    "company_name": "Generac",
-    "company_url": "https://simplify.jobs/c/Generac",
-    "title": "Software Engineer Intern",
-    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Sofware-Engineer---Intern_JR14371",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784592000,
-    "date_updated": 1784683407,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a34fd6fd-c9fc-43d2-bff0-d75f752bbed7",
     "company_name": "Ginkgo Bioworks",
     "company_url": "https://simplify.jobs/c/Ginkgo-Bioworks",
@@ -5309,24 +5255,6 @@
     "program": "cs"
   },
   {
-    "id": "365d6d0c-5059-4085-9f44-a4bf5a6a4f2d",
-    "company_name": "KBR",
-    "company_url": "https://simplify.jobs/c/KBR",
-    "title": "National Security Solutions Intern - Nss",
-    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Semiconductor-Research-Internship--Fall-2026-_R2126603",
-    "locations": [
-      "Beavercreek, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783987200,
-    "date_updated": 1784647073,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "621d8a9b-9609-45e9-b8be-2a06366dcd4d",
     "company_name": "KLA",
     "company_url": "https://simplify.jobs/c/KLA",
@@ -5793,24 +5721,6 @@
     "date_updated": 1766764373,
     "category": "Software Engineering",
     "sponsorship": "Does Not Offer Sponsorship",
-    "program": "cs"
-  },
-  {
-    "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
-    "company_name": "MSM Inc.",
-    "company_url": "https://simplify.jobs/c/8d1b7256-9f2c-4705-9492-153d0cf3dbb2",
-    "title": "AI Solutions Co-op",
-    "url": "https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4",
-    "locations": [
-      "Webster, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784931075,
-    "date_updated": 1784931984,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
     "program": "cs"
   },
   {
@@ -7026,24 +6936,6 @@
     "program": "other"
   },
   {
-    "id": "97736cf7-6766-46a2-81bc-b5cc5f9ea248",
-    "company_name": "Northrop Grumman",
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "title": "Software Engineer Intern",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785110400,
-    "date_updated": 1785194474,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "363bf983-6b24-4bf3-abba-83242e26fd12",
     "company_name": "Northwestern Mutual",
     "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
@@ -8169,24 +8061,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "96f057ba-4984-4466-ad7a-4e8f75d1ddf9",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801",
-    "locations": [
-      "State College, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785110400,
-    "date_updated": 1785163668,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "6d5e8652-a493-422e-ba2a-0811ef8f8cff",
@@ -12267,24 +12141,6 @@
     "source": "simplify",
     "date_posted": 1774316508,
     "date_updated": 1774316508,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5552be60-0f97-4b78-9b64-2eb8fef91cee",
-    "company_name": "Varian",
-    "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
-    "title": "Product Engineering Assistant Co-op",
-    "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-29570",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784678400,
-    "date_updated": 1784760519,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
