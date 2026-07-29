@@ -13,13 +13,13 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**716 active US/Canada co-op & intern listings** · 605 CS/software · 111 other programs · 0 inactive · Last updated: 2026-07-28 21:42 ET
+**715 active US/Canada co-op & intern listings** · 604 CS/software · 111 other programs · 0 inactive · Last updated: 2026-07-29 04:20 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
 ## Canada
 
-### CS / Software (73)
+### CS / Software (71)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -32,8 +32,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Autodesk | Software Developer Intern - Stagiaire en Développement Logiciel | Canada | 2026-05-30 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1) |
 | BDO Canada | Data & Analytics Co-op/Intern - Data & Analytics | Montreal, QC, Canada, Toronto, ON, Canada (+5) | 2026-05-14 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295) |
 | Bank of Montreal | Data Scientist Co-op/Internship - Months | Toronto, ON, Canada | 2026-07-07 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) |
-| Bank of Montreal | Data and AI Operations Analyst Co-op/Internship - Cloud | Toronto, ON, Canada | 2026-07-27 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2) |
-| Bank of Montreal | Data and AI Operations Analyst Co-op/Internship - Cloud | Toronto, ON, Canada | 2026-07-27 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) |
 | Bank of Montreal | Market Risk Analyst Co-op/Intern | Toronto, ON, Canada | 2026-07-23 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | 2026-02-17 | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) |
 | Brookfield | AI Value Creation Office Intern | Toronto, ON, Canada | 2026-07-04 | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern--AI-Value-Creation-Office_R2048790) |
@@ -189,6 +187,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Bosch Home Comfort | ADAS Software Engineer Intern | Plymouth, MI | 2026-07-28 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) |
 | Bosch Home Comfort | Powertrain Controls Software Engineer Intern | Southfield, MI | 2026-07-27 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) |
 | Brunswick | Computer Graphics Software Developer Intern | Urbana, IL | 2026-05-21 | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234) |
+| Brunswick | Software Engineer Intern | Urbana, IL | 2026-07-27 | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) |
 | ByteDance | 3D Graphics Engineer Intern - PICO Foundation | San Jose, CA | 2026-06-04 | [Apply](https://jobs.bytedance.com/en/position/7564516412456306997/detail) |
 | ByteDance | Benefits Operation Data Analyst Project Intern | San Jose, CA | 2026-02-13 | [Apply](https://jobs.bytedance.com/en/position/7605524889478842677/detail) |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing | Seattle, WA | 2026-06-03 | [Apply](https://jobs.bytedance.com/en/position/7543005612200970503/detail) |
@@ -361,7 +360,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Mobius Renewables | Software Engineer Intern | Houston, TX | 2026-07-20 | [Apply](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) |
 | Monogram | Software Engineer Intern | San Mateo, CA | 2026-07-20 | [Apply](https://jobs.ashbyhq.com/monogram/fab3e651-00e7-4a85-bcb9-0821c642a778/application?embed=true) |
 | Moog  | Intern IT Computer Science - Data Analytics | Buffalo, NY | 2026-04-10 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145) |
-| Moog  | Software Engineering Intern | Boston, NY, Buffalo, NY | 2026-07-21 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) |
 | Moss & Associates | Construction Technologies Intern | McKinney, TX, Tampa, FL (+1) | 2026-07-04 | [Apply](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710) |
 | Multiply Labs | Robotics Software Intern | San Francisco, CA | 2026-02-24 | [Apply](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) |
 | Multiply Labs | Software Engineering Intern | San Francisco, CA | 2026-02-24 | [Apply](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b) |
@@ -746,7 +744,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## Remote
 
-### CS / Software (15)
+### CS / Software (16)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -759,6 +757,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | GE Vernova | Grid Automation & Software Intern | Remote in USA | 2026-06-09 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3) |
 | GE Vernova | Grid Automation & Software Intern | Remote in USA | 2026-06-09 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706) |
 | Hone Health | Data Engineering Intern | Remote in USA | 2026-07-08 | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
+| LexisNexis Risk Solutions | Editorial Data Reporting Intern | Remote in USA | 2026-07-09 | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) |
 | MyEmployment | AI Product Engineer Intern | Remote in US | 2026-06-23 | [Apply](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) |
 | The Campbell's Company | Agentic AI Engineer Co-op | Remote in USA | 2026-06-16 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015) |
 | Two Six Technologies | China Subject Matter Expert Intern | Remote in USA | 2026-07-02 | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) |

@@ -1273,42 +1273,6 @@
     "program": "cs"
   },
   {
-    "id": "f762c709-479e-46fb-9c5a-1a6d1dc19968",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785196800,
-    "date_updated": 1785281173,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e189179d-efd7-43f6-9072-206e51c3b392",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785196800,
-    "date_updated": 1785280997,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "3bd15e3e-ccea-4147-9d76-8699875570f9",
     "company_name": "Bank of Montreal",
     "company_url": "https://simplify.jobs/c/BMO",
@@ -1812,6 +1776,24 @@
     "source": "simplify",
     "date_posted": 1779372529,
     "date_updated": 1779372946,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "355b5e1d-f111-47b2-8e17-99593839fef6",
+    "company_name": "Brunswick",
+    "company_url": "https://simplify.jobs/c/Brunswick",
+    "title": "Software Engineer Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
+    "locations": [
+      "Urbana, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785196800,
+    "date_updated": 1785305930,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -5730,6 +5712,24 @@
     "program": "cs"
   },
   {
+    "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
+    "company_name": "LexisNexis Risk Solutions",
+    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+    "title": "Editorial Data Reporting Intern",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783641600,
+    "date_updated": 1783722508,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
     "company_name": "LightGuide, Inc.",
     "company_url": "https://simplify.jobs/c/e4ceb7ca-b9b5-4eda-b494-85c226f01789",
@@ -6466,25 +6466,6 @@
     "date_posted": 1775858861,
     "date_updated": 1775860922,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "bb2699db-c654-4cb9-b4ca-b5140fcb8ee6",
-    "company_name": "Moog ",
-    "company_url": "https://simplify.jobs/c/Moog",
-    "title": "Software Engineering Intern",
-    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
-    "locations": [
-      "Boston, NY",
-      "Buffalo, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784678400,
-    "date_updated": 1784762013,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
