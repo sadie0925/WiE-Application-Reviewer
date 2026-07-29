@@ -2177,25 +2177,6 @@
     "program": "cs"
   },
   {
-    "id": "513d3867-26bc-4203-8cd2-ade981572975",
-    "company_name": "CHEP",
-    "company_url": "https://simplify.jobs/c/060f3244-8261-437d-837f-2f8bce40f7a4",
-    "title": "FP&A Business Intelligence Intern",
-    "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
-    "locations": [
-      "Orlando, FL",
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780668331,
-    "date_updated": 1780668632,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
     "company_name": "Cadence Design Systems",
     "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
@@ -2466,6 +2447,24 @@
     "date_posted": 1784592000,
     "date_updated": 1784685812,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "25a61501-a552-4f3c-b147-5d1ba74548f5",
+    "company_name": "Chevron Corporation",
+    "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+    "title": "Intern",
+    "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program---Full-Time_R000072489",
+    "locations": [
+      "Houston, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784505600,
+    "date_updated": 1784586298,
+    "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -2761,6 +2760,24 @@
     "date_posted": 1783318197,
     "date_updated": 1783318523,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
+    "company_name": "City of Austin",
+    "company_url": "https://simplify.jobs/c/City-Of-Austin",
+    "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
+    "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784851200,
+    "date_updated": 1784932575,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -3140,24 +3157,6 @@
     "source": "simplify",
     "date_posted": 1784073600,
     "date_updated": 1784125268,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
-    "company_name": "Copart",
-    "company_url": "https://simplify.jobs/c/Copart",
-    "title": "Software Engineer Intern",
-    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784073600,
-    "date_updated": 1784124669,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -3704,24 +3703,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "81c27c2f-7650-4a5b-ad93-720da3891b10",
-    "company_name": "East Penn Manufacturing Company",
-    "company_url": "https://simplify.jobs/c/East-Penn-Manufacturing-Company",
-    "title": "Product Engineer Intern",
-    "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Ann Arbor, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785189928,
-    "date_updated": 1785190414,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "07de287a-60cf-4318-9941-284ab79b4148",
@@ -4322,24 +4303,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "16245ae0-c25a-4918-a292-b5fdd502742f",
-    "company_name": "GE Healthcare",
-    "company_url": "https://simplify.jobs/c/GE-Healthcare",
-    "title": "Surgery Field Engineer Apprentice Intern",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
-    "locations": [
-      "Stamford, CT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776377195,
-    "date_updated": 1776377999,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "b999705a-0da3-486f-bf67-52950468bbe9",
@@ -5712,24 +5675,6 @@
     "program": "cs"
   },
   {
-    "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
-    "company_name": "LexisNexis Risk Solutions",
-    "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-    "title": "Editorial Data Reporting Intern",
-    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783641600,
-    "date_updated": 1783722508,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
     "company_name": "LightGuide, Inc.",
     "company_url": "https://simplify.jobs/c/e4ceb7ca-b9b5-4eda-b494-85c226f01789",
@@ -5910,6 +5855,24 @@
     "program": "cs"
   },
   {
+    "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
+    "company_name": "Magna",
+    "company_url": "https://simplify.jobs/c/Magna",
+    "title": "IoT Systems Engineer Co-op",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784246400,
+    "date_updated": 1785326266,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
     "company_name": "Magna",
     "company_url": "https://simplify.jobs/c/Magna",
@@ -5942,24 +5905,6 @@
     "date_posted": 1779977342,
     "date_updated": 1779977986,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d1b5909b-5773-4d89-92a7-604b04556e03",
-    "company_name": "Magna",
-    "company_url": "https://simplify.jobs/c/Magna",
-    "title": "R&D-Computer Vision Engineer Intern",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1",
-    "locations": [
-      "Troy, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784851200,
-    "date_updated": 1784932671,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6941,24 +6886,6 @@
     "program": "other"
   },
   {
-    "id": "e9569c77-dc0a-48e3-a280-aab0544afe8e",
-    "company_name": "Nightwing Intelligence Solutions",
-    "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
-    "title": "Radio Frequency Engineering Intern",
-    "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095",
-    "locations": [
-      "Dulles, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1773295748,
-    "date_updated": 1773295748,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "cffd6bd0-5186-4c17-8fac-8d5a71a2a071",
     "company_name": "Nightwing Intelligence Solutions",
     "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
@@ -7669,6 +7596,24 @@
     "program": "cs"
   },
   {
+    "id": "0d592991-3f3c-4b1b-b380-4395ca871e34",
+    "company_name": "PathAI",
+    "company_url": "https://simplify.jobs/c/PathAI",
+    "title": "Software Engineering Mlops Co-op",
+    "url": "https://www.pathai.com/careers/8651564002?gh_jid=8651564002",
+    "locations": [
+      "Boston, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785190469,
+    "date_updated": 1785314130,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
     "company_name": "Pendulum Intelligence",
     "company_url": "https://simplify.jobs/c/453cf24d-368f-49ce-a9b3-298e0845b238",
@@ -7685,24 +7630,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
-    "company_name": "PennState University",
-    "company_url": "https://simplify.jobs/c/Penn-State",
-    "title": "Research and Development Engineering Intern",
-    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
-    "locations": [
-      "State College, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1772579002,
-    "date_updated": 1772579002,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "1f07093f-af2d-4820-8147-f6ea26602897",
@@ -7755,25 +7682,6 @@
     "source": "simplify",
     "date_posted": 1776528250,
     "date_updated": 1776531988,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d3981dc2-eb59-464b-bef9-70365bd9af64",
-    "company_name": "Pennsylvania State University",
-    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-    "title": "R&D Engineer Intern",
-    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000079178-1",
-    "locations": [
-      "State College, PA",
-      "Reston, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784073600,
-    "date_updated": 1785242973,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -9629,24 +9537,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
-    "company_name": "Tencent",
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "title": "Game Research & Development Intern - Engine Research",
-    "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776982042,
-    "date_updated": 1776982844,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
