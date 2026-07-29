@@ -218,24 +218,6 @@
     "program": "cs"
   },
   {
-    "id": "72a990c3-d541-41db-9b3c-7ca3dc7bb197",
-    "company_name": "ATCO",
-    "company_url": "https://simplify.jobs/c/ATCO",
-    "title": "Data Analytics Co-op",
-    "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20111",
-    "locations": [
-      "Edmonton, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778796399,
-    "date_updated": 1778797251,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "aa358bf5-9b90-4caa-a493-2a8efd48b770",
     "company_name": "ATCO",
     "company_url": "https://simplify.jobs/c/ATCO",
@@ -326,24 +308,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "60d97eba-f793-4277-98fb-82245aabd7bf",
-    "company_name": "Altasciences",
-    "company_url": "https://simplify.jobs/c/Altasciences",
-    "title": "Software Engineer Intern",
-    "url": "https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750",
-    "locations": [
-      "Overland Park, KS"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782338873,
-    "date_updated": 1782339636,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "95bf548d-b42d-4076-aee6-3afce1e110be",
@@ -649,6 +613,24 @@
     "program": "cs"
   },
   {
+    "id": "f1381efc-bd99-480d-b226-47a4c8e911f0",
+    "company_name": "Apple",
+    "company_url": "https://simplify.jobs/c/Apple",
+    "title": "Applied Data Solutions Program Intern",
+    "url": "https://jobs.apple.com/en-us/details/200673612",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785276750,
+    "date_updated": 1785279524,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "9de9af2d-fdd8-4a02-8964-7ef816980d72",
     "company_name": "Apple",
     "company_url": "https://simplify.jobs/c/Apple",
@@ -936,6 +918,24 @@
     "date_posted": 1783641600,
     "date_updated": 1783722242,
     "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "cd8ad71e-1cf7-47e2-a955-1b09ab203e48",
+    "company_name": "Assurant",
+    "company_url": "https://simplify.jobs/c/Assurant",
+    "title": "Digital & AI Transformation Intern",
+    "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785196800,
+    "date_updated": 1785276542,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -1273,6 +1273,42 @@
     "program": "cs"
   },
   {
+    "id": "f762c709-479e-46fb-9c5a-1a6d1dc19968",
+    "company_name": "Bank of Montreal",
+    "company_url": "https://simplify.jobs/c/BMO",
+    "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785196800,
+    "date_updated": 1785281173,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "e189179d-efd7-43f6-9072-206e51c3b392",
+    "company_name": "Bank of Montreal",
+    "company_url": "https://simplify.jobs/c/BMO",
+    "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785196800,
+    "date_updated": 1785280997,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "3bd15e3e-ccea-4147-9d76-8699875570f9",
     "company_name": "Bank of Montreal",
     "company_url": "https://simplify.jobs/c/BMO",
@@ -1395,6 +1431,24 @@
     "date_posted": 1784787711,
     "date_updated": 1784789567,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "73bb6ea9-7c91-4d28-850a-8d24908aee9c",
+    "company_name": "Berkshire Grey",
+    "company_url": "https://simplify.jobs/c/BerkshireGrey",
+    "title": "Software Co-op",
+    "url": "https://berkshiregrey.bamboohr.com/careers/749/",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785277437,
+    "date_updated": 1785280692,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -1651,6 +1705,24 @@
     "date_posted": 1782963038,
     "date_updated": 1782965658,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "7b87bfa3-a92f-4b2b-b94d-0a62fcd2df64",
+    "company_name": "Bosch Home Comfort",
+    "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+    "title": "ADAS Software Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140317669",
+    "locations": [
+      "Plymouth, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785276392,
+    "date_updated": 1785277173,
+    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -2524,6 +2596,24 @@
     "program": "cs"
   },
   {
+    "id": "526d4a4f-c5cc-4a59-9843-9913e8ac5685",
+    "company_name": "Ciena",
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "title": "Software Liquid Spectrum Applications Intern",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785196800,
+    "date_updated": 1785276542,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "80eda434-6c14-4a62-b65d-ecd5dbcdaa18",
     "company_name": "Circle K",
     "company_url": "https://simplify.jobs/c/Circle-K",
@@ -2743,6 +2833,24 @@
     "date_posted": 1784787346,
     "date_updated": 1784788429,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "02855d39-751b-42b4-909c-814d9d98b768",
+    "company_name": "Cloudflare",
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "title": "Research Engineer Intern",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785277843,
+    "date_updated": 1785279241,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -3940,6 +4048,48 @@
     "program": "cs"
   },
   {
+    "id": "5efbd1de-4e9a-48b1-82f2-9d2d0c6f3914",
+    "company_name": "FTI Consulting",
+    "company_url": "https://simplify.jobs/c/FTI-Consulting",
+    "title": "Technology Intern",
+    "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1",
+    "locations": [
+      "Houston, TX",
+      "Washington, DC",
+      "Chicago, IL",
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785110400,
+    "date_updated": 1785278045,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "4f326166-61c0-478c-810c-4b3743e7d440",
+    "company_name": "FTI Consulting",
+    "company_url": "https://simplify.jobs/c/FTI-Consulting",
+    "title": "Technology Intern - Technology",
+    "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339",
+    "locations": [
+      "Houston, TX",
+      "Washington, DC",
+      "Chicago, IL",
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785110400,
+    "date_updated": 1785278058,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "21f8248c-0403-4432-91a0-b92f3bc0fbb9",
     "company_name": "Fab2",
     "company_url": "https://simplify.jobs/c/3a5ae75b-4fdf-4d28-80d4-6e549f2cf5fa",
@@ -4046,6 +4196,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "2bac3eef-7c9a-432b-9261-87bd7c6669d4",
+    "company_name": "First Bank & Trust",
+    "company_url": "https://simplify.jobs/c/First-Bank-And-Trust",
+    "title": "SharePoint/Power Platform Intern - SharePoint - Power Platform",
+    "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780",
+    "locations": [
+      "Brookings, SD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785196800,
+    "date_updated": 1785279365,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "ac0de679-0dd0-42fc-bef6-1b6e42f77cdb",
@@ -4857,24 +5025,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "96dfff8a-1935-48d2-8b5f-a193be59dd4d",
-    "company_name": "Instawork",
-    "company_url": "https://simplify.jobs/c/Instawork",
-    "title": "Product Operations Intern",
-    "url": "https://job-boards.greenhouse.io/instawork/jobs/4588237006",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1774055593,
-    "date_updated": 1774055593,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "0f2e6b7c-2185-4da8-9eab-26cb0081ec69",
@@ -6104,24 +6254,6 @@
     "program": "cs"
   },
   {
-    "id": "bbb57323-d6ff-4e8f-88ca-b96ac09f3ea1",
-    "company_name": "Menasha Corporation",
-    "company_url": "https://simplify.jobs/c/Menasha-Corporation",
-    "title": "Material Innovation Center Intern",
-    "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Menasha-Wisconsin/Material-Innovation-Center-Intern_R12621",
-    "locations": [
-      "Neenah, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778945618,
-    "date_updated": 1784609824,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "99160221-1059-4cc4-9a0e-6b72009c21e5",
     "company_name": "Meshy",
     "company_url": "",
@@ -6593,6 +6725,24 @@
     "program": "cs"
   },
   {
+    "id": "61874299-a120-43cc-930f-cca8990e152b",
+    "company_name": "National Laboratory of the Rockies",
+    "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+    "title": "Graduate Intern",
+    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426",
+    "locations": [
+      "Golden, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785196800,
+    "date_updated": 1785280952,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "cbd572b1-88d5-4325-a534-e4b8b03290c6",
     "company_name": "National Laboratory of the Rockies",
     "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
@@ -6697,24 +6847,6 @@
     "date_posted": 1778623874,
     "date_updated": 1778705803,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a38841c9-abc7-41d2-bc9b-aa3059599020",
-    "company_name": "Neuralink",
-    "company_url": "https://simplify.jobs/c/Neuralink",
-    "title": "Software Engineer Intern - BCI Applications",
-    "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1764533170,
-    "date_updated": 1764533170,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -8171,6 +8303,24 @@
     "program": "cs"
   },
   {
+    "id": "7a671b3f-8535-4895-8252-5687d2076563",
+    "company_name": "Richemont",
+    "company_url": "https://simplify.jobs/c/Richemont",
+    "title": "Business Analytics Intern",
+    "url": "https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Business-Analytics-Intern_JR124478-1",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1781222400,
+    "date_updated": 1785287521,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
     "company_name": "Rippling",
     "company_url": "https://simplify.jobs/c/Rippling",
@@ -8484,6 +8634,24 @@
     "program": "cs"
   },
   {
+    "id": "d4e082c8-3281-4af2-923d-bbf1d427be5a",
+    "company_name": "Royal Bank of Canada",
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "title": "Business Markets Relationship Manager Intern",
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302",
+    "locations": [
+      "Bathurst, NB, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785196800,
+    "date_updated": 1785280637,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "a904747c-0a1b-4b0e-822d-ca3184c2c4b5",
     "company_name": "Royal Bank of Canada",
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
@@ -8731,6 +8899,24 @@
     "source": "simplify",
     "date_posted": 1782770970,
     "date_updated": 1782772021,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "b71d71f5-3279-48fe-9484-0e2755e9f21b",
+    "company_name": "Savannah River National Laboratory",
+    "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
+    "title": "Software Developer Undergraduate Intern",
+    "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2164",
+    "locations": [
+      "North Augusta, SC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785276728,
+    "date_updated": 1785279486,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -9045,24 +9231,6 @@
     "date_posted": 1784596501,
     "date_updated": 1784600338,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5f921f62-bbfa-454c-978f-31310fc72515",
-    "company_name": "Sparksoft",
-    "company_url": "https://simplify.jobs/c/Sparksoft",
-    "title": "Data Development Intern",
-    "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5187532007",
-    "locations": [
-      "Columbia, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784153654,
-    "date_updated": 1784154788,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -9826,6 +9994,24 @@
     "program": "cs"
   },
   {
+    "id": "b9a81086-50d0-4ea0-bd8e-97fd33f70311",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer",
+    "url": "https://www.tesla.com/careers/search/job/278249",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785276975,
+    "date_updated": 1785280941,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "e899751e-0313-4b38-844c-137b5cba368a",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -9947,24 +10133,6 @@
     "source": "simplify",
     "date_posted": 1780823397,
     "date_updated": 1780824158,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "121cc7ec-2289-451b-996d-daf547f67f25",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems",
-    "url": "https://www.tesla.com/careers/search/job/267750",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780815263,
-    "date_updated": 1780815503,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -10186,24 +10354,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "899430e7-72cd-4e65-9394-58fd69b316ad",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
-    "url": "https://www.tesla.com/careers/search/job/271544",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780755038,
-    "date_updated": 1780756418,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "9a7e7535-216f-41a8-b35c-5005ec017d35",
@@ -10747,24 +10897,6 @@
     "program": "cs"
   },
   {
-    "id": "a8790742-1793-4b5a-b3a7-faf1d438c4fb",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
-    "url": "https://www.tesla.com/careers/search/job/272937",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780794991,
-    "date_updated": 1780795637,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "0606524d-078f-47d6-8447-f7842723a934",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -10978,6 +11110,24 @@
     "date_posted": 1783053072,
     "date_updated": 1783053072,
     "program": "cs"
+  },
+  {
+    "id": "aff149ec-8435-4f94-9798-ea3716d37883",
+    "company_name": "Texas Instruments",
+    "company_url": "https://simplify.jobs/c/Texas-Instruments",
+    "title": "Product Operations Analyst Intern",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785276243,
+    "date_updated": 1785276696,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "b7a7213e-4e27-48ac-82d9-593ced5ab46d",
@@ -11331,6 +11481,24 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "2522e64f-6b7b-4896-8fec-6536ad4ea335",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
+    "url": "https://lifeattiktok.com/search/7667613782697232693",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785287723,
+    "date_updated": 1785287881,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "e2e06e62-480d-4138-935e-deee2f8784fd",
@@ -12727,6 +12895,24 @@
     "date_posted": 1782522464,
     "date_updated": 1782522541,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "14fadffb-b227-4768-8c63-9e4a32a80032",
+    "company_name": "Zurich Insurance",
+    "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+    "title": "Data Analytics & AI Internship/Co-op - Data Analytics & AI",
+    "url": "https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785276580,
+    "date_updated": 1785278059,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
