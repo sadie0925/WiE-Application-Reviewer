@@ -976,24 +976,6 @@
     "program": "cs"
   },
   {
-    "id": "cd8ad71e-1cf7-47e2-a955-1b09ab203e48",
-    "company_name": "Assurant",
-    "company_url": "https://simplify.jobs/c/Assurant",
-    "title": "Digital & AI Transformation Intern",
-    "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785196800,
-    "date_updated": 1785276542,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "2bf9596e-6416-4fef-8c6d-48ac964d59fa",
     "company_name": "Astera",
     "company_url": "https://simplify.jobs/c/Astera",
@@ -9697,6 +9679,24 @@
     "program": "cs"
   },
   {
+    "id": "e1ef0c61-0133-4fe9-b4eb-f96359766b1f",
+    "company_name": "Susquehanna International Group (SIG)",
+    "company_url": "https://simplify.jobs/c/Susquehanna",
+    "title": "Trading Operations Analyst Intern",
+    "url": "https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785391699,
+    "date_updated": 1785392525,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "9424072c-485e-43c4-91e8-4f124356a286",
     "company_name": "Susquehanna International Group (SIG)",
     "company_url": "https://simplify.jobs/c/Susquehanna",
@@ -11070,6 +11070,24 @@
     "program": "cs"
   },
   {
+    "id": "0fe46774-0c06-4ab5-94e3-f5f8af293290",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
+    "url": "https://www.tesla.com/careers/search/job/278578",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785374147,
+    "date_updated": 1785374928,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "3d51e2e5-16ae-4dcc-80ae-e0198058f1e0",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -11768,7 +11786,7 @@
     "id": "c6b69846-839a-44c7-b22c-fa62c69a2ffd",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
-    "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - 2026 Summer",
+    "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering",
     "url": "https://lifeattiktok.com/search/7572358528171510069",
     "locations": [
       "San Jose, CA"
@@ -11776,8 +11794,8 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1764641787,
-    "date_updated": 1764641787,
+    "date_posted": 1781503947,
+    "date_updated": 1781504821,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
