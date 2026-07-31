@@ -2867,24 +2867,6 @@
     "program": "cs"
   },
   {
-    "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
-    "company_name": "City of Austin",
-    "company_url": "https://simplify.jobs/c/City-Of-Austin",
-    "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-    "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784851200,
-    "date_updated": 1784932575,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "980b782f-08f5-4d65-8cde-74e2a0a76186",
     "company_name": "Clarity Innovations",
     "company_url": "https://simplify.jobs/c/Clarity-Innovations",
@@ -4530,24 +4512,6 @@
     "date_posted": 1769182182,
     "date_updated": 1769182182,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
-    "company_name": "GE Healthcare",
-    "company_url": "https://simplify.jobs/c/GE-Healthcare",
-    "title": "Engineering Development Program Intern - Software",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
-    "locations": [
-      "Waukesha, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784505600,
-    "date_updated": 1784559831,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6609,24 +6573,6 @@
     "program": "cs"
   },
   {
-    "id": "720b84ca-84d8-43bc-9284-172ad2ed475f",
-    "company_name": "Menasha Corporation",
-    "company_url": "https://simplify.jobs/c/Menasha-Corporation",
-    "title": "Supply Chain Analytics Intern",
-    "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985",
-    "locations": [
-      "Neenah, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785283200,
-    "date_updated": 1785366541,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "99160221-1059-4cc4-9a0e-6b72009c21e5",
     "company_name": "Meshy",
     "company_url": "",
@@ -6989,24 +6935,6 @@
     "program": "other"
   },
   {
-    "id": "a196474c-7f86-4710-8275-f7701867a7ad",
-    "company_name": "NationGraph",
-    "company_url": "https://simplify.jobs/c/49dc7fb1-8f1c-440d-bcaa-4ac94873db36",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416/application?embed=true",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784596555,
-    "date_updated": 1784597894,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a829ca2b-67d1-4241-b6db-70adc403355e",
     "company_name": "NationGraph",
     "company_url": "https://simplify.jobs/c/49dc7fb1-8f1c-440d-bcaa-4ac94873db36",
@@ -7366,24 +7294,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "14a8c596-35b9-4312-9008-8d591df5e8af",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Regression Lab Co-op",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38077",
-    "locations": [
-      "Westford, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784066820,
-    "date_updated": 1784067305,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "363bf983-6b24-4bf3-abba-83242e26fd12",
@@ -10873,24 +10783,6 @@
     "program": "cs"
   },
   {
-    "id": "5288f66e-452b-4ae7-a62d-12249dce5312",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
-    "url": "https://www.tesla.com/careers/search/job/275331",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782944200,
-    "date_updated": 1782944942,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "64725ad4-eb28-4c0e-8af0-7e56f560abc2",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -11518,6 +11410,24 @@
     "date_posted": 1785190403,
     "date_updated": 1785195096,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "b5c7fd89-4672-4907-87b7-68a4b6957acb",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
+    "url": "https://www.tesla.com/careers/search/job/278703",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785478503,
+    "date_updated": 1785478904,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
