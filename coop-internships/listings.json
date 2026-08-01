@@ -255,24 +255,6 @@
     "program": "cs"
   },
   {
-    "id": "443c6322-3e3b-48b4-9fd4-3a9c04931db8",
-    "company_name": "Altice USA",
-    "company_url": "https://simplify.jobs/c/Altice-USA",
-    "title": "Data Engineer Intern",
-    "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
-    "locations": [
-      "Long Island City, Queens, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785535925,
-    "date_updated": 1785536925,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "95bf548d-b42d-4076-aee6-3afce1e110be",
     "company_name": "Altom Transport",
     "company_url": "https://simplify.jobs/c/Altom-Transport",
@@ -5268,24 +5250,6 @@
     "date_posted": 1785535966,
     "date_updated": 1785537082,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0f2e6b7c-2185-4da8-9eab-26cb0081ec69",
-    "company_name": "Institute of Foundation Models",
-    "company_url": "https://simplify.jobs/c/Institute-Of-Foundation-Models",
-    "title": "AIE Intern",
-    "url": "https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f/apply",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1764831826,
-    "date_updated": 1764831826,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -10903,6 +10867,24 @@
     "source": "simplify",
     "date_posted": 1780755075,
     "date_updated": 1780756441,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "ff0616b4-484e-4ce8-b74e-55a7e8cc0e9d",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Software Compiler Engineer Intern - AI Inference",
+    "url": "https://www.tesla.com/careers/search/job/278847",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785546978,
+    "date_updated": 1785547853,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"

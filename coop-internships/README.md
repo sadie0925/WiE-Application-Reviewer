@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**729 active US/Canada co-op & intern listings** · 613 CS/software · 116 other programs · 0 inactive · Last updated: 2026-07-31 21:53 ET
+**728 active US/Canada co-op & intern listings** · 612 CS/software · 116 other programs · 0 inactive · Last updated: 2026-08-01 04:03 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -119,7 +119,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (518)
+### CS / Software (517)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -134,7 +134,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | ASM International | Software Engineering Intern | Phoenix, AZ | 2026-04-22 | [Apply](https://www.asm.com/open-vacancies/?gh_jid=4830113101) |
 | ASML | Internship - Software Development Engineer in Test | San Jose, CA | 2025-12-22 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) |
 | AeroVironment | Software Engineering Intern – Hyper-RF Division | Germantown, MD | 2025-12-26 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367) |
-| Altice USA | Data Engineer Intern | Long Island City, Queens, NY | 2026-07-31 | [Apply](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) |
 | Altom Transport | Software Development Intern | Markham, IL | 2026-06-03 | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/apply) |
 | Altom Transport | Software Development Intern | Markham, IL | 2026-05-28 | [Apply](https://apply.workable.com/altom-transport/j/1E3C4A9408/apply) |
 | Altom Transport | Software Development Intern | Markham, IL | 2026-06-23 | [Apply](https://apply.workable.com/altom-transport/j/9FC654F05E/apply) |
@@ -313,7 +312,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | IMC Trading | Quantitative Research Intern | Chicago, IL | 2026-07-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
 | IMC Trading | Quantitative Trader Intern | Chicago, IL | 2026-07-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
 | Infojini | GIS Intern Analyst | Columbia, SC | 2026-02-24 | [Apply](https://jobs.smartrecruiters.com/InfojiniInc1/104263488) |
-| Institute of Foundation Models | AIE Intern | Sunnyvale, CA | 2025-12-04 | [Apply](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f/apply) |
 | Institute of Foundation Models | Inference Optimization Intern - Performance Modeling | Sunnyvale, CA | 2026-06-24 | [Apply](https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d/apply) |
 | Integra FEC | Data Analyst Intern | Austin, TX | 2026-04-28 | [Apply](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) |
 | Integra FEC | Data Analyst Intern | Austin, TX | 2026-04-28 | [Apply](https://job-boards.greenhouse.io/integra/jobs/5134522008) |
@@ -536,6 +534,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Tesla | RL Engineer Intern - RL Engineer - Tesla AI | Palo Alto, CA | 2026-07-01 | [Apply](https://www.tesla.com/careers/search/job/275494) |
 | Tesla | Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus | Palo Alto, CA | 2026-06-07 | [Apply](https://www.tesla.com/careers/search/job/253454) |
 | Tesla | Service Engineering Intern - Product Support Engineer - Service Engineering | Palo Alto, CA | 2026-06-06 | [Apply](https://www.tesla.com/careers/search/job/271630) |
+| Tesla | Software Compiler Engineer Intern - AI Inference | Palo Alto, CA | 2026-07-31 | [Apply](https://www.tesla.com/careers/search/job/278847) |
 | Tesla | Software Engineer Intern - AI Data Infrastructure | Palo Alto, CA | 2026-06-07 | [Apply](https://www.tesla.com/careers/search/job/269829) |
 | Tesla | Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering | Palo Alto, CA | 2026-07-01 | [Apply](https://www.tesla.com/careers/search/job/275558) |
 | Tesla | Software Engineer Intern - Energy Engineering | Palo Alto, CA | 2026-07-09 | [Apply](https://www.tesla.com/careers/search/job/276333) |
