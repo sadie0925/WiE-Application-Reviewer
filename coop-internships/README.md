@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**755 active US/Canada co-op & intern listings** · 627 CS/software · 128 other programs · 0 inactive · Last updated: 2026-08-02 08:58 ET
+**756 active US/Canada co-op & intern listings** · 628 CS/software · 128 other programs · 0 inactive · Last updated: 2026-08-02 14:55 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -127,7 +127,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (525)
+### CS / Software (526)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -406,6 +406,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Northwestern Mutual | Analytics Intern | Milwaukee, WI | 2026-02-25 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMutual/85751677) |
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | 2026-02-25 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMutual/85751711) |
 | Northwestern Mutual | Investment Analyst Intern - Private Debt & Equity | Milwaukee, WI | 2026-07-23 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) |
+| Obsidian Solutions Group | Unity 3D Developer Intern | Fredericksburg, VA | 2026-07-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435) |
 | Occidental Petroleum | Intern/Co-op Data - Well Servicing & Engineering | Midland, TX, Houston, TX (+3) | 2026-03-04 | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413) |
 | Oligo Space | ML/AI/CS Intern | West Athens, CA | 2026-07-20 | [Apply](https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application?embed=true) |
 | Omnis | Software Engineering Internship/Co-Op | Venice, CA | 2026-04-06 | [Apply](https://ats.rippling.com/omnis-corporation/jobs/e389ff2d-5be5-4571-8cc1-f361a139b753) |
