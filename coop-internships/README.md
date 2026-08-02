@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**759 active US/Canada co-op & intern listings** · 631 CS/software · 128 other programs · 0 inactive · Last updated: 2026-08-01 21:50 ET
+**760 active US/Canada co-op & intern listings** · 632 CS/software · 128 other programs · 0 inactive · Last updated: 2026-08-02 04:05 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -127,7 +127,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (529)
+### CS / Software (530)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -463,6 +463,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Red Bull | Data Science Intern - Data Science | Morristown, NJ | 2026-07-22 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000139168339) |
 | Rippling | Full Stack Software Engineer Intern | Seattle, WA | 2026-06-05 | [Apply](https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a) |
 | Rippling | Software Engineer Intern - Backend Focused | Seattle, WA | 2026-06-05 | [Apply](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) |
+| Rivian | Machine Learning Compiler Intern - Machine Learning Compiler | Urbana, IL | 2026-07-14 | [Apply](https://careers.rivian.com/jobs/29851?icims=1) |
 | Rivian | Research Park Intern - Embedded Software | Urbana, IL | 2026-07-22 | [Apply](https://careers.rivian.com/jobs/32354?icims=1) |
 | Rivian | UIUC Research Park Intern - Computational Methods Development | Urbana, IL | 2026-07-22 | [Apply](https://careers.rivian.com/jobs/32340?icims=1) |
 | Rivian and Volkswagen Group Technologies | Android Developer Intern | Palo Alto, CA | 2026-06-11 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) |
