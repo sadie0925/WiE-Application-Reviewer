@@ -55,60 +55,6 @@
     "program": "cs"
   },
   {
-    "id": "10f63732-b872-4b8f-bbb7-529d8b168ab6",
-    "company_name": "AI Fund",
-    "company_url": "https://simplify.jobs/c/AI-Fund",
-    "title": "Engineer in Residence: Enterprise Agent Infrastructure Intern",
-    "url": "https://jobs.lever.co/AIFund/0b219991-32db-4827-b052-7207faac151d/apply",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777266417,
-    "date_updated": 1777625065,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2b301aee-6d8a-4e84-b5fb-8ab5a676bfd5",
-    "company_name": "AI Fund",
-    "company_url": "https://simplify.jobs/c/AI-Fund",
-    "title": "Visiting Engineer: Briocare Intern",
-    "url": "https://jobs.lever.co/AIFund/a5f3a47b-93e0-4941-9061-b3ee1ed82959/apply",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777266398,
-    "date_updated": 1777266820,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "130031de-4390-465c-819b-f088fd95a160",
-    "company_name": "AI Fund",
-    "company_url": "https://simplify.jobs/c/AI-Fund",
-    "title": "Visiting Engineer: Live Selling Copilot Intern",
-    "url": "https://jobs.lever.co/AIFund/6b9fc8cd-f405-48ca-a071-5873a9233ef4/apply",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777266404,
-    "date_updated": 1777267043,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "92ec25b9-67cb-4a92-87d3-379a0012eb5d",
     "company_name": "AQR Capital Management",
     "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
@@ -4771,6 +4717,24 @@
     "program": "cs"
   },
   {
+    "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
+    "company_name": "GE Appliances",
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "title": "Engineering Intern/Co-op",
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
+    "locations": [
+      "Calhoun, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1775299204,
+    "date_updated": 1775303474,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
     "company_name": "GE Appliances",
     "company_url": "https://simplify.jobs/c/GE-Appliances",
@@ -8462,6 +8426,24 @@
     "program": "cs"
   },
   {
+    "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
+    "company_name": "Pennsylvania State University",
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "title": "Research Engineering Intern",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784678400,
+    "date_updated": 1784984864,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "a543ce3e-1976-406e-9398-c700e1bfcbad",
     "company_name": "Pennsylvania State University",
     "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
@@ -8603,24 +8585,6 @@
     "date_posted": 1779487608,
     "date_updated": 1779488226,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
-    "company_name": "Point72",
-    "company_url": "https://simplify.jobs/c/Point72",
-    "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
-    "url": "https://boards.greenhouse.io/point72/jobs/8541241002",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778278880,
-    "date_updated": 1778279499,
-    "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -9785,24 +9749,6 @@
     "category": "Software Engineering",
     "sponsorship": "U.S. Citizenship is Required",
     "program": "cs"
-  },
-  {
-    "id": "0a319815-2604-4c98-94da-26b6a462a885",
-    "company_name": "Smiths Detection Group",
-    "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
-    "title": "Depot Service Engineer Intern",
-    "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499",
-    "locations": [
-      "Gunpowder, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778191442,
-    "date_updated": 1778193575,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "480b1ffd-7a33-4a90-9d19-fd390e121055",
@@ -12948,24 +12894,6 @@
     "program": "cs"
   },
   {
-    "id": "d70d4c4f-f216-471e-a37d-152ffd6f18cb",
-    "company_name": "Unisys",
-    "company_url": "https://simplify.jobs/c/Unisys",
-    "title": "Banco de Talentos Jóvenes Intern",
-    "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bogota-DC-Colombia/Banco-de-Talentos-Jvenes---UIS-Colombia_REQ563731",
-    "locations": [
-      "Washington, DC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776525911,
-    "date_updated": 1776532523,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "17d853eb-3412-4b94-a962-815fd64e1b6c",
     "company_name": "University System of New Hampshire",
     "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
@@ -12979,24 +12907,6 @@
     "source": "simplify",
     "date_posted": 1780610681,
     "date_updated": 1780610961,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
-    "company_name": "University of Arkansas",
-    "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
-    "title": "Graduate Research Assistant Intern",
-    "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
-    "locations": [
-      "Little Rock, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776521178,
-    "date_updated": 1776522836,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
