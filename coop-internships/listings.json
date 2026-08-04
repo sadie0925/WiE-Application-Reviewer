@@ -1919,6 +1919,24 @@
     "program": "cs"
   },
   {
+    "id": "b59992d0-e14b-4009-9121-ed1172ad9b24",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "Software Engineer Intern - AI Platform",
+    "url": "https://jobs.bytedance.com/en/position/7668212952030841093/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785834865,
+    "date_updated": 1785834902,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "7a3479e6-fa2c-40d9-b917-c42922bfeaf1",
     "company_name": "ByteDance",
     "company_url": "https://simplify.jobs/c/ByteDance",
@@ -2076,6 +2094,25 @@
     "source": "simplify",
     "date_posted": 1785449300,
     "date_updated": 1785449343,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "513d3867-26bc-4203-8cd2-ade981572975",
+    "company_name": "CHEP",
+    "company_url": "https://simplify.jobs/c/060f3244-8261-437d-837f-2f8bce40f7a4",
+    "title": "FP&A Business Intelligence Intern",
+    "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+    "locations": [
+      "Orlando, FL",
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780668331,
+    "date_updated": 1780668632,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -3518,24 +3555,6 @@
     "date_posted": 1782166109,
     "date_updated": 1782166926,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
-    "company_name": "Corpay",
-    "company_url": "https://simplify.jobs/c/Corpay",
-    "title": "Software Developer – Co-op",
-    "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1771671996,
-    "date_updated": 1771671996,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -5621,54 +5640,6 @@
     "program": "cs"
   },
   {
-    "id": "98635871-6276-41e4-ad95-172485704a2c",
-    "company_name": "JP Morgan Chase",
-    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-    "title": "Data & AI Intern - Analyst",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
-    "locations": [
-      "Palo Alto, CA",
-      "Newark, DE",
-      "Plano, TX",
-      "Chicago, IL",
-      "Jersey City, NJ",
-      "Columbus, OH",
-      "Wilmington, DE"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785738259,
-    "date_updated": 1785740979,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
-    "company_name": "JP Morgan Chase",
-    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-    "title": "Data Internship - Data & AI Program",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
-    "locations": [
-      "Palo Alto, CA",
-      "Newark, DE",
-      "Plano, TX",
-      "Chicago, IL",
-      "Jersey City, NJ",
-      "Columbus, OH",
-      "Wilmington, DE"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785738269,
-    "date_updated": 1785740962,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "33f7cf59-11b2-4422-b6b4-0d340392d3b9",
     "company_name": "JP Morgan Chase",
     "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
@@ -6344,20 +6315,20 @@
     "program": "cs"
   },
   {
-    "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
+    "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
     "company_name": "Magna",
     "company_url": "https://simplify.jobs/c/Magna",
-    "title": "Junior Full Stack Developer Co-op",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793",
+    "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658",
     "locations": [
       "Oakville, ON, Canada"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1780136024,
-    "date_updated": 1780281368,
-    "category": "Software",
+    "date_posted": 1784160000,
+    "date_updated": 1784290069,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6665,6 +6636,24 @@
     "source": "simplify",
     "date_posted": 1783987200,
     "date_updated": 1784070704,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "6460be14-109c-4ede-a2ad-63b0be123a5a",
+    "company_name": "McKesson",
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "title": "Associate Business Systems Analyst Intern - Data Hub Canada",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-associ-e---analyste-des-systmes-d-affaires---Automne-2026---Associate-Business-Systems-Analyst-Intern---Fall-2026_JR0150830",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785715200,
+    "date_updated": 1785849953,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -12830,6 +12819,24 @@
     "program": "cs"
   },
   {
+    "id": "8bc8874a-e4e7-4cc8-ba27-aa5854cba4d6",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "AI Product Manager Intern - Content Ecosystem",
+    "url": "https://lifeattiktok.com/search/7667578131150506293",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835211,
+    "date_updated": 1785835263,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "2e4bcf86-ac79-4bab-97c9-17d24636cb96",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -13046,6 +13053,24 @@
     "program": "cs"
   },
   {
+    "id": "6454b1b2-6daf-4a13-9e9f-47209a333d39",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Backend Software Engineer Intern - LIVE Foundation Governance Engineering",
+    "url": "https://lifeattiktok.com/search/7667935150530840837",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835212,
+    "date_updated": 1785835263,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "04eb8758-e0be-4ae4-aca7-40e1626d3e24",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -13080,6 +13105,42 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "3b44efc2-7d58-43bc-a375-21f4344932d3",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Data Science Intern - Integrity and Safety",
+    "url": "https://lifeattiktok.com/search/7669682935444900149",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835210,
+    "date_updated": 1785835263,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "0fb5cd0a-2141-450b-b5c0-d7a1d71036dd",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Data Science Intern - TikTok Live",
+    "url": "https://lifeattiktok.com/search/7669700822370945333",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835211,
+    "date_updated": 1785835263,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "52ee1de2-11b1-4e37-a1a0-6903f7dd9b9b",
@@ -13152,6 +13213,24 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "b05ba4c5-016d-48b3-888c-f09fa7f253ad",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Frontend Engineer Intern - Global CRM",
+    "url": "https://lifeattiktok.com/search/7669711026846058757",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835212,
+    "date_updated": 1785835263,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "b810a416-7ff9-4dd2-9bee-5b5b5ca5e317",
@@ -13298,6 +13377,132 @@
     "program": "cs"
   },
   {
+    "id": "b11dddb4-7bc4-4864-8ee8-ab5d5bb12c9a",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Machine Learning Engineer Intern - App Ads and Gaming",
+    "url": "https://lifeattiktok.com/search/7669709472078170373",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835208,
+    "date_updated": 1785835263,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "6dabe551-58cb-4dd5-9ba4-5656067dd84a",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Machine Learning Engineer Intern - Brand Ads",
+    "url": "https://lifeattiktok.com/search/7668654528822954245",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835209,
+    "date_updated": 1785835736,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "6c0be2d1-eac9-429a-b900-df719577d679",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Machine Learning Engineer Intern - Commerce Ads - Summer 2027",
+    "url": "https://lifeattiktok.com/search/7669711968043092229",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835212,
+    "date_updated": 1785835263,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "b6428bbb-bf53-4e9c-8121-3217159bb9b6",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce",
+    "url": "https://lifeattiktok.com/search/7668383643375257909",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835211,
+    "date_updated": 1785835263,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "e6fd79b5-22a9-40cb-a2a0-896d01ebf44b",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Machine Learning Engineer Intern - Lead Ads",
+    "url": "https://lifeattiktok.com/search/7669707492914727221",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835211,
+    "date_updated": 1785835735,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "708992c3-129c-4bbd-9c10-a0ae59f29fd2",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Machine Learning Engineer Intern - Performance Monetization",
+    "url": "https://lifeattiktok.com/search/7669693163422845237",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835206,
+    "date_updated": 1785835755,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "fb88f1c3-967a-419b-8ac4-535d941480ac",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Machine Learning Engineer Intern - Search Ads",
+    "url": "https://lifeattiktok.com/search/7669698648817305909",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835207,
+    "date_updated": 1785835263,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "1c50abfc-6825-4aa2-8dff-f244f74c75bf",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -13332,6 +13537,42 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "14af9b4a-6b3e-473b-844f-542a89afb184",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Recommendation Product Manager Intern - Content Ecosystem",
+    "url": "https://lifeattiktok.com/search/7667874197682899205",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835212,
+    "date_updated": 1785835263,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "ac3e3883-21b0-4ad1-8011-bf5060c01aab",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture",
+    "url": "https://lifeattiktok.com/search/7667934792727906565",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785737703,
+    "date_updated": 1785839402,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "14e4cecc-8df0-4784-b302-5fa8e96fae39",
@@ -13496,6 +13737,24 @@
     "program": "cs"
   },
   {
+    "id": "722bb14f-670f-48c9-8320-e07db2eff930",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern",
+    "url": "https://lifeattiktok.com/search/7669712589169117445",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835209,
+    "date_updated": 1785835263,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "6fa46b99-9c48-44b2-8d38-e17ef2651837",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -13640,6 +13899,24 @@
     "program": "cs"
   },
   {
+    "id": "dde435d3-0494-49e6-bba7-811e7131b9be",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Intelligent Creation-Camera",
+    "url": "https://lifeattiktok.com/search/7668862422178318597",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835207,
+    "date_updated": 1785835263,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "c03b7a2c-d1b6-4e44-bfc8-e638eeb45dac",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -13653,6 +13930,24 @@
     "source": "simplify",
     "date_posted": 1785737704,
     "date_updated": 1785738601,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "5182ae3f-a0b7-4e07-80fd-25a69767ee5d",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Transaction Platform",
+    "url": "https://lifeattiktok.com/search/7669943120351906053",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785835206,
+    "date_updated": 1785835263,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -14653,26 +14948,6 @@
     "program": "cs"
   },
   {
-    "id": "de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
-    "company_name": "Williams",
-    "company_url": "https://simplify.jobs/c/Williams",
-    "title": "Engineering Intern",
-    "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502",
-    "locations": [
-      "Salt Lake City, UT",
-      "Houston, TX",
-      "Tulsa, OK"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785715200,
-    "date_updated": 1785795556,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "25121cbb-b042-4319-b7e2-7f1c9d2989bd",
     "company_name": "WindBorne Systems",
     "company_url": "https://simplify.jobs/c/WindBorne-Systems",
@@ -14819,6 +15094,24 @@
     "program": "cs"
   },
   {
+    "id": "3233bc5d-9026-42f2-acc6-1cbf5cd4e5f2",
+    "company_name": "Zipline",
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780726498,
+    "date_updated": 1780726501,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "72e1792e-aad9-40a4-9464-641c1c28ccd1",
     "company_name": "Zipline",
     "company_url": "https://simplify.jobs/c/Zipline",
@@ -14833,24 +15126,6 @@
     "date_posted": 1781054356,
     "date_updated": 1781054461,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "36c3316e-beef-4d82-99dd-0b061669b32a",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Maps Intern",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782598076,
-    "date_updated": 1782598323,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
