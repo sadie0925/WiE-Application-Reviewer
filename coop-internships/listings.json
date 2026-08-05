@@ -1229,24 +1229,6 @@
     "program": "cs"
   },
   {
-    "id": "b3adad35-fbd3-410d-a07f-c9df9cf024d9",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785110400,
-    "date_updated": 1785194698,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "343fcb3c-e4be-4f12-841e-664571827fa6",
     "company_name": "Barkback",
     "company_url": "https://simplify.jobs/c/Barkback",
@@ -4736,6 +4718,42 @@
     "program": "cs"
   },
   {
+    "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
+    "company_name": "GE Appliances",
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "title": "Engineering Co-op",
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431",
+    "locations": [
+      "LaFayette, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785888000,
+    "date_updated": 1785939597,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
+    "company_name": "GE Appliances",
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "title": "Software Engineer Co-op - Software Engineering",
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785888000,
+    "date_updated": 1785939594,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
     "company_name": "GE Appliances",
     "company_url": "https://simplify.jobs/c/GE-Appliances",
@@ -4830,6 +4848,24 @@
     "program": "other"
   },
   {
+    "id": "d11cbbe8-c970-459f-bf95-530ed6400b12",
+    "company_name": "General Dynamics Information Technology",
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "title": "Artificial Intelligence/Machine Learning Intern",
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
+    "locations": [
+      "Falls Church, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785888000,
+    "date_updated": 1785939365,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "430476fa-929a-40d6-baa9-2ff79a9c2899",
     "company_name": "General Dynamics Information Technology",
     "company_url": "https://simplify.jobs/c/GDIT",
@@ -4843,6 +4879,24 @@
     "source": "simplify",
     "date_posted": 1785801600,
     "date_updated": 1785881988,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "55d8eebc-3068-41c4-bbd7-add2f7ce530b",
+    "company_name": "General Dynamics Information Technology",
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "title": "Software Developer Intern",
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785888000,
+    "date_updated": 1785939340,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -6801,6 +6855,42 @@
     "date_posted": 1779529868,
     "date_updated": 1779530761,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "76d0cd65-7277-4783-9523-cf9608d9d9b0",
+    "company_name": "Maven Securities",
+    "company_url": "https://simplify.jobs/c/Maven-Securities",
+    "title": "Trader Intern",
+    "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051938",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785940169,
+    "date_updated": 1785940255,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "f8c7b2c2-899a-4a4f-9f36-7893a8512aed",
+    "company_name": "Maven Securities",
+    "company_url": "https://simplify.jobs/c/Maven-Securities",
+    "title": "Trader Intern - Summer",
+    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785940179,
+    "date_updated": 1785940230,
+    "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -10056,24 +10146,6 @@
     "date_posted": 1785794886,
     "date_updated": 1785795572,
     "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4261438c-b2b0-4cdc-a13d-9642454eef75",
-    "company_name": "SS&C",
-    "company_url": "https://simplify.jobs/c/SSC",
-    "title": "Intern – Technical",
-    "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Intern---Technical_R40419",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1774391281,
-    "date_updated": 1774391281,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -14442,24 +14514,6 @@
     "program": "cs"
   },
   {
-    "id": "35880e25-246d-4a52-9e52-2241407852fd",
-    "company_name": "Two Six Technologies",
-    "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-    "title": "China Subject Matter Expert Intern",
-    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783030493,
-    "date_updated": 1783031941,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "6c78eb68-253a-4844-99c0-49678769df20",
     "company_name": "UMB",
     "company_url": "https://simplify.jobs/c/UMB",
@@ -14473,6 +14527,24 @@
     "source": "simplify",
     "date_posted": 1781360581,
     "date_updated": 1784612701,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "fef69e02-fe37-4ff4-b158-7dceacfeb578",
+    "company_name": "US Acute Care Solutions",
+    "company_url": "https://simplify.jobs/c/US-Acute-Care-Solutions",
+    "title": "People Analytics Intern",
+    "url": "https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785888000,
+    "date_updated": 1785939123,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
