@@ -328,26 +328,6 @@
     "program": "cs"
   },
   {
-    "id": "83202c55-8636-4cc2-9b99-1ae2c111a000",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026",
-    "url": "https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-    "locations": [
-      "Seattle, WA",
-      "Wakefield, MA",
-      "Westborough, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1765178876,
-    "date_updated": 1765178876,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8cfec360-0de7-4099-97df-66400369c836",
     "company_name": "Amazon",
     "company_url": "https://simplify.jobs/c/Amazon",
@@ -808,24 +788,6 @@
     "date_posted": 1775081547,
     "date_updated": 1775086186,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "58fdddae-3677-433e-8a28-40e7b82c4570",
-    "company_name": "Arcadis",
-    "company_url": "https://simplify.jobs/c/Arcadis",
-    "title": "GIS Intern",
-    "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784758335,
-    "date_updated": 1784758880,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -4138,6 +4100,24 @@
     "program": "other"
   },
   {
+    "id": "931c35b2-3528-4bb5-9d2a-97809685a672",
+    "company_name": "Eaton Corporation",
+    "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+    "title": "Product Development Engineer Co-op - Research & Development Engineering",
+    "url": "https://eaton.eightfold.ai/careers/job/687234535534",
+    "locations": [
+      "Hodges, SC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785910632,
+    "date_updated": 1785911161,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "07de287a-60cf-4318-9941-284ab79b4148",
     "company_name": "Eluvio",
     "company_url": "https://simplify.jobs/c/Eluvio",
@@ -5819,6 +5799,24 @@
     "program": "cs"
   },
   {
+    "id": "3341457c-dacb-42db-bb9e-af3db4702f0a",
+    "company_name": "John Deere",
+    "company_url": "https://simplify.jobs/c/John-Deere",
+    "title": "Advanced Engineering Student Intern - Product Engineering",
+    "url": "https://johndeere.eightfold.ai/careers/job/137481393611",
+    "locations": [
+      "Fargo, ND"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785910546,
+    "date_updated": 1785910894,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "9d14590b-3922-4c2d-a411-04bbe025a5bc",
     "company_name": "Jump Trading",
     "company_url": "https://simplify.jobs/c/Jump-Trading",
@@ -7387,24 +7385,6 @@
     "date_posted": 1784596618,
     "date_updated": 1784598229,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "c43a8efe-18e4-4741-95da-c6e0f6e5f3f7",
-    "company_name": "Moment Energy",
-    "company_url": "https://simplify.jobs/c/Moment-Energy",
-    "title": "Firmware Engineering Co-op",
-    "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4257334009",
-    "locations": [
-      "Surrey, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783031371,
-    "date_updated": 1783031941,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
