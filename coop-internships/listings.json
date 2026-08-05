@@ -1971,6 +1971,24 @@
     "program": "cs"
   },
   {
+    "id": "fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra",
+    "url": "https://jobs.bytedance.com/en/position/7670330161462364421/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785921282,
+    "date_updated": 1785921458,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "1d80ea78-05cb-4f34-8a55-0a7244943518",
     "company_name": "CAE",
     "company_url": "https://simplify.jobs/c/CAE",
@@ -2641,24 +2659,6 @@
     "source": "simplify",
     "date_posted": 1781707022,
     "date_updated": 1781707723,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "2300311c-66b2-430c-88cb-0482516a6da7",
-    "company_name": "Ciena",
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "title": "Photonic Hardware Intern",
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784505600,
-    "date_updated": 1784585704,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -5714,30 +5714,6 @@
     "program": "cs"
   },
   {
-    "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
-    "company_name": "JP Morgan Chase",
-    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-    "title": "Data Internship - Data & AI Program",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
-    "locations": [
-      "Palo Alto, CA",
-      "Newark, DE",
-      "Plano, TX",
-      "Chicago, IL",
-      "Jersey City, NJ",
-      "Columbus, OH",
-      "Wilmington, DE"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785738269,
-    "date_updated": 1785740962,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "33f7cf59-11b2-4422-b6b4-0d340392d3b9",
     "company_name": "JP Morgan Chase",
     "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
@@ -7153,24 +7129,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "68d9d4d0-a1b3-4673-a429-1d2524909e32",
-    "company_name": "Microchip Technology",
-    "company_url": "https://simplify.jobs/c/Microchip-Technology",
-    "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
-    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1",
-    "locations": [
-      "Chandler, AZ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785456000,
-    "date_updated": 1785547375,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "fd3e2e22-2204-4e00-a4a5-16dab46017cb",
@@ -9389,24 +9347,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "0b26c2f0-079a-457d-b9bc-8123655ff605",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
-    "locations": [
-      "McKinney, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785369600,
-    "date_updated": 1785422216,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "c3d4ae08-ce75-4327-94cf-38da2d5cbae0",
@@ -13241,6 +13181,24 @@
     "program": "cs"
   },
   {
+    "id": "ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Backend Software Engineer Intern - Creation Platform",
+    "url": "https://lifeattiktok.com/search/7670289874020993285",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785921473,
+    "date_updated": 1785921482,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "2e35f7c5-6439-4055-8645-1f6e1035fcd6",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -13367,6 +13325,24 @@
     "program": "other"
   },
   {
+    "id": "7fdf2de6-75ca-4715-8764-720c7cc52695",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Data Engineer Intern - Ads Targeting",
+    "url": "https://lifeattiktok.com/search/7668533140146817333",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785921432,
+    "date_updated": 1785921668,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "3b44efc2-7d58-43bc-a375-21f4344932d3",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -13470,6 +13446,24 @@
     "source": "simplify",
     "date_posted": 1772579688,
     "date_updated": 1772579688,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "861c7a8a-d9c3-4137-b070-331f0d26e5b3",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Data Scientist Intern - VOD Data",
+    "url": "https://lifeattiktok.com/search/7670287013157095733",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785921474,
+    "date_updated": 1785921482,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -13758,6 +13752,24 @@
     "source": "simplify",
     "date_posted": 1785835206,
     "date_updated": 1785835755,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "633fde2a-eea3-462a-91b6-f0c8025fba8d",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Machine Learning Engineer Intern - Search",
+    "url": "https://lifeattiktok.com/search/7668396597746862341",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785921479,
+    "date_updated": 1785921482,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -14831,24 +14843,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "b985c2e9-afbf-4483-8caf-535dd499e166",
-    "company_name": "Verkada",
-    "company_url": "https://simplify.jobs/c/Verkada",
-    "title": "Hardware Engineer Co-op",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4321159007",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778652706,
-    "date_updated": 1778706031,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
