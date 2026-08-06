@@ -36,25 +36,6 @@
     "program": "other"
   },
   {
-    "id": "dc9a39f7-72fa-452b-8863-2071f8e63489",
-    "company_name": "ABB",
-    "company_url": "https://simplify.jobs/c/ABB",
-    "title": "Application Engineering Intern",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999",
-    "locations": [
-      "Lombard, IL",
-      "Alpharetta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783549112,
-    "date_updated": 1783550345,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "92ec25b9-67cb-4a92-87d3-379a0012eb5d",
     "company_name": "AQR Capital Management",
     "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
@@ -252,6 +233,24 @@
     "date_updated": 1766764298,
     "category": "Software Engineering",
     "sponsorship": "U.S. Citizenship is Required",
+    "program": "cs"
+  },
+  {
+    "id": "443c6322-3e3b-48b4-9fd4-3a9c04931db8",
+    "company_name": "Altice USA",
+    "company_url": "https://simplify.jobs/c/Altice-USA",
+    "title": "Data Engineer Intern",
+    "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
+    "locations": [
+      "Long Island City, Queens, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785535925,
+    "date_updated": 1785536925,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
     "program": "cs"
   },
   {
@@ -1767,6 +1766,42 @@
     "source": "simplify",
     "date_posted": 1772062271,
     "date_updated": 1772062271,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
+    "url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785996830,
+    "date_updated": 1785997001,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "83e8dcee-3e30-49d2-97e2-42937bcfe4fa",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
+    "url": "https://jobs.bytedance.com/en/position/7670009669494704437/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785996826,
+    "date_updated": 1785996901,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -10109,42 +10144,6 @@
     "program": "cs"
   },
   {
-    "id": "aeb14b2f-abb3-4021-9504-a2a018bbda23",
-    "company_name": "Rockwell Automation",
-    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-    "title": "Applied AI Intern",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785283200,
-    "date_updated": 1785365506,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "7f0b4b51-7fe2-4636-acda-1f3a52a12e19",
-    "company_name": "Rockwell Automation",
-    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-    "title": "Applied AI Intern",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785283200,
-    "date_updated": 1785365432,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "36b79a50-6c90-42a0-8884-86ce10b25d38",
     "company_name": "Rockwell Automation",
     "company_url": "https://simplify.jobs/c/Rockwell-Automation",
@@ -10266,42 +10265,6 @@
     "source": "simplify",
     "date_posted": 1782958180,
     "date_updated": 1782963189,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "4239cf96-37b5-405d-8764-53684b347047",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Relationship Manager Commercial Markets Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1",
-    "locations": [
-      "Charlottetown, PE, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784764800,
-    "date_updated": 1784846702,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "15949f9f-5891-47a6-bcc1-7d9b08cc30da",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Relationship Manager Commercial Markets Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768",
-    "locations": [
-      "Inverness, NS, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784764800,
-    "date_updated": 1784846702,
     "category": "Quant",
     "sponsorship": "Other",
     "program": "other"
@@ -14238,6 +14201,24 @@
     "program": "other"
   },
   {
+    "id": "b2cd571c-f4e5-486e-b725-8596bbcb6db9",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Product Operations Intern - TikTok Shop Apps and API - MBA",
+    "url": "https://lifeattiktok.com/search/7668820702623467781",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785981295,
+    "date_updated": 1785981421,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "14af9b4a-6b3e-473b-844f-542a89afb184",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -14575,6 +14556,24 @@
     "source": "simplify",
     "date_posted": 1785824419,
     "date_updated": 1785825721,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "fa4acb7b-e2c6-4b0a-8f93-4d09b537db1b",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Foundation Platform",
+    "url": "https://lifeattiktok.com/search/7670281449668905269",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785981287,
+    "date_updated": 1785981421,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -15751,24 +15750,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "b1e7848c-2bcb-4141-8a17-fde660e87b84",
-    "company_name": "XPENG Motors",
-    "company_url": "https://simplify.jobs/c/XPengMotors",
-    "title": "VLA Deployment AI Intern",
-    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777961452,
-    "date_updated": 1777961656,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "d37c57dd-2a33-4fb5-a1f5-71e277f49809",
