@@ -1609,6 +1609,24 @@
     "program": "other"
   },
   {
+    "id": "a5e9c092-6cda-482a-967c-6c02b15a0fbd",
+    "company_name": "BorgWarner",
+    "company_url": "https://simplify.jobs/c/BorgWarner",
+    "title": "Validation Intern",
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1",
+    "locations": [
+      "Kokomo, IN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1779372588,
+    "date_updated": 1779372721,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "fe59e903-3f33-41f3-add0-3ce0ba6fe501",
     "company_name": "BorgWarner",
     "company_url": "https://simplify.jobs/c/BorgWarner",
@@ -4334,24 +4352,6 @@
     "program": "other"
   },
   {
-    "id": "b8e5d108-c2d4-4203-be00-c0a649c4459d",
-    "company_name": "Etched",
-    "company_url": "https://simplify.jobs/c/Etched",
-    "title": "Electrical Platform Intern",
-    "url": "https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770430155,
-    "date_updated": 1773307413,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "2e947349-323e-4e5a-af34-b79087418d65",
     "company_name": "Etched",
     "company_url": "https://simplify.jobs/c/Etched",
@@ -4844,24 +4844,6 @@
     "program": "cs"
   },
   {
-    "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
-    "company_name": "GE Appliances",
-    "company_url": "https://simplify.jobs/c/GE-Appliances",
-    "title": "Engineering Co-op",
-    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431",
-    "locations": [
-      "LaFayette, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785888000,
-    "date_updated": 1785939597,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
     "company_name": "GE Appliances",
     "company_url": "https://simplify.jobs/c/GE-Appliances",
@@ -4896,6 +4878,24 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "16245ae0-c25a-4918-a292-b5fdd502742f",
+    "company_name": "GE Healthcare",
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "title": "Surgery Field Engineer Apprentice Intern",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
+    "locations": [
+      "Stamford, CT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1776377195,
+    "date_updated": 1776377999,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "7d3709c5-eca0-4793-8cbd-bb444a1d8975",
@@ -5936,30 +5936,6 @@
     "program": "cs"
   },
   {
-    "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
-    "company_name": "JP Morgan Chase",
-    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-    "title": "Data Internship - Data & AI Program",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
-    "locations": [
-      "Palo Alto, CA",
-      "Newark, DE",
-      "Plano, TX",
-      "Chicago, IL",
-      "Jersey City, NJ",
-      "Columbus, OH",
-      "Wilmington, DE"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785738269,
-    "date_updated": 1785740962,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "33f7cf59-11b2-4422-b6b4-0d340392d3b9",
     "company_name": "JP Morgan Chase",
     "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
@@ -6739,24 +6715,6 @@
     "date_posted": 1780136024,
     "date_updated": 1780281368,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
-    "company_name": "Magna",
-    "company_url": "https://simplify.jobs/c/Magna",
-    "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658",
-    "locations": [
-      "Oakville, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784160000,
-    "date_updated": 1784290069,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -8881,29 +8839,6 @@
     "program": "other"
   },
   {
-    "id": "ac0e3f80-3460-4cf1-b1bb-83a05b56b495",
-    "company_name": "PNC Financial Services",
-    "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
-    "title": "Technology Intern",
-    "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Undergraduate-Intern_R231441-1",
-    "locations": [
-      "Cleveland, OH",
-      "Birmingham, AL",
-      "Dallas, TX",
-      "Pittsburgh, PA",
-      "Phoenix, AZ",
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785715200,
-    "date_updated": 1785796442,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "39941b70-df77-400f-9010-a59fd5ee3fa8",
     "company_name": "Palantir",
     "company_url": "https://simplify.jobs/c/Palantir",
@@ -10667,24 +10602,6 @@
     "program": "cs"
   },
   {
-    "id": "480b1ffd-7a33-4a90-9d19-fd390e121055",
-    "company_name": "Solar Turbines",
-    "company_url": "https://simplify.jobs/c/Solar-Turbines",
-    "title": "Gas Compressor Data Analyst Intern",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781302033,
-    "date_updated": 1781303170,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
     "company_name": "Solar Turbines",
     "company_url": "https://simplify.jobs/c/Solar-Turbines",
@@ -11259,42 +11176,6 @@
     "date_posted": 1781638798,
     "date_updated": 1781643090,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1a3e9e00-5d2c-4657-be1b-e639c34231eb",
-    "company_name": "T. Rowe Price",
-    "company_url": "https://simplify.jobs/c/t-rowe-price",
-    "title": "Global Trading Intern",
-    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
-    "locations": [
-      "Baltimore, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784764800,
-    "date_updated": 1784788293,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "fb1333ce-9156-4a30-a89d-92ec4d2b6185",
-    "company_name": "T. Rowe Price",
-    "company_url": "https://simplify.jobs/c/t-rowe-price",
-    "title": "Quantitative Equity Investing Intern",
-    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
-    "locations": [
-      "Baltimore, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784764800,
-    "date_updated": 1784788303,
-    "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -14430,6 +14311,24 @@
     "source": "simplify",
     "date_posted": 1785835209,
     "date_updated": 1785835263,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "e7d90cdc-955f-4bb2-8a94-81ea48265d84",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Ads Infrastructure",
+    "url": "https://lifeattiktok.com/search/7572665884037826869",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1768443444,
+    "date_updated": 1768443444,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
