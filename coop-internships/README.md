@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**875 active US/Canada co-op & intern listings** · 727 CS/software · 148 other programs · 0 inactive · Last updated: 2026-08-06 22:07 ET
+**878 active US/Canada co-op & intern listings** · 730 CS/software · 148 other programs · 0 inactive · Last updated: 2026-08-07 03:00 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -126,7 +126,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (630)
+### CS / Software (632)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -490,6 +490,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | PlusAI | Research Engineer Intern - Control | Santa Clara, CA | 2026-05-22 | [Apply](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply) |
 | PlusAI | Scenario Simulation Intern | Santa Clara, CA | 2026-05-22 | [Apply](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) |
 | Point Blue Conservation Science | Data Science Intern - Ecoinformatics | Petaluma, CA | 2026-08-05 | [Apply](https://pointblueconservationscience.applytojob.com/apply/mcXovIM1zn/Data-Science-Graduate-Student-Intern) |
+| Premium Merchant Funding | Real Estate Investment Analyst Intern | Miami, FL | 2026-08-07 | [Apply](https://apply.workable.com/premium-merchant-funding-3/j/395F154DF8/apply) |
 | Primetals Technologies | Data Science Intern - Data Platforms | Lake Mary, FL | 2026-05-19 | [Apply](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Data-Platforms)-FL-32746/1395217733/?ats=successfactors) |
 | Primetals Technologies | Data Science Internship - Governance | Lake Mary, FL | 2026-07-23 | [Apply](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors) |
 | Procter & Gamble (P&G) | R&D Engineer Co-op | Boston, MA | 2026-07-12 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/BOSTON-GO--TECH-CENTER/Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305) |
@@ -565,6 +566,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Austin, TX, Santa Clara, CA | 2025-12-12 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) |
 | Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Santa Clara, CA | 2025-12-12 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) |
 | Tenstorrent | Software Engineer Intern - Power Modeling & AI Tools | Santa Clara, CA | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) |
+| Terranova | Software Engineer Intern | Berkeley, CA | 2026-08-07 | [Apply](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true) |
 | Tesla | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CA, Austin, TX | 2026-06-07 | [Apply](https://www.tesla.com/careers/search/job/272462) |
 | Tesla | AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization | Palo Alto, CA | 2026-06-07 | [Apply](https://www.tesla.com/careers/search/job/263759) |
 | Tesla | AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware | Palo Alto, CA | 2026-06-29 | [Apply](https://www.tesla.com/careers/search/job/275316) |
@@ -901,7 +903,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## Remote
 
-### CS / Software (20)
+### CS / Software (21)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -916,6 +918,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Ensemble Health Partners | Data Scientist Intern | Remote in USA | 2026-07-16 | [Apply](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077) |
 | Ensemble Health Partners | Engineering Excellence Intern | Remote in USA | 2026-07-16 | [Apply](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023) |
 | Golden Pet Brands | Data Analytics Intern | Remote in USA | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) |
+| HealthCorps | Monitoring & Evaluation Intern | Remote in USA, Phoenix, AZ | 2026-08-07 | [Apply](https://apply.workable.com/healthcorpsorg/j/DD52981B55/apply) |
 | Hone Health | Data Engineering Intern | Remote in USA | 2026-07-08 | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
 | MyEmployment | AI Product Engineer Intern | Remote in US | 2026-06-23 | [Apply](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) |
 | National Laboratory of the Rockies | Associate/Undergraduate Intern | Remote in USA | 2026-07-08 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405) |

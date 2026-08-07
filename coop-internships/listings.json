@@ -5262,6 +5262,25 @@
     "program": "cs"
   },
   {
+    "id": "dabc12b1-c602-4c02-a96a-6d8d58128394",
+    "company_name": "HealthCorps",
+    "company_url": "https://simplify.jobs/c/2d66b3e7-d0aa-43f9-9957-a03063032b0d",
+    "title": "Monitoring & Evaluation Intern",
+    "url": "https://apply.workable.com/healthcorpsorg/j/DD52981B55/apply",
+    "locations": [
+      "Remote in USA",
+      "Phoenix, AZ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786083446,
+    "date_updated": 1786083481,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "3da38c8c-84b4-4241-baac-86f895a2bc4f",
     "company_name": "Hendrick Motorsports",
     "company_url": "https://simplify.jobs/c/Hendrick-Motorsports",
@@ -9554,6 +9573,24 @@
     "program": "cs"
   },
   {
+    "id": "9a82fcbd-e34b-494d-8264-b065e528699d",
+    "company_name": "Premium Merchant Funding",
+    "company_url": "https://simplify.jobs/c/8549429e-1365-4bf6-9edc-0bd2c772976f",
+    "title": "Real Estate Investment Analyst Intern",
+    "url": "https://apply.workable.com/premium-merchant-funding-3/j/395F154DF8/apply",
+    "locations": [
+      "Miami, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786083503,
+    "date_updated": 1786083841,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "8bcfb3f6-ce15-48ea-bde9-874808ef8dba",
     "company_name": "Primetals Technologies",
     "company_url": "https://simplify.jobs/c/Primetals-Technologies",
@@ -11726,6 +11763,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "5725405b-6f22-485b-a418-ad3c6148afb4",
+    "company_name": "Terranova",
+    "company_url": "https://simplify.jobs/c/7c7fbf25-9bc1-48dc-9021-9e7ee6186fca",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786083589,
+    "date_updated": 1786084070,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "eee826e6-97e1-40a7-91fd-be9d495e5e43",
