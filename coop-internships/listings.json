@@ -337,16 +337,16 @@
     "id": "c44d58c3-05e3-470a-9f21-4722f9d8522d",
     "company_name": "Amazon",
     "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Software Development Engineer Internship - Summer 2026 - US",
-    "url": "https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us",
+    "title": "Software Development Engineer Internship - Fall 2026 - US",
+    "url": "https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
     "locations": [
       "Seattle, WA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1765328439,
-    "date_updated": 1765328439,
+    "date_posted": 1778882763,
+    "date_updated": 1784754558,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -1318,6 +1318,24 @@
     "program": "cs"
   },
   {
+    "id": "55f6de1b-c6ba-4ae1-a357-c089a2c549ac",
+    "company_name": "Base Power",
+    "company_url": "https://simplify.jobs/c/Base-Power",
+    "title": "Firmware Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1779844123,
+    "date_updated": 1785580217,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "733ec987-5677-4e4e-a8fc-0a8dbcef6060",
     "company_name": "Base Power",
     "company_url": "https://simplify.jobs/c/Base-Power",
@@ -1893,6 +1911,42 @@
     "source": "simplify",
     "date_posted": 1785748596,
     "date_updated": 1785748681,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "1a9582e0-2525-494c-8737-53db648f37cb",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "Network Software Engineer Intern - Network Observation",
+    "url": "https://jobs.bytedance.com/en/position/7670772641439041797/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786065255,
+    "date_updated": 1786065399,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "aa7eb673-811f-4d32-a109-b840c82a1fab",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "Network Software Engineer Intern - Network Switch",
+    "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786065256,
+    "date_updated": 1786065411,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -13818,6 +13872,42 @@
     "program": "cs"
   },
   {
+    "id": "8b5ac2f9-33b4-434d-b7d0-d7d0afcc5357",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Fullstack Software Engineer Intern - Global E-Commerce",
+    "url": "https://lifeattiktok.com/search/7670700387322300677",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786065503,
+    "date_updated": 1786065661,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3eeac721-35f3-4f16-9019-05cfc80ad251",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
+    "url": "https://lifeattiktok.com/search/7670738362521520437",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786065501,
+    "date_updated": 1786065661,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "fad1406c-cd92-4587-b376-d9839b629e3c",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -14551,6 +14641,24 @@
     "source": "simplify",
     "date_posted": 1785824407,
     "date_updated": 1785825721,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "470d8405-efc2-46a4-984e-477fa5e3d31e",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Global E-Commerce Search Infrastructure",
+    "url": "https://lifeattiktok.com/search/7662594807715072261",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786065509,
+    "date_updated": 1786065685,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
