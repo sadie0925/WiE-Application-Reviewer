@@ -3242,26 +3242,6 @@
     "program": "cs"
   },
   {
-    "id": "1e77d075-955b-4c25-944d-cd7154f4aca1",
-    "company_name": "Cisco",
-    "company_url": "https://simplify.jobs/c/Cisco",
-    "title": "Hardware Engineer 2 Co-op",
-    "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2000128",
-    "locations": [
-      "Austin, TX",
-      "San Jose, CA",
-      "Research Triangle, Durham, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779152885,
-    "date_updated": 1779153222,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "e018a2ac-82d3-4544-85aa-440aa29efa03",
     "company_name": "Cisive",
     "company_url": "https://simplify.jobs/c/Cisive",
@@ -11563,6 +11543,24 @@
     "date_posted": 1781638798,
     "date_updated": 1781643090,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "0c687375-0fdb-4eb5-b7da-1951113f5b0a",
+    "company_name": "Systems Planning and Analysis (SPA)",
+    "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+    "title": "Science & Technology Intern",
+    "url": "https://spa.jibeapply.com/jobs/23220?icims=1",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786054266,
+    "date_updated": 1786181581,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
