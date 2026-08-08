@@ -1465,24 +1465,6 @@
     "program": "cs"
   },
   {
-    "id": "a24603b1-1af0-4e6f-9115-62a363875b39",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Database Operations Co-op Intern",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785888000,
-    "date_updated": 1785970092,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "343fcb3c-e4be-4f12-841e-664571827fa6",
     "company_name": "Barkback",
     "company_url": "https://simplify.jobs/c/Barkback",
@@ -2256,6 +2238,24 @@
     "source": "simplify",
     "date_posted": 1773901662,
     "date_updated": 1773901662,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "30e36d66-cf25-4851-9655-d22bb0c6d319",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
+    "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786151719,
+    "date_updated": 1786151881,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -7885,24 +7885,6 @@
     "program": "cs"
   },
   {
-    "id": "4295562e-0da2-4976-804b-5e7986399e5d",
-    "company_name": "Midmark ",
-    "company_url": "https://simplify.jobs/c/Midmark",
-    "title": "Firmware Engineering Intern/Co-op",
-    "url": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333",
-    "locations": [
-      "Vandalia, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770333000,
-    "date_updated": 1770333000,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "d5f656c8-3f10-4705-8103-f3f7a76b54b1",
     "company_name": "Mindsmith",
     "company_url": "",
@@ -8404,24 +8386,6 @@
     "date_posted": 1784596509,
     "date_updated": 1784598123,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "86e907c2-6aef-4071-ae6c-20a9c6b7306c",
-    "company_name": "Netsmart",
-    "company_url": "https://simplify.jobs/c/Netsmart",
-    "title": "Software Engineer Intern",
-    "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
-    "locations": [
-      "Overland Park, KS"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785715200,
-    "date_updated": 1785798855,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -9719,6 +9683,24 @@
     "program": "cs"
   },
   {
+    "id": "681758c6-c283-429d-9627-0f285a799b54",
+    "company_name": "PlusAI",
+    "company_url": "https://simplify.jobs/c/Plus",
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1779170722,
+    "date_updated": 1779170761,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "ea5d5776-27ae-4cbe-aa4d-47a5dd80052f",
     "company_name": "PlusAI",
     "company_url": "https://simplify.jobs/c/Plus",
@@ -9859,6 +9841,24 @@
     "date_posted": 1784844761,
     "date_updated": 1784845081,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "7ededa5d-af4b-4f9d-80ae-9e03985190e9",
+    "company_name": "ProNexus",
+    "company_url": "https://simplify.jobs/c/05c3e660-5408-40c2-8823-074458ea0d94",
+    "title": "Software Engineer Intern",
+    "url": "https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786151968,
+    "date_updated": 1786152061,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -11604,6 +11604,24 @@
     "program": "cs"
   },
   {
+    "id": "aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
+    "company_name": "TMEIC Corporation Americas",
+    "company_url": "https://simplify.jobs/c/975b3d75-c621-42e4-907f-b8063b08c328",
+    "title": "Applications Intern - AI and Machine Learning",
+    "url": "https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply",
+    "locations": [
+      "Roanoke, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786151810,
+    "date_updated": 1786152006,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "3725cd0e-9932-44d8-96f4-2534ae618827",
     "company_name": "TMX Group",
     "company_url": "https://simplify.jobs/c/TMX-Group",
@@ -12612,24 +12630,6 @@
     "source": "simplify",
     "date_posted": 1780794505,
     "date_updated": 1780795278,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "79443f9d-f854-4915-abaf-2312579d6808",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy",
-    "url": "https://www.tesla.com/careers/search/job/271352",
-    "locations": [
-      "Draper, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780794528,
-    "date_updated": 1780795294,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -15442,6 +15442,24 @@
     "program": "cs"
   },
   {
+    "id": "bf2f6a21-e220-45d3-a0b5-847a2cb769f8",
+    "company_name": "Turabify",
+    "company_url": "https://simplify.jobs/c/9cc23efa-7ab8-471d-ad08-519ce06f1f89",
+    "title": "AI Automation Intern",
+    "url": "https://apply.workable.com/turabify-co/j/0B50CC0D49/apply",
+    "locations": [
+      "Franklin, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786151850,
+    "date_updated": 1786152118,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "6c78eb68-253a-4844-99c0-49678769df20",
     "company_name": "UMB",
     "company_url": "https://simplify.jobs/c/UMB",
@@ -16115,6 +16133,24 @@
     "date_posted": 1766099331,
     "date_updated": 1766099331,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "e658540c-4e9e-4242-ae48-0e3059df35a4",
+    "company_name": "WallStreetQuants",
+    "company_url": "https://simplify.jobs/c/46e5dfcd-8bf9-4bd1-b33f-1ccfcb129872",
+    "title": "Quantitative Trading Intern",
+    "url": "https://apply.workable.com/wallstreetquants/j/8CB119E789/apply",
+    "locations": [
+      "Miami, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786151883,
+    "date_updated": 1786152061,
+    "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
   },
