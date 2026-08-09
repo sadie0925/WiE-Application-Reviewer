@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**903 active US/Canada co-op & intern listings** · 757 CS/software · 146 other programs · 0 inactive · Last updated: 2026-08-09 08:28 ET
+**903 active US/Canada co-op & intern listings** · 757 CS/software · 146 other programs · 0 inactive · Last updated: 2026-08-09 14:25 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
