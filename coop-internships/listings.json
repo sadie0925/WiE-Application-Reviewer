@@ -9789,6 +9789,24 @@
     "program": "cs"
   },
   {
+    "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
+    "company_name": "Postman",
+    "company_url": "https://simplify.jobs/c/Postman",
+    "title": "AI Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785622401,
+    "date_updated": 1785624665,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "9a82fcbd-e34b-494d-8264-b065e528699d",
     "company_name": "Premium Merchant Funding",
     "company_url": "https://simplify.jobs/c/8549429e-1365-4bf6-9edc-0bd2c772976f",
@@ -13563,24 +13581,6 @@
     "date_posted": 1785801600,
     "date_updated": 1785881702,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "7e366937-87f7-41fb-9481-e1c24fa3a9dd",
-    "company_name": "The Home Depot",
-    "company_url": "https://simplify.jobs/c/The-Home-Depot",
-    "title": "AI Engineer Intern",
-    "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785369600,
-    "date_updated": 1785449914,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },

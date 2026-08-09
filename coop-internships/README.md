@@ -13,13 +13,13 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**906 active US/Canada co-op & intern listings** · 758 CS/software · 148 other programs · 0 inactive · Last updated: 2026-08-08 20:56 ET
+**906 active US/Canada co-op & intern listings** · 758 CS/software · 148 other programs · 0 inactive · Last updated: 2026-08-09 02:37 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
 ## Canada
 
-### CS / Software (77)
+### CS / Software (76)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -94,7 +94,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Terminal | Software Engineer Intern - Backend | Toronto, ON, Canada | 2026-08-06 | [Apply](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true) |
 | Terminal | Software Engineer Intern - Data Platform | Toronto, ON, Canada | 2026-08-06 | [Apply](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true) |
 | Test Co | Software Intern - Summer 2026 | Toronto, ON | 2026-07-03 | [Apply](https://example.com/job/123) |
-| The Home Depot | AI Engineer Intern | Toronto, ON, Canada | 2026-07-29 | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) |
 | Trend Micro | Malware Research Intern | Toronto, ON, Canada | 2026-07-21 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997) |
 | TribalScale | Agile Software Engineer Co-op | Toronto, ON, Canada | 2026-06-09 | [Apply](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
 | WSP | Business Intelligence Intern | Toronto, ON, Canada, Ottawa, ON, Canada | 2026-08-07 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) |
@@ -128,7 +127,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (654)
+### CS / Software (655)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -501,6 +500,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | PlusAI | Research Engineer Intern - Control | Santa Clara, CA | 2026-05-22 | [Apply](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply) |
 | PlusAI | Scenario Simulation Intern | Santa Clara, CA | 2026-05-22 | [Apply](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) |
 | Point Blue Conservation Science | Data Science Intern - Ecoinformatics | Petaluma, CA | 2026-08-05 | [Apply](https://pointblueconservationscience.applytojob.com/apply/mcXovIM1zn/Data-Science-Graduate-Student-Intern) |
+| Postman | AI Engineer Intern | Berkeley, CA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/postman/jobs/7823417003) |
 | Premium Merchant Funding | Real Estate Investment Analyst Intern | Miami, FL | 2026-08-07 | [Apply](https://apply.workable.com/premium-merchant-funding-3/j/395F154DF8/apply) |
 | Primetals Technologies | Data Science Intern - Data Platforms | Lake Mary, FL | 2026-05-19 | [Apply](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Data-Platforms)-FL-32746/1395217733/?ats=successfactors) |
 | Primetals Technologies | Data Science Internship - Governance | Lake Mary, FL | 2026-07-23 | [Apply](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors) |
