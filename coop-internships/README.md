@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**906 active US/Canada co-op & intern listings** · 758 CS/software · 148 other programs · 0 inactive · Last updated: 2026-08-08 14:22 ET
+**906 active US/Canada co-op & intern listings** · 758 CS/software · 148 other programs · 0 inactive · Last updated: 2026-08-08 20:56 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -226,7 +226,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | CAE | Engineering Co-op | Tampa, FL | 2026-05-09 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_118040) |
 | CHEP | FP&A Business Intelligence Intern | Orlando, FL, Atlanta, GA | 2026-06-05 | [Apply](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) |
 | CNO Financial Group  | Artificial Intelligence Information Technology Intern - AI | Carmel, IN | 2026-08-02 | [Apply](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389) |
-| Cadence Design Systems | Software Engineering Intern | Pittsburgh, PA | 2025-12-11 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) |
+| Cadence Design Systems | Software Engineer Intern | Pittsburgh, PA | 2026-06-13 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) |
 | Cadence Design Systems | Software Engineering Intern | Pittsburgh, PA | 2026-01-21 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334) |
 | Cadence Design Systems | Software Intern | San Jose, CA | 2026-02-26 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282) |
 | Cadence Design Systems | Software Intern | San Jose, CA | 2026-02-27 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1) |
