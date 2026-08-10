@@ -4118,24 +4118,6 @@
     "program": "cs"
   },
   {
-    "id": "19c817ca-ebe5-4247-b9ec-258076656d40",
-    "company_name": "Deloitte",
-    "company_url": "https://simplify.jobs/c/Deloitte",
-    "title": "Consultative Offerings Summer Scholar Intern - Technology Transformation",
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Technology-Transformation/360655",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785968508,
-    "date_updated": 1785969859,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ce513b74-df7e-4731-9a61-31b178de7ccc",
     "company_name": "Delta Air Lines",
     "company_url": "",
@@ -9696,24 +9678,6 @@
     "source": "simplify",
     "date_posted": 1779487608,
     "date_updated": 1779488226,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "14c1c923-d903-4696-b2fe-7351cfa70ab2",
-    "company_name": "Point Blue Conservation Science",
-    "company_url": "https://simplify.jobs/c/a29fce17-2ed8-4828-a468-cee53343e670",
-    "title": "Data Science Intern - Ecoinformatics",
-    "url": "https://pointblueconservationscience.applytojob.com/apply/mcXovIM1zn/Data-Science-Graduate-Student-Intern",
-    "locations": [
-      "Petaluma, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785968243,
-    "date_updated": 1785969510,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
