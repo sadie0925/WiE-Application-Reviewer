@@ -5208,24 +5208,6 @@
     "program": "cs"
   },
   {
-    "id": "55d8eebc-3068-41c4-bbd7-add2f7ce530b",
-    "company_name": "General Dynamics Information Technology",
-    "company_url": "https://simplify.jobs/c/GDIT",
-    "title": "Software Developer Intern",
-    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785888000,
-    "date_updated": 1785939340,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "88a09a9b-285b-45b6-ba4d-2fda5b97f778",
     "company_name": "General Dynamics Information Technology",
     "company_url": "https://simplify.jobs/c/GDIT",
@@ -5437,6 +5419,44 @@
     "source": "simplify",
     "date_posted": 1775052371,
     "date_updated": 1775053801,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "ecf9f185-f2d1-4cc0-b34b-c49855781ce2",
+    "company_name": "HNTB",
+    "company_url": "https://simplify.jobs/c/HNTB",
+    "title": "Strategic Technology Intern - SED Division",
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092",
+    "locations": [
+      "Tampa, FL",
+      "Tallahassee, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786233600,
+    "date_updated": 1786313608,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "19e8cd86-cd45-45f4-a5f1-a82b1077c564",
+    "company_name": "HNTB",
+    "company_url": "https://simplify.jobs/c/HNTB",
+    "title": "Strategic Technology Intern - SED Division",
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1",
+    "locations": [
+      "Tampa, FL",
+      "Tallahassee, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786233600,
+    "date_updated": 1786313605,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -9117,24 +9137,6 @@
     "program": "other"
   },
   {
-    "id": "39941b70-df77-400f-9010-a59fd5ee3fa8",
-    "company_name": "Palantir",
-    "company_url": "https://simplify.jobs/c/Palantir",
-    "title": "Deployment Strategist – Intern - US Government",
-    "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e/apply",
-    "locations": [
-      "Honolulu, HI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1765581488,
-    "date_updated": 1765581488,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
     "company_name": "Palantir",
     "company_url": "https://simplify.jobs/c/Palantir",
@@ -9202,24 +9204,6 @@
     "source": "simplify",
     "date_posted": 1781638661,
     "date_updated": 1781638778,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ada5c220-536e-454a-8ba0-1f7629d949e6",
-    "company_name": "Palantir",
-    "company_url": "https://simplify.jobs/c/Palantir",
-    "title": "Forward Deployed Software Engineer – Internship - US Government",
-    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply",
-    "locations": [
-      "Honolulu, HI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1765581501,
-    "date_updated": 1765581501,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -11924,43 +11908,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "f4ab5c55-fdaa-4b85-bae6-d22f9b18e7ce",
-    "company_name": "Tenstorrent",
-    "company_url": "https://simplify.jobs/c/Tenstorrent",
-    "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware",
-    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007",
-    "locations": [
-      "Austin, TX",
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1765583524,
-    "date_updated": 1765583524,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ff19fd26-9c3d-4f2a-9f6f-8e9db2629828",
-    "company_name": "Tenstorrent",
-    "company_url": "https://simplify.jobs/c/Tenstorrent",
-    "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware",
-    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1765583620,
-    "date_updated": 1765583620,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "3084c516-85ae-493d-a322-241adba5a8ed",
