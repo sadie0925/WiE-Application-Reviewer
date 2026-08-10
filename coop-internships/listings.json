@@ -5190,42 +5190,6 @@
     "program": "cs"
   },
   {
-    "id": "88a09a9b-285b-45b6-ba4d-2fda5b97f778",
-    "company_name": "General Dynamics Information Technology",
-    "company_url": "https://simplify.jobs/c/GDIT",
-    "title": "Software Developer Intern",
-    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785974400,
-    "date_updated": 1786055675,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8845d33a-3ce1-46af-a01c-e62c6fbecd0e",
-    "company_name": "General Dynamics Information Technology",
-    "company_url": "https://simplify.jobs/c/GDIT",
-    "title": "Software Developer Intern",
-    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785974400,
-    "date_updated": 1786055675,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8e984444-bc04-494b-b26d-4f4a8cd5d1e7",
     "company_name": "Genworth Financial",
     "company_url": "https://simplify.jobs/c/Genworth-Financial",
@@ -7741,24 +7705,6 @@
     "program": "cs"
   },
   {
-    "id": "9fe00265-7716-44f9-bc43-1017aa863220",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer Intern - CoreAI",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785748322,
-    "date_updated": 1785748627,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "4fa5508b-be5b-43c6-8651-fcb4753d6e99",
     "company_name": "Microsoft",
     "company_url": "https://simplify.jobs/c/Microsoft",
@@ -7921,24 +7867,6 @@
     "program": "other"
   },
   {
-    "id": "d8ba3403-7b44-457e-b0fa-fa0b885bfec1",
-    "company_name": "Moog ",
-    "company_url": "https://simplify.jobs/c/Moog",
-    "title": "Intern IT Computer Science - Data Analytics",
-    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
-    "locations": [
-      "Buffalo, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1775858861,
-    "date_updated": 1775860922,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "255595f1-f6b4-4007-9563-647c8db7fae5",
     "company_name": "Motorola",
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
@@ -8043,24 +7971,6 @@
     "date_posted": 1782222349,
     "date_updated": 1782222349,
     "category": "Data Science, AI & Machine Learning",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2ccc5c31-d719-47e7-ab38-b42010d3a585",
-    "company_name": "NVIDIA",
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "title": "Software Engineer Intern - Dynamo",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785888000,
-    "date_updated": 1785969761,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },

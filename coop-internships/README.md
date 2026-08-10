@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**898 active US/Canada co-op & intern listings** · 752 CS/software · 146 other programs · 0 inactive · Last updated: 2026-08-10 03:10 ET
+**893 active US/Canada co-op & intern listings** · 747 CS/software · 146 other programs · 0 inactive · Last updated: 2026-08-10 08:44 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -125,7 +125,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (650)
+### CS / Software (645)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -319,8 +319,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Geisinger | GME Analytics & Dashboard Development Intern | Wilkes-Barre, PA | 2026-05-01 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Wilkes-Barre-PA/GME-Analytics---Dashboard-Development-Intern_R-95692) |
 | General Dynamics Information Technology | Artificial Intelligence/Machine Learning Intern | Falls Church, VA | 2026-08-04 | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) |
 | General Dynamics Information Technology | Artificial Intelligence/Machine Learning Intern | Falls Church, VA | 2026-08-06 | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
-| General Dynamics Information Technology | Software Developer Intern | Annapolis Junction, MD | 2026-08-05 | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1) |
-| General Dynamics Information Technology | Software Developer Intern | Annapolis Junction, MD | 2026-08-05 | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1) |
 | Genworth Financial | IT Development Program Intern - IT Development Program | Richmond, VA | 2026-07-30 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) |
 | Ginkgo Bioworks | Software Graduate Intern - Autonomous Lab | Oakland, CA | 2026-01-28 | [Apply](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033171007) |
 | Ginkgo Bioworks | Software Intern - Autonomous Lab | Oakland, CA | 2026-01-28 | [Apply](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007) |
@@ -415,19 +413,16 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Micron Technology | Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering | Boise, ID | 2026-08-03 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486) |
 | Microsoft | Full-Stack Product Engineer Intern - Web + Services | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922922) |
 | Microsoft | Software Engineer Intern - Cloud & Distributed Backend | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922923) |
-| Microsoft | Software Engineer Intern - CoreAI | Redmond, WA | 2026-08-03 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
 | Microsoft | Software Engineer Intern - Data Platform & Analytics | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922931) |
 | Microsoft | Software Engineer Security & Identity Intern | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922930) |
 | Microsoft | Software Engineer: AI/ML & LLM Intern | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922929) |
 | Mindsmith | Software Engineering Intern | Lehi, UT | 2026-06-23 | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 | Mistral AI | AI Data Solutions Intern - Data Partnerships | Palo Alto, CA | 2026-07-24 | [Apply](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) |
 | Mobius Renewables | Software Engineer Intern | Houston, TX | 2026-07-20 | [Apply](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) |
-| Moog  | Intern IT Computer Science - Data Analytics | Buffalo, NY | 2026-04-10 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145) |
 | Multiply Labs | Robotics Software Intern | San Francisco, CA | 2026-02-24 | [Apply](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) |
 | Multiply Labs | Software Engineering Intern | San Francisco, CA | 2026-02-24 | [Apply](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b) |
 | Muru | Full-Stack Software Engineer Intern | New York, NY | 2026-06-23 | [Apply](https://www.murumed.com/job-listings/web-software-engineer-intern) |
 | Muru | Mobile Software Engineer Intern | New York, NY | 2026-06-23 | [Apply](https://www.murumed.com/job-listings/software-engineer-intern) |
-| NVIDIA | Software Engineer Intern - Dynamo | Santa Clara, CA | 2026-08-04 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) |
 | National Laboratory of the Rockies | Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams | Golden, CO | 2026-07-28 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431) |
 | National Laboratory of the Rockies | Graduate Intern | Golden, CO | 2026-06-25 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14160) |
 | National Laboratory of the Rockies | Graduate Intern | Golden, CO | 2026-07-27 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426) |
