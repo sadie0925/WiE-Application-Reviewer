@@ -164,6 +164,33 @@
     "program": "cs"
   },
   {
+    "id": "152f0dd1-e6c5-4072-8a15-e122312fc5c7",
+    "company_name": "ATCO",
+    "company_url": "https://simplify.jobs/c/ATCO",
+    "title": "Engineering Co-op - Electric Division",
+    "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508",
+    "locations": [
+      "Slave Lake, AB, Canada",
+      "Grande Prairie, AB, Canada",
+      "Calgary, AB, Canada",
+      "Lethbridge, AB, Canada",
+      "Edmonton, AB, Canada",
+      "Peace River, AB, Canada",
+      "Red Deer, AB, Canada",
+      "Whitehorse, YT, Canada",
+      "Fort McMurray, AB, Canada",
+      "Yellowknife, NT, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786439134,
+    "date_updated": 1786439224,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "8c643851-d7eb-41d5-9c08-aa99ae659141",
     "company_name": "Acceldata",
     "company_url": "https://simplify.jobs/c/Acceldata",
@@ -3182,24 +3209,6 @@
     "date_posted": 1784585921,
     "date_updated": 1784587638,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "32e24b4c-ba64-4d4b-b70b-2cdc68dc2aab",
-    "company_name": "Ciena",
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "title": "Embedded Software Engineer Intern",
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780524658,
-    "date_updated": 1780525853,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6850,20 +6859,20 @@
     "program": "cs"
   },
   {
-    "id": "51614fe5-c79b-42d9-997f-c9a22d17645c",
-    "company_name": "Leidos",
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "title": "Engineering Engineer Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036",
+    "id": "4e0d8be2-4c96-42c3-96c6-17850b196a60",
+    "company_name": "Leland",
+    "company_url": "https://simplify.jobs/c/Leland",
+    "title": "AI Education Intern",
+    "url": "https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633/application?embed=true",
     "locations": [
-      "Huntsville, AL"
+      "Lehi, UT"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1783900800,
-    "date_updated": 1783981973,
-    "category": "Software",
+    "date_posted": 1777068508,
+    "date_updated": 1786441501,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -8009,60 +8018,6 @@
     "program": "cs"
   },
   {
-    "id": "ed31bd8d-9acf-436c-9628-1d4c79959bac",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Full-Stack Product Engineer Intern - Web + Services",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785823783,
-    "date_updated": 1785824197,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "7e143f06-1c28-41b7-9291-53a869d86325",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer Intern - Cloud & Distributed Backend",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785823778,
-    "date_updated": 1785824194,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4fa5508b-be5b-43c6-8651-fcb4753d6e99",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer Intern - Data Platform & Analytics",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785823779,
-    "date_updated": 1785824210,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f5f8ee5c-c30e-425b-8613-da35ccc354be",
     "company_name": "Microsoft",
     "company_url": "https://simplify.jobs/c/Microsoft",
@@ -8077,42 +8032,6 @@
     "date_posted": 1786054216,
     "date_updated": 1786055042,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "b412b084-36e9-45e2-b3a0-561c4336e62e",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer Security & Identity Intern",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785823783,
-    "date_updated": 1785824201,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "25286ad8-8260-4a0d-9ab1-89a677c29b20",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer: AI/ML & LLM Intern",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785823778,
-    "date_updated": 1785824223,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -13659,24 +13578,6 @@
     "program": "other"
   },
   {
-    "id": "704aa903-72a6-4715-a210-094bb9616b77",
-    "company_name": "Texas Permanent School Fund Corporation",
-    "company_url": "https://simplify.jobs/c/7695fa7c-8e21-418c-9d6e-0192bd399362",
-    "title": "Equity Capital Markets Intern",
-    "url": "https://texaspsf.wd501.myworkdayjobs.com/TexasPSFCareers/job/Innovation-Tower/Equity-Capital-Markets-Intern_JR100108",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786320000,
-    "date_updated": 1786400102,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "9cb4c737-6df9-4e67-84df-df1d44834fc0",
     "company_name": "The Boeing Company",
     "company_url": "https://simplify.jobs/c/Boeing",
@@ -14245,6 +14146,24 @@
     "source": "simplify",
     "date_posted": 1785979105,
     "date_updated": 1785979388,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "b54ab32d-a9c1-471a-8365-6e0bdc0eaeb0",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams",
+    "url": "https://lifeattiktok.com/search/7670529537944766773",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786439657,
+    "date_updated": 1786439712,
     "category": "Product",
     "sponsorship": "Other",
     "program": "cs"

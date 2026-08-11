@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**932 active US/Canada co-op & intern listings** · 775 CS/software · 157 other programs · 0 inactive · Last updated: 2026-08-11 02:48 ET
+**927 active US/Canada co-op & intern listings** · 770 CS/software · 157 other programs · 0 inactive · Last updated: 2026-08-11 08:41 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -23,6 +23,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
+| ATCO | Engineering Co-op - Electric Division | Slave Lake, AB, Canada, Grande Prairie, AB, Canada (+8) | 2026-08-11 | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508) |
 | Acceldata | Software Engineering Co-op | Kitchener, ON, Canada | 2026-05-09 | [Apply](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply) |
 | Alayacare | Full-Stack Developer Intern - Python | Montreal, QC, Canada | 2026-08-06 | [Apply](https://alayacare.com/open-positions?gh_jid=8687981002) |
 | Amgen | Software Engineer Co-op - Multiple Teams | Burnaby, BC, Canada | 2026-07-07 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) |
@@ -38,7 +39,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Brookfield | Artificial Intelligence Intern - Renewable Power & Transition | Toronto, ON, Canada | 2026-02-25 | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) |
 | CAE | Data Specialist Intern | Montreal, QC, Canada | 2026-07-15 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741) |
 | Carbon Engineering Ltd. | Process Systems Engineering Co-op - Automation & Data Integration | Squamish, BC, Canada | 2026-08-03 | [Apply](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration) |
-| Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | 2026-06-03 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) |
 | Ciena | Software Developer Intern - Fall 2026 | Ottawa, ON, Canada | 2026-08-06 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) |
 | Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON, Canada | 2026-07-27 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) |
 | Ciena | WaveLogic Software Engineer Intern | Ottawa, ON, Canada | 2026-07-30 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) |
@@ -122,7 +122,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (673)
+### CS / Software (668)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -388,7 +388,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Lawrence Livermore National Laboratory (LLNL) | Computing Graduate Student Intern | Livermore, CA | 2026-06-25 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013801396) |
 | Lawrence Livermore National Laboratory (LLNL) | Computing Undergraduate Student Intern | Livermore, CA | 2026-06-25 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013801386) |
 | Lawrence Livermore National Laboratory (LLNL) | Machine Learning Physics Graduate Student Intern | Livermore, CA | 2026-06-02 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013424486) |
-| Leidos | Engineering Engineer Intern | Huntsville, AL | 2026-07-12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036) |
+| Leland | AI Education Intern | Lehi, UT | 2026-04-24 | [Apply](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633/application?embed=true) |
 | Lennox International | AI Engineering Co-op | Richardson, TX | 2026-07-22 | [Apply](https://uscareers-lennox.icims.com/jobs/54120/job?mobile=true&needsRedirect=false) |
 | Lila Sciences | Data Extraction Co-op | Cambridge, MA | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009) |
 | LinkedIn | Data Engineer- Data Science Intern, Master's | Mountain View, CA | 2025-12-16 | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b) |
@@ -424,11 +424,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Metropolitan Transportation Authority | Data Analyst Intern | Brooklyn, NY | 2026-08-03 | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oboAAfwt?nl=1&nl=1&fr=false) |
 | Microchip Technology | Engineering Intern - Software Development | Houston, TX | 2026-08-02 | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26) |
 | Micron Technology | Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering | Boise, ID | 2026-08-03 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486) |
-| Microsoft | Full-Stack Product Engineer Intern - Web + Services | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922922) |
-| Microsoft | Software Engineer Intern - Cloud & Distributed Backend | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922923) |
-| Microsoft | Software Engineer Intern - Data Platform & Analytics | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922931) |
-| Microsoft | Software Engineer Security & Identity Intern | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922930) |
-| Microsoft | Software Engineer: AI/ML & LLM Intern | Redmond, WA | 2026-08-04 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922929) |
 | Mindsmith | Software Engineering Intern | Lehi, UT | 2026-06-23 | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 | Mistral AI | AI Data Solutions Intern - Data Partnerships | Palo Alto, CA | 2026-07-24 | [Apply](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) |
 | Mobius Renewables | Software Engineer Intern | Houston, TX | 2026-07-20 | [Apply](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) |
@@ -649,7 +644,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Tesla | Vehicle Software Intern - Torque Path & Chassis Controls | Palo Alto, CA | 2026-07-01 | [Apply](https://www.tesla.com/careers/search/job/274760) |
 | Tesla | Vehicle Software Intern - Vehicle Controls | Palo Alto, CA | 2026-07-27 | [Apply](https://www.tesla.com/careers/search/job/278203) |
 | Tesla | Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface | Palo Alto, CA | 2026-07-31 | [Apply](https://www.tesla.com/careers/search/job/278703) |
-| Texas Permanent School Fund Corporation | Equity Capital Markets Intern | Austin, TX | 2026-08-09 | [Apply](https://texaspsf.wd501.myworkdayjobs.com/TexasPSFCareers/job/Innovation-Tower/Equity-Capital-Markets-Intern_JR100108) |
 | The Boeing Company | Data Analytics Intern | Ridley Park, PA, Seattle, WA (+28) | 2026-08-02 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) |
 | The Boeing Company | Data Analytics Intern | Ridley Park, PA, Seattle, WA (+28) | 2026-08-02 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976) |
 | The Boeing Company | Intern to Entry Level Conversion Intern Program - Engineering | Germantown, MD, Seattle, WA (+28) | 2026-07-04 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292) |
@@ -675,6 +669,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | TikTok | AI Product Manager Intern - Content Ecosystem | San Jose, CA | 2026-08-04 | [Apply](https://lifeattiktok.com/search/7667578131150506293) |
 | TikTok | AI Product Operations Intern | San Jose, CA | 2026-03-02 | [Apply](https://lifeattiktok.com/search/7611950589973186821) |
 | TikTok | AI Product Operations Intern | San Jose, CA | 2026-08-05 | [Apply](https://lifeattiktok.com/search/7670420017544251701) |
+| TikTok | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | San Jose, CA | 2026-08-11 | [Apply](https://lifeattiktok.com/search/7670529537944766773) |
 | TikTok | AI Software Engineer Intern - Transaction Platform | San Jose, CA | 2026-06-09 | [Apply](https://lifeattiktok.com/search/7646621925436131637) |
 | TikTok | Artificial Intelligence Engineer Intern - Client Architecture | San Jose, CA | 2026-08-03 | [Apply](https://lifeattiktok.com/search/7667935738190465285) |
 | TikTok | Backend Software Engineer Intern | San Jose, CA | 2026-08-03 | [Apply](https://lifeattiktok.com/search/7667935565120112949) |
