@@ -681,24 +681,6 @@
     "program": "cs"
   },
   {
-    "id": "44e23e3b-4471-48d6-b46f-01544b865f39",
-    "company_name": "Apera AI",
-    "company_url": "https://simplify.jobs/c/Apera-AI",
-    "title": "Software Developer Co-op - C++",
-    "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780352665,
-    "date_updated": 1780353804,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f4b6208a-2701-4f97-bf10-b54704e67c32",
     "company_name": "Appian",
     "company_url": "https://simplify.jobs/c/Appian",
@@ -1465,24 +1447,6 @@
     "program": "cs"
   },
   {
-    "id": "2e5b927e-610e-4450-8d60-b5d3a99b5005",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Investment Intern Co-op - Co-op/Internship",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern--Winter-2027--Co-op-Internship----4-months_R260023223",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786320000,
-    "date_updated": 1786388562,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "343fcb3c-e4be-4f12-841e-664571827fa6",
     "company_name": "Barkback",
     "company_url": "https://simplify.jobs/c/Barkback",
@@ -1863,24 +1827,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
-    "company_name": "Blue Robotics",
-    "company_url": "https://simplify.jobs/c/a6ddc004-d4d7-42de-a2be-4819009d9e67",
-    "title": "Electronics Design Co-op",
-    "url": "https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7",
-    "locations": [
-      "Victoria, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784596594,
-    "date_updated": 1784598096,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "739b6998-abbe-4971-ac78-5de770dd33b3",
@@ -2672,6 +2618,24 @@
     "date_posted": 1785456000,
     "date_updated": 1785538815,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "12ce52b4-da60-4458-9f42-1581e549d94c",
+    "company_name": "Caddi Workflow Automation",
+    "company_url": "https://simplify.jobs/c/047db7c6-d1c3-4946-85e6-7b595faee70c",
+    "title": "Software Engineer Intern",
+    "url": "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786411938,
+    "date_updated": 1786411981,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6719,6 +6683,65 @@
     "program": "cs"
   },
   {
+    "id": "14051ce6-a050-4a8e-851b-555583f7ba2c",
+    "company_name": "LPL Financial Holdings",
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "title": "Data Engineer Intern - Data",
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
+    "locations": [
+      "Austin, TX",
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786320000,
+    "date_updated": 1786412255,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "46e43e77-a583-4b8b-a107-fac3536b5a7c",
+    "company_name": "LPL Financial Holdings",
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "title": "Product Intern - Product",
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918",
+    "locations": [
+      "Austin, TX",
+      "Fort Mill, SC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786320000,
+    "date_updated": 1786412273,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "6538dcdb-7ff2-4214-ba47-f53b40274027",
+    "company_name": "LPL Financial Holdings",
+    "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+    "title": "Software Engineer Intern",
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921",
+    "locations": [
+      "Austin, TX",
+      "Fort Mill, SC",
+      "Charlotte, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786320000,
+    "date_updated": 1786412259,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "6dfc5a86-055d-4015-b7e0-68b2545cf61d",
     "company_name": "LUZCO TECHNOLOGIES LLC",
     "company_url": "https://simplify.jobs/c/88a7c59f-a71c-48c1-9457-31a22266dd85",
@@ -7914,6 +7937,60 @@
     "program": "other"
   },
   {
+    "id": "c4745709-5fa9-4f56-b6f8-9e2f7d7a0cb3",
+    "company_name": "Micron Technology",
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "title": "DRAM Design Engineer Intern",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468",
+    "locations": [
+      "Boise, ID"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786320000,
+    "date_updated": 1786429119,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "5d13cd38-a186-470d-a3a8-b605e114e041",
+    "company_name": "Micron Technology",
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "title": "DRAM Design Engineer Intern",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448",
+    "locations": [
+      "Boise, ID"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786320000,
+    "date_updated": 1786429261,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "cac1f15d-cf74-42c8-b16e-6781eacbab92",
+    "company_name": "Micron Technology",
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "title": "DRAM IP Circuits Design Engineer Intern - IP Development",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471",
+    "locations": [
+      "Boise, ID"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786320000,
+    "date_updated": 1786429119,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "fd3e2e22-2204-4e00-a4a5-16dab46017cb",
     "company_name": "Micron Technology",
     "company_url": "https://simplify.jobs/c/Micron-Technology",
@@ -8146,6 +8223,24 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "fd960a3d-8212-46cf-8d1f-60df0b47e33d",
+    "company_name": "Moog ",
+    "company_url": "https://simplify.jobs/c/Moog",
+    "title": "Product Engineering Intern",
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786320000,
+    "date_updated": 1786428962,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "255595f1-f6b4-4007-9563-647c8db7fae5",
@@ -9036,6 +9131,24 @@
     "program": "cs"
   },
   {
+    "id": "5aceb7eb-24ef-4a7a-abef-73e17a771b6f",
+    "company_name": "OceanComm",
+    "company_url": "https://simplify.jobs/c/1bae0202-f4c3-480c-9bfc-9a725a6c8ee3",
+    "title": "Electronics Technician Intern",
+    "url": "https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786411936,
+    "date_updated": 1786411981,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "117a3118-d1e6-4371-9a45-113fe44281f4",
     "company_name": "Oligo Space",
     "company_url": "https://simplify.jobs/c/41603c19-7523-4ce8-9d9a-400c3fefe022",
@@ -9213,6 +9326,24 @@
     "date_posted": 1782943981,
     "date_updated": 1782944642,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "bbf77bc1-a60b-4e9b-94f4-e788816c9c46",
+    "company_name": "OpusClip",
+    "company_url": "https://simplify.jobs/c/OpusClip",
+    "title": "AI Product Management Intern",
+    "url": "https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786411846,
+    "date_updated": 1786411981,
+    "category": "Product",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -9982,24 +10113,6 @@
     "program": "cs"
   },
   {
-    "id": "9a82fcbd-e34b-494d-8264-b065e528699d",
-    "company_name": "Premium Merchant Funding",
-    "company_url": "https://simplify.jobs/c/8549429e-1365-4bf6-9edc-0bd2c772976f",
-    "title": "Real Estate Investment Analyst Intern",
-    "url": "https://apply.workable.com/premium-merchant-funding-3/j/395F154DF8/apply",
-    "locations": [
-      "Miami, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786083503,
-    "date_updated": 1786083841,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "96987133-07a3-4c60-9d64-0b2de61ca4e7",
     "company_name": "Primetals Technologies",
     "company_url": "https://simplify.jobs/c/Primetals-Technologies",
@@ -10088,6 +10201,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "3f75b98c-3c6a-4192-8268-3e946dae7519",
+    "company_name": "QuEra Computing",
+    "company_url": "https://simplify.jobs/c/QuEra-Computing",
+    "title": "Photonics Data Engineer Intern - Data Management",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008",
+    "locations": [
+      "Boston, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785794643,
+    "date_updated": 1785795309,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "683140b0-3387-4bc2-b341-7ea5fa65f78f",
@@ -10320,6 +10451,24 @@
     "date_posted": 1784769002,
     "date_updated": 1784777455,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "95179997-e004-4aab-84b7-07ebc63d814a",
+    "company_name": "ResponsiveAds",
+    "company_url": "https://simplify.jobs/c/75dc03e9-6162-44e6-81b4-7c500af77508",
+    "title": "Full-Stack Developer Intern - ResponsiveAds - Studio 4",
+    "url": "https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786411903,
+    "date_updated": 1786412085,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -10745,24 +10894,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "d4e082c8-3281-4af2-923d-bbf1d427be5a",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Business Markets Relationship Manager Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302",
-    "locations": [
-      "Bathurst, NB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785196800,
-    "date_updated": 1785280637,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "a904747c-0a1b-4b0e-822d-ca3184c2c4b5",
@@ -12350,6 +12481,24 @@
     "date_posted": 1782770948,
     "date_updated": 1782772496,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "06fa48a4-38e1-4ac5-9534-ba1c6702b680",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Applied AI Engineer Intern - AI Hardware",
+    "url": "https://www.tesla.com/careers/search/job/279603",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786428722,
+    "date_updated": 1786429448,
+    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -14007,6 +14156,24 @@
     "date_posted": 1774649237,
     "date_updated": 1775124655,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "36e8bcb9-72d6-4a77-9c62-1a92759cce36",
+    "company_name": "Thingtrax",
+    "company_url": "https://simplify.jobs/c/3e100d21-0b24-4939-939b-c56b5c46fce5",
+    "title": "Vision AI Intern - Vision AI",
+    "url": "https://apply.workable.com/thingtrax/j/5D09B73294/apply",
+    "locations": [
+      "Remote in UK"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786411912,
+    "date_updated": 1786412102,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -15740,6 +15907,24 @@
     "program": "cs"
   },
   {
+    "id": "74882eb7-2f7f-4a33-9ecc-7ad6865fdbd5",
+    "company_name": "Truist Bank",
+    "company_url": "https://simplify.jobs/c/Truist-Bank",
+    "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
+    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786406400,
+    "date_updated": 1786428987,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "47af09f8-fbb3-4457-8694-17076a62cd06",
     "company_name": "Truist Bank",
     "company_url": "https://simplify.jobs/c/Truist-Bank",
@@ -16232,24 +16417,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "8fdae942-cdba-4211-9277-dd563870610d",
-    "company_name": "Vertiv",
-    "company_url": "https://simplify.jobs/c/Vertiv",
-    "title": "Software Engineer Intern",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
-    "locations": [
-      "Delaware, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786370981,
-    "date_updated": 1786371167,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "2cf938ce-2c95-464b-b16f-7aaf36b43fbe",
@@ -16804,25 +16971,6 @@
     "date_posted": 1781054356,
     "date_updated": 1781054461,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "02b310b9-4510-4ae2-9b3f-54bcb3eaab3b",
-    "company_name": "Zipline",
-    "company_url": "https://simplify.jobs/c/Zipline",
-    "title": "Perception Intern",
-    "url": "https://www.zipline.com/careers?gh_jid=7761650003#open-roles",
-    "locations": [
-      "Dallas, TX",
-      "San Bruno, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780449234,
-    "date_updated": 1780449301,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
