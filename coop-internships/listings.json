@@ -1,5 +1,23 @@
 [
   {
+    "id": "05cc6b19-1ebc-4435-b908-56f4805a54d3",
+    "company_name": " CCC Intelligent Solutions",
+    "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+    "title": "Data Science Engineer Intern",
+    "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786492800,
+    "date_updated": 1786550080,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "11790ea3-adf1-4805-b706-783322b07491",
     "company_name": " CCC Intelligent Solutions",
     "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
@@ -3667,24 +3685,6 @@
     "program": "cs"
   },
   {
-    "id": "dd4ec464-8abe-43b9-a5a9-cffa389440f6",
-    "company_name": "Cloudflare",
-    "company_url": "https://simplify.jobs/c/Cloudflare",
-    "title": "Marketing Programs and Analytics Intern",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8104138",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785807093,
-    "date_updated": 1785807181,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "02855d39-751b-42b4-909c-814d9d98b768",
     "company_name": "Cloudflare",
     "company_url": "https://simplify.jobs/c/Cloudflare",
@@ -7234,6 +7234,24 @@
     "program": "cs"
   },
   {
+    "id": "5116425b-3685-4fd2-8e7c-e7900b53e239",
+    "company_name": "Loblaw Companies",
+    "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+    "title": "Software Development Co-op",
+    "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000693078",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786492800,
+    "date_updated": 1786550447,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "29d68ecc-9522-4639-899c-3f7bf4997769",
     "company_name": "Louisiana Blue",
     "company_url": "https://simplify.jobs/c/e0ba33bf-6408-471a-a00d-f7f0a08b8d08",
@@ -9554,24 +9572,6 @@
     "program": "cs"
   },
   {
-    "id": "fa275c09-336d-4067-ad94-70cbcecb4ed9",
-    "company_name": "PEAK6",
-    "company_url": "https://simplify.jobs/c/PEAK6",
-    "title": "Trading Bootcamp Micro-Internship - Summer 2027",
-    "url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786320000,
-    "date_updated": 1786400282,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
     "company_name": "PNC Financial Services",
     "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
@@ -10437,6 +10437,24 @@
     "source": "simplify",
     "date_posted": 1786406400,
     "date_updated": 1786469283,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "98803f68-563e-4966-9b99-92606c5b702e",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786492800,
+    "date_updated": 1786549177,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -15173,6 +15191,60 @@
     "program": "cs"
   },
   {
+    "id": "bbd533a0-34b2-491f-a386-2c10df203595",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Product Manager Intern - Ads Interface and Platform",
+    "url": "https://lifeattiktok.com/search/7672562486917286149",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786545122,
+    "date_updated": 1786545181,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "0e6104ee-b59a-435c-af2d-24c7e880c109",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Product Manager Intern - Ads Interface and Platform",
+    "url": "https://lifeattiktok.com/search/7672569081632229685",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786545122,
+    "date_updated": 1786545181,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Product Manager Intern - Commerce Ads",
+    "url": "https://lifeattiktok.com/search/7672557943224961333",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786545123,
+    "date_updated": 1786545181,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "5240d3a1-8474-482a-bb81-33ca1189a842",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -15186,6 +15258,24 @@
     "source": "simplify",
     "date_posted": 1785979105,
     "date_updated": 1785979261,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "e68caf69-cb51-4c52-933d-ace225ef6fb3",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Product Manager Intern - Signal and Identity Product",
+    "url": "https://lifeattiktok.com/search/7672554809555192117",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786545309,
+    "date_updated": 1786545361,
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
@@ -16205,6 +16295,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "e92a0796-43f8-4a18-a670-14394cd7cb1b",
+    "company_name": "University System of New Hampshire",
+    "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
+    "title": "Robotics Intern",
+    "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8497",
+    "locations": [
+      "Durham, NH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786492800,
+    "date_updated": 1786549908,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
