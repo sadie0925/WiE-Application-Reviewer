@@ -424,24 +424,6 @@
     "program": "cs"
   },
   {
-    "id": "74ed046a-1c48-4657-89f1-1f609aefff4b",
-    "company_name": "Ambarella",
-    "company_url": "https://simplify.jobs/c/Ambarella",
-    "title": "Software Architecture Engineer Intern",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1772679693,
-    "date_updated": 1772679693,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "7ec18b92-6234-459e-a584-65cfa7366928",
     "company_name": "Ambarella",
     "company_url": "https://simplify.jobs/c/Ambarella",
@@ -694,25 +676,6 @@
     "program": "cs"
   },
   {
-    "id": "593ee6f1-3e6c-4136-8182-829091448ed2",
-    "company_name": "Analytic Partners",
-    "company_url": "https://simplify.jobs/c/Analytic-Partners",
-    "title": "Software Engineer Co-op - Georgia Tech",
-    "url": "https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650/apply",
-    "locations": [
-      "Miami, FL",
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786468688,
-    "date_updated": 1786469221,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "d94fdfc5-eb6a-4d86-9548-af67b0732bd1",
     "company_name": "Analytic Partners",
     "company_url": "https://simplify.jobs/c/Analytic-Partners",
@@ -725,43 +688,6 @@
     "is_visible": true,
     "source": "simplify",
     "date_posted": 1786468688,
-    "date_updated": 1786469057,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "08dcec1c-e97a-4c39-978e-cd2dede8bb31",
-    "company_name": "Analytic Partners",
-    "company_url": "https://simplify.jobs/c/Analytic-Partners",
-    "title": "Software Engineer Co-op - Northeastern University",
-    "url": "https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688/apply",
-    "locations": [
-      "Miami, FL",
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786468683,
-    "date_updated": 1786469221,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "48614093-9c24-4b18-92b5-a3b6f4e55c36",
-    "company_name": "Analytic Partners",
-    "company_url": "https://simplify.jobs/c/Analytic-Partners",
-    "title": "Software Engineer Co-op - University of Waterloo",
-    "url": "https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b/apply",
-    "locations": [
-      "Miami, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786468684,
     "date_updated": 1786469057,
     "category": "Software",
     "sponsorship": "Other",
@@ -1575,24 +1501,6 @@
     "program": "cs"
   },
   {
-    "id": "7ffcd789-ef9d-4dfa-a950-34fda3485559",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Full Stack Engineer Intern - Data Cognition Team",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786406400,
-    "date_updated": 1786468878,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "343fcb3c-e4be-4f12-841e-664571827fa6",
     "company_name": "Barkback",
     "company_url": "https://simplify.jobs/c/Barkback",
@@ -1645,24 +1553,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
-    "company_name": "Base Power",
-    "company_url": "https://simplify.jobs/c/Base-Power",
-    "title": "Quantitative Developer Intern",
-    "url": "https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779844123,
-    "date_updated": 1779844142,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "e2e3917f-309a-4c40-9db2-2b8beedf29be",
@@ -5318,6 +5208,60 @@
     "program": "cs"
   },
   {
+    "id": "8037d2f8-3be0-4762-96a6-6111a83eabae",
+    "company_name": "Felix Magazine",
+    "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
+    "title": "Database Coordinator Volunteer/Intern",
+    "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786514759,
+    "date_updated": 1786514761,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "e9c6fbb2-27a0-4da8-bd66-1d4be992ae95",
+    "company_name": "Felix Magazine",
+    "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
+    "title": "Web Developer/Programmer Intern",
+    "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786514758,
+    "date_updated": 1786514959,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "8ea8d323-6e8b-4380-b4c1-2367ba88c40f",
+    "company_name": "Felix Magazine",
+    "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
+    "title": "Web Developer/Programmer Intern",
+    "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786514758,
+    "date_updated": 1786514952,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "25f62594-b3b3-4b3c-940b-794ec8403c9d",
     "company_name": "Figure",
     "company_url": "https://simplify.jobs/c/Figure-AI",
@@ -5822,24 +5766,6 @@
     "date_posted": 1785449532,
     "date_updated": 1785450644,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "c3cb586c-7a74-433e-9247-a5bf6ab308e5",
-    "company_name": "Golden Pet Brands",
-    "company_url": "https://simplify.jobs/c/Golden-Pet-Brands",
-    "title": "Data Analytics Intern",
-    "url": "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784844809,
-    "date_updated": 1784845081,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -7422,25 +7348,6 @@
     "program": "cs"
   },
   {
-    "id": "09174c1c-7ac5-489a-8c87-dcb67b971aa0",
-    "company_name": "LiveRamp",
-    "company_url": "https://simplify.jobs/c/LiveRamp",
-    "title": "Software Engineer Co-op - Conversions API",
-    "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1",
-    "locations": [
-      "Seattle, WA",
-      "Little Rock, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780466945,
-    "date_updated": 1780467107,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "29d68ecc-9522-4639-899c-3f7bf4997769",
     "company_name": "Louisiana Blue",
     "company_url": "https://simplify.jobs/c/e0ba33bf-6408-471a-a00d-f7f0a08b8d08",
@@ -7513,22 +7420,22 @@
     "program": "cs"
   },
   {
-    "id": "9ea4299f-1e3a-45fc-b204-aa0870712b23",
-    "company_name": "Lumentum",
-    "company_url": "https://simplify.jobs/c/Lumentum",
-    "title": "Optical Verification Technician Intern/Co-op",
-    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048",
+    "id": "48f757b7-e402-4cf2-bbc5-0ab0560d8436",
+    "company_name": "Léger",
+    "company_url": "https://simplify.jobs/c/46c15424-a4b0-4153-b6ca-26ca134f74fa",
+    "title": "Research Intern",
+    "url": "https://jobs.smartrecruiters.com/Leger2/744000141569336",
     "locations": [
-      "Ottawa, ON, Canada"
+      "Toronto, ON, Canada"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1785801600,
-    "date_updated": 1785881163,
-    "category": "Hardware",
+    "date_posted": 1786497197,
+    "date_updated": 1786497301,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
-    "program": "other"
+    "program": "cs"
   },
   {
     "id": "5428a3c8-3c8c-496a-87c2-2afbd536b54f",
@@ -9761,24 +9668,6 @@
     "program": "cs"
   },
   {
-    "id": "b02864c4-64dc-4d65-9a2c-b9f7c09f26ee",
-    "company_name": "Otter Products",
-    "company_url": "https://simplify.jobs/c/Otter-Products",
-    "title": "Artificial Intelligence Intern",
-    "url": "https://careers-otterproducts.icims.com/jobs/6912/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Fort Collins, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786054435,
-    "date_updated": 1786055296,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "fa275c09-336d-4067-ad94-70cbcecb4ed9",
     "company_name": "PEAK6",
     "company_url": "https://simplify.jobs/c/PEAK6",
@@ -10937,24 +10826,6 @@
     "program": "cs"
   },
   {
-    "id": "86d85a8b-7db1-47cc-98e9-ba9b7d14ba7a",
-    "company_name": "Rivian",
-    "company_url": "https://simplify.jobs/c/Rivian",
-    "title": "UIUC Research Park Intern - Computational Methods Development",
-    "url": "https://careers.rivian.com/jobs/32340?icims=1",
-    "locations": [
-      "Urbana, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784729572,
-    "date_updated": 1784730798,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
     "company_name": "Rivian",
     "company_url": "https://simplify.jobs/c/Rivian",
@@ -11211,24 +11082,6 @@
     "source": "simplify",
     "date_posted": 1786320000,
     "date_updated": 1786400785,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "64937bd9-0018-42de-9034-181d0d384f1d",
-    "company_name": "Rockwell Automation",
-    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-    "title": "Embedded Software Engineer Co-op",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1",
-    "locations": [
-      "Mayfield Heights, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786320000,
-    "date_updated": 1786401549,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -12154,24 +12007,6 @@
     "program": "cs"
   },
   {
-    "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
-    "company_name": "Susquehanna International Group (SIG)",
-    "company_url": "https://simplify.jobs/c/Susquehanna",
-    "title": "Quantitative Strategy Developer Intern",
-    "url": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Ardmore, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776981863,
-    "date_updated": 1776982190,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "5e40a228-3721-4f88-96d5-3f59b73be6c4",
     "company_name": "Susquehanna International Group (SIG)",
     "company_url": "https://simplify.jobs/c/Susquehanna",
@@ -12423,24 +12258,6 @@
     "date_updated": 1777638201,
     "category": "Data Science, AI & Machine Learning",
     "sponsorship": "Does Not Offer Sponsorship",
-    "program": "cs"
-  },
-  {
-    "id": "3725cd0e-9932-44d8-96f4-2534ae618827",
-    "company_name": "TMX Group",
-    "company_url": "https://simplify.jobs/c/TMX-Group",
-    "title": "Analyst Student Intern - Market Insights",
-    "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785542400,
-    "date_updated": 1785624398,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
     "program": "cs"
   },
   {
@@ -13541,6 +13358,24 @@
     "source": "simplify",
     "date_posted": 1785546978,
     "date_updated": 1785547853,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Software Engineer Intern - AI Inference Co Design",
+    "url": "https://www.tesla.com/careers/search/job/279600",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786505690,
+    "date_updated": 1786507037,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -16281,24 +16116,6 @@
     "program": "cs"
   },
   {
-    "id": "74882eb7-2f7f-4a33-9ecc-7ad6865fdbd5",
-    "company_name": "Truist Bank",
-    "company_url": "https://simplify.jobs/c/Truist-Bank",
-    "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
-    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786406400,
-    "date_updated": 1786428987,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "47af09f8-fbb3-4457-8694-17076a62cd06",
     "company_name": "Truist Bank",
     "company_url": "https://simplify.jobs/c/Truist-Bank",
@@ -16607,24 +16424,6 @@
     "source": "simplify",
     "date_posted": 1785369600,
     "date_updated": 1785450708,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "0e65c7e2-117e-4c64-b08a-b54f59660a22",
-    "company_name": "University of Rochester",
-    "company_url": "https://simplify.jobs/c/University-Of-Rochester",
-    "title": "Research Student 1 Co-op - Electronics Shop",
-    "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Co-op-Research-Student-I--Electronics-Shop-_R273409",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785369600,
-    "date_updated": 1785621388,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
