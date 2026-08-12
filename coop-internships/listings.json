@@ -676,24 +676,6 @@
     "program": "cs"
   },
   {
-    "id": "d94fdfc5-eb6a-4d86-9548-af67b0732bd1",
-    "company_name": "Analytic Partners",
-    "company_url": "https://simplify.jobs/c/Analytic-Partners",
-    "title": "Software Engineer Co-op - Mcgill University",
-    "url": "https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54/apply",
-    "locations": [
-      "Miami, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786468688,
-    "date_updated": 1786469057,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "c1623229-faaa-4f1d-bdd8-fc0b46bc74a0",
     "company_name": "Anduril",
     "company_url": "https://simplify.jobs/c/Anduril",
@@ -3006,24 +2988,6 @@
     "program": "cs"
   },
   {
-    "id": "9ee25c43-14d2-48c6-9657-2f9919fc5cbe",
-    "company_name": "Capella",
-    "company_url": "",
-    "title": "Flight Software Engineering Intern",
-    "url": "https://www.capellaspace.com/company/apply?gh_jid=5735295004",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1765785265,
-    "date_updated": 1765785265,
-    "category": "Hardware Engineering",
-    "sponsorship": "U.S. Citizenship is Required",
-    "program": "cs"
-  },
-  {
     "id": "081d3951-c0ed-454c-8258-21f2a28ff275",
     "company_name": "Capella",
     "company_url": "",
@@ -4423,24 +4387,6 @@
     "source": "simplify",
     "date_posted": 1786469058,
     "date_updated": 1786469393,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4b79443f-64b0-4381-aa54-5febee12149d",
-    "company_name": "Deloitte",
-    "company_url": "https://simplify.jobs/c/Deloitte",
-    "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785191053,
-    "date_updated": 1785194946,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -6621,30 +6567,6 @@
     "program": "cs"
   },
   {
-    "id": "98635871-6276-41e4-ad95-172485704a2c",
-    "company_name": "JP Morgan Chase",
-    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-    "title": "Data & AI Intern - Analyst",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
-    "locations": [
-      "Palo Alto, CA",
-      "Newark, DE",
-      "Plano, TX",
-      "Chicago, IL",
-      "Jersey City, NJ",
-      "Columbus, OH",
-      "Wilmington, DE"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785738259,
-    "date_updated": 1785740979,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
     "company_name": "JP Morgan Chase",
     "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
@@ -6743,24 +6665,6 @@
     "source": "simplify",
     "date_posted": 1785910546,
     "date_updated": 1785910894,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "51b99bce-c9cc-4f6f-9a52-d602f8e9e826",
-    "company_name": "Johnson & Johnson",
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "title": "Software Engineer Co-op",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786060800,
-    "date_updated": 1786142895,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -6925,24 +6829,6 @@
     "date_updated": 1773747174,
     "category": "Data Science, AI & Machine Learning",
     "sponsorship": "Does Not Offer Sponsorship",
-    "program": "cs"
-  },
-  {
-    "id": "65168593-c923-4365-b58a-af70c7f8c6cd",
-    "company_name": "KBR",
-    "company_url": "https://simplify.jobs/c/KBR",
-    "title": "Software Intern",
-    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785974400,
-    "date_updated": 1786025881,
-    "category": "Software",
-    "sponsorship": "Other",
     "program": "cs"
   },
   {
@@ -11069,24 +10955,6 @@
     "program": "cs"
   },
   {
-    "id": "675886a1-7300-4775-bdcd-b8f018f80d5a",
-    "company_name": "Rockwell Automation",
-    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-    "title": "Embedded Software Engineer Co-op",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473",
-    "locations": [
-      "Mayfield Heights, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786320000,
-    "date_updated": 1786400785,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8834c0d1-5351-40d0-9bd5-cf8d147e7e0a",
     "company_name": "Rodan Energy Solutions Inc.",
     "company_url": "https://simplify.jobs/c/4876e678-ad7d-48d1-bfc3-03bf43c110a2",
@@ -11299,24 +11167,6 @@
     "date_posted": 1782259595,
     "date_updated": 1782259595,
     "category": "Software Engineering",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "810c0d4f-1b94-4649-bec6-20b46e134782",
-    "company_name": "Sargent & Lundy",
-    "company_url": "https://simplify.jobs/c/Sargent-And-Lundy",
-    "title": "AI & Automation Intern - Enterprise Data & Analytics",
-    "url": "https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786400313,
-    "date_updated": 1786400461,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
