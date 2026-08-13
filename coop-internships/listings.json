@@ -4001,25 +4001,6 @@
     "program": "cs"
   },
   {
-    "id": "a6f6dea0-a60c-411e-b4f6-09d69755164b",
-    "company_name": "ConnectPrep",
-    "company_url": "https://simplify.jobs/c/ConnectPrep",
-    "title": "Data Analyst Intern",
-    "url": "https://apply.workable.com/connectprep/j/C0CA13664F/apply",
-    "locations": [
-      "Washington, DC",
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783030231,
-    "date_updated": 1783031398,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "6fcc37f1-f667-4483-a39c-eea9d0bbc924",
     "company_name": "ConnectPrep",
     "company_url": "https://simplify.jobs/c/ConnectPrep",
@@ -4528,6 +4509,24 @@
     "program": "cs"
   },
   {
+    "id": "4b79443f-64b0-4381-aa54-5febee12149d",
+    "company_name": "Deloitte",
+    "company_url": "https://simplify.jobs/c/Deloitte",
+    "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
+    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785191053,
+    "date_updated": 1785194946,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "1782c7ab-120f-498c-b0af-430d269e5bf4",
     "company_name": "Deloitte",
     "company_url": "https://simplify.jobs/c/Deloitte",
@@ -4541,24 +4540,6 @@
     "source": "simplify",
     "date_posted": 1786401418,
     "date_updated": 1786401578,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0b10eb53-ff2e-4bfb-bbac-181b11ff4891",
-    "company_name": "Deloitte",
-    "company_url": "https://simplify.jobs/c/Deloitte",
-    "title": "Risk Analytics Analyst Intern - Government & Public Services",
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Risk-Analytics/360270",
-    "locations": [
-      "Rosslyn, Arlington, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785191054,
-    "date_updated": 1786401557,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -5924,6 +5905,24 @@
     "program": "cs"
   },
   {
+    "id": "45e6cd12-c55d-47f0-b650-b2c4b472ce45",
+    "company_name": "Grant Thornton",
+    "company_url": "https://simplify.jobs/c/Grant-Thornton",
+    "title": "Tax Technology Intern - Summer 2027",
+    "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114405",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1770822643,
+    "date_updated": 1770822643,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "5ce66ca1-bdc4-4872-82cf-4966b1f7d9a3",
     "company_name": "Grant Thornton",
     "company_url": "https://simplify.jobs/c/Grant-Thornton",
@@ -6811,30 +6810,6 @@
     "program": "cs"
   },
   {
-    "id": "98635871-6276-41e4-ad95-172485704a2c",
-    "company_name": "JP Morgan Chase",
-    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-    "title": "Data & AI Intern - Analyst",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
-    "locations": [
-      "Palo Alto, CA",
-      "Newark, DE",
-      "Plano, TX",
-      "Chicago, IL",
-      "Jersey City, NJ",
-      "Columbus, OH",
-      "Wilmington, DE"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785738259,
-    "date_updated": 1785740979,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
     "company_name": "JP Morgan Chase",
     "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
@@ -7626,24 +7601,6 @@
     "category": "Software Engineering",
     "sponsorship": "Does Not Offer Sponsorship",
     "program": "cs"
-  },
-  {
-    "id": "a4780b03-762a-4790-bd5e-2d0cc0c66f12",
-    "company_name": "Mach Industries",
-    "company_url": "https://simplify.jobs/c/Mach-Industries",
-    "title": "Engineering Co-op",
-    "url": "https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28/application",
-    "locations": [
-      "Huntington Beach, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781042929,
-    "date_updated": 1781044021,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "bd081463-2c78-438c-87f7-e4ad5d580efa",
@@ -10495,24 +10452,6 @@
     "program": "cs"
   },
   {
-    "id": "c34d517f-9687-483b-84a1-7aecced15b5e",
-    "company_name": "PlusAI",
-    "company_url": "https://simplify.jobs/c/Plus",
-    "title": "Scenario Simulation Intern",
-    "url": "https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779487608,
-    "date_updated": 1779488226,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
     "company_name": "Postman",
     "company_url": "https://simplify.jobs/c/Postman",
@@ -10727,6 +10666,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "7e2a97b1-541b-498e-9f8b-09e9fb6b0b9f",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Modeling, Simulation & Analysis Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786492800,
+    "date_updated": 1786623551,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
@@ -11309,24 +11266,6 @@
     "source": "simplify",
     "date_posted": 1785968911,
     "date_updated": 1785970132,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "385dc12f-2ac2-4312-8605-7f8b09d77fd9",
-    "company_name": "Rochester Regional Health",
-    "company_url": "https://simplify.jobs/c/Rochester-Regional-Health",
-    "title": "Web Applications Co-op",
-    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Web-Applications_REQ_233332",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786320000,
-    "date_updated": 1786373353,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -13448,6 +13387,24 @@
     "program": "cs"
   },
   {
+    "id": "f76334f0-b144-4ec8-9a36-f7bab853e4e7",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Firmware Engineer Intern - New Programs Engineering",
+    "url": "https://www.tesla.com/careers/search/job/279991",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786612768,
+    "date_updated": 1786612888,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "9a7e7535-216f-41a8-b35c-5005ec017d35",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -13552,6 +13509,24 @@
     "date_posted": 1782263415,
     "date_updated": 1782264280,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "6442a0a1-6fb5-447b-b984-3d48c1c6070f",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Product Manager Intern - Residential Energy Engineering",
+    "url": "https://www.tesla.com/careers/search/job/275178",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1782522660,
+    "date_updated": 1786619728,
+    "category": "Product",
     "sponsorship": "Other",
     "program": "other"
   },
@@ -16362,6 +16337,24 @@
     "program": "cs"
   },
   {
+    "id": "a619c6de-ef67-4039-af21-31cf505b8ee2",
+    "company_name": "Tower Research Capital",
+    "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+    "title": "Quantitative Trader Intern",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783290840,
+    "date_updated": 1783290961,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "33d1fb41-6d2e-4882-b079-40441ea833eb",
     "company_name": "TransMarket Group",
     "company_url": "https://simplify.jobs/c/TransMarket-Group",
@@ -16487,24 +16480,6 @@
     "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "74882eb7-2f7f-4a33-9ecc-7ad6865fdbd5",
-    "company_name": "Truist Bank",
-    "company_url": "https://simplify.jobs/c/Truist-Bank",
-    "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
-    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786406400,
-    "date_updated": 1786428987,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "47af09f8-fbb3-4457-8694-17076a62cd06",
@@ -17458,29 +17433,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "01925f31-564d-4bc0-94fc-2a2717d3132d",
-    "company_name": "Western Digital",
-    "company_url": "https://simplify.jobs/c/Western-Digital",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
-    "locations": [
-      "Fremont, CA",
-      "Rochester, MN",
-      "San Jose, CA",
-      "Irvine, CA",
-      "Colorado Springs, CO",
-      "Longmont, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784585162,
-    "date_updated": 1784586270,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "668cc2ce-ddbc-4d16-9c40-c27e83c81d93",
