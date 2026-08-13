@@ -2078,6 +2078,24 @@
     "program": "other"
   },
   {
+    "id": "dbd42a27-5b9c-4e33-981e-03b350eb0b21",
+    "company_name": "BowerGroupAsia",
+    "company_url": "https://simplify.jobs/c/d65da23a-3051-4f76-b620-d275aed9bef4",
+    "title": "Research Intern",
+    "url": "https://bga.bamboohr.com/careers/152/",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786602272,
+    "date_updated": 1786603081,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "219daf1b-8dbb-4edb-ac96-3946967faf83",
     "company_name": "Bree",
     "company_url": "https://simplify.jobs/c/Bree",
@@ -2452,6 +2470,24 @@
     "date_posted": 1773901662,
     "date_updated": 1773901662,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "aa733ff3-312d-4f91-935f-9b74817edc2b",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "Self-Built Engineer Intern - CDN Platform",
+    "url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786584315,
+    "date_updated": 1786584421,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -3046,6 +3082,24 @@
     "source": "simplify",
     "date_posted": 1772179689,
     "date_updated": 1772179689,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
+    "company_name": "Calpion/Plutus Health",
+    "company_url": "https://simplify.jobs/c/5a21c0ed-981d-4a6f-8c0a-43374bf2d2c4",
+    "title": "AI Engineering Intern - Python & Agentic AI",
+    "url": "https://calpionplutus.bamboohr.com/careers/310/",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786602186,
+    "date_updated": 1786602781,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -3966,6 +4020,25 @@
     "program": "cs"
   },
   {
+    "id": "6fcc37f1-f667-4483-a39c-eea9d0bbc924",
+    "company_name": "ConnectPrep",
+    "company_url": "https://simplify.jobs/c/ConnectPrep",
+    "title": "Data Analyst Intern",
+    "url": "https://apply.workable.com/connectprep/j/D1C67258C0/apply",
+    "locations": [
+      "Washington, DC",
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786602435,
+    "date_updated": 1786603313,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "6782ff48-fa1d-47f8-bab9-bb94b0ab30f1",
     "company_name": "ConocoPhillips",
     "company_url": "https://simplify.jobs/c/ConocoPhillips",
@@ -4599,6 +4672,24 @@
     "program": "cs"
   },
   {
+    "id": "39d0143c-975e-465c-812c-8fe6e6401523",
+    "company_name": "Dick's Sporting Goods",
+    "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
+    "title": "Data Engineer Co-op",
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Data-Engineering-Co-Op_202630722",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786492800,
+    "date_updated": 1786583411,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "c6638cbe-82ec-44ed-a6db-0a7bb2d60c6a",
     "company_name": "Digs",
     "company_url": "",
@@ -4847,6 +4938,24 @@
     "date_posted": 1784246400,
     "date_updated": 1784326321,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "31b6c7b2-864a-4492-8fdc-1e1d94a23ce1",
+    "company_name": "Epic Games",
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "title": "Gameplay Programmer Intern",
+    "url": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
+    "locations": [
+      "Cary, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786584506,
+    "date_updated": 1786584601,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -5617,6 +5726,24 @@
     "program": "cs"
   },
   {
+    "id": "9dc8db6c-b35c-402e-9c20-fa7fae5fdc61",
+    "company_name": "Gartner",
+    "company_url": "https://simplify.jobs/c/Gartner",
+    "title": "Data Analyst Intern",
+    "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297",
+    "locations": [
+      "Irving, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786579200,
+    "date_updated": 1786601603,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "a5ea04af-7e0c-4b40-92d4-ed0f73096c6c",
     "company_name": "Geisinger",
     "company_url": "https://simplify.jobs/c/Geisinger",
@@ -5956,24 +6083,6 @@
     "source": "simplify",
     "date_posted": 1785623162,
     "date_updated": 1785624670,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "59019bfb-787a-487f-aeb9-969b9fd0223c",
-    "company_name": "Harris Computer",
-    "company_url": "https://simplify.jobs/c/Harris-Computer",
-    "title": "Software Development Intern",
-    "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784764800,
-    "date_updated": 1785617764,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -6409,6 +6518,24 @@
     "date_posted": 1785881551,
     "date_updated": 1785881702,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "2528109f-019c-4732-ac00-12596861f771",
+    "company_name": "Inbulks",
+    "company_url": "https://simplify.jobs/c/1213547f-329f-4799-ab89-6a76b5de0e3f",
+    "title": "Junior Front End Developer Intern",
+    "url": "https://jobs.smartrecruiters.com/InbulksCorp/743999750129753",
+    "locations": [
+      "Long Island City, Queens, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786601616,
+    "date_updated": 1786602170,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -7701,6 +7828,132 @@
     "program": "cs"
   },
   {
+    "id": "0a501bc8-1c64-467d-8c3e-ec34107b884b",
+    "company_name": "Mapjects",
+    "company_url": "https://simplify.jobs/c/ce6999fa-8beb-4188-8597-dde954784ea9",
+    "title": "C# ASP.NET C Intern",
+    "url": "https://jobs.smartrecruiters.com/Mapjectscom/79400823",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786601553,
+    "date_updated": 1786601982,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "f2350e1c-6721-41fa-a87c-2880eaf10676",
+    "company_name": "Mapjects",
+    "company_url": "https://simplify.jobs/c/ce6999fa-8beb-4188-8597-dde954784ea9",
+    "title": "Java Developer Intern",
+    "url": "https://jobs.smartrecruiters.com/Mapjectscom/79770294",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786601549,
+    "date_updated": 1786601968,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "7237aac6-07c6-44da-8d1b-f031ee48fcd5",
+    "company_name": "Mapjects",
+    "company_url": "https://simplify.jobs/c/ce6999fa-8beb-4188-8597-dde954784ea9",
+    "title": "Java Developer Intern - Salary",
+    "url": "https://jobs.smartrecruiters.com/Mapjectscom/79183538",
+    "locations": [
+      "College Park, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786601556,
+    "date_updated": 1786601992,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "04378827-0725-43e5-b38f-7b12ca4660a4",
+    "company_name": "Mapjects",
+    "company_url": "https://simplify.jobs/c/ce6999fa-8beb-4188-8597-dde954784ea9",
+    "title": "Java Developer Intern - Web Application Developer",
+    "url": "https://jobs.smartrecruiters.com/Mapjectscom/78913939",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786601556,
+    "date_updated": 1786601993,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "cefd640c-a0aa-43c8-8f45-1b6754492f1d",
+    "company_name": "Mapjects",
+    "company_url": "https://simplify.jobs/c/ce6999fa-8beb-4188-8597-dde954784ea9",
+    "title": "Oracle Database Administrator Intern",
+    "url": "https://jobs.smartrecruiters.com/Mapjectscom/79183345",
+    "locations": [
+      "New Orleans, LA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786601557,
+    "date_updated": 1786601995,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "be903e86-7c58-4c0b-bec4-97d427883ebc",
+    "company_name": "Mapjects",
+    "company_url": "https://simplify.jobs/c/ce6999fa-8beb-4188-8597-dde954784ea9",
+    "title": "PHP Developer Intern",
+    "url": "https://jobs.smartrecruiters.com/Mapjectscom/78665247",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786601556,
+    "date_updated": 1786601995,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "8ee66953-a13e-4b26-89fb-1e17b87d31ad",
+    "company_name": "Mapjects",
+    "company_url": "https://simplify.jobs/c/ce6999fa-8beb-4188-8597-dde954784ea9",
+    "title": "PHP or Drupal Web Developer Intern",
+    "url": "https://jobs.smartrecruiters.com/Mapjectscom/79253426",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786601556,
+    "date_updated": 1786601988,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "c3281007-1ea1-4d32-80e2-62529613957b",
     "company_name": "Markem-Imaje",
     "company_url": "",
@@ -7789,42 +8042,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "29df5054-31c5-463e-8ed0-313f0dc2308e",
-    "company_name": "Marmon Holdings",
-    "company_url": "https://simplify.jobs/c/Marmon-Holdings",
-    "title": "New Product Development Intern",
-    "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718-5",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778943274,
-    "date_updated": 1785578432,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "fd6aa588-63f5-44d4-9253-72d84365341a",
-    "company_name": "Marmon Holdings",
-    "company_url": "https://simplify.jobs/c/Marmon-Holdings",
-    "title": "Product Management/Marketing Intern - Summer 2026",
-    "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-4",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1771672050,
-    "date_updated": 1771672050,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "61e3734b-7ee5-4569-a6d9-7a7c0ee36478",
@@ -10242,56 +10459,38 @@
     "program": "cs"
   },
   {
-    "id": "681758c6-c283-429d-9627-0f285a799b54",
-    "company_name": "PlusAI",
-    "company_url": "https://simplify.jobs/c/Plus",
-    "title": "Machine Learning Engineer Intern",
-    "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply",
+    "id": "a4e3a190-9d69-4f63-b959-816725dea114",
+    "company_name": "Picton Mahoney Asset Management",
+    "company_url": "https://simplify.jobs/c/0b130d09-83d1-4945-9831-e3f64b0a608f",
+    "title": "Business Data Analyst Intern",
+    "url": "https://pictonmahoney.bamboohr.com/careers/356/",
     "locations": [
-      "Santa Clara, CA"
+      "Toronto, ON, Canada"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1779170722,
-    "date_updated": 1779170761,
+    "date_posted": 1786602225,
+    "date_updated": 1786603015,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
   {
-    "id": "ea5d5776-27ae-4cbe-aa4d-47a5dd80052f",
-    "company_name": "PlusAI",
-    "company_url": "https://simplify.jobs/c/Plus",
-    "title": "Machine Learning Engineer Intern",
-    "url": "https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266/apply",
+    "id": "a1dfd8c9-dd85-479e-ac8d-8a56f0599e6c",
+    "company_name": "Picton Mahoney Asset Management",
+    "company_url": "https://simplify.jobs/c/0b130d09-83d1-4945-9831-e3f64b0a608f",
+    "title": "Quantitative Research & Risk Intern",
+    "url": "https://pictonmahoney.bamboohr.com/careers/350/",
     "locations": [
-      "Santa Clara, CA"
+      "Toronto, ON, Canada"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1779487609,
-    "date_updated": 1779487741,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6d8fbd5f-f59a-4dcf-9018-fd44f9b0f565",
-    "company_name": "PlusAI",
-    "company_url": "https://simplify.jobs/c/Plus",
-    "title": "Research Engineer Intern - Control",
-    "url": "https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779487622,
-    "date_updated": 1779487741,
-    "category": "AI/ML/Data",
+    "date_posted": 1786602214,
+    "date_updated": 1786603006,
+    "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -10831,24 +11030,6 @@
     "source": "simplify",
     "date_posted": 1783900800,
     "date_updated": 1783981190,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "aec4ad25-f3ea-4386-99cc-b24aaa5e5926",
-    "company_name": "Revvity",
-    "company_url": "https://simplify.jobs/c/Revvity",
-    "title": "Full-Stack AI Developer Intern",
-    "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784073600,
-    "date_updated": 1784153524,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -11421,6 +11602,24 @@
     "program": "cs"
   },
   {
+    "id": "acf117a3-c0c1-472f-ad4c-e68012e06ab4",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "company_url": "https://simplify.jobs/c/SEL",
+    "title": "Software Engineer Intern - AI Focus",
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601",
+    "locations": [
+      "Pullman, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786492800,
+    "date_updated": 1786584468,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "165173b5-9af2-4e5c-929e-0274613ad6b0",
     "company_name": "Semtech",
     "company_url": "https://simplify.jobs/c/Semtech",
@@ -11818,6 +12017,80 @@
     "program": "cs"
   },
   {
+    "id": "0904ea85-ce34-417f-8493-06a6299f4673",
+    "company_name": "Specter Aerospace",
+    "company_url": "https://simplify.jobs/c/407199f2-9dde-44bd-8418-cd9bc31d9758",
+    "title": "Embedded Software Co-op",
+    "url": "https://specteraerospace.bamboohr.com/careers/119/",
+    "locations": [
+      "Boston, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786602182,
+    "date_updated": 1786602971,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "5cbd2b0f-806d-42d0-91fe-637455fe40c0",
+    "company_name": "Specter Aerospace",
+    "company_url": "https://simplify.jobs/c/407199f2-9dde-44bd-8418-cd9bc31d9758",
+    "title": "Front-End Software Developer Co-op",
+    "url": "https://specteraerospace.bamboohr.com/careers/120/",
+    "locations": [
+      "Boston, MA",
+      "Peabody, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786602184,
+    "date_updated": 1786602976,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3bb608c1-4704-4fe1-a877-eaf540f90cc1",
+    "company_name": "Specter Aerospace",
+    "company_url": "https://simplify.jobs/c/407199f2-9dde-44bd-8418-cd9bc31d9758",
+    "title": "Full Stack Developer Co-op",
+    "url": "https://specteraerospace.bamboohr.com/careers/122/",
+    "locations": [
+      "Boston, MA",
+      "Peabody, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786602193,
+    "date_updated": 1786602979,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "58719875-03a5-4934-aa9f-46c5b044cc97",
+    "company_name": "Specter Aerospace",
+    "company_url": "https://simplify.jobs/c/407199f2-9dde-44bd-8418-cd9bc31d9758",
+    "title": "Image Processing Co-op",
+    "url": "https://specteraerospace.bamboohr.com/careers/121/",
+    "locations": [
+      "Boston, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786602196,
+    "date_updated": 1786602986,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "17f0421d-363e-4dcd-aa7f-0aa75fb79290",
     "company_name": "Squarepoint Capital",
     "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
@@ -11867,24 +12140,6 @@
     "source": "simplify",
     "date_posted": 1785737948,
     "date_updated": 1785740066,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "be331c13-8c20-4369-b515-8a9ef603b26b",
-    "company_name": "StudyFetch",
-    "company_url": "https://simplify.jobs/c/StudyFetch",
-    "title": "Engineering Intern",
-    "url": "https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5",
-    "locations": [
-      "Beverly Hills, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785795581,
-    "date_updated": 1785797753,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -16267,6 +16522,24 @@
     "date_posted": 1786320000,
     "date_updated": 1786388709,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "7d5cd44a-3181-49ee-88bc-83e27e241535",
+    "company_name": "Tuckernuck",
+    "company_url": "https://simplify.jobs/c/777f8586-64d6-4b58-a27e-43c19bcd1182",
+    "title": "Product Management Intern",
+    "url": "https://tnuck.bamboohr.com/careers/273/",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786602315,
+    "date_updated": 1786602781,
+    "category": "Product",
     "sponsorship": "Other",
     "program": "other"
   },
