@@ -2223,6 +2223,24 @@
     "program": "cs"
   },
   {
+    "id": "f9cd7f8b-40b0-42a5-8bd2-f23dfd7d8ac5",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "ASIC Design Engineer Intern - Video Silicon IP",
+    "url": "https://jobs.bytedance.com/en/position/7673638856678279429/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786699870,
+    "date_updated": 1786699981,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "e24c2017-99ff-4c15-9636-3246335193a8",
     "company_name": "ByteDance",
     "company_url": "https://simplify.jobs/c/ByteDance",
@@ -3472,24 +3490,6 @@
     "program": "cs"
   },
   {
-    "id": "526d4a4f-c5cc-4a59-9843-9913e8ac5685",
-    "company_name": "Ciena",
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "title": "Software Liquid Spectrum Applications Intern",
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785196800,
-    "date_updated": 1785276542,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "1236f3af-608e-4177-93a8-42bf3dafd82f",
     "company_name": "Ciena",
     "company_url": "https://simplify.jobs/c/Ciena",
@@ -4162,24 +4162,6 @@
     "source": "simplify",
     "date_posted": 1784073600,
     "date_updated": 1784124669,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
-    "company_name": "Copart",
-    "company_url": "https://simplify.jobs/c/Copart",
-    "title": "Software Engineer Intern",
-    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784505600,
-    "date_updated": 1784586521,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -5996,24 +5978,6 @@
     "program": "cs"
   },
   {
-    "id": "c54661fa-4ea4-4783-b996-0470acb38ef8",
-    "company_name": "Gulfstream",
-    "company_url": "https://simplify.jobs/c/Gulfstream",
-    "title": "Computer Science Intern - Advanced Structures and Materials",
-    "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors",
-    "locations": [
-      "Savannah, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786399605,
-    "date_updated": 1786399881,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8b859d22-1375-43c9-87ac-1af93ace29a5",
     "company_name": "HARMAN",
     "company_url": "",
@@ -7764,24 +7728,6 @@
     "date_posted": 1780136024,
     "date_updated": 1780281368,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
-    "company_name": "Magna",
-    "company_url": "https://simplify.jobs/c/Magna",
-    "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658",
-    "locations": [
-      "Oakville, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784160000,
-    "date_updated": 1784290069,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -10377,24 +10323,6 @@
     "program": "cs"
   },
   {
-    "id": "5de68737-25b5-4f5a-bfca-7ade84c68491",
-    "company_name": "PathAI",
-    "company_url": "https://simplify.jobs/c/PathAI",
-    "title": "Software Engineer Co-op",
-    "url": "https://www.pathai.com/careers/8623056002?gh_jid=8623056002",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786487009,
-    "date_updated": 1786487484,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
     "company_name": "Pendulum Intelligence",
     "company_url": "https://simplify.jobs/c/453cf24d-368f-49ce-a9b3-298e0845b238",
@@ -11742,6 +11670,24 @@
     "program": "cs"
   },
   {
+    "id": "8cc2b117-a376-460c-9c26-471a354baad2",
+    "company_name": "SciTec",
+    "company_url": "https://simplify.jobs/c/SciTec",
+    "title": "Intern - Multiple Teams",
+    "url": "https://apply.workable.com/scitec/j/3650732037/apply",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1774574048,
+    "date_updated": 1786706656,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "d4f62e21-4bd0-4754-9ae0-0f63ab6272e7",
     "company_name": "SharkNinja",
     "company_url": "https://simplify.jobs/c/SharkNinja",
@@ -12682,24 +12628,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "8805a32d-c38e-4a8a-8843-ed203eec617f",
-    "company_name": "TMEIC Corporation Americas",
-    "company_url": "https://simplify.jobs/c/975b3d75-c621-42e4-907f-b8063b08c328",
-    "title": "Engineer Intern - Spring 2027 - Eis",
-    "url": "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
-    "locations": [
-      "Roanoke, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786565621,
-    "date_updated": 1786565992,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "3bfb4bf7-06c9-49ef-afe3-cb05435f4792",
@@ -15653,6 +15581,24 @@
     "program": "cs"
   },
   {
+    "id": "a5d3459d-3d46-44dd-8e4e-693ca7320203",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Mobile Software Engineer Intern - Global E-Commerce",
+    "url": "https://lifeattiktok.com/search/7673663349758675205",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786698610,
+    "date_updated": 1786698722,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "bbd533a0-34b2-491f-a386-2c10df203595",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -15707,6 +15653,24 @@
     "program": "other"
   },
   {
+    "id": "a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Product Manager Intern - Content and Services",
+    "url": "https://lifeattiktok.com/search/7673337777708550405",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786698608,
+    "date_updated": 1786698722,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "5240d3a1-8474-482a-bb81-33ca1189a842",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -15720,6 +15684,24 @@
     "source": "simplify",
     "date_posted": 1785979105,
     "date_updated": 1785979261,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "56973e0e-ee92-4898-b2d3-7f5df827f064",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Product Manager Intern - Scaled Growth",
+    "url": "https://lifeattiktok.com/search/7673559305519794437",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786698606,
+    "date_updated": 1786698722,
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
@@ -15792,6 +15774,24 @@
     "source": "simplify",
     "date_posted": 1785981295,
     "date_updated": 1785981421,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "d1f12ffa-cc86-44c9-aad3-b6def1a50517",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Product Solutions and Operations Intern - Commerce Ads",
+    "url": "https://lifeattiktok.com/search/7673340525029673221",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786698613,
+    "date_updated": 1786698722,
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
