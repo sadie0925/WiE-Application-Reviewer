@@ -72,6 +72,42 @@
     "program": "other"
   },
   {
+    "id": "ad5fd9f8-d08a-4e9a-b974-0d1f735dccc7",
+    "company_name": "AARP",
+    "company_url": "https://simplify.jobs/c/AARP",
+    "title": "Data Analyst Intern - Advocacy Data and Technology",
+    "url": "https://careers.aarp.org/jobs/7355?icims=1",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786687016,
+    "date_updated": 1786687021,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "5f47f741-a34e-4699-b8f5-02b98d3f86fe",
+    "company_name": "AARP",
+    "company_url": "https://simplify.jobs/c/AARP",
+    "title": "Data Science and Advanced Analytics Intern",
+    "url": "https://careers.aarp.org/jobs/7437?icims=1",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786687015,
+    "date_updated": 1786687021,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "92ec25b9-67cb-4a92-87d3-379a0012eb5d",
     "company_name": "AQR Capital Management",
     "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
@@ -721,6 +757,25 @@
     "program": "cs"
   },
   {
+    "id": "e098b71d-fcf5-40ab-b926-e4360d6d93a5",
+    "company_name": "Analysis Group",
+    "company_url": "https://simplify.jobs/c/Analysis-Group",
+    "title": "Research Professional Intern - Generalist",
+    "url": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786679873,
+    "date_updated": 1786680069,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "c1623229-faaa-4f1d-bdd8-fc0b46bc74a0",
     "company_name": "Anduril",
     "company_url": "https://simplify.jobs/c/Anduril",
@@ -1012,6 +1067,24 @@
     "source": "simplify",
     "date_posted": 1785363000,
     "date_updated": 1785364317,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "aba2e6b6-e001-4a16-b50b-cbbb5f6f8ef2",
+    "company_name": "Arlington County VA",
+    "company_url": "https://simplify.jobs/c/Arlington-County-VA",
+    "title": "Business Intelligence Intern",
+    "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786683389,
+    "date_updated": 1786683421,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -3604,24 +3677,6 @@
     "program": "cs"
   },
   {
-    "id": "d719e9cc-0e4d-4015-9ad9-367e0858f42d",
-    "company_name": "City of Austin",
-    "company_url": "https://simplify.jobs/c/City-Of-Austin",
-    "title": "Research Analyst Intern",
-    "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785456000,
-    "date_updated": 1785622571,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ad1739cf-7cc5-44e3-aea0-36da03f51710",
     "company_name": "City of Charlotte",
     "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
@@ -5193,6 +5248,24 @@
     "program": "cs"
   },
   {
+    "id": "4c028e78-d6cf-428b-bf6c-595531425a7a",
+    "company_name": "FAST Enterprises",
+    "company_url": "https://simplify.jobs/c/FAST-Enterprises",
+    "title": "Implementation Intern",
+    "url": "https://careers.fastenterprises.com/jobs/1594?icims=1",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786679934,
+    "date_updated": 1786680001,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "5efbd1de-4e9a-48b1-82f2-9d2d0c6f3914",
     "company_name": "FTI Consulting",
     "company_url": "https://simplify.jobs/c/FTI-Consulting",
@@ -5667,6 +5740,24 @@
     "date_posted": 1786492800,
     "date_updated": 1786572364,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "b51925a9-5a99-4ef7-9294-2514bc956ac5",
+    "company_name": "GSK",
+    "company_url": "https://simplify.jobs/c/GSK",
+    "title": "AI Commercial Strategy & Activation Co-op - AI Strike Team",
+    "url": "https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Durham, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786686161,
+    "date_updated": 1786686392,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -7057,6 +7148,60 @@
     "program": "cs"
   },
   {
+    "id": "69547881-4d9f-4102-b3f4-b7142cd55636",
+    "company_name": "KPMG",
+    "company_url": "https://simplify.jobs/c/KPMG",
+    "title": "Product Specialist Intern Co-op - Asset Management Digital Solutions",
+    "url": "https://careers.kpmg.ca/jobs/33301?icims=1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786679752,
+    "date_updated": 1786679884,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "449fbbfa-ffc9-46b4-8983-f3bb67052e03",
+    "company_name": "KPMG",
+    "company_url": "https://simplify.jobs/c/KPMG",
+    "title": "Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer",
+    "url": "https://careers.kpmg.ca/jobs/33306?icims=1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786679751,
+    "date_updated": 1786679879,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3df96193-66ef-4f46-b6f1-709ae775a391",
+    "company_name": "KPMG",
+    "company_url": "https://simplify.jobs/c/KPMG",
+    "title": "Technical Consultant Intern Co-op - Global Compliance and Transformation",
+    "url": "https://careers.kpmg.ca/jobs/33307?icims=1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786679751,
+    "date_updated": 1786679881,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "242eb72c-f5bc-41bc-ac2c-bbefd8da41a9",
     "company_name": "Kensington",
     "company_url": "https://simplify.jobs/c/Kensington",
@@ -7093,21 +7238,20 @@
     "program": "other"
   },
   {
-    "id": "cbd56b83-ba52-4c04-b781-d4ae5e585151",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "Software Engineer Intern - R&D - FPGA",
-    "url": "https://jobs.keysight.com/jobs/53636?icims=1",
+    "id": "093ca891-a330-4763-aeb5-b6195cb0df79",
+    "company_name": "KeyBank",
+    "company_url": "https://simplify.jobs/c/KeyBank",
+    "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling",
+    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380",
     "locations": [
-      "Santa Clara, CA",
-      "Calabasas, CA"
+      "Cleveland, OH"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1785881393,
-    "date_updated": 1785882277,
-    "category": "Hardware",
+    "date_posted": 1786665600,
+    "date_updated": 1786686516,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -7531,6 +7675,45 @@
     "program": "cs"
   },
   {
+    "id": "3cef95cf-9ef2-4c94-9300-e032d2b20baa",
+    "company_name": "MPR Associates",
+    "company_url": "https://simplify.jobs/c/MPR-Associates",
+    "title": "Engineer Co-op - Multiple Teams",
+    "url": "https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Salt Lake City, UT",
+      "Alexandria, VA",
+      "Burlington, MA",
+      "East Lyme, CT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786686966,
+    "date_updated": 1786687163,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "fd49417f-1327-426c-80eb-88916ec1a934",
+    "company_name": "MSA Safety",
+    "company_url": "https://simplify.jobs/c/MSA-Safety",
+    "title": "Software Engineer Co-op - Product Development",
+    "url": "https://careers.msasafety.com/jobs/9992?icims=1",
+    "locations": [
+      "Cranberry Township, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786680166,
+    "date_updated": 1786680757,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "bd081463-2c78-438c-87f7-e4ad5d580efa",
     "company_name": "Magna",
     "company_url": "https://simplify.jobs/c/Magna",
@@ -7670,6 +7853,24 @@
     "source": "simplify",
     "date_posted": 1785801600,
     "date_updated": 1785883886,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "fcde5fad-7ca3-4a42-a088-cf0b2bc25cbd",
+    "company_name": "Magnera",
+    "company_url": "https://simplify.jobs/c/Magnera",
+    "title": "Data Analyst Intern - Information Technology",
+    "url": "https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Evansville, IN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786680140,
+    "date_updated": 1786680689,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -7979,6 +8180,24 @@
     "date_posted": 1785940179,
     "date_updated": 1785940230,
     "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "8d7b1b4b-f6f4-4db3-929d-3330c61f1430",
+    "company_name": "MaxLinear",
+    "company_url": "https://simplify.jobs/c/MaxLinear",
+    "title": "AI Intern",
+    "url": "https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786680263,
+    "date_updated": 1786680721,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -9870,6 +10089,24 @@
     "program": "cs"
   },
   {
+    "id": "d7d2d9a2-c865-47e5-9029-23b28fb08f05",
+    "company_name": "PIMCO",
+    "company_url": "https://simplify.jobs/c/PIMCO",
+    "title": "Client Solutions & Analytics Analyst Intern",
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786579200,
+    "date_updated": 1786679056,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
     "company_name": "PNC Financial Services",
     "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
@@ -9904,6 +10141,24 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "4a11cda3-4166-42d6-99ed-a4fad1821adb",
+    "company_name": "Pacific Northwest National Laboratory",
+    "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+    "title": "Undergraduate Technical Intern - Nuclear Facility",
+    "url": "https://careers.pnnl.gov/jobs/12027?icims=1",
+    "locations": [
+      "Richland, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786686929,
+    "date_updated": 1786687021,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
@@ -10578,24 +10833,6 @@
     "program": "other"
   },
   {
-    "id": "128dd3ba-dab5-440a-b009-46756de4170e",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Digital Finance Co-op",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Finance---Co-op--Hybrid-_01863764",
-    "locations": [
-      "East Hartford, CT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786320000,
-    "date_updated": 1786400512,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "52ceda8c-4220-45e3-b041-4de25d61aaee",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -10681,24 +10918,6 @@
     "source": "simplify",
     "date_posted": 1786406400,
     "date_updated": 1786469283,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "98803f68-563e-4966-9b99-92606c5b702e",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786492800,
-    "date_updated": 1786549177,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -10934,6 +11153,24 @@
     "date_posted": 1783900800,
     "date_updated": 1783981190,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "c53d912b-b9f7-47d2-b3ee-07e72c708ece",
+    "company_name": "Reyes Beverage Group",
+    "company_url": "https://simplify.jobs/c/Reyes-Beverage-Group",
+    "title": "Commercial Analytics Intern - Beverage Alliance Support",
+    "url": "https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786680201,
+    "date_updated": 1786680929,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -12553,6 +12790,42 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "b3254ba9-4ac8-4f93-8a5a-67c31517f742",
+    "company_name": "Teledyne",
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "title": "Software Engineer Intern - NHRC",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786579200,
+    "date_updated": 1786679261,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "46378d7c-8f2b-4684-9119-6454bb14df9b",
+    "company_name": "Teledyne",
+    "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+    "title": "Software Engineer Intern - NHRC",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786579200,
+    "date_updated": 1786679256,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
@@ -16263,6 +16536,25 @@
     "program": "cs"
   },
   {
+    "id": "8b347fb9-e0fc-41eb-9c15-657806d1607f",
+    "company_name": "True Anomaly",
+    "company_url": "https://simplify.jobs/c/TrueAnomaly",
+    "title": "GSE Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007",
+    "locations": [
+      "Long Beach, CA",
+      "Denver, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786678952,
+    "date_updated": 1786679101,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "47af09f8-fbb3-4457-8694-17076a62cd06",
     "company_name": "Truist Bank",
     "company_url": "https://simplify.jobs/c/Truist-Bank",
@@ -16662,6 +16954,24 @@
     "date_posted": 1785364087,
     "date_updated": 1785450949,
     "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "bde0a523-c49d-4b1f-a46c-f2ff167b4f02",
+    "company_name": "Urban Science",
+    "company_url": "https://simplify.jobs/c/Urban-Science",
+    "title": "Data Driven Analysis Intern - Fall 2026",
+    "url": "https://careers-urbanscience.icims.com/jobs/5219/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786686942,
+    "date_updated": 1786687021,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
