@@ -1989,24 +1989,6 @@
     "program": "cs"
   },
   {
-    "id": "4928dfb2-7a20-4da6-8405-a591089e515c",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "AI RAN Telecommunications Engineer Intern",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786406400,
-    "date_updated": 1786487582,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a5e9c092-6cda-482a-967c-6c02b15a0fbd",
     "company_name": "BorgWarner",
     "company_url": "https://simplify.jobs/c/BorgWarner",
@@ -2890,6 +2872,24 @@
     "program": "cs"
   },
   {
+    "id": "cf9613df-d8e3-4474-87fd-386eaa1816e8",
+    "company_name": "CLEAResult",
+    "company_url": "https://simplify.jobs/c/CLEAResult",
+    "title": "Energy Efficiency Analyst Co-op",
+    "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-op_R0017820",
+    "locations": [
+      "Remote in Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786320000,
+    "date_updated": 1786389175,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "35d8cb0a-56cf-478f-80bb-73ba1dafbac2",
     "company_name": "CLEAResult",
     "company_url": "https://simplify.jobs/c/CLEAResult",
@@ -3655,24 +3655,6 @@
     "date_posted": 1783318197,
     "date_updated": 1783318523,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8ab18c77-7639-4f8a-94ee-c6b27666656c",
-    "company_name": "City of Austin",
-    "company_url": "https://simplify.jobs/c/City-Of-Austin",
-    "title": "Business Intelligence Intern - Business Intelligence",
-    "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785456000,
-    "date_updated": 1785540486,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -5189,24 +5171,6 @@
     "source": "simplify",
     "date_posted": 1784672038,
     "date_updated": 1784678750,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "916fc67e-6e47-46e3-b796-7f0f0b45a65a",
-    "company_name": "Excel Sports Management",
-    "company_url": "https://simplify.jobs/c/Excel-Sports-Management",
-    "title": "Football Coaches Intern",
-    "url": "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785190254,
-    "date_updated": 1785192018,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -8202,25 +8166,6 @@
     "program": "cs"
   },
   {
-    "id": "0f006255-ad30-4908-a94c-10b724df2e44",
-    "company_name": "McKesson",
-    "company_url": "https://simplify.jobs/c/McKesson",
-    "title": "Software Developer Intern - Digital and Enterprise Technology",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997",
-    "locations": [
-      "Montreal, QC, Canada",
-      "Saint-Laurent, Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786320000,
-    "date_updated": 1786373392,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8b699e41-5c53-4b40-aaf9-57a6bd162427",
     "company_name": "McKesson",
     "company_url": "https://simplify.jobs/c/McKesson",
@@ -10035,20 +9980,20 @@
     "program": "cs"
   },
   {
-    "id": "d7d2d9a2-c865-47e5-9029-23b28fb08f05",
-    "company_name": "PIMCO",
-    "company_url": "https://simplify.jobs/c/PIMCO",
-    "title": "Client Solutions & Analytics Analyst Intern",
-    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+    "id": "9cc8a439-1e3e-458b-86ca-a66d29624c35",
+    "company_name": "PGIM",
+    "company_url": "https://simplify.jobs/c/PGIM",
+    "title": "Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group",
+    "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835",
     "locations": [
-      "Newport Beach, CA"
+      "Newark, NJ"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1786579200,
-    "date_updated": 1786679056,
-    "category": "AI/ML/Data",
+    "date_posted": 1786665600,
+    "date_updated": 1786727974,
+    "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -11400,24 +11345,6 @@
     "program": "cs"
   },
   {
-    "id": "31064e52-65df-476b-89b9-d83f6663a2cc",
-    "company_name": "Rodan Energy Solutions Inc.",
-    "company_url": "https://simplify.jobs/c/4876e678-ad7d-48d1-bfc3-03bf43c110a2",
-    "title": "Artificial Intelligence Co-op - Data Services",
-    "url": "https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785738058,
-    "date_updated": 1785740508,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a904747c-0a1b-4b0e-822d-ca3184c2c4b5",
     "company_name": "Royal Bank of Canada",
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
@@ -11668,6 +11595,24 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "96d0c172-f893-4193-9ab7-44f5238a335c",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "company_url": "https://simplify.jobs/c/SEL",
+    "title": "Test Engineer Intern",
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411",
+    "locations": [
+      "Pullman, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786665600,
+    "date_updated": 1786728131,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "8cc2b117-a376-460c-9c26-471a354baad2",
@@ -12949,24 +12894,6 @@
     "source": "simplify",
     "date_posted": 1784844302,
     "date_updated": 1784844752,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "efcb42ec-c0ae-4445-80bf-7e91ae4e749b",
-    "company_name": "Terminal",
-    "company_url": "https://simplify.jobs/c/9dfc40d9-43a5-42e1-9aef-f158caa5a883",
-    "title": "Software Engineer Intern - Backend",
-    "url": "https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786025744,
-    "date_updated": 1786026885,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -16884,6 +16811,24 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "7c0230d2-2b89-42c4-a691-ceb3f880dd7b",
+    "company_name": "University of Pikeville",
+    "company_url": "https://simplify.jobs/c/3ff34a66-5376-4805-977f-32d0b7c61b05",
+    "title": "Economic Development and Tourism Assistant Intern",
+    "url": "https://upike.bamboohr.com/careers/491/",
+    "locations": [
+      "Pikeville, KY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786727876,
+    "date_updated": 1786728200,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "288b98cb-c28a-4749-b863-533bf90afd67",
