@@ -6100,6 +6100,24 @@
     "program": "cs"
   },
   {
+    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "url": "https://higher.gs.com/roles/181628?type=students",
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767935,
+    "date_updated": 1786806912,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "45e6cd12-c55d-47f0-b650-b2c4b472ce45",
     "company_name": "Grant Thornton",
     "company_url": "https://simplify.jobs/c/Grant-Thornton",
@@ -13100,24 +13118,6 @@
     "program": "cs"
   },
   {
-    "id": "f682356d-55da-4f90-987d-77f140cc652d",
-    "company_name": "Tencent",
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1772707834,
-    "date_updated": 1772707834,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
     "company_name": "Tencent",
     "company_url": "https://simplify.jobs/c/Tencent",
@@ -14680,24 +14680,6 @@
     "date_updated": 1781274261,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a90e94a6-f0e5-4b60-b6bf-9fa45dfe9400",
-    "company_name": "The Exploration Company",
-    "company_url": "",
-    "title": "Crew Systems Engineering Intern - Avionics/Software",
-    "url": "https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1766068117,
-    "date_updated": 1766068117,
-    "category": "Software Engineering",
-    "sponsorship": "U.S. Citizenship is Required",
     "program": "cs"
   },
   {
@@ -17824,24 +17806,6 @@
     "source": "simplify",
     "date_posted": 1786151883,
     "date_updated": 1786152061,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0b08ca4e-bd94-4d3b-b4c8-1fa0807b3175",
-    "company_name": "Walleye Capital",
-    "company_url": "https://simplify.jobs/c/Walleye-Capital",
-    "title": "Equity Volatility Quant Researcher Intern",
-    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
-    "locations": [
-      "Miami, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781083260,
-    "date_updated": 1781083275,
     "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
