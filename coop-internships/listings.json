@@ -6100,24 +6100,6 @@
     "program": "cs"
   },
   {
-    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "url": "https://higher.gs.com/roles/181628?type=students",
-    "locations": [
-      "West Palm Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767935,
-    "date_updated": 1786806912,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "45e6cd12-c55d-47f0-b650-b2c4b472ce45",
     "company_name": "Grant Thornton",
     "company_url": "https://simplify.jobs/c/Grant-Thornton",
@@ -11425,6 +11407,24 @@
     "date_posted": 1784769002,
     "date_updated": 1784777455,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "7e21b76f-fae1-4564-9f64-456d019b46b2",
+    "company_name": "Replit",
+    "company_url": "https://simplify.jobs/c/Replit",
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786833496,
+    "date_updated": 1786833603,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -17769,25 +17769,6 @@
     "source": "simplify",
     "date_posted": 1786140929,
     "date_updated": 1786141935,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "38a2f2d5-6d77-4fc4-b288-8111b7fa7eb7",
-    "company_name": "Waabi",
-    "company_url": "https://simplify.jobs/c/Waabi",
-    "title": "Research Intern/Co-op",
-    "url": "https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb/apply",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1766099331,
-    "date_updated": 1766099331,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
