@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**990 active US/Canada co-op & intern listings** · 828 CS/software · 162 other programs · 0 inactive · Last updated: 2026-08-16 02:22 ET
+**991 active US/Canada co-op & intern listings** · 829 CS/software · 162 other programs · 0 inactive · Last updated: 2026-08-16 08:18 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -117,7 +117,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (729)
+### CS / Software (730)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -638,6 +638,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | 2026-08-12 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2) |
 | Tencent | Game Research & Development Intern - Engine Research | Bellevue, WA | 2026-04-23 | [Apply](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363) |
 | Tencent | Game Research & Development Intern - Engine Research | Bellevue, WA | 2026-04-23 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1) |
+| Tencent | Hunyuan Multimodal Algorithm Researcher Intern | Palo Alto, CA | 2026-03-05 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) |
 | Tencent | Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal | Palo Alto, CA | 2026-04-16 | [Apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051-1) |
 | Tencent | Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal | Palo Alto, CA | 2025-12-30 | [Apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2) |
 | Tencent | Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal | Palo Alto, CA | 2025-12-21 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) |
