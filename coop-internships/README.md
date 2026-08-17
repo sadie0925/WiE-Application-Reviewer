@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**991 active US/Canada co-op & intern listings** · 829 CS/software · 162 other programs · 0 inactive · Last updated: 2026-08-16 14:14 ET
+**992 active US/Canada co-op & intern listings** · 829 CS/software · 163 other programs · 0 inactive · Last updated: 2026-08-16 20:39 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -852,7 +852,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | thyssenkrupp | Analytics Intern | Cleveland, OH | 2026-06-30 | [Apply](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) |
 | thyssenkrupp | Sustainability Systems Intern | Cleveland, OH | 2025-12-23 | [Apply](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) |
 
-### Other programs (146)
+### Other programs (147)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -869,6 +869,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Base Power | Hardware Engineer Intern | Austin, TX | 2026-05-21 | [Apply](https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application) |
 | Bio-Techne | Hardware Engineering Intern | San Jose, CA | 2026-02-19 | [Apply](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533) |
 | BlackRock | Global Product Intern | Wilmington, DE | 2026-07-14 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) |
+| Boom Supersonic | Engineering and Tech Intern | Centennial, CO | 2026-08-16 | [Apply](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) |
 | BorgWarner | Validation Intern | Kokomo, IN | 2026-05-21 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1) |
 | BorgWarner | Validation Intern | Kokomo, IN | 2026-05-21 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960) |
 | Bosch Home Comfort | Product Management Intern | Southfield, MI | 2026-07-29 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) |
