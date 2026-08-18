@@ -1,23 +1,5 @@
 [
   {
-    "id": "11790ea3-adf1-4805-b706-783322b07491",
-    "company_name": " CCC Intelligent Solutions",
-    "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
-    "title": "Data Science Intern - R&D",
-    "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786406400,
-    "date_updated": 1786486764,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "cce4a124-68d8-4941-9fff-ddbee5dfc0b3",
     "company_name": "1X",
     "company_url": "https://simplify.jobs/c/1x",
@@ -371,24 +353,6 @@
     "program": "cs"
   },
   {
-    "id": "0cde1dc3-c743-448c-bce2-37ae6da5bb38",
-    "company_name": "Altera Corporation",
-    "company_url": "https://simplify.jobs/c/Altera-Corporation",
-    "title": "Embedded Solutions Intern",
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786579200,
-    "date_updated": 1786660741,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "443c6322-3e3b-48b4-9fd4-3a9c04931db8",
     "company_name": "Altice USA",
     "company_url": "https://simplify.jobs/c/Altice-USA",
@@ -685,6 +649,24 @@
     "program": "cs"
   },
   {
+    "id": "838b7d8e-c2bf-4395-b660-6f3484019451",
+    "company_name": "American Express",
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "title": "AI Engineer Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787004631,
+    "date_updated": 1787005012,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
     "company_name": "American Express",
     "company_url": "https://simplify.jobs/c/American-Express",
@@ -879,25 +861,6 @@
     "source": "simplify",
     "date_posted": 1786679873,
     "date_updated": 1786680069,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3bbe3661-8a0b-43c9-a4f7-5c1b984cc3f9",
-    "company_name": "Analytical Mechanics Associates",
-    "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
-    "title": "Computer Science/Engineering Intern - Computer Vision Applications",
-    "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731",
-    "locations": [
-      "Washington, DC",
-      "Hampton, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786665600,
-    "date_updated": 1786745705,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -3894,6 +3857,24 @@
     "program": "cs"
   },
   {
+    "id": "755ab199-3b9d-4f50-b01e-64cf91ca54cf",
+    "company_name": "Clinical Ink",
+    "company_url": "https://simplify.jobs/c/Clinical-Ink",
+    "title": "Data Management Intern",
+    "url": "https://jobs.smartrecruiters.com/ClinicalInk/89163444",
+    "locations": [
+      "Horsham, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787015544,
+    "date_updated": 1787015702,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "52bbfd3d-d9c3-4963-9367-97c721bcced4",
     "company_name": "CloudFit Software",
     "company_url": "https://simplify.jobs/c/b76d8161-7a57-4a7e-a01a-0a646b7a2037",
@@ -5243,6 +5224,24 @@
     "program": "cs"
   },
   {
+    "id": "a4cdc0e5-bf6b-4620-a36e-7486462931cc",
+    "company_name": "Encephalo Investments",
+    "company_url": "https://simplify.jobs/c/Encephalo-Investments",
+    "title": "Software Developer Intern",
+    "url": "https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349",
+    "locations": [
+      "Woodbury, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787015436,
+    "date_updated": 1787015676,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "88a53309-0a50-46d5-a5a1-9e196633f951",
     "company_name": "Engineers and Geoscientists BC",
     "company_url": "https://simplify.jobs/c/e5229801-1660-415c-9e9d-a484a9828cf3",
@@ -5677,6 +5676,42 @@
     "date_posted": 1773439685,
     "date_updated": 1773439685,
     "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "233be5a1-8ddf-4ec6-b781-965da462a12d",
+    "company_name": "Fannie Mae",
+    "company_url": "https://simplify.jobs/c/Fannie-Mae",
+    "title": "Business Analysis Associate Intern - Access Management",
+    "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999744532787",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787015687,
+    "date_updated": 1787016332,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "02d12760-33ed-4f97-8ffc-4f561fac43d0",
+    "company_name": "Fannie Mae",
+    "company_url": "https://simplify.jobs/c/Fannie-Mae",
+    "title": "Data Science Analyst 3 Intern - Cat J",
+    "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999731568800",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787015687,
+    "date_updated": 1787016333,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -6717,24 +6752,6 @@
     "program": "cs"
   },
   {
-    "id": "1f3b2933-fe37-4e8a-b727-eb9166e6df99",
-    "company_name": "Horizon Industries",
-    "company_url": "https://simplify.jobs/c/Horizon-Industries",
-    "title": "Appian Intern",
-    "url": "https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5301639008",
-    "locations": [
-      "Washington, DC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783461850,
-    "date_updated": 1783463290,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "eb7734a8-6013-401d-bd6f-679ef214a05e",
     "company_name": "Howmet Aerospace",
     "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
@@ -6769,6 +6786,24 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "c7193815-11e7-469c-8ad5-9b5e6133f685",
+    "company_name": "Huck Adventures",
+    "company_url": "https://simplify.jobs/c/Huck-Adventures",
+    "title": "Research Analyst Intern",
+    "url": "https://jobs.smartrecruiters.com/HuckAdventures/743999747985535",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787015374,
+    "date_updated": 1787015521,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "87235779-9531-4bf2-b265-6cc448aa0f35",
@@ -7548,6 +7583,24 @@
     "program": "cs"
   },
   {
+    "id": "d269fad7-d513-4c35-b790-f31017a09c8a",
+    "company_name": "KOSTAL Group",
+    "company_url": "https://simplify.jobs/c/KOSTAL-Group",
+    "title": "Systems Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225",
+    "locations": [
+      "Troy, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787015309,
+    "date_updated": 1787015341,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "69547881-4d9f-4102-b3f4-b7142cd55636",
     "company_name": "KPMG",
     "company_url": "https://simplify.jobs/c/KPMG",
@@ -7669,24 +7722,6 @@
     "source": "simplify",
     "date_posted": 1786924800,
     "date_updated": 1787005244,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "b6f0ed37-c65c-493a-b002-0e540bc09413",
-    "company_name": "Kimley-Horn",
-    "company_url": "https://simplify.jobs/c/Kimley-Horn",
-    "title": "Software Developer Intern",
-    "url": "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Cary, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786469011,
-    "date_updated": 1786469042,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -11467,24 +11502,6 @@
     "program": "cs"
   },
   {
-    "id": "bd6358b0-c6b0-436e-bb7a-e2dcb370e692",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineering Intern - Summer 2027",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786492800,
-    "date_updated": 1786572598,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ea2731af-2fbc-4e8e-834a-a0db3c17ab9c",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -11575,6 +11592,24 @@
     "program": "cs"
   },
   {
+    "id": "7a1b2d0b-fb4d-450e-9f60-44a50b914ab1",
+    "company_name": "RegDesk",
+    "company_url": "https://simplify.jobs/c/RegDesk",
+    "title": "Front End Developer Intern",
+    "url": "https://jobs.smartrecruiters.com/RegDeskInc/92145731",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787015535,
+    "date_updated": 1787015903,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "a4a2a918-bd94-4e72-8cf5-303e07eff8ce",
     "company_name": "Renesas Electronics",
     "company_url": "https://simplify.jobs/c/Renesas-Electronics",
@@ -11661,6 +11696,24 @@
     "date_posted": 1786680201,
     "date_updated": 1786680929,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "6359c80a-9d69-4dcc-9607-0b4506269693",
+    "company_name": "Riveron",
+    "company_url": "https://simplify.jobs/c/Riveron",
+    "title": "Technology & Innovation Intern",
+    "url": "https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787018698,
+    "date_updated": 1787018778,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -17606,24 +17659,6 @@
     "program": "cs"
   },
   {
-    "id": "6731f217-2663-4905-a34f-077fa361c987",
-    "company_name": "University of Nevada, Reno",
-    "company_url": "https://simplify.jobs/c/University-Of-Nevada-Reno",
-    "title": "Student Worker - Media Webmaster Intern",
-    "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker--Media-Webmaster_R0151457-1",
-    "locations": [
-      "Reno, NV"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776895503,
-    "date_updated": 1776896554,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "989307cb-3526-457e-a8ee-77b6cdda5c4f",
     "company_name": "University of Nevada, Reno",
     "company_url": "https://simplify.jobs/c/University-Of-Nevada-Reno",
@@ -18639,6 +18674,24 @@
     "source": "simplify",
     "date_posted": 1772838473,
     "date_updated": 1785580475,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "188a7730-e0e6-4d6b-b1fb-5550f2812d43",
+    "company_name": "iFLIP4",
+    "company_url": "https://simplify.jobs/c/IFLIP4",
+    "title": "PHP Programmer Intern - Social Enterprise",
+    "url": "https://jobs.smartrecruiters.com/iFLIP4/75391381",
+    "locations": [
+      "East Hanover, NJ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787015506,
+    "date_updated": 1787015807,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
