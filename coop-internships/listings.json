@@ -164,24 +164,6 @@
     "program": "cs"
   },
   {
-    "id": "f1cc7ce7-00a3-49c1-9092-46d88ff06988",
-    "company_name": "ASML",
-    "company_url": "",
-    "title": "Internship - Software Development Engineer in Test",
-    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1766409720,
-    "date_updated": 1766409720,
-    "category": "Software Engineering",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "152f0dd1-e6c5-4072-8a15-e122312fc5c7",
     "company_name": "ATCO",
     "company_url": "https://simplify.jobs/c/ATCO",
@@ -6753,24 +6735,6 @@
     "program": "cs"
   },
   {
-    "id": "d1dc2c27-bc1f-4936-acdc-8377a7387a2a",
-    "company_name": "Harris Central Appraisal District",
-    "company_url": "https://simplify.jobs/c/HCAD",
-    "title": "GIS Intern",
-    "url": "https://hcad.wd5.myworkdayjobs.com/HCADCareers/job/Houston-Texas/GIS-Intern_JR523",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787011200,
-    "date_updated": 1787092021,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "dabc12b1-c602-4c02-a96a-6d8d58128394",
     "company_name": "HealthCorps",
     "company_url": "https://simplify.jobs/c/2d66b3e7-d0aa-43f9-9957-a03063032b0d",
@@ -8869,6 +8833,24 @@
     "program": "cs"
   },
   {
+    "id": "b31bb072-a6b6-48b7-b762-03f1b353fdf8",
+    "company_name": "Marmon Holdings",
+    "company_url": "https://simplify.jobs/c/Marmon-Holdings",
+    "title": "Data & Process Automation Intern - Duty Drawback",
+    "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787097600,
+    "date_updated": 1787147281,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "04c61af9-3fff-42ea-b8cb-7e2f17ca3778",
     "company_name": "Marmon Holdings",
     "company_url": "https://simplify.jobs/c/Marmon-Holdings",
@@ -10118,27 +10100,6 @@
     "program": "cs"
   },
   {
-    "id": "5fc86d18-cd9e-4d79-9edc-a162318dd4fb",
-    "company_name": "National Reconnaissance Office",
-    "company_url": "https://simplify.jobs/c/National-Reconnaissance-Office",
-    "title": "Summer Internship - Dr. Chris Scolese",
-    "url": "https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program",
-    "locations": [
-      "Aurora, CO",
-      "Chantilly, VA",
-      "White Sands Missile Range, NM",
-      "Fort Belvoir, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787017152,
-    "date_updated": 1787044741,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "4c13d76e-b205-4010-a271-55fb853f5767",
     "company_name": "Naver U.Hub INC",
     "company_url": "https://simplify.jobs/c/0fa78cc0-c4d7-4a41-852e-f82741d82350",
@@ -10515,6 +10476,24 @@
     "date_posted": 1787039559,
     "date_updated": 1787039938,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
+    "company_name": "Northrop Grumman",
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "title": "Software Engineer Intern - Aeronautics Systems",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785888000,
+    "date_updated": 1785979249,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -12043,6 +12022,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "c097ad9b-a7e4-469f-a21b-e51a324f6202",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Modeling, Simulation & Analysis Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern--Summer-2027-_01867118",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786924800,
+    "date_updated": 1787034102,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "ff1e3da0-fc8d-455a-bed2-9e8912f2fb6f",
