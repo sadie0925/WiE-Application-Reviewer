@@ -1162,24 +1162,6 @@
     "program": "cs"
   },
   {
-    "id": "73204d10-3227-4e0a-a54c-1c869cac51f0",
-    "company_name": "Arkema Global",
-    "company_url": "https://simplify.jobs/c/Arkema-Global",
-    "title": "Manufacturing Data Systems Intern",
-    "url": "https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors",
-    "locations": [
-      "Villanova, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785363000,
-    "date_updated": 1785364317,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "aba2e6b6-e001-4a16-b50b-cbbb5f6f8ef2",
     "company_name": "Arlington County VA",
     "company_url": "https://simplify.jobs/c/Arlington-County-VA",
@@ -2528,6 +2510,24 @@
     "program": "cs"
   },
   {
+    "id": "4787855b-e024-4938-a00f-7829fac9f8db",
+    "company_name": "ByteDance",
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "title": "Immigration Data Analyst Intern - Hrops",
+    "url": "https://jobs.bytedance.com/en/position/7675376319236311349/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787104954,
+    "date_updated": 1787105110,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "343e0c01-b847-4c69-97bb-7015f723432d",
     "company_name": "ByteDance",
     "company_url": "https://simplify.jobs/c/ByteDance",
@@ -3225,42 +3225,6 @@
     "source": "simplify",
     "date_posted": 1783462575,
     "date_updated": 1783463645,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "f3715da4-8208-47e0-9831-b46b285d0241",
-    "company_name": "Cadence Design Systems",
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "title": "SSG Design Engineering Intern",
-    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/SSG-Design-Engineering-Intern--Summer-2026_R52641",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1772236486,
-    "date_updated": 1772236486,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "76d86da2-fb0a-4db1-8359-537c158d74a4",
-    "company_name": "Cadence Design Systems",
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "title": "SSG Design Engineering Intern",
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784160000,
-    "date_updated": 1784250721,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -7371,24 +7335,6 @@
     "program": "cs"
   },
   {
-    "id": "f9530ed3-2587-45c5-8a92-1bf929f199f3",
-    "company_name": "Integra FEC",
-    "company_url": "https://simplify.jobs/c/Integra-FEC",
-    "title": "Data Analyst Intern",
-    "url": "https://job-boards.greenhouse.io/integrainterns/jobs/5134523008",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777413913,
-    "date_updated": 1777414201,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "438a49bd-1732-4815-b2b2-e048f205949f",
     "company_name": "Intel",
     "company_url": "https://simplify.jobs/c/Intel",
@@ -10233,6 +10179,24 @@
     "date_posted": 1784932309,
     "date_updated": 1784932562,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "45c2f6c7-b255-45ae-a1c7-efc0701dd047",
+    "company_name": "Nextiva",
+    "company_url": "https://simplify.jobs/c/Nextiva",
+    "title": "Marketing Intern - Data Science",
+    "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8687999002",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787102888,
+    "date_updated": 1787103014,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -14788,24 +14752,6 @@
     "program": "cs"
   },
   {
-    "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
-    "company_name": "Tencent",
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1766370010,
-    "date_updated": 1766370010,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f083247a-cf19-43ae-8834-7db704881503",
     "company_name": "Tencent",
     "company_url": "https://simplify.jobs/c/Tencent",
@@ -14819,6 +14765,24 @@
     "source": "simplify",
     "date_posted": 1780535299,
     "date_updated": 1780535476,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
+    "company_name": "Tencent",
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
+    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783158871,
+    "date_updated": 1787055486,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -15848,24 +15812,6 @@
     "date_posted": 1780794712,
     "date_updated": 1780795462,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6f90b990-327d-4a8f-9b22-f0d6cc181eaa",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Software Integration Engineer Intern - Software Integration Engineer - Optimus",
-    "url": "https://www.tesla.com/careers/search/job/269809",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778050847,
-    "date_updated": 1778051024,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -19058,24 +19004,6 @@
     "date_posted": 1785892702,
     "date_updated": 1785893098,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "cee3ea0e-1799-447b-a1c6-f6e69f1c5202",
-    "company_name": "Vanguard",
-    "company_url": "https://simplify.jobs/c/Vanguard",
-    "title": "Data Analysis Intern",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1",
-    "locations": [
-      "Malvern, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787005267,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
