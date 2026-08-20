@@ -173,6 +173,24 @@
     "program": "cs"
   },
   {
+    "id": "8569a45d-e504-4cc5-897a-de907ab8e0f7",
+    "company_name": "AbbVie",
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787234692,
+    "date_updated": 1787234889,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "8c643851-d7eb-41d5-9c08-aa99ae659141",
     "company_name": "Acceldata",
     "company_url": "https://simplify.jobs/c/Acceldata",
@@ -3409,28 +3427,6 @@
     "program": "cs"
   },
   {
-    "id": "a5424485-a1a0-4ab2-adaa-286ac3620977",
-    "company_name": "Centerstone",
-    "company_url": "https://simplify.jobs/c/Centerstone",
-    "title": "Bachelor Level Intern",
-    "url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Bachelor-Level-Intern-Late-Fall-Semester_JR-032217",
-    "locations": [
-      "Richmond, IN",
-      "Greenwood, IN",
-      "Jeffersonville, IN",
-      "Bloomington, IN",
-      "Seymour, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783548834,
-    "date_updated": 1785604625,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "e5dfef91-5533-406d-a42a-fab2b837638b",
     "company_name": "Chamberlain Group",
     "company_url": "https://simplify.jobs/c/Chamberlain-Group",
@@ -5840,6 +5836,24 @@
     "program": "cs"
   },
   {
+    "id": "09e061cd-a5e8-4059-bb6d-a0672a475328",
+    "company_name": "Fannie Mae",
+    "company_url": "https://simplify.jobs/c/Fannie-Mae",
+    "title": "Data Science Intern - Analytics & Modeling Program",
+    "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787184000,
+    "date_updated": 1787235624,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "8037d2f8-3be0-4762-96a6-6111a83eabae",
     "company_name": "Felix Magazine",
     "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
@@ -5889,6 +5903,24 @@
     "source": "simplify",
     "date_posted": 1786514758,
     "date_updated": 1786514952,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "7d8242ec-06c9-4afb-abfb-ccbd11a5f47b",
+    "company_name": "Fifth Third Bank",
+    "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+    "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2027",
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787184000,
+    "date_updated": 1787238416,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -5982,24 +6014,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "987779ef-3c25-4288-b559-7f8a99d2b578",
-    "company_name": "Flagright",
-    "company_url": "https://simplify.jobs/c/Flagright",
-    "title": "Product Operations Intern",
-    "url": "https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781694620,
-    "date_updated": 1781694721,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
@@ -6531,6 +6545,42 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "AWM Product Management Analyst Intern",
+    "url": "https://higher.gs.com/roles/171513?type=students",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787172276,
+    "date_updated": 1787235591,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "url": "https://higher.gs.com/roles/181628?type=students",
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767935,
+    "date_updated": 1786806912,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "45e6cd12-c55d-47f0-b650-b2c4b472ce45",
@@ -9067,6 +9117,24 @@
     "date_posted": 1785715200,
     "date_updated": 1785849953,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "8b699e41-5c53-4b40-aaf9-57a6bd162427",
+    "company_name": "McKesson",
+    "company_url": "https://simplify.jobs/c/McKesson",
+    "title": "Technology Intern",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786320000,
+    "date_updated": 1786400496,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -11614,6 +11682,24 @@
     "program": "cs"
   },
   {
+    "id": "eb82de33-71ee-43b9-ae92-39d23132fe53",
+    "company_name": "Pivot Robotics",
+    "company_url": "https://simplify.jobs/c/Pivot-Robotics",
+    "title": "Robot Operator Internship",
+    "url": "https://jobs.ashbyhq.com/pivotrobotics/5b7e7074-aace-4b9a-9db8-245c8ad66a69/application?embed=true",
+    "locations": [
+      "New Boston, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787238838,
+    "date_updated": 1787238901,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
     "company_name": "Postman",
     "company_url": "https://simplify.jobs/c/Postman",
@@ -11974,24 +12060,6 @@
     "program": "other"
   },
   {
-    "id": "ff77e8f4-7829-481b-a954-0fa6b86456dd",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Electrical Engineering Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281",
-    "locations": [
-      "Tewksbury, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786665600,
-    "date_updated": 1787172024,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "52ceda8c-4220-45e3-b041-4de25d61aaee",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -12046,6 +12114,24 @@
     "program": "cs"
   },
   {
+    "id": "013fdd20-3235-4aca-8bd4-f5eb44a09c32",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Software Development Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943",
+    "locations": [
+      "Tewksbury, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787184000,
+    "date_updated": 1787235628,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -12078,24 +12164,6 @@
     "date_posted": 1786665600,
     "date_updated": 1786757145,
     "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "51b1f750-bdc8-4369-865b-5edb226a9d44",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952",
-    "locations": [
-      "West Valley City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786665600,
-    "date_updated": 1786757221,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -14815,24 +14883,6 @@
     "date_posted": 1773154810,
     "date_updated": 1773154810,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "83fcabf7-15f4-4213-8f40-a3a037dc3288",
-    "company_name": "Teledyne",
-    "company_url": "https://simplify.jobs/c/Teledyne",
-    "title": "AI & Automation Engineer Co-op",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/AI---Automation-Engineering-Co-op_REQ36054",
-    "locations": [
-      "Waterloo, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787097600,
-    "date_updated": 1787178119,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
