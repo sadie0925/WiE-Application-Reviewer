@@ -865,6 +865,24 @@
     "program": "cs"
   },
   {
+    "id": "e1f3338c-95a0-4b9f-b987-07fa38a8a4a6",
+    "company_name": "Ampersand",
+    "company_url": "https://simplify.jobs/c/Ampersand-Bio",
+    "title": "Data Engineering Co-op - Open to Northeastern students only",
+    "url": "https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3",
+    "locations": [
+      "Boston, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787186852,
+    "date_updated": 1787187448,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "e098b71d-fcf5-40ab-b926-e4360d6d93a5",
     "company_name": "Analysis Group",
     "company_url": "https://simplify.jobs/c/Analysis-Group",
@@ -1278,24 +1296,6 @@
     "source": "simplify",
     "date_posted": 1787005608,
     "date_updated": 1787005868,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "82254da0-c1bd-49f5-8915-0f8657585f9f",
-    "company_name": "Artisan Partners",
-    "company_url": "https://simplify.jobs/c/Artisan-Partners",
-    "title": "Data Engineer Intern - Platform & Product",
-    "url": "https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=8132641",
-    "locations": [
-      "Milwaukee, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787006407,
-    "date_updated": 1787006572,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -3184,42 +3184,6 @@
     "source": "simplify",
     "date_posted": 1781950223,
     "date_updated": 1785585731,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
-    "company_name": "Cadence Design Systems",
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "title": "Characterization and Support Intern",
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781302047,
-    "date_updated": 1781303857,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "4ac1edc9-7294-4f37-bb6d-8ea01d88c666",
-    "company_name": "Cadence Design Systems",
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "title": "Characterization and Support Intern",
-    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-3",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783462576,
-    "date_updated": 1783463648,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -5510,6 +5474,24 @@
     "program": "cs"
   },
   {
+    "id": "bc9d071a-1dae-48fc-a18e-293c48a4ccb0",
+    "company_name": "Epic Games",
+    "company_url": "https://simplify.jobs/c/Epic-Games",
+    "title": "Tools Programmer Intern",
+    "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
+    "locations": [
+      "Cary, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787190052,
+    "date_updated": 1787190121,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "6039a320-d48c-4651-98a5-3f0566350069",
     "company_name": "Equifax",
     "company_url": "https://simplify.jobs/c/Equifax",
@@ -6585,24 +6567,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "url": "https://higher.gs.com/roles/181628?type=students",
-    "locations": [
-      "West Palm Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767935,
-    "date_updated": 1786806912,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "45e6cd12-c55d-47f0-b650-b2c4b472ce45",
@@ -8544,6 +8508,24 @@
     "program": "cs"
   },
   {
+    "id": "4fd996db-84f4-40ce-9d98-4134847d754f",
+    "company_name": "METECS",
+    "company_url": "https://simplify.jobs/c/METECS",
+    "title": "Software Intern",
+    "url": "https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship",
+    "locations": [
+      "Houston, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787186877,
+    "date_updated": 1787186981,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "3cef95cf-9ef2-4c94-9300-e032d2b20baa",
     "company_name": "MPR Associates",
     "company_url": "https://simplify.jobs/c/MPR-Associates",
@@ -8740,24 +8722,6 @@
     "source": "simplify",
     "date_posted": 1785801600,
     "date_updated": 1785883886,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "fcde5fad-7ca3-4a42-a088-cf0b2bc25cbd",
-    "company_name": "Magnera",
-    "company_url": "https://simplify.jobs/c/Magnera",
-    "title": "Data Analyst Intern - Information Technology",
-    "url": "https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Evansville, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786680140,
-    "date_updated": 1786680689,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -9631,24 +9595,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "fd960a3d-8212-46cf-8d1f-60df0b47e33d",
-    "company_name": "Moog ",
-    "company_url": "https://simplify.jobs/c/Moog",
-    "title": "Product Engineering Intern",
-    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224",
-    "locations": [
-      "Buffalo, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786320000,
-    "date_updated": 1786428962,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab",
@@ -10554,24 +10500,6 @@
     "category": "Product Management",
     "sponsorship": "Does Not Offer Sponsorship",
     "program": "other"
-  },
-  {
-    "id": "c3656022-c1f5-43d7-9752-dacfb3d6479d",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Hardware Developer Engineer Co-op/Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777511346,
-    "date_updated": 1777511653,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
@@ -12258,24 +12186,6 @@
     "date_posted": 1786924800,
     "date_updated": 1787034103,
     "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f8a8d6e1-4ac2-45e9-a352-15eae10f1bdd",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678",
-    "locations": [
-      "Westford, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787011200,
-    "date_updated": 1787090889,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -18616,6 +18526,114 @@
     "program": "cs"
   },
   {
+    "id": "dcab0a63-0790-4990-ad6c-517c42b6436b",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+    "url": "https://lifeattiktok.com/search/7672926068681951493",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787190347,
+    "date_updated": 1787190481,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "89769fe8-b21d-48e7-bc68-0ac457b3a934",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+    "url": "https://lifeattiktok.com/search/7672934842451577141",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787190347,
+    "date_updated": 1787190481,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "7a6d014a-e6ad-4587-8acf-9acfe710342d",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+    "url": "https://lifeattiktok.com/search/7672930401597671733",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787190347,
+    "date_updated": 1787190481,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "4ecdff57-6188-48f4-9540-4521c485bc53",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+    "url": "https://lifeattiktok.com/search/7674029284224092421",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787190347,
+    "date_updated": 1787190481,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "f9783cfd-0933-41da-8102-1c15ae7d9c3c",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+    "url": "https://lifeattiktok.com/search/7675159726676101381",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787190347,
+    "date_updated": 1787190481,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "0027f5ce-0bdc-419e-ac80-095bae27c176",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+    "url": "https://lifeattiktok.com/search/7675163472469444917",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787190346,
+    "date_updated": 1787190481,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "c03b7a2c-d1b6-4e44-bfc8-e638eeb45dac",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -18629,6 +18647,42 @@
     "source": "simplify",
     "date_posted": 1785737704,
     "date_updated": 1785738601,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "c2b2c451-d750-4afe-a76b-18cec45fff86",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - TikTok Search Architecture",
+    "url": "https://lifeattiktok.com/search/7675517686256863541",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787190346,
+    "date_updated": 1787190481,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "af4f346b-7d83-473b-b205-a8487c067438",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Software Engineer Intern - TikTok Search Architecture",
+    "url": "https://lifeattiktok.com/search/7675524738811218229",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787190347,
+    "date_updated": 1787190481,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
