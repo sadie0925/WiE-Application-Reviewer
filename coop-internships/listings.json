@@ -1301,24 +1301,6 @@
     "program": "cs"
   },
   {
-    "id": "5e9fd1d4-a28c-46fb-96eb-f4a461df16b8",
-    "company_name": "Assurant",
-    "company_url": "https://simplify.jobs/c/Assurant",
-    "title": "Digital & AI Transformation Intern 1 - Internship Program",
-    "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787011200,
-    "date_updated": 1787090705,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "2bf9596e-6416-4fef-8c6d-48ac964d59fa",
     "company_name": "Astera",
     "company_url": "https://simplify.jobs/c/Astera",
@@ -2937,24 +2919,6 @@
     "program": "cs"
   },
   {
-    "id": "d682d247-adfc-4dad-8a92-2194c9d88119",
-    "company_name": "ByteDance",
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "title": "Software Engineer Project Intern - Security Engineering",
-    "url": "https://jobs.bytedance.com/en/position/7600176309125466373/detail",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770430243,
-    "date_updated": 1770430243,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "97e6ece1-7a71-4d9d-a1b3-255d28e56d89",
     "company_name": "ByteDance",
     "company_url": "https://simplify.jobs/c/ByteDance",
@@ -3462,24 +3426,6 @@
     "source": "simplify",
     "date_posted": 1783548834,
     "date_updated": 1785604625,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a8814763-abf2-4ca5-ad40-518545962599",
-    "company_name": "Centific",
-    "company_url": "https://simplify.jobs/c/Centific",
-    "title": "Technical Intern",
-    "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108144-1",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787097600,
-    "date_updated": 1787179141,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -5274,6 +5220,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "1bd50634-5114-480f-8a35-3a592f0fe763",
+    "company_name": "E-Space",
+    "company_url": "https://simplify.jobs/c/E-Space",
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply",
+    "locations": [
+      "Arlington, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787207120,
+    "date_updated": 1787207275,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "be6493df-d454-4e77-b102-3eef5e546c99",
@@ -9778,24 +9742,6 @@
     "program": "cs"
   },
   {
-    "id": "2698abcf-1f94-40b6-9881-1b14c416262f",
-    "company_name": "NVIDIA",
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "title": "Computer Architecture Intern",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787097600,
-    "date_updated": 1787132048,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
     "company_name": "NVIDIA",
     "company_url": "https://simplify.jobs/c/NVIDIA",
@@ -12370,24 +12316,6 @@
     "program": "cs"
   },
   {
-    "id": "40569998-45dc-4119-b2ea-2f11366a604f",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067",
-    "locations": [
-      "Indianapolis, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034104,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8a917451-91ce-4fdb-ab11-e7564dd99c37",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -12690,24 +12618,6 @@
     "date_posted": 1786680201,
     "date_updated": 1786680929,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6359c80a-9d69-4dcc-9607-0b4506269693",
-    "company_name": "Riveron",
-    "company_url": "https://simplify.jobs/c/Riveron",
-    "title": "Technology & Innovation Intern",
-    "url": "https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787018698,
-    "date_updated": 1787018778,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -14723,6 +14633,24 @@
     "source": "simplify",
     "date_posted": 1781638798,
     "date_updated": 1781643090,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "1c385c6d-d388-465d-9ccb-4051032c9a09",
+    "company_name": "Sysco",
+    "company_url": "https://simplify.jobs/c/Sysco",
+    "title": "Software Engineer Intern",
+    "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R263660",
+    "locations": [
+      "Houston, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787184000,
+    "date_updated": 1787206552,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
