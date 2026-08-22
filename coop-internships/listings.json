@@ -6056,6 +6056,24 @@
     "program": "cs"
   },
   {
+    "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
+    "company_name": "Eridu AI",
+    "company_url": "https://simplify.jobs/c/f6017331-50bd-4dfe-a34c-28de5520e7c1",
+    "title": "Lab Intern",
+    "url": "https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1",
+    "locations": [
+      "Saratoga, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1785968265,
+    "date_updated": 1785969543,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "38e8a939-62a1-48f1-a692-553a8cfc1341",
     "company_name": "Etched",
     "company_url": "https://simplify.jobs/c/Etched",
@@ -7211,42 +7229,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "AWM Product Management Analyst Intern",
-    "url": "https://higher.gs.com/roles/171513?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787172276,
-    "date_updated": 1787235591,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "url": "https://higher.gs.com/roles/181628?type=students",
-    "locations": [
-      "West Palm Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767935,
-    "date_updated": 1786806912,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "45e6cd12-c55d-47f0-b650-b2c4b472ce45",
@@ -11882,24 +11864,6 @@
     "program": "cs"
   },
   {
-    "id": "678b7339-d616-49e4-8023-7ab2273254fd",
-    "company_name": "Ontario Teachers' Pension Plan",
-    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-    "title": "Risk Intern - Total Fund Risk",
-    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Risk--Total-Fund-Risk--May-2027--12-months-_7195",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787270400,
-    "date_updated": 1787316528,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "47396485-020d-4723-a0eb-84364424bc72",
     "company_name": "Onware",
     "company_url": "https://simplify.jobs/c/ee6743be-7d7e-46c8-991e-36d9229825c5",
@@ -13278,6 +13242,24 @@
     "program": "other"
   },
   {
+    "id": "740d3c67-d925-48d7-995a-410073f010e8",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Industrialization Intern - Industrialization Production Readiness",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Industrialisation----Internship---Winter-2027---Industrialization-Production-Readiness_01867520",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787270400,
+    "date_updated": 1787410669,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "c097ad9b-a7e4-469f-a21b-e51a324f6202",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -13382,24 +13364,6 @@
     "date_posted": 1787011200,
     "date_updated": 1787034102,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d482b9f8-9e51-4e4d-9a3b-fe95a6fcddb8",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034103,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -15192,6 +15156,150 @@
     "program": "cs"
   },
   {
+    "id": "a9cd2f49-efd8-4433-b2f9-c9ddea84ea80",
+    "company_name": "Springs Window Fashions",
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "title": "AI Analyst Intern - Consumer Business Unit",
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787407584,
+    "date_updated": 1787407920,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "cbb3ab08-f178-4e8a-b8f7-95efd3b9dd22",
+    "company_name": "Springs Window Fashions",
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "title": "Application Engineering Intern - Summer 2027",
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Long Island City, Queens, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787407578,
+    "date_updated": 1787407925,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "b59dc602-a7f2-4fe8-b95c-1d885aaf533c",
+    "company_name": "Springs Window Fashions",
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "title": "Data Analyst Intern - Consumer Business Unit",
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787407584,
+    "date_updated": 1787407924,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "c305bb04-1a47-46b7-9176-388a1f0d73f2",
+    "company_name": "Springs Window Fashions",
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "title": "Dealer Business Operations & Analytics Intern - Summer 2027",
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787407583,
+    "date_updated": 1787407928,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "3ba0ee0f-9499-46e0-a269-8b7c01b0adf3",
+    "company_name": "Springs Window Fashions",
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787407583,
+    "date_updated": 1787407742,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "1f240169-1dfc-46e6-8e84-6e70ff3d98da",
+    "company_name": "Springs Window Fashions",
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "title": "Product Management Dashboard Analytics Intern",
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787407582,
+    "date_updated": 1787407923,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "fb4c05e4-dae7-48e3-b6d3-5e670ed8556d",
+    "company_name": "Springs Window Fashions",
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "title": "Product Management Intern",
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Long Island City, Queens, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787407578,
+    "date_updated": 1787407925,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "3b263339-ab18-4363-b881-4222882cc14b",
+    "company_name": "Springs Window Fashions",
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "title": "Textile Engineering Intern - Summer 2027",
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787407584,
+    "date_updated": 1787407924,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "17f0421d-363e-4dcd-aa7f-0aa75fb79290",
     "company_name": "Squarepoint Capital",
     "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
@@ -15913,6 +16021,24 @@
     "date_posted": 1776982049,
     "date_updated": 1776982842,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "f682356d-55da-4f90-987d-77f140cc652d",
+    "company_name": "Tencent",
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "title": "Hunyuan Multimodal Algorithm Researcher Intern",
+    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1772707834,
+    "date_updated": 1772707834,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -19711,24 +19837,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "e780d84e-674d-477d-9d4c-829d501deca8",
-    "company_name": "Toshiba Global Commerce",
-    "company_url": "https://simplify.jobs/c/Toshiba-Global-Commerce",
-    "title": "AI Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007",
-    "locations": [
-      "Durham, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787264251,
-    "date_updated": 1787264818,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
