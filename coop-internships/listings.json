@@ -350,6 +350,24 @@
     "program": "cs"
   },
   {
+    "id": "5835c74c-a626-4bf3-a9f9-08f40d691187",
+    "company_name": "AMERICAN SYSTEMS",
+    "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+    "title": "Field Service Technician Intern - Transitioning Military",
+    "url": "https://careers-americansystems.icims.com/jobs/3856/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1780006007,
+    "date_updated": 1787393543,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "92ec25b9-67cb-4a92-87d3-379a0012eb5d",
     "company_name": "AQR Capital Management",
     "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
@@ -1143,6 +1161,24 @@
     "program": "cs"
   },
   {
+    "id": "39cb839f-d71d-445f-8fc1-2f4c28012af9",
+    "company_name": "Analog Devices",
+    "company_url": "https://simplify.jobs/c/Analog-Devices",
+    "title": "Algorithm Development Engineer Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1",
+    "locations": [
+      "Wilmington, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787356800,
+    "date_updated": 1787393882,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "f432a8a9-9285-46de-a3f7-3cc4dc1c5e27",
     "company_name": "Analog Devices",
     "company_url": "https://simplify.jobs/c/Analog-Devices",
@@ -1157,6 +1193,25 @@
     "source": "simplify",
     "date_posted": 1787184000,
     "date_updated": 1787274901,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "54925b41-cce3-4b81-9e12-22fabaa04d36",
+    "company_name": "Analog Devices",
+    "company_url": "https://simplify.jobs/c/Analog-Devices",
+    "title": "Systems Integration Engineer Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305",
+    "locations": [
+      "Wilmington, MA",
+      "Durham, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787356800,
+    "date_updated": 1787393996,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -1994,6 +2049,24 @@
     "date_posted": 1786141805,
     "date_updated": 1786143233,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "749be3e8-6a9a-490f-b0d8-24ef83937c14",
+    "company_name": "BP",
+    "company_url": "https://simplify.jobs/c/BP",
+    "title": "Reservoir Engineer Intern - Summer Internship",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2",
+    "locations": [
+      "Houston, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786838400,
+    "date_updated": 1787396312,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -5983,24 +6056,6 @@
     "program": "cs"
   },
   {
-    "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
-    "company_name": "Eridu AI",
-    "company_url": "https://simplify.jobs/c/f6017331-50bd-4dfe-a34c-28de5520e7c1",
-    "title": "Lab Intern",
-    "url": "https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1",
-    "locations": [
-      "Saratoga, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785968265,
-    "date_updated": 1785969543,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "38e8a939-62a1-48f1-a692-553a8cfc1341",
     "company_name": "Etched",
     "company_url": "https://simplify.jobs/c/Etched",
@@ -7536,6 +7591,24 @@
     "source": "simplify",
     "date_posted": 1787004584,
     "date_updated": 1787004922,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "7b812f43-6cd1-4741-8596-1eb209757615",
+    "company_name": "Hitachi",
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "title": "Engineering Intern",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787356800,
+    "date_updated": 1787393778,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -12592,24 +12665,6 @@
     "program": "other"
   },
   {
-    "id": "4284c1a9-1025-463f-97ee-3b175776e726",
-    "company_name": "Periodic Labs",
-    "company_url": "https://simplify.jobs/c/Periodic-Labs",
-    "title": "Nanofabrication Intern",
-    "url": "https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a/application",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779833355,
-    "date_updated": 1781641802,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "3d2ef8a9-a5da-4120-9c53-50ceec3023cd",
     "company_name": "Persona AI",
     "company_url": "https://simplify.jobs/c/Persona-AI",
@@ -13131,24 +13186,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "6eed2e3d-bae2-4bba-82dc-8be571a93b1b",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Chemistry Materials Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Chemistry-Materials-Engineer-Intern--Onsite-_01868041",
-    "locations": [
-      "Andover, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787184000,
-    "date_updated": 1787310248,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "9131bf1f-b7ea-4120-bdd0-8ff538058bf0",
