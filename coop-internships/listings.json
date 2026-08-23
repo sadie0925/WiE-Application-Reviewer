@@ -541,24 +541,6 @@
     "program": "other"
   },
   {
-    "id": "3697b474-d02a-477a-949b-63c212baa9a1",
-    "company_name": "AeroVironment",
-    "company_url": "",
-    "title": "Software Engineering Intern – Hyper-RF Division",
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367",
-    "locations": [
-      "Germantown, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1766764298,
-    "date_updated": 1766764298,
-    "category": "Software Engineering",
-    "sponsorship": "U.S. Citizenship is Required",
-    "program": "cs"
-  },
-  {
     "id": "25caade8-8d17-4ab4-bf25-ec493e15a86a",
     "company_name": "Alayacare",
     "company_url": "https://simplify.jobs/c/AlayaCare",
@@ -7231,20 +7213,20 @@
     "program": "cs"
   },
   {
-    "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "company_name": "Goldman Sachs",
     "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "AWM Product Management Analyst Intern",
-    "url": "https://higher.gs.com/roles/171513?type=students",
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "url": "https://higher.gs.com/roles/181628?type=students",
     "locations": [
-      "Dallas, TX"
+      "West Palm Beach, FL"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1787172276,
-    "date_updated": 1787235591,
-    "category": "Product",
+    "date_posted": 1786767935,
+    "date_updated": 1786806912,
+    "category": "Quant",
     "sponsorship": "Other",
     "program": "other"
   },
@@ -9232,24 +9214,6 @@
     "program": "cs"
   },
   {
-    "id": "5428a3c8-3c8c-496a-87c2-2afbd536b54f",
-    "company_name": "MCG Health",
-    "company_url": "",
-    "title": "Software Engineering Intern",
-    "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1766764373,
-    "date_updated": 1766764373,
-    "category": "Software Engineering",
-    "sponsorship": "Does Not Offer Sponsorship",
-    "program": "cs"
-  },
-  {
     "id": "4fd996db-84f4-40ce-9d98-4134847d754f",
     "company_name": "METECS",
     "company_url": "https://simplify.jobs/c/METECS",
@@ -9305,6 +9269,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "a4780b03-762a-4790-bd5e-2d0cc0c66f12",
+    "company_name": "Mach Industries",
+    "company_url": "https://simplify.jobs/c/Mach-Industries",
+    "title": "Engineering Co-op",
+    "url": "https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28/application",
+    "locations": [
+      "Huntington Beach, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1781042929,
+    "date_updated": 1781044021,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "01d8233d-2aa0-4e40-9c48-0069512ee4ae",

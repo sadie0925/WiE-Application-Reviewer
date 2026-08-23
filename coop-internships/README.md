@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**1168 active US/Canada co-op & intern listings** · 981 CS/software · 187 other programs · 0 inactive · Last updated: 2026-08-23 08:18 ET
+**1167 active US/Canada co-op & intern listings** · 979 CS/software · 188 other programs · 0 inactive · Last updated: 2026-08-23 14:14 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -181,7 +181,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (821)
+### CS / Software (819)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -202,7 +202,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | ASM Global | Hospitality and Merchandise Insights Intern | Culver City, CA | 2026-05-16 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Culver-City-CA/Hospitality-and-Merchandise-Insights-Intern_R100122329) |
 | ASM International | Software Engineering Intern | Phoenix, AZ | 2026-04-22 | [Apply](https://www.asm.com/open-vacancies/?gh_jid=4830113101) |
 | AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | 2026-08-20 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) |
-| AeroVironment | Software Engineering Intern – Hyper-RF Division | Germantown, MD | 2025-12-26 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367) |
 | Allegheny County | Business Analytics Intern | Pittsburgh, PA | 2026-08-19 | [Apply](https://alleghenycounty.bamboohr.com/careers/663/) |
 | Altamira Technologies | Research and Development Intern | Fairborn, OH | 2026-08-10 | [Apply](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) |
 | Altamira Technologies | Software Development Intern | Fairborn, OH | 2026-08-10 | [Apply](https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false) |
@@ -549,7 +548,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Leland | AI Education Intern | Lehi, UT | 2026-04-24 | [Apply](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633/application?embed=true) |
 | Lila Sciences | Data Extraction Co-op | Cambridge, MA | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009) |
 | Louisiana Blue | Provider Reimbursement Intern | Baton Rouge, LA | 2026-07-28 | [Apply](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Provider-Reimbursement-Intern_R11964) |
-| MCG Health | Software Engineering Intern | Seattle, WA | 2025-12-26 | [Apply](https://job-boards.greenhouse.io/mcghealth/jobs/8350486002) |
 | METECS | Software Intern | Houston, TX | 2026-08-19 | [Apply](https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship) |
 | MPR Associates | Engineer Co-op - Multiple Teams | Salt Lake City, UT, Alexandria, VA (+2) | 2026-08-14 | [Apply](https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false) |
 | MSA Safety | Software Engineer Co-op - Product Development | Cranberry Township, PA | 2026-08-14 | [Apply](https://careers.msasafety.com/jobs/9992?icims=1) |
@@ -1007,7 +1005,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | pony.ai | Software Engineer Intern | Fremont, CA | 2026-05-29 | [Apply](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply) |
 | thyssenkrupp | Sustainability Systems Intern | Cleveland, OH | 2026-05-16 | [Apply](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) |
 
-### Other programs (170)
+### Other programs (171)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -1060,7 +1058,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | GE Aerospace | Engineer Intern | Dayton, OH, Hamilton, NY (+3) | 2026-07-12 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Spring-2027_R5037093-1) |
 | GE Aerospace | Unison Engineer Intern | Dayton, OH, Hamilton, NY (+3) | 2026-07-12 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Fall-2027_R5037092-1) |
 | Generac | Lab Technician Intern | Santa Monica, CA | 2026-06-04 | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695) |
-| Goldman Sachs | AWM Product Management Analyst Intern | Dallas, TX | 2026-08-19 | [Apply](https://higher.gs.com/roles/171513?type=students) |
+| Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | 2026-08-15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | H3X Technologies | Embedded Controls Intern | Louisville, CO | 2026-08-21 | [Apply](https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40/application?embed=true) |
 | HPR (Hyannis Port Research) | FPGA Engineer Intern | Needham, MA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
 | Heron Power | Electronics Design Engineer Intern | Santa Cruz, CA | 2026-06-23 | [Apply](http://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb/application) |
@@ -1074,6 +1072,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | LightGuide, Inc. | Application Engineering Co-op | Wixom, MI | 2026-07-30 | [Apply](https://ats.rippling.com/lightguide/jobs/37069bc9-a6ba-4841-97fb-b7d743826af0) |
 | LightGuide, Inc. | Product Innovation Co-op | Wixom, MI | 2026-07-20 | [Apply](https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408) |
 | Lila Sciences | Next Gen Engineering Co-Op | Cambridge, MA | 2026-06-25 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289960009) |
+| Mach Industries | Engineering Co-op | Huntington Beach, CA | 2026-06-09 | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28/application) |
 | Medline | MBA Intern - Product Management | Chicago, IL, Northfield, IL | 2026-08-06 | [Apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) |
 | Microchip Technology | Equipment Engineering Technician Intern - Metrology | Fairview, OR | 2026-07-12 | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26) |
 | Microchip Technology | Equipment Engineering Technician Intern - Wet Process | Gresham, OR | 2026-07-13 | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Equipment-Engineering-Technician--Wet-Process-_R2124-25) |
