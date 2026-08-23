@@ -6218,19 +6218,19 @@
     "program": "other"
   },
   {
-    "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
+    "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "company_name": "Eurofins",
     "company_url": "https://simplify.jobs/c/Eurofins",
     "title": "Business Intelligence Intern",
-    "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
     "locations": [
       "Lancaster, PA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1781014019,
-    "date_updated": 1781014157,
+    "date_posted": 1780956373,
+    "date_updated": 1780958897,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -7229,6 +7229,24 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "AWM Product Management Analyst Intern",
+    "url": "https://higher.gs.com/roles/171513?type=students",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787172276,
+    "date_updated": 1787235591,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "45e6cd12-c55d-47f0-b650-b2c4b472ce45",
@@ -8703,24 +8721,6 @@
     "program": "cs"
   },
   {
-    "id": "8ea3fe5c-b537-4649-8327-c44bf0d81ec5",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Integration/Test Engineering Intern",
-    "url": "https://jobs.l3harris.com/job/Ashburn-IntegrationTest-Engineering-Internship-VA-20147/1420071500/?ats=successfactors",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787006767,
-    "date_updated": 1787063605,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "c8239540-af84-491d-8907-13b4bb623874",
     "company_name": "L3Harris Technologies",
     "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
@@ -8842,24 +8842,6 @@
     "source": "simplify",
     "date_posted": 1787091608,
     "date_updated": 1787092109,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f3e59677-5514-4b20-94b5-e6729edf6fd5",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineering Intern",
-    "url": "https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-1-NJ-07014/1420083900/?ats=successfactors",
-    "locations": [
-      "Clifton, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787006774,
-    "date_updated": 1787006881,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -13224,24 +13206,6 @@
     "program": "other"
   },
   {
-    "id": "740d3c67-d925-48d7-995a-410073f010e8",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Industrialization Intern - Industrialization Production Readiness",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Industrialisation----Internship---Winter-2027---Industrialization-Production-Readiness_01867520",
-    "locations": [
-      "Longueuil, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787270400,
-    "date_updated": 1787410669,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "c097ad9b-a7e4-469f-a21b-e51a324f6202",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -14413,24 +14377,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
-    "company_name": "SOTI",
-    "company_url": "https://simplify.jobs/c/SOTI",
-    "title": "Data Scientist Intern",
-    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1778623764,
-    "date_updated": 1778709195,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "33e07ede-5d28-4a3b-bf01-3140aceac8da",
@@ -21498,24 +21444,6 @@
     "date_posted": 1780034921,
     "date_updated": 1782295924,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
-    "company_name": "thyssenkrupp",
-    "company_url": "https://simplify.jobs/c/Thyssenkrupp",
-    "title": "Analytics Intern",
-    "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406",
-    "locations": [
-      "Cleveland, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782857344,
-    "date_updated": 1782858250,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
