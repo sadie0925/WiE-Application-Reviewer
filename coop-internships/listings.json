@@ -3975,24 +3975,6 @@
     "program": "cs"
   },
   {
-    "id": "63347020-90de-4daa-bacc-ff4e521ca908",
-    "company_name": "Ciena",
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "title": "Software Developer Intern - Fall 2026",
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786060800,
-    "date_updated": 1786111921,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "1236f3af-608e-4177-93a8-42bf3dafd82f",
     "company_name": "Ciena",
     "company_url": "https://simplify.jobs/c/Ciena",
@@ -4665,24 +4647,6 @@
     "source": "simplify",
     "date_posted": 1778941026,
     "date_updated": 1782275728,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
-    "company_name": "Copart",
-    "company_url": "https://simplify.jobs/c/Copart",
-    "title": "Software Engineer Intern",
-    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1782511469,
-    "date_updated": 1782816211,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -11702,24 +11666,6 @@
     "program": "cs"
   },
   {
-    "id": "deafc16b-b9d8-4b84-b748-2dafcb25b2c7",
-    "company_name": "Ontario Teachers' Pension Plan",
-    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-    "title": "Business Insights and Analytics Intern - Member Services",
-    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787270400,
-    "date_updated": 1787294008,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "c6d37325-22f7-46a7-ab78-d7c0f970628e",
     "company_name": "Ontario Teachers' Pension Plan",
     "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
@@ -14359,6 +14305,24 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
+    "company_name": "SOTI",
+    "company_url": "https://simplify.jobs/c/SOTI",
+    "title": "Data Scientist Intern",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1778623764,
+    "date_updated": 1778709195,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "33e07ede-5d28-4a3b-bf01-3140aceac8da",
@@ -21407,6 +21371,24 @@
     "date_posted": 1780034921,
     "date_updated": 1782295924,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
+    "company_name": "thyssenkrupp",
+    "company_url": "https://simplify.jobs/c/Thyssenkrupp",
+    "title": "Analytics Intern",
+    "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1782857344,
+    "date_updated": 1782858250,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
