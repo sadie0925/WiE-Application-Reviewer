@@ -2217,6 +2217,24 @@
     "program": "cs"
   },
   {
+    "id": "7d27dfe1-c616-4155-8112-ca1cce62b768",
+    "company_name": "BP",
+    "company_url": "https://simplify.jobs/c/BP",
+    "title": "Corporate Asset Development Engineer Intern",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Corporate-Asset-Development-Engineer-Intern_RQ115146",
+    "locations": [
+      "Denver, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787529600,
+    "date_updated": 1787627045,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "749be3e8-6a9a-490f-b0d8-24ef83937c14",
     "company_name": "BP",
     "company_url": "https://simplify.jobs/c/BP",
@@ -6223,24 +6241,6 @@
     "program": "cs"
   },
   {
-    "id": "9d5887c5-a484-493a-a9cd-38e0b51c1ef6",
-    "company_name": "Elevate Semiconductor",
-    "company_url": "https://simplify.jobs/c/Elevate-Semiconductor",
-    "title": "Product Engineering Intern",
-    "url": "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787366024,
-    "date_updated": 1787366245,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "07de287a-60cf-4318-9941-284ab79b4148",
     "company_name": "Eluvio",
     "company_url": "https://simplify.jobs/c/Eluvio",
@@ -6583,19 +6583,19 @@
     "program": "other"
   },
   {
-    "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
+    "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
     "company_name": "Eurofins",
     "company_url": "https://simplify.jobs/c/Eurofins",
     "title": "Business Intelligence Intern",
-    "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
     "locations": [
       "Lancaster, PA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1780956373,
-    "date_updated": 1780958897,
+    "date_posted": 1781014019,
+    "date_updated": 1781014157,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -7061,6 +7061,24 @@
     "source": "simplify",
     "date_posted": 1785448989,
     "date_updated": 1785449387,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "25d8c265-f1ed-4e2b-9729-18047088e3ff",
+    "company_name": "Fortive",
+    "company_url": "https://simplify.jobs/c/Fortive",
+    "title": "Field Service Engineer Co-op",
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787628040,
+    "date_updated": 1787628101,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -9265,24 +9283,6 @@
     "program": "cs"
   },
   {
-    "id": "debe4648-f107-4b3e-b27c-7b9712fc382b",
-    "company_name": "Kimley-Horn",
-    "company_url": "https://simplify.jobs/c/Kimley-Horn",
-    "title": "GIS Intern",
-    "url": "https://careers-kimley-horn.icims.com/jobs/25884/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787091837,
-    "date_updated": 1787092021,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "21abe7e3-285d-4817-a48a-557228cb2228",
     "company_name": "Kodiak Robotics",
     "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
@@ -9314,6 +9314,24 @@
     "source": "simplify",
     "date_posted": 1787603743,
     "date_updated": 1787604381,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "8fe0fbae-59cc-4985-8962-d62969501a29",
+    "company_name": "L3Harris Technologies",
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "title": "Configuration Management Intern",
+    "url": "https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors",
+    "locations": [
+      "Waco, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787627671,
+    "date_updated": 1787627777,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -9440,6 +9458,60 @@
     "source": "simplify",
     "date_posted": 1787602495,
     "date_updated": 1787603071,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "fe19db08-c5c8-4451-a135-035a0a2ccdcf",
+    "company_name": "L3Harris Technologies",
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787627672,
+    "date_updated": 1787627777,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "a2be610b-6555-428e-aa97-517ae6f0f746",
+    "company_name": "L3Harris Technologies",
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787627670,
+    "date_updated": 1787627775,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "1a29544e-d5a9-40c7-94b9-491754d227ac",
+    "company_name": "L3Harris Technologies",
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787627671,
+    "date_updated": 1787627777,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -10778,6 +10850,24 @@
     "program": "cs"
   },
   {
+    "id": "ce5ce805-2b7c-460d-a010-28c5e413b7f6",
+    "company_name": "Meridian Partners",
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "title": "Flight Software Engineer Co-op",
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787618983,
+    "date_updated": 1787619077,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "99160221-1059-4cc4-9a0e-6b72009c21e5",
     "company_name": "Meshy",
     "company_url": "",
@@ -11339,6 +11429,24 @@
     "program": "cs"
   },
   {
+    "id": "a11f0950-7a8c-4529-aa0d-e295f4aca1fb",
+    "company_name": "Multnomah County",
+    "company_url": "https://simplify.jobs/c/Multnomah-County",
+    "title": "Public Health Tobacco Control and Prevention Intern",
+    "url": "https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1",
+    "locations": [
+      "Portland, OR"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787529600,
+    "date_updated": 1787618052,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "ac9a60d7-eb51-4cbb-af68-97f00839f454",
     "company_name": "Muru",
     "company_url": "",
@@ -11880,24 +11988,6 @@
     "date_posted": 1785738113,
     "date_updated": 1785740221,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8edbe308-126f-4a6e-aaca-2f7af80c811e",
-    "company_name": "Nelnet",
-    "company_url": "https://simplify.jobs/c/Nelnet",
-    "title": "AI Engineer Intern",
-    "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763",
-    "locations": [
-      "Lincoln, NE"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781820757,
-    "date_updated": 1781822417,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -21569,28 +21659,6 @@
     "source": "simplify",
     "date_posted": 1781360581,
     "date_updated": 1784612701,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "447a57f2-3927-462b-b9ad-02970b6def5c",
-    "company_name": "Uline",
-    "company_url": "https://simplify.jobs/c/Uline",
-    "title": "Business Intelligence Developer Intern",
-    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685",
-    "locations": [
-      "Waukegan, IL",
-      "Milwaukee, WI",
-      "Glenview, IL",
-      "Pleasant Prairie, WI",
-      "Kenosha, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785715200,
-    "date_updated": 1785798810,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
