@@ -2238,24 +2238,6 @@
     "program": "other"
   },
   {
-    "id": "749be3e8-6a9a-490f-b0d8-24ef83937c14",
-    "company_name": "BP",
-    "company_url": "https://simplify.jobs/c/BP",
-    "title": "Reservoir Engineer Intern - Summer Internship",
-    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786838400,
-    "date_updated": 1787396312,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "5de88e0d-b5b8-4552-99be-d02b95f5c9f2",
     "company_name": "BRG",
     "company_url": "https://simplify.jobs/c/BRG",
@@ -3074,6 +3056,24 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "0bb11c52-e4bf-4eb0-b1e8-68d76b7aefe1",
+    "company_name": "Brunswick",
+    "company_url": "https://simplify.jobs/c/Brunswick",
+    "title": "Transducer Engineering Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787270400,
+    "date_updated": 1787733402,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "4404bf6d-28d8-4410-9254-cfbf94a50665",
@@ -4540,25 +4540,6 @@
     "date_posted": 1783318141,
     "date_updated": 1783318226,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "79ceb913-ca59-4a50-9fa9-18c378d86c3e",
-    "company_name": "Citadel",
-    "company_url": "https://simplify.jobs/c/Citadel",
-    "title": "Trader: Fixed Income & Macro Intern",
-    "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
-    "locations": [
-      "Greenwich, CT",
-      "Miami, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783318135,
-    "date_updated": 1783318674,
-    "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -9759,24 +9740,6 @@
     "source": "simplify",
     "date_posted": 1787603743,
     "date_updated": 1787647069,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "915b30af-2938-4d48-8548-bc6ea6190333",
-    "company_name": "Kodiak Robotics",
-    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
-    "title": "Controls Intern",
-    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4378402009",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787603743,
-    "date_updated": 1787654149,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -15367,24 +15330,6 @@
     "program": "cs"
   },
   {
-    "id": "d6ccc1b0-bad2-4c51-af45-22ed47ddb4b5",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691",
-    "locations": [
-      "Sterling, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787097600,
-    "date_updated": 1787172069,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "15d3a6ce-277c-4231-b321-686c45849a85",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -18561,24 +18506,6 @@
     "source": "simplify",
     "date_posted": 1780823397,
     "date_updated": 1780824158,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "73ed244d-cc7c-4920-8097-19a925c97233",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering",
-    "url": "https://www.tesla.com/careers/search/job/272601",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780795950,
-    "date_updated": 1780796027,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
