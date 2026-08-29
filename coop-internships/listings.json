@@ -16774,24 +16774,6 @@
     "program": "other"
   },
   {
-    "id": "c5d402c5-8735-4b94-86b9-a3a00c94c027",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Engine Performance Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027-Performance-Moteurs---Internship-Winter-2027-Engine-Performance_01862220",
-    "locations": [
-      "Longueuil, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787780428,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "740d3c67-d925-48d7-995a-410073f010e8",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -19095,6 +19077,24 @@
     "program": "other"
   },
   {
+    "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
+    "company_name": "Sony",
+    "company_url": "https://simplify.jobs/c/Sony",
+    "title": "Software Engineer Intern",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1781733863,
+    "date_updated": 1781736212,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "36c3e2e6-475a-4ffb-adad-e6d9a2dcc94e",
     "company_name": "SpaceX",
     "company_url": "https://simplify.jobs/c/SpaceX",
@@ -19527,6 +19527,26 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "9a19ddc0-978b-4f92-832f-f0b96df5af93",
+    "company_name": "Suncor",
+    "company_url": "https://simplify.jobs/c/Suncor",
+    "title": "Automation Intern - Software or Computer Engineering Student",
+    "url": "https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Fort-McMurray-Base-Plant-AB-CAN/Automation--Software-or-Computer-Engineering-Student---January-2027_R0017525",
+    "locations": [
+      "Calgary, AB, Canada",
+      "St. John's, NL, Canada",
+      "Fort McMurray, AB, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786924800,
+    "date_updated": 1787004905,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "249ebbb5-4252-4e41-9dbe-9539d0e8a355",
