@@ -1480,24 +1480,6 @@
     "program": "other"
   },
   {
-    "id": "acff4e3e-72e2-4540-80d6-874ced15ab5a",
-    "company_name": "Apple",
-    "company_url": "https://simplify.jobs/c/Apple",
-    "title": "Design Verification Intern",
-    "url": "https://jobs.apple.com/en-us/details/200679789",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787639465,
-    "date_updated": 1787639618,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "9de9af2d-fdd8-4a02-8964-7ef816980d72",
     "company_name": "Apple",
     "company_url": "https://simplify.jobs/c/Apple",
@@ -10969,24 +10951,6 @@
     "program": "cs"
   },
   {
-    "id": "8fe0fbae-59cc-4985-8962-d62969501a29",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Configuration Management Intern",
-    "url": "https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors",
-    "locations": [
-      "Waco, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787627671,
-    "date_updated": 1787627777,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "fd89ae0c-d315-47fd-910a-9c9b60aefe74",
     "company_name": "L3Harris Technologies",
     "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
@@ -11198,60 +11162,6 @@
     "source": "simplify",
     "date_posted": 1787602495,
     "date_updated": 1787603071,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "fe19db08-c5c8-4451-a135-035a0a2ccdcf",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787627672,
-    "date_updated": 1787627777,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a2be610b-6555-428e-aa97-517ae6f0f746",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors",
-    "locations": [
-      "Fort Wayne, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787627670,
-    "date_updated": 1787627775,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1a29544e-d5a9-40c7-94b9-491754d227ac",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors",
-    "locations": [
-      "Palm Bay, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787627671,
-    "date_updated": 1787627777,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -11678,7 +11588,7 @@
     "program": "cs"
   },
   {
-    "id": "169ee4eb-3319-4a8b-9ea1-9e765661b92b",
+    "id": "119ba1cb-df5a-4b95-9bed-4d76527e4280",
     "company_name": "Later",
     "company_url": "https://simplify.jobs/c/Later",
     "title": "AI Automation Engineer Co-op",
@@ -16753,24 +16663,6 @@
     "date_posted": 1786924800,
     "date_updated": 1787034165,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Customer Data Management and Analysis Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932",
-    "locations": [
-      "Longueuil, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787780427,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -22163,42 +22055,6 @@
     "source": "simplify",
     "date_posted": 1787529600,
     "date_updated": 1787580750,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "10360e05-db49-4c1b-a62d-7e0038f835fd",
-    "company_name": "The Walt Disney Company",
-    "company_url": "https://simplify.jobs/c/Disney",
-    "title": "Geographic Information Systems Intern - GIS",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899",
-    "locations": [
-      "Anaheim, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787581030,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f5178797-4efa-456f-aa5f-fa10203f6b9d",
-    "company_name": "The Walt Disney Company",
-    "company_url": "https://simplify.jobs/c/Disney",
-    "title": "Geographic Information Systems Intern - GIS",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899-1",
-    "locations": [
-      "Anaheim, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787580840,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
