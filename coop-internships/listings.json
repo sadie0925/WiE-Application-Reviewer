@@ -5298,6 +5298,25 @@
     "program": "cs"
   },
   {
+    "id": "48327e8c-a8f7-4339-83a4-019ef774f663",
+    "company_name": "Citadel",
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "title": "Quantitative Research Analyst Intern",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+    "locations": [
+      "Greenwich, CT",
+      "Miami, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783318145,
+    "date_updated": 1783318624,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "28286b52-4c99-4d00-a870-d919c13d68c6",
     "company_name": "Citadel",
     "company_url": "https://simplify.jobs/c/Citadel",
@@ -8964,42 +8983,6 @@
     "program": "cs"
   },
   {
-    "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "AWM Product Management Analyst Intern",
-    "url": "https://higher.gs.com/roles/171513?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787172276,
-    "date_updated": 1787235591,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "url": "https://higher.gs.com/roles/181628?type=students",
-    "locations": [
-      "West Palm Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767935,
-    "date_updated": 1786806912,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "26b60de2-2d8a-4010-84bc-eae455aebcdd",
     "company_name": "Grant Thornton",
     "company_url": "https://simplify.jobs/c/Grant-Thornton",
@@ -10874,6 +10857,24 @@
     "date_posted": 1786924800,
     "date_updated": 1787005244,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "d7653110-4f3d-4eb3-87d9-02a024571973",
+    "company_name": "Koch Industries",
+    "company_url": "https://simplify.jobs/c/Koch-Industries",
+    "title": "Data Developer Co-op",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/193377",
+    "locations": [
+      "North Vancouver, BC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788042402,
+    "date_updated": 1788042445,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
