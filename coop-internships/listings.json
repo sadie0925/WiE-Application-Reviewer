@@ -12475,24 +12475,6 @@
     "program": "cs"
   },
   {
-    "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
-    "company_name": "Marsh",
-    "company_url": "https://simplify.jobs/c/Marsh",
-    "title": "Summer Analyst Intern - Data and Analytics",
-    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787869000,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "61e3734b-7ee5-4569-a6d9-7a7c0ee36478",
     "company_name": "Marvell",
     "company_url": "https://simplify.jobs/c/Marvell",
@@ -16667,6 +16649,24 @@
     "program": "cs"
   },
   {
+    "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Customer Data Management and Analysis Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787702400,
+    "date_updated": 1787780427,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "156e5e79-8f49-4e7b-bea1-7c52e9b98f85",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -20308,6 +20308,24 @@
     "date_posted": 1782770948,
     "date_updated": 1782772496,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "b06bb8f0-2561-491a-833c-68686d80da8e",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Access Control Systems Integration Engineer Intern - Vehicle Software",
+    "url": "https://www.tesla.com/careers/search/job/277192",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1784268536,
+    "date_updated": 1788087262,
+    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
