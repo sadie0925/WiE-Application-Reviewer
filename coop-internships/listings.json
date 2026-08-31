@@ -8749,6 +8749,44 @@
     "program": "other"
   },
   {
+    "id": "9c526e49-d762-4923-802e-2cb13b434fee",
+    "company_name": "GE Vernova",
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "title": "Product Management Intern - Controls Lifecare Services",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2",
+    "locations": [
+      "Longmont, CO",
+      "Greenville, SC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788048000,
+    "date_updated": 1788126563,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "07518274-9bcb-4d1e-a857-62891b0c9c6f",
+    "company_name": "GE Vernova",
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "title": "Product Management Intern - Controls Lifecare Services",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1",
+    "locations": [
+      "Longmont, CO",
+      "Greenville, SC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788048000,
+    "date_updated": 1788126565,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "b51925a9-5a99-4ef7-9294-2514bc956ac5",
     "company_name": "GSK",
     "company_url": "https://simplify.jobs/c/GSK",
@@ -8963,6 +9001,42 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "AWM Product Management Analyst Intern",
+    "url": "https://higher.gs.com/roles/171513?type=students",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787172276,
+    "date_updated": 1787235591,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "url": "https://higher.gs.com/roles/181628?type=students",
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767935,
+    "date_updated": 1786806912,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "26b60de2-2d8a-4010-84bc-eae455aebcdd",
@@ -16260,24 +16334,6 @@
     "program": "cs"
   },
   {
-    "id": "7ededa5d-af4b-4f9d-80ae-9e03985190e9",
-    "company_name": "ProNexus",
-    "company_url": "https://simplify.jobs/c/05c3e660-5408-40c2-8823-074458ea0d94",
-    "title": "Software Engineer Intern",
-    "url": "https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786151968,
-    "date_updated": 1786152061,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "52c891fd-d3b9-4e2c-9077-490ebf43f898",
     "company_name": "Procter & Gamble",
     "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
@@ -21172,24 +21228,6 @@
     "source": "simplify",
     "date_posted": 1787772317,
     "date_updated": 1787772470,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9ce31f80-9f48-43a4-924d-9739d2b61cf8",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Software Engineer Intern - Multiple Teams",
-    "url": "https://www.tesla.com/careers/search/job/271372",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780794539,
-    "date_updated": 1780795285,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
