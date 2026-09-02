@@ -1464,24 +1464,6 @@
     "program": "cs"
   },
   {
-    "id": "8e36a779-899f-4b82-a1ef-0a881ba99667",
-    "company_name": "American Enterprise Institute",
-    "company_url": "https://simplify.jobs/c/American-Enterprise-Institute",
-    "title": "Intern: Economic Policy",
-    "url": "https://internships-aei.icims.com/jobs/2618/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Washington, DC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777673153,
-    "date_updated": 1779820562,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "63a29ab9-6ce2-4acf-982b-ed23f2035ab4",
     "company_name": "American Express",
     "company_url": "https://simplify.jobs/c/American-Express",
@@ -6446,25 +6428,6 @@
     "date_posted": 1784592000,
     "date_updated": 1784686995,
     "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e01898a9-7ee0-4abc-a2e4-d7973c542041",
-    "company_name": "Castleton Commodities International",
-    "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
-    "title": "Data Engineering Intern",
-    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
-    "locations": [
-      "Houston, TX",
-      "Stamford, CT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784592000,
-    "date_updated": 1784685821,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -18223,25 +18186,6 @@
     "program": "cs"
   },
   {
-    "id": "4dc4645e-2c89-45a4-96ba-afcf66131bb7",
-    "company_name": "Motorola",
-    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-    "title": "Mission Critical Networks Software Engineer Co-op",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782",
-    "locations": [
-      "Chicago, IL",
-      "Schaumburg, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787875200,
-    "date_updated": 1787950161,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "15b4ef61-9a66-40f9-b13e-594b7470650f",
     "company_name": "Motorola",
     "company_url": "https://simplify.jobs/c/MotorolaSolutions",
@@ -19289,24 +19233,6 @@
     "source": "simplify",
     "date_posted": 1788358386,
     "date_updated": 1788358599,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "51e725b4-c103-46c1-8eea-0d03dbc29f66",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Software Developer Co-op Intern - Intern",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39395",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788358384,
-    "date_updated": 1788358612,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -22190,6 +22116,24 @@
     "program": "cs"
   },
   {
+    "id": "fbfa277c-e07d-4122-a980-c9364dbe899d",
+    "company_name": "Qorvo",
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "title": "Database Intern",
+    "url": "https://careers.qorvo.com/job/Apopka-Database-Intern-FL-32703/1425883100/?ats=successfactors",
+    "locations": [
+      "Apopka, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788377042,
+    "date_updated": 1788377221,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "8d00a74a-5695-4f6f-885a-d9fc22a0d336",
     "company_name": "Qorvo",
     "company_url": "https://simplify.jobs/c/Qorvo",
@@ -22280,6 +22224,24 @@
     "program": "other"
   },
   {
+    "id": "98621c93-f516-46e0-8eda-22230c879010",
+    "company_name": "Qorvo",
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "title": "Product Engineer Intern",
+    "url": "https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400/?ats=successfactors",
+    "locations": [
+      "Chelmsford, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788377040,
+    "date_updated": 1788377041,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "58886ea6-6ba4-42a2-9521-ca7677660b8d",
     "company_name": "Qorvo",
     "company_url": "https://simplify.jobs/c/Qorvo",
@@ -22332,6 +22294,24 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
+  },
+  {
+    "id": "b7652228-e21c-4bcf-a939-6caec413ef71",
+    "company_name": "Qorvo",
+    "company_url": "https://simplify.jobs/c/Qorvo",
+    "title": "Product Engineering Intern",
+    "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1425887900/?ats=successfactors",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788377045,
+    "date_updated": 1788377221,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
   },
   {
     "id": "21878633-4f34-4274-81f7-68ceb6d1ace9",
@@ -23086,24 +23066,6 @@
     "date_posted": 1787270400,
     "date_updated": 1787361347,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2c7fefd0-1599-4004-ae55-65fa4f77f935",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787840933,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -26322,25 +26284,6 @@
     "date_posted": 1786924800,
     "date_updated": 1787004905,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "249ebbb5-4252-4e41-9dbe-9539d0e8a355",
-    "company_name": "Super",
-    "company_url": "https://simplify.jobs/c/Super",
-    "title": "Travel Supply Analyst Intern",
-    "url": "https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2/application?embed=true",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780409319,
-    "date_updated": 1785575702,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -31285,24 +31228,6 @@
     "program": "cs"
   },
   {
-    "id": "4ecdff57-6188-48f4-9540-4521c485bc53",
-    "company_name": "TikTok",
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
-    "url": "https://lifeattiktok.com/search/7674029284224092421",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787190347,
-    "date_updated": 1787190481,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f9783cfd-0933-41da-8102-1c15ae7d9c3c",
     "company_name": "TikTok",
     "company_url": "https://simplify.jobs/c/TikTok",
@@ -32244,24 +32169,6 @@
     "source": "simplify",
     "date_posted": 1788359852,
     "date_updated": 1788359941,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "17d853eb-3412-4b94-a962-815fd64e1b6c",
-    "company_name": "University System of New Hampshire",
-    "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
-    "title": "Broadband Intern",
-    "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/High-Tech-Bound-Broadband-Intern_JR8298",
-    "locations": [
-      "Dover, NH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780610681,
-    "date_updated": 1780610961,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
