@@ -4715,24 +4715,6 @@
     "program": "cs"
   },
   {
-    "id": "6cba10bd-bcb9-4b0c-834b-31c33c3e5125",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Data Scientist Intern - University",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788287782,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "596a789f-9d3f-4275-91f3-da77d86fc246",
     "company_name": "Booz Allen",
     "company_url": "https://simplify.jobs/c/Booz-Allen",
@@ -12766,6 +12748,24 @@
     "program": "cs"
   },
   {
+    "id": "d0909b73-ab4c-4cfe-9ff3-d1b9e1dc2929",
+    "company_name": "General Dynamics UK",
+    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+    "title": "Mobile Domain System Engineering Co-op - Months",
+    "url": "https://jobs.smartrecruiters.com/GDMSI/744000147552960",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788530935,
+    "date_updated": 1788608368,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "87fa51f3-741b-402e-a1b4-f9d9b7d87222",
     "company_name": "General Dynamics UK",
     "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
@@ -13407,60 +13407,6 @@
     "program": "other"
   },
   {
-    "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Americas",
-    "url": "https://higher.gs.com/roles/171532?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489726,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "url": "https://higher.gs.com/roles/171548?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767953,
-    "date_updated": 1788489726,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5bdec003-2a02-42a4-a602-467541840552",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - Americas - Engineering",
-    "url": "https://higher.gs.com/roles/171565?type=students",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767953,
-    "date_updated": 1788489731,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "956086a7-d67a-4072-93ae-47bf3687b548",
     "company_name": "Google",
     "company_url": "https://simplify.jobs/c/Google",
@@ -13561,6 +13507,24 @@
     "source": "simplify",
     "date_posted": 1788290964,
     "date_updated": 1788291103,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "bd094d2e-e3dd-4cb1-a4d5-cdd8021d5ea8",
+    "company_name": "Greenheck Group",
+    "company_url": "https://simplify.jobs/c/Greenheck-Group",
+    "title": "Engineering Co-op",
+    "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788220800,
+    "date_updated": 1788614678,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -27057,25 +27021,6 @@
     "program": "other"
   },
   {
-    "id": "ec5e83b4-1cb5-4b81-9056-28110a076c6e",
-    "company_name": "SiFive",
-    "company_url": "https://simplify.jobs/c/SiFive",
-    "title": "Platform Technologies Language Design Intern",
-    "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183",
-    "locations": [
-      "Santa Clara, CA",
-      "Berkeley, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779026876,
-    "date_updated": 1779027121,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f455fc61-2abc-42c1-96e2-b19e6f175508",
     "company_name": "Sierra Nevada Corporation",
     "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
@@ -34884,24 +34829,6 @@
     "program": "cs"
   },
   {
-    "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
-    "company_name": "University of Arkansas",
-    "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
-    "title": "Graduate Research Assistant Intern",
-    "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
-    "locations": [
-      "Little Rock, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776521178,
-    "date_updated": 1776522836,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "989307cb-3526-457e-a8ee-77b6cdda5c4f",
     "company_name": "University of Nevada, Reno",
     "company_url": "https://simplify.jobs/c/University-Of-Nevada-Reno",
@@ -36258,6 +36185,24 @@
     "program": "cs"
   },
   {
+    "id": "8e6234ef-f09e-4bd9-b4a9-2ca6c52f8657",
+    "company_name": "Wealthsimple",
+    "company_url": "https://simplify.jobs/c/Wealthsimple",
+    "title": "Credit & Fraud Analytics Intern - Winter 2027",
+    "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application?embed=true",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788477064,
+    "date_updated": 1788606901,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "67340ee9-6aab-4f03-995d-9c97cc144f15",
     "company_name": "Wealthsimple",
     "company_url": "https://simplify.jobs/c/Wealthsimple",
@@ -36882,6 +36827,24 @@
     "date_posted": 1776290908,
     "date_updated": 1776296151,
     "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "17b7544f-c3be-49f8-838a-a79a4ed854e0",
+    "company_name": "Zurich Insurance",
+    "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+    "title": "Data Engineering Intern",
+    "url": "https://www.careers.zurich.com/job/Toronto-Data-Engineering-Intern-ON/1370995557/?ats=successfactors",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788303245,
+    "date_updated": 1788303515,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
