@@ -5273,24 +5273,6 @@
     "program": "cs"
   },
   {
-    "id": "8a34588c-c5ee-4a8a-a5a6-7002eb677f3f",
-    "company_name": "Boston Scientific",
-    "company_url": "https://simplify.jobs/c/Boston-Scientific",
-    "title": "R&D Software Engineer Intern",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813483108",
-    "locations": [
-      "Arden Hills, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788477039,
-    "date_updated": 1788490835,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f503c11d-3e20-467e-974e-94f5e84053d9",
     "company_name": "Brave",
     "company_url": "https://simplify.jobs/c/Brave",
@@ -5358,24 +5340,6 @@
     "source": "simplify",
     "date_posted": 1771370400,
     "date_updated": 1771370400,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
-    "company_name": "Brio Water Technology",
-    "company_url": "https://simplify.jobs/c/ce0a7238-3a00-4964-a9ac-8359c2d519f8",
-    "title": "AI Automation & Business Analytics Intern - Rotational Program",
-    "url": "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb",
-    "locations": [
-      "Glendale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785536477,
-    "date_updated": 1785538958,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -13055,24 +13019,6 @@
     "program": "cs"
   },
   {
-    "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788280302,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "1334781b-b931-4148-9da0-2ac010e63209",
     "company_name": "Genuine Parts Company",
     "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
@@ -13511,6 +13457,42 @@
     "date_posted": 1788393600,
     "date_updated": 1788453554,
     "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Summer Analyst Intern - Engineering",
+    "url": "https://higher.gs.com/roles/177808?type=students",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767938,
+    "date_updated": 1788489727,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "url": "https://higher.gs.com/roles/181628?type=students",
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767935,
+    "date_updated": 1786806912,
+    "category": "Quant",
     "sponsorship": "Other",
     "program": "other"
   },
@@ -31719,24 +31701,6 @@
     "program": "cs"
   },
   {
-    "id": "4c156969-fd34-489d-ad5b-48960e322f49",
-    "company_name": "The Walt Disney Company",
-    "company_url": "https://simplify.jobs/c/Disney",
-    "title": "Revenue Planning & Analytics Intern - Spring 2027",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Revenue-Planning---Analytics-Intern--Spring-2027_10159737",
-    "locations": [
-      "Anaheim, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788134400,
-    "date_updated": 1788215221,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ee239b53-fb7d-46b7-b98b-900f2b504f38",
     "company_name": "The Walt Disney Company",
     "company_url": "https://simplify.jobs/c/Disney",
@@ -34933,6 +34897,24 @@
     "date_posted": 1786492800,
     "date_updated": 1786549908,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
+    "company_name": "University of Arkansas",
+    "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+    "title": "Graduate Research Assistant Intern",
+    "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
+    "locations": [
+      "Little Rock, AR"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1776521178,
+    "date_updated": 1776522836,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
