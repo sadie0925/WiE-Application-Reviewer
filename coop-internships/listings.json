@@ -10851,6 +10851,35 @@
     "program": "cs"
   },
   {
+    "id": "a8d0af87-a5ff-4477-8e3b-2f27946cbc23",
+    "company_name": "Ernst & Young",
+    "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+    "title": "Data and Intelligence Delivery Intern - Assurance",
+    "url": "https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "locations": [
+      "Salt Lake City, UT",
+      "Indianapolis, IN",
+      "Houston, TX",
+      "Des Moines, IA",
+      "Detroit, MI",
+      "Tampa, FL",
+      "Dallas, TX",
+      "Greenville, SC",
+      "St. Louis, MO",
+      "Alpharetta, GA",
+      "Phoenix, AZ",
+      "Grandview Heights, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788795738,
+    "date_updated": 1788796029,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "72a4e3a7-dbd3-4740-8a39-4b1bfbd63ec6",
     "company_name": "Ernst & Young",
     "company_url": "https://simplify.jobs/c/Ernst-And-Young",
@@ -19885,6 +19914,24 @@
     "program": "other"
   },
   {
+    "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
+    "company_name": "NVIDIA",
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "title": "Mixed Signal Design Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787097600,
+    "date_updated": 1787132048,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "be628885-fde3-4b73-bb0a-58e11856e97b",
     "company_name": "NVIDIA",
     "company_url": "https://simplify.jobs/c/NVIDIA",
@@ -19992,6 +20039,24 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "8397cb87-3af2-4163-882e-c53dfaf8c106",
+    "company_name": "NXP Semiconductors",
+    "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+    "title": "Design for Test Engineer Intern - Summer 2027",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788739200,
+    "date_updated": 1788793065,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "328bd348-d314-45a7-bc96-ecc208360de3",
@@ -29425,24 +29490,6 @@
     "program": "other"
   },
   {
-    "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
-    "company_name": "Tencent",
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "title": "Game Research & Development Intern - Engine Research",
-    "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1776982042,
-    "date_updated": 1776982844,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
     "company_name": "Tencent",
     "company_url": "https://simplify.jobs/c/Tencent",
@@ -31813,25 +31860,6 @@
     "date_posted": 1788480000,
     "date_updated": 1788559562,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "dc1477e7-ee9a-4e9b-b8d7-9299d95745e8",
-    "company_name": "The Walt Disney Company",
-    "company_url": "https://simplify.jobs/c/Disney",
-    "title": "Figure Programming Intern",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Figure-Programming-Intern--Spring-2027_10159712",
-    "locations": [
-      "Celebration, FL",
-      "Glendale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788134400,
-    "date_updated": 1788410704,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -37560,24 +37588,6 @@
     "source": "simplify",
     "date_posted": 1788303245,
     "date_updated": 1788303515,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8dbad648-bb75-45d9-8352-b5c7714a90ee",
-    "company_name": "Zurich Insurance",
-    "company_url": "https://simplify.jobs/c/Zurich-Insurance",
-    "title": "IT Data Governance Intern",
-    "url": "https://www.careers.zurich.com/job/Toronto-IT-Data-Governance-Intern-ON/1370998357/?ats=successfactors",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788303246,
-    "date_updated": 1788303421,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
