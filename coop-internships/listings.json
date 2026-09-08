@@ -2784,24 +2784,6 @@
     "program": "cs"
   },
   {
-    "id": "e6cdaee5-3eef-435f-bda6-5a0850011909",
-    "company_name": "Apple",
-    "company_url": "https://simplify.jobs/c/Apple",
-    "title": "Design Verification Engineer Intern",
-    "url": "https://jobs.apple.com/en-us/details/200681368",
-    "locations": [
-      "Cupertino, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788402277,
-    "date_updated": 1788419261,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "77a65cb0-36f4-484f-84c1-30a47404881d",
     "company_name": "Apple",
     "company_url": "https://simplify.jobs/c/Apple",
@@ -13167,24 +13149,6 @@
     "program": "cs"
   },
   {
-    "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Lighting Software Development & Test Co-op",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Lighting-Software-Development---Test_JR-202618179",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787270400,
-    "date_updated": 1787341608,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
     "company_name": "General Motors",
     "company_url": "https://simplify.jobs/c/General-Motors",
@@ -13765,24 +13729,6 @@
     "is_visible": true,
     "source": "simplify",
     "date_posted": 1786767952,
-    "date_updated": 1788489731,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5bdec003-2a02-42a4-a602-467541840552",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - Americas - Engineering",
-    "url": "https://higher.gs.com/roles/171565?type=students",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767953,
     "date_updated": 1788489731,
     "category": "Software",
     "sponsorship": "Other",
@@ -18059,6 +18005,24 @@
     "source": "simplify",
     "date_posted": 1772609904,
     "date_updated": 1772609904,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
+    "company_name": "Marsh",
+    "company_url": "https://simplify.jobs/c/Marsh",
+    "title": "Summer Analyst Intern - Data and Analytics",
+    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787788800,
+    "date_updated": 1787869000,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -36813,6 +36777,24 @@
     "date_posted": 1788393600,
     "date_updated": 1788490024,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "5fb29a7b-45e4-42fd-8b5d-e87ba55aa181",
+    "company_name": "Walmart",
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "title": "Transportation Data Analyst 2 Intern - Intern Conversion",
+    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/XMLNAME-2026-Intern-Conversion--2027-Transportation-Data-Analyst-II_R-2630083",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788739200,
+    "date_updated": 1788819419,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
