@@ -17301,24 +17301,6 @@
     "program": "cs"
   },
   {
-    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "url": "https://higher.gs.com/roles/181628?type=students",
-    "locations": [
-      "West Palm Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767935,
-    "date_updated": 1786806912,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "956086a7-d67a-4072-93ae-47bf3687b548",
     "company_name": "Google",
     "company_url": "https://simplify.jobs/c/Google",
@@ -20974,6 +20956,42 @@
     "date_posted": 1788825600,
     "date_updated": 1788852025,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "90073809-4e42-4a91-9c65-c5750c320aba",
+    "company_name": "Klaviyo",
+    "company_url": "https://simplify.jobs/c/Klaviyo",
+    "title": "Software Engineer Co-op",
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789234577,
+    "date_updated": 1789234741,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "155087e9-02c4-4e9c-af43-3d7e5a3a6091",
+    "company_name": "Klaviyo",
+    "company_url": "https://simplify.jobs/c/Klaviyo",
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
+    "locations": [
+      "Boston, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789234577,
+    "date_updated": 1789234741,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
