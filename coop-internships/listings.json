@@ -9435,24 +9435,6 @@
     "program": "cs"
   },
   {
-    "id": "e30dc557-ab6e-4220-8150-5bcb7dcc4598",
-    "company_name": "Ciena",
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "title": "Wavelogic Systems Design Architecture Intern",
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783375543,
-    "date_updated": 1783375561,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "e461cc79-60e8-4159-a7a2-764745fccb27",
     "company_name": "Cigna Group",
     "company_url": "https://simplify.jobs/c/Cigna-Group",
@@ -13267,24 +13249,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "30a26149-d747-4cf8-bdbf-a5b2174bc7a2",
-    "company_name": "Draper",
-    "company_url": "https://simplify.jobs/c/Draper",
-    "title": "Integrated Circuits Intern",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR002902-1",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788912000,
-    "date_updated": 1788993910,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "c2915142-c10f-4cf7-8de6-cfd5d54e9026",
@@ -19949,24 +19913,6 @@
     "program": "cs"
   },
   {
-    "id": "05244bdb-4f98-45ad-a93d-9b6e706b5060",
-    "company_name": "Gulfstream",
-    "company_url": "https://simplify.jobs/c/Gulfstream",
-    "title": "AI Product Collegiate Associate Intern",
-    "url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-AI-Product-Collegiate-Associate-Intern-GA-31401/1430047800/?ats=successfactors",
-    "locations": [
-      "Savannah, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789481764,
-    "date_updated": 1789482012,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a0a744e5-dff9-4120-9215-37f5c43107c2",
     "company_name": "Gulfstream",
     "company_url": "https://simplify.jobs/c/Gulfstream",
@@ -19998,60 +19944,6 @@
     "source": "simplify",
     "date_posted": 1789078330,
     "date_updated": 1789079096,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "314b957c-1bac-46a5-95c7-131e3dbb9c34",
-    "company_name": "Gulfstream",
-    "company_url": "https://simplify.jobs/c/Gulfstream",
-    "title": "Flight Sciences / SWAPP Intern",
-    "url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Flight-Sciences-SWAPP-Collegiate-Intern-GA-31401/1428204100/?ats=successfactors",
-    "locations": [
-      "Savannah, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788992208,
-    "date_updated": 1788993379,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "20b30454-6c6f-4849-a6ae-74cbefd7f1bb",
-    "company_name": "Gulfstream",
-    "company_url": "https://simplify.jobs/c/Gulfstream",
-    "title": "Reliability & Performance Analytics Intern",
-    "url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-Reliability-&-Performance-Analytics-Collegiate-Associate-Intern-GA-31401/1423630500/?ats=successfactors",
-    "locations": [
-      "Savannah, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787780469,
-    "date_updated": 1787780882,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "03055ce7-1d96-46c4-861e-8c19404e1767",
-    "company_name": "Gulfstream",
-    "company_url": "https://simplify.jobs/c/Gulfstream",
-    "title": "Software Engineer Intern - IEF",
-    "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors",
-    "locations": [
-      "Savannah, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787581009,
-    "date_updated": 1787581371,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -25518,24 +25410,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
-    "company_name": "Leidos",
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "title": "Computer Engineering Co-op",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756",
-    "locations": [
-      "Bethesda, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787869770,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "1e8a10ee-4f7e-4a42-84fe-6fcdbcb739b9",
@@ -32317,42 +32191,6 @@
     "program": "other"
   },
   {
-    "id": "5bda221a-8620-420c-a38b-48bd4bdc58d3",
-    "company_name": "OpenGov",
-    "company_url": "https://simplify.jobs/c/OpenGov",
-    "title": "Product Intern",
-    "url": "https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789425841,
-    "date_updated": 1789425901,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "e2f7c0c3-2949-4bbc-bd78-e4cc58de5884",
-    "company_name": "OpenGov",
-    "company_url": "https://simplify.jobs/c/OpenGov",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789420502,
-    "date_updated": 1789420738,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "763fd9b2-78aa-4699-9e02-a743253f10c1",
     "company_name": "OpenGov",
     "company_url": "https://simplify.jobs/c/OpenGov",
@@ -34236,24 +34074,6 @@
     "program": "cs"
   },
   {
-    "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
-    "company_name": "Postman",
-    "company_url": "https://simplify.jobs/c/Postman",
-    "title": "AI Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
-    "locations": [
-      "Berkeley, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785622401,
-    "date_updated": 1785624665,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "018b3915-5456-4f05-b3d3-4f7410a98b0d",
     "company_name": "Premier",
     "company_url": "https://simplify.jobs/c/Premier",
@@ -34554,24 +34374,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "96987133-07a3-4c60-9d64-0b2de61ca4e7",
-    "company_name": "Primetals Technologies",
-    "company_url": "https://simplify.jobs/c/Primetals-Technologies",
-    "title": "Data Science Internship - Governance",
-    "url": "https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors",
-    "locations": [
-      "Lake Mary, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784844761,
-    "date_updated": 1784845081,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "bf07d431-8aa3-42a5-88b7-264480cd9752",
@@ -36874,24 +36676,6 @@
     "date_posted": 1789430400,
     "date_updated": 1789512162,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "be27b5dd-685b-43e7-bac8-46a5a43d6f34",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineering Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977",
-    "locations": [
-      "Burnsville, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788998400,
-    "date_updated": 1789079535,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
