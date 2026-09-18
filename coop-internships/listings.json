@@ -13561,24 +13561,6 @@
     "program": "cs"
   },
   {
-    "id": "bdcaf4b4-8b8e-422a-abc8-4c87da4098a9",
-    "company_name": "Diversified Automation",
-    "company_url": "https://simplify.jobs/c/Diversified-Automation",
-    "title": "Hardware Engineering Co-op",
-    "url": "https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146/apply",
-    "locations": [
-      "Louisville, KY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780005873,
-    "date_updated": 1782297198,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "1f3a2e50-1559-4143-8c9e-f2a8d5462388",
     "company_name": "Diversified Automation",
     "company_url": "https://simplify.jobs/c/Diversified-Automation",
@@ -23484,6 +23466,24 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "e4d9c09e-06f3-497e-8b1d-d10e4391744c",
+    "company_name": "Invesco",
+    "company_url": "https://simplify.jobs/c/Invesco",
+    "title": "ETF Product Intern",
+    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Downers-Grove-Illinois/Early-Career-Intern-ETF-Product_R-15546",
+    "locations": [
+      "Downers Grove, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789603200,
+    "date_updated": 1789738647,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "6716499c-74a8-4108-ab04-012b58e19656",
@@ -38635,24 +38635,6 @@
     "date_posted": 1789344000,
     "date_updated": 1789453002,
     "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ed3080a8-8993-4f92-b86a-eb78e4087361",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineering Co-op",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Co-op--Summer-Fall-2027-_01869928",
-    "locations": [
-      "Rockford, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789430400,
-    "date_updated": 1789512162,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
