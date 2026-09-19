@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**3083 active US/Canada co-op & intern listings** · 2437 CS/software · 646 other programs · 0 inactive · Last updated: 2026-09-19 11:01 ET
+**3082 active US/Canada co-op & intern listings** · 2438 CS/software · 644 other programs · 0 inactive · Last updated: 2026-09-19 15:45 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -452,7 +452,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (2046)
+### CS / Software (2047)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -1003,6 +1003,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Dynamic Catholic | Front-End UX Intern | Erlanger, KY | 2026-09-02 | [Apply](https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad/apply) |
 | Dynamic Catholic | Software Developer Intern - Commerce Cloud | Erlanger, KY | 2026-09-02 | [Apply](https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57/apply) |
 | ENFOS | Software Engineer Intern - Summer 2027 | Durham, NC | 2026-09-04 | [Apply](https://apply.workable.com/enfos-inc/j/CA15908E0A/apply) |
+| EQT Corporation | Data Engineering Intern - Completions Services | Canonsburg, PA | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008) |
 | EV Realty | Data Analytics Intern | Salt Lake City, UT | 2026-05-22 | [Apply](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) |
 | East Penn Manufacturing Company | Power BI & Analytics Intern | Ann Arbor, MI | 2026-07-27 | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false) |
 | Eaton | Firmware Engineer Intern/Co-op - Research & Development Engineering | Moon Twp, PA | 2026-09-01 | [Apply](https://eaton.eightfold.ai/careers/job/687238596754) |
@@ -2503,7 +2504,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | onsemi | Data and Visualization Intern | Hopewell Junction, NY | 2026-09-16 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |
 | pony.ai | Software Engineer Intern | Fremont, CA | 2026-05-29 | [Apply](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply) |
 
-### Other programs (569)
+### Other programs (567)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -2766,8 +2767,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Marvell | Functional Validation Intern - BS | Santa Clara, CA, Boise, ID (+1) | 2026-09-03 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1) |
 | Marvell | Physical Design Engineer Intern - BS | Morrisville, NC, Austin, TX (+5) | 2026-09-03 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517) |
 | Marvell | Physical Design Engineer Intern - BS | Morrisville, NC, Austin, TX (+5) | 2026-09-03 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1) |
-| Marvell | Reliability Intern | Santa Clara, CA | 2026-09-04 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Reliability-Intern_2604001) |
-| Marvell | Reliability Intern | Santa Clara, CA | 2026-09-03 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Reliability-Intern_2604001-1) |
 | Marvell | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT | 2026-09-08 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) |
 | Marvell | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT | 2026-09-08 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) |
 | Masco | Hardware Engineer Co-op - Electrical Engineering | Indianapolis, IN | 2026-09-09 | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2) |
