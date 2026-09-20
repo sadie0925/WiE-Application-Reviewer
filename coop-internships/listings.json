@@ -5120,6 +5120,42 @@
     "program": "cs"
   },
   {
+    "id": "d2523aa1-10fc-427f-9b41-d6b061aafdd9",
+    "company_name": "Autodesk",
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "title": "Product Management Intern",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789776000,
+    "date_updated": 1789855742,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "1fba75f6-b4bb-4fa7-a2d8-c3345b3169a4",
+    "company_name": "Autodesk",
+    "company_url": "https://simplify.jobs/c/Autodesk",
+    "title": "Product Management Intern",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789776000,
+    "date_updated": 1789855742,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "9988a888-3523-44f0-9be3-6ca66f7e7508",
     "company_name": "Autodesk",
     "company_url": "https://simplify.jobs/c/Autodesk",
@@ -29435,42 +29471,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "f110d4a7-32ed-49ae-a14e-357e17fe995a",
-    "company_name": "Marvell",
-    "company_url": "https://simplify.jobs/c/Marvell",
-    "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1",
-    "locations": [
-      "Burlington, VT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788912000,
-    "date_updated": 1788965549,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "e01c6336-8606-4375-b8f5-69be1e983e2f",
-    "company_name": "Marvell",
-    "company_url": "https://simplify.jobs/c/Marvell",
-    "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835",
-    "locations": [
-      "Burlington, VT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788912000,
-    "date_updated": 1788965554,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "ba331cf6-d626-43c1-9b17-6fa5e029be8e",

@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**3082 active US/Canada co-op & intern listings** · 2438 CS/software · 644 other programs · 0 inactive · Last updated: 2026-09-19 15:45 ET
+**3082 active US/Canada co-op & intern listings** · 2438 CS/software · 644 other programs · 0 inactive · Last updated: 2026-09-19 22:22 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -373,7 +373,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Zaber Technologies | Software Developer Co-op | Vancouver, BC, Canada | 2026-09-08 | [Apply](https://apply.workable.com/zaber/j/EAB5877DC3/apply) |
 | Zip | Software Engineer Intern - Winter 2027 | Toronto, ON, Canada | 2026-08-25 | [Apply](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/application?embed=true) |
 
-### Other programs (72)
+### Other programs (74)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -392,6 +392,8 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | 2026-02-20 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) |
 | Armstrong Fluid Technology | Test Engineering Co-op | Toronto, ON, Canada | 2026-09-11 | [Apply](https://armstrongfluidtechnology.bamboohr.com/careers/1001/) |
 | Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada | 2026-06-08 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) |
+| Autodesk | Product Management Intern | Montreal, QC, Canada | 2026-09-18 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1) |
+| Autodesk | Product Management Intern | Montreal, QC, Canada | 2026-09-18 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2) |
 | BGIS | Asset Management Analyst Intern | Whitchurch-Stouffville, ON, Canada, Toronto, ON, Canada (+5) | 2026-09-18 | [Apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233080) |
 | Bank of Montreal | Business Analyst Co-op Intern - Data and Change Management | Toronto, ON, Canada | 2026-08-20 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737) |
 | Bank of Montreal | Business Analyst Co-op Intern - Data and Change Management | Toronto, ON, Canada | 2026-09-06 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737-2) |
@@ -2504,7 +2506,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | onsemi | Data and Visualization Intern | Hopewell Junction, NY | 2026-09-16 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |
 | pony.ai | Software Engineer Intern | Fremont, CA | 2026-05-29 | [Apply](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply) |
 
-### Other programs (567)
+### Other programs (565)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -2767,8 +2769,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Marvell | Functional Validation Intern - BS | Santa Clara, CA, Boise, ID (+1) | 2026-09-03 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1) |
 | Marvell | Physical Design Engineer Intern - BS | Morrisville, NC, Austin, TX (+5) | 2026-09-03 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517) |
 | Marvell | Physical Design Engineer Intern - BS | Morrisville, NC, Austin, TX (+5) | 2026-09-03 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1) |
-| Marvell | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT | 2026-09-08 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) |
-| Marvell | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT | 2026-09-08 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) |
 | Masco | Hardware Engineer Co-op - Electrical Engineering | Indianapolis, IN | 2026-09-09 | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2) |
 | Mastercard | Technical Product Management Intern - Switching Solutions | O'Fallon, MO | 2026-09-01 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711) |
 | Maxinsights | Data Operations Intern | Santa Clara, CA | 2026-08-11 | [Apply](https://jobs.ashbyhq.com/maxinsights/afbc425f-9543-460d-8f78-792a8017d060/application?embed=true) |
