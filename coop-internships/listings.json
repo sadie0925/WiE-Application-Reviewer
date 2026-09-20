@@ -18191,6 +18191,24 @@
     "program": "cs"
   },
   {
+    "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
+    "company_name": "GE Appliances",
+    "company_url": "https://simplify.jobs/c/GE-Appliances",
+    "title": "Software Engineer Co-op",
+    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783721240,
+    "date_updated": 1789892830,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
     "company_name": "GE Appliances",
     "company_url": "https://simplify.jobs/c/GE-Appliances",
@@ -18204,24 +18222,6 @@
     "source": "simplify",
     "date_posted": 1785888000,
     "date_updated": 1785939594,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
-    "company_name": "GE Appliances",
-    "company_url": "https://simplify.jobs/c/GE-Appliances",
-    "title": "Software Engineering Co-op Spring 2027",
-    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
-    "locations": [
-      "Louisville, KY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1769182182,
-    "date_updated": 1769182182,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
