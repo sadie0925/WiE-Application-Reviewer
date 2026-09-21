@@ -22883,6 +22883,24 @@
     "program": "cs"
   },
   {
+    "id": "671df4e5-0754-4a2b-b3e8-9efd0533222b",
+    "company_name": "Illinois Tool Works",
+    "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+    "title": "Software Engineer Intern",
+    "url": "https://careers.itw.com/global/en/job/JR10129",
+    "locations": [
+      "Rogers, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789953288,
+    "date_updated": 1789953407,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "d5f1160b-114b-4a0e-b196-adf32447203e",
     "company_name": "Immuta",
     "company_url": "https://simplify.jobs/c/Immuta",
@@ -33596,24 +33614,6 @@
     "program": "cs"
   },
   {
-    "id": "9b28c208-2dc8-4da1-aa49-ceb17af432ea",
-    "company_name": "Nordson",
-    "company_url": "https://simplify.jobs/c/Nordson",
-    "title": "Electronics Engineer Intern",
-    "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern--Electronics-Engineering-_REQ52928",
-    "locations": [
-      "Allen, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789603200,
-    "date_updated": 1789684529,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "5bd436ab-2543-4cf9-9565-0a571ae07475",
     "company_name": "North American Construction Group",
     "company_url": "https://simplify.jobs/c/North-American-Construction-Group",
@@ -35811,7 +35811,7 @@
     "id": "9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
     "company_name": "Perpay",
     "company_url": "https://simplify.jobs/c/Perpay",
-    "title": "Software Engineering Intern",
+    "title": "Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
     "locations": [
       "Philadelphia, PA"
@@ -35819,8 +35819,8 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1769210833,
-    "date_updated": 1773441272,
+    "date_posted": 1789079195,
+    "date_updated": 1789079924,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -39010,6 +39010,24 @@
     "source": "simplify",
     "date_posted": 1788134400,
     "date_updated": 1788226254,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "86109c63-191c-484b-838b-4448f2812c98",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699",
+    "locations": [
+      "Annapolis, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788307200,
+    "date_updated": 1788413070,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -56134,6 +56152,24 @@
     "date_posted": 1789603200,
     "date_updated": 1789683994,
     "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
+    "company_name": "bioMérieux",
+    "company_url": "https://simplify.jobs/c/BioMerieux",
+    "title": "Hardware Co-op",
+    "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+    "locations": [
+      "Hazelwood, MO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789510912,
+    "date_updated": 1789511761,
+    "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
   },
