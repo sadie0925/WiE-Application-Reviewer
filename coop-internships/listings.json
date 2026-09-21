@@ -200,6 +200,24 @@
     "program": "cs"
   },
   {
+    "id": "e4f74430-6399-401d-97ca-da938138aeb3",
+    "company_name": "ABEC",
+    "company_url": "https://simplify.jobs/c/ABEC",
+    "title": "Project Engineer Intern",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4500637",
+    "locations": [
+      "Springfield, MO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789364195,
+    "date_updated": 1789987141,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "77dcf2a7-167d-441e-87cb-ad11e7f55bba",
     "company_name": "AES",
     "company_url": "https://simplify.jobs/c/AES",
@@ -1404,24 +1422,6 @@
     "source": "simplify",
     "date_posted": 1789516800,
     "date_updated": 1789599293,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2391b023-90fd-40d2-80e0-aa9e1f25abe1",
-    "company_name": "ATCO",
-    "company_url": "https://simplify.jobs/c/ATCO",
-    "title": "Data Analytics Co-op - Customer Operations",
-    "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20626",
-    "locations": [
-      "Edmonton, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788570811,
-    "date_updated": 1788571079,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -5012,6 +5012,60 @@
     "program": "cs"
   },
   {
+    "id": "2e8bb17d-0726-4482-af62-5f868bede92c",
+    "company_name": "AutoZone",
+    "company_url": "https://simplify.jobs/c/AutoZone",
+    "title": "Data Science Intern",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789971425,
+    "date_updated": 1789971604,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "85721ea7-7039-4fed-bd43-becafa1de541",
+    "company_name": "AutoZone",
+    "company_url": "https://simplify.jobs/c/AutoZone",
+    "title": "Ecommerce Intern",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789971420,
+    "date_updated": 1789971641,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "7d5c4b26-9d58-4de0-b0fe-0ee845b9d45e",
+    "company_name": "AutoZone",
+    "company_url": "https://simplify.jobs/c/AutoZone",
+    "title": "Information Technology Intern",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789971421,
+    "date_updated": 1789971613,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "cab045bf-39b2-4c18-9001-24ab75450b0c",
     "company_name": "Autodesk",
     "company_url": "https://simplify.jobs/c/Autodesk",
@@ -5930,42 +5984,6 @@
     "program": "cs"
   },
   {
-    "id": "33255c48-a961-49e1-841c-e4c4810ece51",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Hardware Asset Management Analyst Co-op Intern - 8 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-2",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788912000,
-    "date_updated": 1788965973,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "32750662-1c75-4dc5-8f2d-9a04bcdc82fa",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Hardware Asset Management Analyst Co-op Intern - Multiple Teams",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-3",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788912000,
-    "date_updated": 1788965960,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "22038190-8f9c-44c2-a1d5-d08cd6dfacc3",
     "company_name": "Bank of Montreal",
     "company_url": "https://simplify.jobs/c/BMO",
@@ -6069,24 +6087,6 @@
     "source": "simplify",
     "date_posted": 1788993291,
     "date_updated": 1788994622,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "79e0f6b0-0ebd-4559-9d9c-88216eb679cb",
-    "company_name": "Barr",
-    "company_url": "https://simplify.jobs/c/Barr",
-    "title": "Data Science Intern",
-    "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
-    "locations": [
-      "Minneapolis, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789516800,
-    "date_updated": 1789598868,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -9615,49 +9615,6 @@
     "program": "other"
   },
   {
-    "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
-    "company_name": "Charles Schwab",
-    "company_url": "https://simplify.jobs/c/Charles-Schwab",
-    "title": "Data Engineering Intern - Data Engineering",
-    "url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Austin, TX",
-      "Westlake, TX",
-      "Southlake, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787963197,
-    "date_updated": 1787963452,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "09239b96-d26a-4691-b9ab-9b8b442caa9f",
-    "company_name": "Charles Schwab",
-    "company_url": "https://simplify.jobs/c/Charles-Schwab",
-    "title": "Software Engineering Intern - Technology",
-    "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Austin, TX",
-      "Westlake, TX",
-      "Ann Arbor, MI",
-      "Southlake, TX",
-      "Omaha, NE",
-      "Phoenix, AZ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787963196,
-    "date_updated": 1787963453,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "1f084ca4-0b4b-41c7-a004-ffa649ae554a",
     "company_name": "Charter Manufacturing",
     "company_url": "https://simplify.jobs/c/Charter-Manufacturing",
@@ -12882,24 +12839,6 @@
     "date_posted": 1788905360,
     "date_updated": 1788905970,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f1aa6de1-3a54-4326-ac1b-83233e314a0b",
-    "company_name": "DatologyAI",
-    "company_url": "https://simplify.jobs/c/DatologyAI",
-    "title": "Research Intern",
-    "url": "https://jobs.ashbyhq.com/DatologyAI/0ced19c2-21ec-4bcc-92d2-68d448279f3f/application?embed=true",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789798509,
-    "date_updated": 1789798681,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -20507,78 +20446,6 @@
     "program": "cs"
   },
   {
-    "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "AWM Product Management Analyst Intern",
-    "url": "https://higher.gs.com/roles/171513?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787172276,
-    "date_updated": 1787235591,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Americas",
-    "url": "https://higher.gs.com/roles/171532?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489726,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171551?type=students",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489723,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171534?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489725,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
     "company_name": "Goldman Sachs",
     "company_url": "https://simplify.jobs/c/Goldman-Sachs",
@@ -20597,60 +20464,6 @@
     "program": "cs"
   },
   {
-    "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "url": "https://higher.gs.com/roles/171548?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767953,
-    "date_updated": 1788489726,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8f346a45-4490-4243-933e-264e3916e701",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - Americas - Engineering",
-    "url": "https://higher.gs.com/roles/171567?type=students",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489731,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5bdec003-2a02-42a4-a602-467541840552",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - Americas - Engineering",
-    "url": "https://higher.gs.com/roles/171565?type=students",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767953,
-    "date_updated": 1788489731,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
     "company_name": "Goldman Sachs",
     "company_url": "https://simplify.jobs/c/Goldman-Sachs",
@@ -20664,24 +20477,6 @@
     "source": "simplify",
     "date_posted": 1786767938,
     "date_updated": 1788489727,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - Engineering",
-    "url": "https://higher.gs.com/roles/171553?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767953,
-    "date_updated": 1788489734,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -22631,6 +22426,24 @@
     "program": "cs"
   },
   {
+    "id": "75efacf7-58e1-468e-9621-e23a1444acdf",
+    "company_name": "ICF International",
+    "company_url": "https://simplify.jobs/c/ICF-International",
+    "title": "Software Developer Intern",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
+    "locations": [
+      "Reston, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788739200,
+    "date_updated": 1788761731,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "1dbaaa95-dacf-4709-a836-79579d54610e",
     "company_name": "ID.me",
     "company_url": "https://simplify.jobs/c/IDme",
@@ -23941,6 +23754,44 @@
     "program": "cs"
   },
   {
+    "id": "0a703703-0be7-4f89-89c2-56b288638eef",
+    "company_name": "Interstates",
+    "company_url": "https://simplify.jobs/c/Interstates",
+    "title": "Software Developer Intern",
+    "url": "https://www.interstates.com/careers/jobs?gh_jid=4218341009&gh_jid=4218341009",
+    "locations": [
+      "Sioux Center, IA",
+      "Sioux Falls, SD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789970964,
+    "date_updated": 1789971124,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "db2027d0-629e-474c-b927-fb0ffc7d9e62",
+    "company_name": "Interstates",
+    "company_url": "https://simplify.jobs/c/Interstates",
+    "title": "Software Developer Intern",
+    "url": "https://www.interstates.com/careers/jobs?gh_jid=4218343009&gh_jid=4218343009",
+    "locations": [
+      "Sioux Center, IA",
+      "Sioux Falls, SD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789970964,
+    "date_updated": 1789971124,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "fefe3900-bf9a-4fe1-8ede-259288aed3e1",
     "company_name": "Intuit",
     "company_url": "https://simplify.jobs/c/Intuit",
@@ -24350,24 +24201,6 @@
     "source": "simplify",
     "date_posted": 1789078935,
     "date_updated": 1789079919,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "56083f58-d4ed-4ca0-8bd9-321b06f71acc",
-    "company_name": "Johns Hopkins Applied Physics Laboratory",
-    "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
-    "title": "AI and Autonomous Systems Engineer Intern",
-    "url": "https://careers.jhuapl.edu/jobs/60021?icims=1",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789539167,
-    "date_updated": 1789539388,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -28305,6 +28138,42 @@
     "program": "cs"
   },
   {
+    "id": "952056a2-b2cc-495f-b6f7-1ea3d4caf8a1",
+    "company_name": "MFS",
+    "company_url": "https://simplify.jobs/c/MFS",
+    "title": "Consultant Relations Co-op - January - June",
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931",
+    "locations": [
+      "Boston, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1789971529,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "a22505cf-c011-48dc-aff0-642aa353830e",
+    "company_name": "MFS",
+    "company_url": "https://simplify.jobs/c/MFS",
+    "title": "Distribution Sales Reporting Co-op",
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Distribution-Sales-Reporting-Co-op-Spring-2027--January---June-_MFS-231926",
+    "locations": [
+      "Boston, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1789971414,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "fd49417f-1327-426c-80eb-88916ec1a934",
     "company_name": "MSA Safety",
     "company_url": "https://simplify.jobs/c/MSA-Safety",
@@ -28357,60 +28226,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "01d8233d-2aa0-4e40-9c48-0069512ee4ae",
-    "company_name": "Mackenzie Investments",
-    "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
-    "title": "Data Science Intern",
-    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5977/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787342237,
-    "date_updated": 1787342431,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "22da6961-acb7-4c21-b55b-05a5a8ee6bde",
-    "company_name": "Mackenzie Investments",
-    "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
-    "title": "Platform Developer Intern - Platform Developer",
-    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5992/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787781224,
-    "date_updated": 1787781426,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6d622ec5-713f-4f07-8fe8-87d5b3d84a8e",
-    "company_name": "Mackenzie Investments",
-    "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
-    "title": "Quantitative Developer Intern - Investment Management - Fixed Income Platform Engineering",
-    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5998/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Ontario, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787955878,
-    "date_updated": 1788414127,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "2da1b9a8-c42c-4490-ab77-7b152c46c02e",
@@ -29347,6 +29162,26 @@
     "program": "cs"
   },
   {
+    "id": "78c03ab4-f50a-445d-9802-fb785330b50f",
+    "company_name": "Mastercard",
+    "company_url": "https://simplify.jobs/c/Mastercard",
+    "title": "Software Engineer Intern",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1",
+    "locations": [
+      "O'Fallon, MO",
+      "Arlington County, Arlington, VA",
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1787529600,
+    "date_updated": 1787580931,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "437f099d-e824-4c9d-9f09-7f69794fa19c",
     "company_name": "Mastercard",
     "company_url": "https://simplify.jobs/c/Mastercard",
@@ -30125,6 +29960,26 @@
     "date_posted": 1789084800,
     "date_updated": 1789165859,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "26e7fc97-03fa-4445-8338-fdad5cb0812c",
+    "company_name": "Mercury",
+    "company_url": "https://simplify.jobs/c/Mercury",
+    "title": "Software Engineering Intern - Spring 2027",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+    "locations": [
+      "Remote in USA",
+      "Portland, OR",
+      "Remote in Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789982316,
+    "date_updated": 1789982933,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -33614,6 +33469,24 @@
     "program": "cs"
   },
   {
+    "id": "880f0ef0-3511-45a5-9803-3af2a5868a27",
+    "company_name": "Nordson",
+    "company_url": "https://simplify.jobs/c/Nordson",
+    "title": "Electrical Engineer Intern",
+    "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Electrical-Engineering-Intern_REQ52913",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789862400,
+    "date_updated": 1789971301,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "5bd436ab-2543-4cf9-9565-0a571ae07475",
     "company_name": "North American Construction Group",
     "company_url": "https://simplify.jobs/c/North-American-Construction-Group",
@@ -33772,6 +33645,60 @@
     "date_posted": 1788220800,
     "date_updated": 1788311881,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "2a319a5b-a682-4c9d-9bc1-e3d5f7393fe9",
+    "company_name": "Northrop Grumman",
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "title": "Digital Engineer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1789971455,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "a6f454a8-2bd5-4c59-a968-77237a0c890c",
+    "company_name": "Northrop Grumman",
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1789971418,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "3f8ecfdc-461f-4732-bf24-79251228640c",
+    "company_name": "Northrop Grumman",
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
+    "locations": [
+      "Camarillo, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1789984745,
+    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -36445,24 +36372,6 @@
     "program": "cs"
   },
   {
-    "id": "018b3915-5456-4f05-b3d3-4f7410a98b0d",
-    "company_name": "Premier",
-    "company_url": "https://simplify.jobs/c/Premier",
-    "title": "Data Science Intern",
-    "url": "https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Data-Science-Intern_R0008481",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788393600,
-    "date_updated": 1788489741,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8301a1da-b9e0-469a-9cb1-ed1913e214ed",
     "company_name": "Premier",
     "company_url": "https://simplify.jobs/c/Premier",
@@ -39051,24 +38960,6 @@
     "program": "cs"
   },
   {
-    "id": "825ddc18-52db-497b-a5b3-68807da12886",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556",
-    "locations": [
-      "Annapolis, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789430400,
-    "date_updated": 1789512176,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ca035415-b41d-4d0c-b07f-571c22ab04bb",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -39136,24 +39027,6 @@
     "source": "simplify",
     "date_posted": 1789516800,
     "date_updated": 1789598868,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789516800,
-    "date_updated": 1789598873,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -40645,60 +40518,6 @@
     "program": "cs"
   },
   {
-    "id": "d2b4f1bc-fe0e-40b8-b25f-29fb235024d2",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "AI & Stress Testing Analytics Intern - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787842297,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0cfbc30c-4e20-4b96-a5e6-f65b1fe1bf2a",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "AI Applications Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787011200,
-    "date_updated": 1787091287,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6ccda946-6b9f-4679-811c-1926a34bdcee",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "AI Applications Intern - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787011200,
-    "date_updated": 1787066700,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "46da9fb1-59b8-4586-9a3e-f058863575ba",
     "company_name": "Royal Bank of Canada",
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
@@ -40712,60 +40531,6 @@
     "source": "simplify",
     "date_posted": 1789344000,
     "date_updated": 1789417145,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "fa7161c6-09b1-486f-904e-21659df8b7b9",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "AI and Stress Testing Analytics Intern - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787842167,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0cf8175f-4de0-43cb-a787-6d982ff026f6",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--ALM-Risk-Data---Automation-Analyst-Intern--4-Months-_R-0000186330",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788134400,
-    "date_updated": 1788202087,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0b2a9c96-185a-485d-bfc8-3ea3fbb8101b",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--ALM-Risk-Data---Automation-Analyst-Intern--4-Months-_R-0000186330-2",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788134400,
-    "date_updated": 1788410704,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -40789,115 +40554,6 @@
     "program": "cs"
   },
   {
-    "id": "fec33d3a-662a-4bf7-b596-1f5ac6fa1eba",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Business and Data Analyst Co-op - 4 Months",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-Insurance--Winter-Business-and-Data-Analyst--4-16-months-_R-0000185486",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Mississauga, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787582520,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "65b44c5d-8fda-4aa8-aff9-e9ccb3106913",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Capital Markets Quantitative Technology Services Co-op - Software Developer",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-1",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787006005,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1ff986e7-1259-4ef6-be26-7e2bcc66303b",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data & AI Intern - Balance Sheet and Liquidity Risk",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787752546,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8a31b58f-d4ac-415b-8246-de97ab1c39b4",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data & AI Intern - Group Risk Management - Balance Sheet and Liquidity Risk",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787752456,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "22a6c4bd-c737-4a92-ae44-074fdfb8affb",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Analyst Co-op - AI Business Enablement",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Data-Analyst---8-Months_R-0000184505",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787005992,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "37d56d64-a9cd-4527-aacf-932724b30468",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Analyst Co-op - AI Business Enablement",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Data-Analyst---8-Months_R-0000184505-2",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034457,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "cf970523-d699-4d91-8a73-ffac3bc9d976",
     "company_name": "Royal Bank of Canada",
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
@@ -40911,61 +40567,6 @@
     "source": "simplify",
     "date_posted": 1786924800,
     "date_updated": 1787005990,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8af45ce2-f9cb-4f74-ac2c-ff70488fcb5d",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Analyst Co-op - Wealth Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management--Winter-Data-Analyst--4-16-months-_R-0000185492",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787582521,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "cc3d43bc-e91d-4fb7-9ec7-e684f60ad268",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Analyst Developer Intern - 8 Months - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000185825-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787869818,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "b273bb27-6dcd-4b3f-9655-1e65dc080ae2",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Analyst Developer Intern - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000185825",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787870011,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -41007,168 +40608,6 @@
     "program": "cs"
   },
   {
-    "id": "ff8aad99-ec87-4706-9cf1-ced821e509ba",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Analyst Intern - CLAO",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CLAO--Data-Analyst-Intern--4-months-_R-0000186987",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788907926,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a35e806c-4423-4046-bc8f-f81f8e6782c1",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Analyst Intern - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788134400,
-    "date_updated": 1788186991,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6f890669-2f39-43e4-bd0f-8a7ab20a099b",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Analyst Intern - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788134400,
-    "date_updated": 1788209713,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0e8d516f-a804-45b0-94f8-0f4aa2523d45",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Enablement Co-op - CFO - 8 Months",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO-Winter-Summer-Data-Enablement-Co-Op--8-Months-_R-0000185444",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787604304,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "30c84bb4-705d-48e7-9877-1e65c271ce11",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Intern - ECCO",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Intern--4-Months-_R-0000185330",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787582940,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a219e9ee-7fe0-4bc5-b24b-041a985a69d4",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Intern - ECCO",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Intern--4-Months-_R-0000185330-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787582526,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1e908d1e-e2d2-490f-8aef-f6b6d7b5789d",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Scientist Intern - ECT AI and Automation",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787781770,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f0439451-18a0-4124-8fb4-61359a23df26",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Scientist Intern - Ecco",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787781260,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "da62725b-6dd5-440a-9d26-2e420e8c17e4",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Scientist Intern - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787011200,
-    "date_updated": 1787092012,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "df4bb554-9de7-42ea-8b4b-3509501873dc",
     "company_name": "Royal Bank of Canada",
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
@@ -41182,152 +40621,6 @@
     "source": "simplify",
     "date_posted": 1787011200,
     "date_updated": 1787091295,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "83fd5e59-1cdd-4257-b42a-8e5bced4979f",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Traceability & Controls Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Winter---CDO--Data-Traceability---Controls-Intern--4-Months-_R-0000186553-1",
-    "locations": [
-      "Halifax Regional Municipality, NS, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788277124,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "665faa1c-c49b-4353-8b43-39d8093673dd",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Traceability & Controls Intern - CDO",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Winter---CDO--Data-Traceability---Controls-Intern--4-Months-_R-0000186553",
-    "locations": [
-      "Halifax Regional Municipality, NS, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788277546,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "439d0af1-5764-46b3-9149-0e01018b498d",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Developer Co-op - Multiple Roles",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Calgary, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034460,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "192ea991-da08-407c-8609-f30142e9d051",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Developer Co-op - Multiple Teams",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501-1",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Calgary, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787006174,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a9948cfe-3281-4e0a-a0b4-f8c58b272354",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Developer Co-op - Technology & Operations",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787005994,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "aff12058-21b0-4489-ba44-3634afe09da9",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Global AML Metrics Reporting Analyst Co-op - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Global-AML-Metrics-Reporting-Analyst--4-Months-_R-0000185608",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787870011,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4b8c7b90-0ec1-4d3d-a40a-57abf102af72",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Global AML Metrics Reporting Analyst Co-op - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Global-AML-Metrics-Reporting-Analyst--4-Months-_R-0000185608-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787869886,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "974f7352-c917-461d-8c4d-f6ba7ae65d23",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Machine Learning Software Engineer Co-op - 4 Months",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599-1",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787006011,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -41353,44 +40646,6 @@
     "program": "cs"
   },
   {
-    "id": "84ac928f-e494-4c4c-a38e-48492b213859",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Machine Learning Software Engineer Co-op - RBC Borealis",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Machine-Learning-Software-Engineer--4-8-Months_R-0000184499-1",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Calgary, AB, Canada",
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787005999,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "eae9fa9e-6d4b-4889-abae-c7a7f99d23be",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Machine Learning Software Engineer Co-op - RBC Borealis",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034464,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "cf4eba84-edd0-4c2e-9bfe-1b438927eba9",
     "company_name": "Royal Bank of Canada",
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
@@ -41404,114 +40659,6 @@
     "source": "simplify",
     "date_posted": 1788998400,
     "date_updated": 1789079563,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5085870d-2f73-4f0d-a47b-f4e302f8a3f4",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Model Risk Intern - Enterprise Model Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787781283,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5f71be3e-01e2-44bb-a778-ffaf3c308944",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Model Risk Intern - Grm",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787781601,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "06774eb3-0e2a-479d-b51a-82e66db13298",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Portfolio Risk Data & AI Analyst Intern - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787184000,
-    "date_updated": 1787264531,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6aaa0178-7e9c-40a4-8a80-18830713936b",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Portfolio Risk Data & AI Analyst Intern - Group Risk Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787184000,
-    "date_updated": 1787263980,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "68bc721a-09e5-4cdb-89af-2f24f3f59984",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Quantitative Risk Intern - Grm",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787870012,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "87590b22-43d2-4fc5-838b-1602d25ccaa7",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Quantitative Risk Intern - Grm",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-2",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787869885,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -41553,42 +40700,6 @@
     "program": "cs"
   },
   {
-    "id": "5cfa4486-5206-4a77-97d7-4b4ae1890b5c",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Quantitative Technology Services Co-op - Qts - Software Developer",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months_R-0000184603-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034457,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e7e3dd54-f56e-4d88-a3ab-23b3011fa3c2",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Quantitative Technology Services Co-op - Software Developer",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034458,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "16e17942-d165-4b2f-bcb6-074d432003ea",
     "company_name": "Royal Bank of Canada",
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
@@ -41603,122 +40714,6 @@
     "date_posted": 1789344000,
     "date_updated": 1789417142,
     "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5d29a21d-96f0-4931-8692-66e38b5818e4",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Retail Risk Modeling Analyst Intern - 8 Months",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-2",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787752548,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d3633b94-e956-4f3a-9fc4-5a0b4a57a16b",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Retail Risk Modeling Analyst Intern - 8 Months",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787702400,
-    "date_updated": 1787752458,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "639d98a3-934b-4fe7-90f6-1fa6f9302286",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Software Developer Co-op - Quantitative Technology Services",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months_R-0000184603-2",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787006001,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9c9ea05a-3192-4de4-a14f-0928c4df49bd",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Software Developer Co-op - Technology & Operations",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--8-Months_R-0000184557-2",
-    "locations": [
-      "Montreal, QC, Canada",
-      "Toronto, ON, Canada",
-      "Calgary, AB, Canada",
-      "Vancouver, BC, Canada",
-      "Halifax Regional Municipality, NS, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787005996,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ca2a28c6-6f13-4f6e-a05e-70bbce112fde",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Software Developer Co-op - Technology & Operations",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--8-Months_R-0000184557-1",
-    "locations": [
-      "Montreal, QC, Canada",
-      "Toronto, ON, Canada",
-      "Calgary, AB, Canada",
-      "Vancouver, BC, Canada",
-      "Halifax Regional Municipality, NS, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034459,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8038fc52-e31f-4e5f-a826-481c083a5d36",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Software Developer Co-op - Technology & Operations",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034462,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -41755,79 +40750,6 @@
     "date_posted": 1788134400,
     "date_updated": 1788202072,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "c74f7d35-3332-42a9-b79d-cf59a26265ff",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Strategic Delivery Intern - MCCR",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Strategic-Delivery-Intern--4-Months-_R-0000185971-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788134400,
-    "date_updated": 1788209717,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1babc71b-6886-48e4-9870-7503ec24824f",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Technology & Operations Co-op - Software Developer",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787006004,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "97fb51eb-1ac2-4864-ae06-c8f8ac768c62",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Technology and Operations Developer Co-op - Software Developer",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787034460,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2e1e0ec9-a2ed-4430-8a6d-a21c344f395b",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Technology/Developer Co-op - Wealth Management",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management--Winter-Technology-Developer--4-16-months-_R-0000185490",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787582527,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -52412,24 +51334,6 @@
     "program": "cs"
   },
   {
-    "id": "d71f9e6c-70f6-4284-9d54-3c7024305290",
-    "company_name": "University of Arkansas",
-    "company_url": "https://simplify.jobs/c/University-Of-Arkansas",
-    "title": "Marketing and Communications Intern - Web Design",
-    "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville/Hourly-Fulbright-MARCOMM-Intern---Web-Design_R0091232",
-    "locations": [
-      "Fayetteville, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788906373,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "989307cb-3526-457e-a8ee-77b6cdda5c4f",
     "company_name": "University of Nevada, Reno",
     "company_url": "https://simplify.jobs/c/University-Of-Nevada-Reno",
@@ -56152,24 +55056,6 @@
     "date_posted": 1789603200,
     "date_updated": 1789683994,
     "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
-    "company_name": "bioMérieux",
-    "company_url": "https://simplify.jobs/c/BioMerieux",
-    "title": "Hardware Co-op",
-    "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-    "locations": [
-      "Hazelwood, MO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789510912,
-    "date_updated": 1789511761,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
   },
