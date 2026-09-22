@@ -7386,24 +7386,6 @@
     "program": "cs"
   },
   {
-    "id": "a102db82-0608-4e45-a9d3-ab4fa8963741",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Software Developer Intern - University",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249802",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790030140,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "4c9dd806-b8fb-45f1-902c-57dd9eea449b",
     "company_name": "Booz Allen",
     "company_url": "https://simplify.jobs/c/Booz-Allen",
@@ -18671,24 +18653,6 @@
     "program": "other"
   },
   {
-    "id": "5e35fca9-ff85-4307-a359-260093fe45c5",
-    "company_name": "Formlabs",
-    "company_url": "https://simplify.jobs/c/Formlabs",
-    "title": "Embedded Software Intern - Winter/Spring 2027",
-    "url": "https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578",
-    "locations": [
-      "Somerville, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788991720,
-    "date_updated": 1788991748,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "fbc2121f-6452-434e-a732-904dabe11cd7",
     "company_name": "Formlabs",
     "company_url": "https://simplify.jobs/c/Formlabs",
@@ -20596,24 +20560,6 @@
     "date_posted": 1789636465,
     "date_updated": 1789636844,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f7b542cb-b7d4-42c0-8fe8-e4e3d9ccadf1",
-    "company_name": "General Dynamics UK",
-    "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-    "title": "Computer Science and Robotics Co-op - Information Technology",
-    "url": "https://jobs.smartrecruiters.com/GDMSI/744000147541849",
-    "locations": [
-      "Sherbrooke, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788559711,
-    "date_updated": 1788560387,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -22792,24 +22738,6 @@
     "program": "cs"
   },
   {
-    "id": "d1176ebe-cdcd-4eea-be70-dd3f29f07d24",
-    "company_name": "Headlands Tech Holdings",
-    "company_url": "https://simplify.jobs/c/Headlands-Tech-Holdings",
-    "title": "Deep Learning Research Intern",
-    "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790029690,
-    "date_updated": 1790031349,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8cd35059-1fec-4e08-9a02-f95311e4e3b8",
     "company_name": "Healthesystems",
     "company_url": "https://simplify.jobs/c/Healthesystems",
@@ -23837,24 +23765,6 @@
     "source": "simplify",
     "date_posted": 1788238176,
     "date_updated": 1788239106,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
-    "company_name": "Ignite Digital Services",
-    "company_url": "https://simplify.jobs/c/Ignite-Digital-Services",
-    "title": "Engineer/Scientist Intern",
-    "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5348498008",
-    "locations": [
-      "Chesapeake, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784068485,
-    "date_updated": 1784071624,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -30041,42 +29951,6 @@
     "program": "other"
   },
   {
-    "id": "61e3734b-7ee5-4569-a6d9-7a7c0ee36478",
-    "company_name": "Marvell",
-    "company_url": "https://simplify.jobs/c/Marvell",
-    "title": "Applied Machine Learning Scientist Intern",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779529868,
-    "date_updated": 1779530761,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "19adb890-3588-42e8-ac86-3d099f703889",
-    "company_name": "Marvell",
-    "company_url": "https://simplify.jobs/c/Marvell",
-    "title": "Applied Machine Learning Scientist Intern",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781360036,
-    "date_updated": 1788496921,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "adb1e815-47fe-4268-911a-3c542a8a5b4e",
     "company_name": "Marvell",
     "company_url": "https://simplify.jobs/c/Marvell",
@@ -31654,24 +31528,6 @@
     "date_posted": 1779872295,
     "date_updated": 1779872295,
     "category": "Software Engineering",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6e4167e4-c636-4cc7-8879-c3bb50f03ed5",
-    "company_name": "Metropolitan Transportation Authority",
-    "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
-    "title": "Technology Support Intern - Emerging Talent",
-    "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oQsIAfwk?nl=1&nl=1&fr=false",
-    "locations": [
-      "Brooklyn, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787873765,
-    "date_updated": 1788526841,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -39835,24 +39691,6 @@
     "program": "cs"
   },
   {
-    "id": "a3c5a65f-8eba-4d2e-a9b8-a50cceb40ad6",
-    "company_name": "RSM",
-    "company_url": "https://simplify.jobs/c/RSM",
-    "title": "Tax Digital Services Intern - AI Engineering",
-    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Tax-Digital-Services-Intern---AI-Engineering---Summer-2027_JR121297",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790000102,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "4fb34804-5a77-473d-9fdf-a34420e9e45b",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -40191,24 +40029,6 @@
     "date_posted": 1789084800,
     "date_updated": 1789165726,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5eec1982-b0e8-4ec2-b9c3-ee8ed6051a4b",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Numerical Methods Intern - Advanced Software Development",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187",
-    "locations": [
-      "Longueuil, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788272304,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -45147,24 +44967,6 @@
     "program": "other"
   },
   {
-    "id": "0da41e04-d7cb-426a-87b7-932940f159f8",
-    "company_name": "Symbotic",
-    "company_url": "https://simplify.jobs/c/symbotic",
-    "title": "Bot Controls Intern",
-    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Bot-Controls_R7965",
-    "locations": [
-      "Wilmington, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790039717,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "3fbac32a-0281-41ae-95c5-95556d462395",
     "company_name": "Symbotic",
     "company_url": "https://simplify.jobs/c/symbotic",
@@ -47279,24 +47081,6 @@
     "date_posted": 1788307258,
     "date_updated": 1788308468,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2f047b4c-6c37-4fb9-8a34-dfd635e77089",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Robotics Modeling & Simulation Engineer Intern - Optimus",
-    "url": "https://www.tesla.com/careers/search/job/271979",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780823367,
-    "date_updated": 1786439548,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -55566,24 +55350,6 @@
     "source": "simplify",
     "date_posted": 1789684681,
     "date_updated": 1789685506,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4d33923f-011e-4c9c-8e39-4a4f417686d7",
-    "company_name": "Waymo",
-    "company_url": "https://simplify.jobs/c/Waymo",
-    "title": "Software Engineering Intern - Commercialization",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789425486,
-    "date_updated": 1789425648,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
