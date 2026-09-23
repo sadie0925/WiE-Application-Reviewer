@@ -1082,24 +1082,6 @@
     "program": "cs"
   },
   {
-    "id": "03a692be-c92c-46ec-92a0-4dc48f6487c1",
-    "company_name": "AMD",
-    "company_url": "https://simplify.jobs/c/AMD",
-    "title": "Software Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91366?icims=1",
-    "locations": [
-      "Calgary, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788256547,
-    "date_updated": 1788256707,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "93957738-d6d4-434f-bafe-6286a5b454d8",
     "company_name": "AMD",
     "company_url": "https://simplify.jobs/c/AMD",
@@ -4377,24 +4359,6 @@
     "program": "other"
   },
   {
-    "id": "607b4415-ebae-4f35-9ca9-6d14d2ce86ce",
-    "company_name": "Apptronik",
-    "company_url": "https://simplify.jobs/c/Apptronik",
-    "title": "Robotics Software Intern - Real-Time Controls",
-    "url": "https://boards.greenhouse.io/apptronik/jobs/5985132004",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1777511445,
-    "date_updated": 1777511521,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "edf05719-a4c3-410a-8e40-e6506e1e7844",
     "company_name": "Aptiv",
     "company_url": "https://simplify.jobs/c/Aptiv",
@@ -4864,24 +4828,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "548a25ac-0c5d-42d4-ac4b-08d7a25340c3",
-    "company_name": "Athene",
-    "company_url": "https://simplify.jobs/c/Athene",
-    "title": "Operations Reporting & Analytics Intern",
-    "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255141",
-    "locations": [
-      "West Des Moines, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790031061,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "dab6f443-d39a-4bca-acad-451c8b347549",
@@ -11460,24 +11406,6 @@
     "program": "cs"
   },
   {
-    "id": "d982ee30-b711-41a7-a5ff-d71ae2b98f18",
-    "company_name": "Clinton Foundation",
-    "company_url": "https://simplify.jobs/c/Clinton-Foundation",
-    "title": "Communications Intern",
-    "url": "https://www.clintonfoundation.org/careers/apply/?gh_jid=7800648003",
-    "locations": [
-      "Little Rock, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1783664654,
-    "date_updated": 1788463466,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "87678940-271f-408b-bde3-11378558b132",
     "company_name": "Clockwork Systems",
     "company_url": "https://simplify.jobs/c/Clockwork-Systems",
@@ -11494,28 +11422,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "792f87e9-1d41-4264-903e-c5bb92833f87",
-    "company_name": "Clorox",
-    "company_url": "https://simplify.jobs/c/Clorox",
-    "title": "Sales & Customer Analytics Co-op",
-    "url": "https://clorox.wd1.myworkdayjobs.com/InviteClorox/job/Oakland-CA---USA/Sales---Customer-Analytics-Co-op_JR23362",
-    "locations": [
-      "Bentonville, AR",
-      "Oakland, CA",
-      "Pleasanton, CA",
-      "Durham, NC",
-      "Mason, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788393600,
-    "date_updated": 1788489741,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "c635048f-2bb2-4949-b1ab-bd8c0d76ec14",
@@ -15376,24 +15282,6 @@
     "source": "simplify",
     "date_posted": 1789597915,
     "date_updated": 1789599497,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "be6493df-d454-4e77-b102-3eef5e546c99",
-    "company_name": "EV Realty",
-    "company_url": "https://simplify.jobs/c/EVRealty",
-    "title": "Data Analytics Intern",
-    "url": "https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779487501,
-    "date_updated": 1779487880,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -20634,24 +20522,6 @@
     "program": "cs"
   },
   {
-    "id": "2f7f0d05-4984-4739-ad90-66a2e6cb8c2c",
-    "company_name": "Garmin",
-    "company_url": "https://simplify.jobs/c/Garmin",
-    "title": "Software Engineer Intern",
-    "url": "https://careers.garmin.com/jobs/20177?icims=1",
-    "locations": [
-      "Manhattan, KS"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789596608,
-    "date_updated": 1789597754,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "e0a1bb59-1fb6-4c2b-bd8e-8bd8ec2bc007",
     "company_name": "Garmin",
     "company_url": "https://simplify.jobs/c/Garmin",
@@ -21678,26 +21548,6 @@
     "source": "simplify",
     "date_posted": 1788474349,
     "date_updated": 1788490284,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0f1f0fa3-634f-42bc-b180-b5ea31d82a1a",
-    "company_name": "Geotab",
-    "company_url": "https://simplify.jobs/c/Geotab",
-    "title": "Software Developer Intern",
-    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5414448008",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Oakville, ON, Canada",
-      "Waterloo, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788905118,
-    "date_updated": 1788905189,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -27917,24 +27767,6 @@
     "program": "other"
   },
   {
-    "id": "83c30d71-5029-4a20-87e9-15ae1661b155",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Integration and Test Engineer Intern - Non-Automation",
-    "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Integration-and-Test-Engineering-Non-Automation-MA-01060/1423743300/?ats=successfactors",
-    "locations": [
-      "Northampton, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787780765,
-    "date_updated": 1787781242,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "352fa54f-2951-4516-9bad-74ec4d58df98",
     "company_name": "L3Harris Technologies",
     "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
@@ -31193,24 +31025,6 @@
     "program": "cs"
   },
   {
-    "id": "f72cae66-cd1d-43f5-899c-f4bf16fd4709",
-    "company_name": "Mastercard",
-    "company_url": "https://simplify.jobs/c/Mastercard",
-    "title": "Data Engineer Intern",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901",
-    "locations": [
-      "O'Fallon, MO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787875200,
-    "date_updated": 1787951469,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "e42ba45d-b2f8-4b3e-82ea-a28a0016584f",
     "company_name": "Mastercard",
     "company_url": "https://simplify.jobs/c/Mastercard",
@@ -31242,24 +31056,6 @@
     "source": "simplify",
     "date_posted": 1788307200,
     "date_updated": 1788420786,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "466b932d-3cf0-4669-af9f-fa3d799a5a18",
-    "company_name": "Mastercard",
-    "company_url": "https://simplify.jobs/c/Mastercard",
-    "title": "Data Scientist Intern - Summer 2027",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869",
-    "locations": [
-      "O'Fallon, MO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787875200,
-    "date_updated": 1787951341,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -32656,24 +32452,6 @@
     "program": "cs"
   },
   {
-    "id": "732402ac-f881-41b0-ba07-73a97342ee5f",
-    "company_name": "Micron Technology",
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "title": "Design Engineer Intern - HBM",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
-    "locations": [
-      "Richardson, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789430400,
-    "date_updated": 1789482628,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "5ab50af0-6624-45da-94e7-9d8f26ad8a17",
     "company_name": "Micron Technology",
     "company_url": "https://simplify.jobs/c/Micron-Technology",
@@ -32980,24 +32758,6 @@
     "source": "simplify",
     "date_posted": 1789165431,
     "date_updated": 1789165940,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "fe3438ed-3bcb-4b2c-8c82-956e0c204732",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer Intern",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789509965,
-    "date_updated": 1789510588,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -36109,24 +35869,6 @@
     "date_posted": 1779152916,
     "date_updated": 1779152941,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "61d8432d-5d66-44d0-8b65-b4da6cd371ab",
-    "company_name": "Nucor",
-    "company_url": "https://simplify.jobs/c/Nucor",
-    "title": "Commodity Markets Analyst Intern",
-    "url": "https://jobs.nucor.com/job/Cincinnati-Commodity-Markets-Analyst-Intern-(Summer-2027)-OH-45202/1420210100/?ats=successfactors",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787004507,
-    "date_updated": 1788449954,
-    "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -42660,24 +42402,6 @@
     "program": "cs"
   },
   {
-    "id": "6dd8231b-af5b-412e-bbe4-d94af163d8f7",
-    "company_name": "Rockwell Automation",
-    "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-    "title": "Content Software Development Intern - Lifecycle Services",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2",
-    "locations": [
-      "Mayfield Heights, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788310036,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8d011c08-4f57-4497-bb0b-0237ce363f1f",
     "company_name": "Rockwell Automation",
     "company_url": "https://simplify.jobs/c/Rockwell-Automation",
@@ -43346,24 +43070,6 @@
     "date_posted": 1789948800,
     "date_updated": 1790039668,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0184a4dc-b3d8-4d2b-ab22-6675bc6e4ec3",
-    "company_name": "SRI International",
-    "company_url": "https://simplify.jobs/c/SRI-International",
-    "title": "Embedded Software Engineer Co-op",
-    "url": "https://careers-sri.icims.com/jobs/6431/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Princeton, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1785794886,
-    "date_updated": 1785795572,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -47339,24 +47045,6 @@
     "source": "simplify",
     "date_posted": 1789597042,
     "date_updated": 1789598229,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "6093e680-0285-45a2-8e38-1f6ae4e9f4cc",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Electronic Design Engineer Intern - Optimus",
-    "url": "https://www.tesla.com/careers/search/job/271981",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1780823397,
-    "date_updated": 1780824158,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -56411,24 +56099,6 @@
     "company_url": "https://simplify.jobs/c/Watts-Water",
     "title": "Product Specialist Intern",
     "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586",
-    "locations": [
-      "Fort Worth, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789603200,
-    "date_updated": 1789684563,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "fe51fb9a-73cc-4b16-993a-f6d8191eeaf0",
-    "company_name": "Watts Water",
-    "company_url": "https://simplify.jobs/c/Watts-Water",
-    "title": "Product Specialist Intern - Summer 2027",
-    "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern--Summer-2027_10017585",
     "locations": [
       "Fort Worth, TX"
     ],
