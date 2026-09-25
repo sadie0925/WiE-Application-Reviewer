@@ -1409,24 +1409,6 @@
     "program": "cs"
   },
   {
-    "id": "41047974-7321-45cf-b910-ac9710ae6e39",
-    "company_name": "AbbVie",
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "title": "Business Technology Solutions Intern - Data & Software Engineering",
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787706452,
-    "date_updated": 1787706618,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "8569a45d-e504-4cc5-897a-de907ab8e0f7",
     "company_name": "AbbVie",
     "company_url": "https://simplify.jobs/c/AbbVie",
@@ -1479,24 +1461,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "d9b609ef-0a1c-4b6c-909e-3156ff77bdaa",
-    "company_name": "AccuWeather",
-    "company_url": "https://simplify.jobs/c/AccuWeather",
-    "title": "Hardware Intern",
-    "url": "https://job-boards.greenhouse.io/accuweather/jobs/8230684",
-    "locations": [
-      "State College, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790288828,
-    "date_updated": 1790290313,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "0852a12d-b8e1-4765-bdb1-fe6f25d996b0",
@@ -3484,42 +3448,6 @@
     "source": "simplify",
     "date_posted": 1790035200,
     "date_updated": 1790116595,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d10a9d0d-62b5-4eb6-8218-d01baa84b887",
-    "company_name": "American Fidelity",
-    "company_url": "https://simplify.jobs/c/American-Fidelity",
-    "title": "Agentic AI Intern",
-    "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016",
-    "locations": [
-      "Oklahoma City, OK"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787006418,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "69582230-5dee-4f0d-88be-bcd518c6edd5",
-    "company_name": "American Fidelity",
-    "company_url": "https://simplify.jobs/c/American-Fidelity",
-    "title": "Software Mobile Intern",
-    "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Mobile-Intern--OKC-Local-Only-_JR1021",
-    "locations": [
-      "Oklahoma City, OK"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1787006356,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -6936,24 +6864,6 @@
     "program": "cs"
   },
   {
-    "id": "1c8c6bac-3c43-4f37-aef3-01425709c4e3",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Data Scientist Intern",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249842",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790028951,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "69a94e8f-fc98-4b1e-a293-67e9d1853c9a",
     "company_name": "Booz Allen",
     "company_url": "https://simplify.jobs/c/Booz-Allen",
@@ -7224,42 +7134,6 @@
     "program": "cs"
   },
   {
-    "id": "c3d7feb6-9d19-4d95-a50c-aca69e2aac06",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Software Developer Intern",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790028973,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "64b4e84b-a833-403e-81dc-0e503d734f8c",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Software Developer Intern",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790032364,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "84aad02e-2ac4-4eaf-89fd-3674ae05f75e",
     "company_name": "Booz Allen",
     "company_url": "https://simplify.jobs/c/Booz-Allen",
@@ -7399,96 +7273,6 @@
     "source": "simplify",
     "date_posted": 1788220800,
     "date_updated": 1788287774,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d1ab33ae-00ef-4a5c-9f42-af71a13f9f68",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Software Developer Intern - University",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249827",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790028926,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6c19dbb0-d334-4197-a3b2-1a2b7952b5f0",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Software Developer Intern - University",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249828",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790028925,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4c9dd806-b8fb-45f1-902c-57dd9eea449b",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Software Developer Intern - University",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249801",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790030139,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f5a57f30-b133-43ba-b8f8-1de07dc17078",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Software Developer Intern - University",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249805",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790030137,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "6dd0e33a-c6c2-49ff-9275-1db9cd952dcd",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Software Developer Intern - University",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249815",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790030138,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -7669,78 +7453,6 @@
     "source": "simplify",
     "date_posted": 1789948800,
     "date_updated": 1790028972,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "82a9b6d4-6ab6-499d-a373-79b618b18010",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249869",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790028971,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "09ae562f-b803-436b-bc40-fa95dde013fd",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249870",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790028970,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ead230c6-9b31-4e9f-b251-81f5b95992c0",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249876",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790030137,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "10cac31b-231b-4800-b840-58f61912fea4",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249877",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790032357,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -26397,24 +26109,6 @@
     "program": "cs"
   },
   {
-    "id": "ecc2c90c-04f4-47ed-9368-45700dfe66c6",
-    "company_name": "Johns Hopkins Applied Physics Laboratory",
-    "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
-    "title": "Software Development Intern - Multi-Mission Planning Development",
-    "url": "https://careers.jhuapl.edu/jobs/59843?icims=1",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788288489,
-    "date_updated": 1788288753,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "e1ff445a-9dad-4e51-8528-9a0779013170",
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
@@ -27913,24 +27607,6 @@
     "program": "cs"
   },
   {
-    "id": "21abe7e3-285d-4817-a48a-557228cb2228",
-    "company_name": "Kodiak Robotics",
-    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
-    "title": "AI/ML Intern - Artificial Intelligence/Machine Learning",
-    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4377407009",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787603743,
-    "date_updated": 1787604382,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "078b686b-ef5b-4803-a291-b3762d2b81b9",
     "company_name": "Kodiak Robotics",
     "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
@@ -28775,24 +28451,6 @@
     "program": "cs"
   },
   {
-    "id": "607013f4-3235-4510-ab8d-d3638fc67e53",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.l3harris.com/job/Melbourne-Software-Engineering-Intern-(Melbourne,-FL)-FL-32901/1428467400/?ats=successfactors",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789049800,
-    "date_updated": 1789050060,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "1c48f600-06bd-47c6-b7a6-720bdbab01ea",
     "company_name": "L3Harris Technologies",
     "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
@@ -29129,24 +28787,6 @@
     "is_visible": true,
     "source": "simplify",
     "date_posted": 1789049776,
-    "date_updated": 1789049881,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "462036ea-eff2-4ded-93ae-893bcaa080a0",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineering Intern",
-    "url": "https://jobs.l3harris.com/job/Melbourne-Software-Engineering-Intern-FL-32901/1428454500/?ats=successfactors",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789049803,
     "date_updated": 1789049881,
     "category": "Hardware",
     "sponsorship": "Other",
@@ -33207,24 +32847,6 @@
     "date_posted": 1789430400,
     "date_updated": 1789512815,
     "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "366373d7-0ede-413a-8466-27171c7abc8a",
-    "company_name": "Micron Technology",
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "title": "Photomask Yield Enhancement Intern",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Photomask-Yield-Enhancement_JR110636",
-    "locations": [
-      "Boise, ID"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788480000,
-    "date_updated": 1788560378,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -50476,24 +50098,6 @@
     "program": "cs"
   },
   {
-    "id": "689f3f86-89fe-46b9-8d8f-72346df3b0ae",
-    "company_name": "The Toro Company",
-    "company_url": "https://simplify.jobs/c/The-Toro-Company",
-    "title": "Embedded Software Engineering Intern",
-    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
-    "locations": [
-      "Bloomington, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789084800,
-    "date_updated": 1789136641,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "214f535e-90ec-4cb3-900e-571f33da6d08",
     "company_name": "The Toro Company",
     "company_url": "https://simplify.jobs/c/The-Toro-Company",
@@ -56109,60 +55713,6 @@
     "program": "cs"
   },
   {
-    "id": "16eda482-7528-44a9-a9ea-c4c30b42b339",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789603200,
-    "date_updated": 1789654969,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "72070ff6-860b-4d13-b865-5f6091f53196",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789603200,
-    "date_updated": 1789654954,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d3cb9fdb-6b20-49e1-9f4e-9525acbcd327",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789603200,
-    "date_updated": 1789654977,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "98dbc614-2cd4-4d71-a5a3-61ac1b61fef9",
     "company_name": "Visa",
     "company_url": "https://simplify.jobs/c/Visa",
@@ -56828,24 +56378,6 @@
     "date_posted": 1789425486,
     "date_updated": 1789425648,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3a9d445d-6bcb-43b3-8183-0437d5b6c332",
-    "company_name": "Weave",
-    "company_url": "https://simplify.jobs/c/Weave",
-    "title": "Data Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d/application?embed=true",
-    "locations": [
-      "Lehi, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787353604,
-    "date_updated": 1787353741,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
