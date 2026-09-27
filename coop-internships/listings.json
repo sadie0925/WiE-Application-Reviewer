@@ -18639,24 +18639,6 @@
     "program": "other"
   },
   {
-    "id": "074a0da6-73e2-402d-90a7-ca4bf302d862",
-    "company_name": "First Citizens BancShares",
-    "company_url": "https://simplify.jobs/c/First-Citizens-BancShares",
-    "title": "IT Intern - Software Developer",
-    "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790345328,
-    "date_updated": 1790345730,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "3950ec12-b960-4a36-b3d6-f1c4799d409a",
     "company_name": "First Citizens BancShares",
     "company_url": "https://simplify.jobs/c/First-Citizens-BancShares",
@@ -21150,42 +21132,6 @@
     "program": "other"
   },
   {
-    "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788280302,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "c7669059-c3a1-48a3-b160-4cd69bf4882f",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Motorsports Strategy Intern - Sportscar Motorsports Strategy",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859",
-    "locations": [
-      "Concord, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789344000,
-    "date_updated": 1789424821,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f9a08de0-d633-4b19-b444-8002689fc795",
     "company_name": "General Motors",
     "company_url": "https://simplify.jobs/c/General-Motors",
@@ -21205,24 +21151,6 @@
     "program": "other"
   },
   {
-    "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Race Strategy & Analytics Intern - IndyCar",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990",
-    "locations": [
-      "Concord, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789344000,
-    "date_updated": 1789424624,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
     "company_name": "General Motors",
     "company_url": "https://simplify.jobs/c/General-Motors",
@@ -21240,24 +21168,6 @@
     "date_posted": 1789948800,
     "date_updated": 1790031204,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e8e4de39-fe79-4cb4-9edf-57780d8a6422",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Summer Intern - Performance Analysis",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985",
-    "locations": [
-      "Concord, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789344000,
-    "date_updated": 1789424638,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
