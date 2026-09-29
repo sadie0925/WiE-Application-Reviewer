@@ -36,42 +36,6 @@
     "program": "other"
   },
   {
-    "id": "5fb2e4f9-0eb7-43f3-8775-1fff0a8a0927",
-    "company_name": "4AG Robotics",
-    "company_url": "https://simplify.jobs/c/4AG-Robotics",
-    "title": "AI Co-op Student",
-    "url": "https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7",
-    "locations": [
-      "Salmon Arm, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789683764,
-    "date_updated": 1789685363,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e7670c04-e3a7-4a84-bb97-65416730882a",
-    "company_name": "4AG Robotics",
-    "company_url": "https://simplify.jobs/c/4AG-Robotics",
-    "title": "Robotics Software Co-op",
-    "url": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
-    "locations": [
-      "Salmon Arm, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789683509,
-    "date_updated": 1789685094,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "9a439612-1739-419b-89c7-99b6cee64e2b",
     "company_name": "A Thinking Ape",
     "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
@@ -1185,24 +1149,6 @@
     "source": "simplify",
     "date_posted": 1789510953,
     "date_updated": 1789512872,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
-    "company_name": "APEX Analytix",
-    "company_url": "https://simplify.jobs/c/APEX-Analytix",
-    "title": "Data Science Intern",
-    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
-    "locations": [
-      "Greensboro, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789510953,
-    "date_updated": 1789512887,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -3453,43 +3399,6 @@
     "program": "cs"
   },
   {
-    "id": "e3cfdda3-b161-4677-b003-df4a489fd52d",
-    "company_name": "American Family Insurance Group",
-    "company_url": "https://simplify.jobs/c/American-Family-Insurance-Group",
-    "title": "Consumer Research and Insights Intern",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Consumer-Research-and-Insights-Intern-2027_R39474",
-    "locations": [
-      "Madison, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790035200,
-    "date_updated": 1790116606,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1edb38d8-1adc-433a-a1b9-59a5af4f101f",
-    "company_name": "American Family Insurance Group",
-    "company_url": "https://simplify.jobs/c/American-Family-Insurance-Group",
-    "title": "Customer Analytics Intern",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Customer-Analytics-Intern_R39476",
-    "locations": [
-      "Madison, WI",
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790035200,
-    "date_updated": 1790116596,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "417baa72-1cf6-47fe-b9ee-2201b52d1846",
     "company_name": "American Family Insurance Group",
     "company_url": "https://simplify.jobs/c/American-Family-Insurance-Group",
@@ -3617,24 +3526,6 @@
     "program": "other"
   },
   {
-    "id": "9eef895c-2727-4ebb-92bc-fda2b10c3d34",
-    "company_name": "Amgen",
-    "company_url": "https://simplify.jobs/c/Amgen",
-    "title": "Data Scientist Intern",
-    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789084800,
-    "date_updated": 1789165885,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "811210da-553e-4d37-b262-9897450dc43d",
     "company_name": "Amgen",
     "company_url": "https://simplify.jobs/c/Amgen",
@@ -3757,24 +3648,6 @@
     "date_posted": 1788992813,
     "date_updated": 1788994164,
     "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e1f3338c-95a0-4b9f-b987-07fa38a8a4a6",
-    "company_name": "Ampersand",
-    "company_url": "https://simplify.jobs/c/Ampersand-Bio",
-    "title": "Data Engineering Co-op - Open to Northeastern students only",
-    "url": "https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787186852,
-    "date_updated": 1787187448,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -3942,25 +3815,6 @@
     "source": "simplify",
     "date_posted": 1789430400,
     "date_updated": 1789512348,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "c88eff3d-aa92-400f-81af-bc057b38bc77",
-    "company_name": "Analog Devices",
-    "company_url": "https://simplify.jobs/c/Analog-Devices",
-    "title": "Embedded Software Engineer Intern",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Embedded-Software-Engineer_R266615",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790121600,
-    "date_updated": 1790212844,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -4272,24 +4126,6 @@
     "program": "cs"
   },
   {
-    "id": "c947b352-5c11-4dbc-ac3b-9d584245e3e1",
-    "company_name": "Apple",
-    "company_url": "https://simplify.jobs/c/Apple",
-    "title": "Design Verification Engineer Intern",
-    "url": "https://jobs.apple.com/en-us/details/200685172",
-    "locations": [
-      "Cupertino, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790201135,
-    "date_updated": 1790201577,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "9de9af2d-fdd8-4a02-8964-7ef816980d72",
     "company_name": "Apple",
     "company_url": "https://simplify.jobs/c/Apple",
@@ -4360,24 +4196,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "175ef4c9-fecc-47c4-b091-217815858898",
-    "company_name": "Applied Materials",
-    "company_url": "https://simplify.jobs/c/Applied-Materials",
-    "title": "Data Analyst Intern - Global Technical Learning Center",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551",
-    "locations": [
-      "Albany, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788480000,
-    "date_updated": 1788571148,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "441d92c8-bb63-49f4-94cb-afcd777fa84a",
@@ -6364,24 +6182,6 @@
     "program": "cs"
   },
   {
-    "id": "a8c7b220-4a50-4ef3-a46b-91d557bafff6",
-    "company_name": "Bernhard",
-    "company_url": "https://simplify.jobs/c/Bernhard",
-    "title": "Engineering Intern - Emerging Technologies",
-    "url": "https://careers-enfra.icims.com/jobs/11237/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790115337,
-    "date_updated": 1790116541,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f3ce0494-256c-4884-acf3-f8db79e4216d",
     "company_name": "Bio-Techne",
     "company_url": "https://simplify.jobs/c/Bio-Techne",
@@ -7550,24 +7350,6 @@
     "program": "cs"
   },
   {
-    "id": "1a872d07-40d8-4b98-8f0f-15127543ae64",
-    "company_name": "Boston Scientific",
-    "company_url": "https://simplify.jobs/c/Boston-Scientific",
-    "title": "Data Engineer Intern",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813501949",
-    "locations": [
-      "Maple Grove, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790029584,
-    "date_updated": 1790031275,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "30a813fa-60dd-46e6-b380-c00124f3422a",
     "company_name": "Boston Scientific",
     "company_url": "https://simplify.jobs/c/Boston-Scientific",
@@ -7617,6 +7399,24 @@
     "source": "simplify",
     "date_posted": 1790288282,
     "date_updated": 1790289181,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "9f98eff6-d8a9-41cc-9d73-e31bc31c2617",
+    "company_name": "Boston Scientific",
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "title": "Software Development Engineer Co-op",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813674232",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790662561,
+    "date_updated": 1790662681,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -7985,24 +7785,6 @@
     "program": "cs"
   },
   {
-    "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
-    "company_name": "Brunswick",
-    "company_url": "https://simplify.jobs/c/Brunswick",
-    "title": "Product Management Intern - Oils & Lubricants",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213",
-    "locations": [
-      "Fond du Lac, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787616000,
-    "date_updated": 1787683363,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
     "company_name": "Brunswick",
     "company_url": "https://simplify.jobs/c/Brunswick",
@@ -8035,24 +7817,6 @@
     "date_posted": 1787875200,
     "date_updated": 1787952726,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "85b3e408-7ae2-4096-98fa-2eac99fa020a",
-    "company_name": "Brunswick",
-    "company_url": "https://simplify.jobs/c/Brunswick",
-    "title": "Software Controls Engineer Intern",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436",
-    "locations": [
-      "Fond du Lac, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788134400,
-    "date_updated": 1788217877,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -9318,24 +9082,6 @@
     "program": "cs"
   },
   {
-    "id": "52bd67ea-cc1b-4b12-9ba9-77c1fe08ed78",
-    "company_name": "COUNTRY Financial",
-    "company_url": "https://simplify.jobs/c/COUNTRY-Financial",
-    "title": "Automation Developer Intern",
-    "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000",
-    "locations": [
-      "Bloomington, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788906974,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a70cad86-89f9-4f7c-881d-a22840ad91ee",
     "company_name": "COUNTRY Financial",
     "company_url": "https://simplify.jobs/c/COUNTRY-Financial",
@@ -9896,24 +9642,6 @@
     "source": "simplify",
     "date_posted": 1790294400,
     "date_updated": 1790375828,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "85ec94f8-b794-406d-b74b-06e49b725a08",
-    "company_name": "Cencora",
-    "company_url": "https://simplify.jobs/c/Cencora",
-    "title": "Software Intern",
-    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790294400,
-    "date_updated": 1790375835,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -11440,24 +11168,6 @@
     "program": "cs"
   },
   {
-    "id": "b6b0bc09-5fc8-4d8e-ad3f-ffdd70e0315e",
-    "company_name": "Collier Aerospace",
-    "company_url": "https://simplify.jobs/c/Collier-Aerospace",
-    "title": "AI Feature Development Intern - NCSG",
-    "url": "https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789597370,
-    "date_updated": 1789599231,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
     "company_name": "Collier Aerospace",
     "company_url": "https://simplify.jobs/c/Collier-Aerospace",
@@ -11471,24 +11181,6 @@
     "source": "simplify",
     "date_posted": 1788993284,
     "date_updated": 1788994599,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a023874d-88f4-4e6c-a29a-681d54bc45f9",
-    "company_name": "Collier Aerospace",
-    "company_url": "https://simplify.jobs/c/Collier-Aerospace",
-    "title": "Software Engineer Intern - Web Applications - Summer 2027",
-    "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77",
-    "locations": [
-      "Newport News, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788993284,
-    "date_updated": 1788994585,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -12525,42 +12217,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "d7f0c23e-9959-43e2-8078-887a76fc2142",
-    "company_name": "Cozey",
-    "company_url": "https://simplify.jobs/c/63700e00-0cb3-4c30-914b-c05cb8626d52",
-    "title": "Product Management Intern",
-    "url": "https://ats.rippling.com/cozey-internships/jobs/2b4bb455-c5c3-41ee-9bc8-b9fd889d35ea",
-    "locations": [
-      "Mount Royal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789170608,
-    "date_updated": 1789170911,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "c23e28d2-825b-4ccc-a647-74cfdfc4b83d",
-    "company_name": "Cozey",
-    "company_url": "https://simplify.jobs/c/63700e00-0cb3-4c30-914b-c05cb8626d52",
-    "title": "Product Management Intern",
-    "url": "https://ats.rippling.com/cozey-internships/jobs/b1f3e185-e5d7-4baf-b67f-10f8703b130a",
-    "locations": [
-      "Mount Royal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789170608,
-    "date_updated": 1789170905,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "ab5fa332-ca73-429e-83d4-712536d312df",
@@ -13634,24 +13290,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "2440120c-cae1-4ca3-8e9b-73e8ca4bfac9",
-    "company_name": "Deloitte",
-    "company_url": "https://simplify.jobs/c/Deloitte",
-    "title": "Data & AI Solutions Engineering Summer Scholar Intern",
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787105099,
-    "date_updated": 1788524462,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "ce513b74-df7e-4731-9a61-31b178de7ccc",
@@ -14779,24 +14417,6 @@
     "program": "cs"
   },
   {
-    "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
-    "company_name": "EQT Corporation",
-    "company_url": "https://simplify.jobs/c/EQT-Corporation",
-    "title": "Data Engineering Intern - Completions Services",
-    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008",
-    "locations": [
-      "Canonsburg, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789597915,
-    "date_updated": 1789599497,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "93dd3fda-fc7f-40c8-b141-553b32a68027",
     "company_name": "Eaton",
     "company_url": "https://simplify.jobs/c/Eaton-Corporation",
@@ -14997,26 +14617,6 @@
     "program": "cs"
   },
   {
-    "id": "344f9541-1bdc-41ab-8c57-ba63a9e11517",
-    "company_name": "Edison International",
-    "company_url": "https://simplify.jobs/c/Edison-International",
-    "title": "Computer Science Intern",
-    "url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors",
-    "locations": [
-      "Alhambra, CA",
-      "Pomona, CA",
-      "Rosemead, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788253875,
-    "date_updated": 1788406926,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "7a58365b-0d72-4b0c-8094-fa29ec18b560",
     "company_name": "Edison International",
     "company_url": "https://simplify.jobs/c/Edison-International",
@@ -15089,27 +14689,6 @@
     "source": "simplify",
     "date_posted": 1788253881,
     "date_updated": 1788254018,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
-    "company_name": "Edison International",
-    "company_url": "https://simplify.jobs/c/Edison-International",
-    "title": "Summer Internship - Data Analytics/Science/Applied Math",
-    "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors",
-    "locations": [
-      "Santa Ana, CA",
-      "Fullerton, CA",
-      "Irvine, CA",
-      "Westminster, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788253876,
-    "date_updated": 1788254017,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -18005,45 +17584,6 @@
     "program": "cs"
   },
   {
-    "id": "88f11ce3-1385-47af-9fd7-81b25a184d70",
-    "company_name": "Fidelity Investments",
-    "company_url": "https://simplify.jobs/c/Fidelity-Investments",
-    "title": "Software Full Stack Engineer Co-op",
-    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Full-Stack-Engineer_2135236",
-    "locations": [
-      "Boston, MA",
-      "Merrimack, NH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789084800,
-    "date_updated": 1789165285,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9cada06b-51c0-417f-8863-1c0468182c31",
-    "company_name": "Fidelity Investments",
-    "company_url": "https://simplify.jobs/c/Fidelity-Investments",
-    "title": "Undergraduate Internship - Software",
-    "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524",
-    "locations": [
-      "Boston, MA",
-      "Westlake, TX",
-      "Durham, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790000415,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "4d6f38d1-0167-4de7-85c8-e77d8500c99f",
     "company_name": "Fidelity National Information Services",
     "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
@@ -18082,26 +17622,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "6c46682a-cd5d-4600-9417-d7b43d3afe1f",
-    "company_name": "Fidelity National Information Services",
-    "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
-    "title": "Software Engineer Intern - FIS University Program",
-    "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512",
-    "locations": [
-      "Milwaukee, WI",
-      "Jacksonville, FL",
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789603200,
-    "date_updated": 1789682675,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "60b68227-25d4-4cb0-bb71-13a501242bcf",
@@ -18920,24 +18440,6 @@
     "program": "other"
   },
   {
-    "id": "88d4e38d-d6d5-4550-8ea8-651074023cd3",
-    "company_name": "GE Appliances",
-    "company_url": "https://simplify.jobs/c/GE-Appliances",
-    "title": "Software Engineer Co-op",
-    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2027_REQ-26592",
-    "locations": [
-      "Louisville, KY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787616000,
-    "date_updated": 1787701479,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
     "company_name": "GE Appliances",
     "company_url": "https://simplify.jobs/c/GE-Appliances",
@@ -18972,25 +18474,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
-    "company_name": "GE Healthcare",
-    "company_url": "https://simplify.jobs/c/GE-Healthcare",
-    "title": "Engineering Development Program Intern - Hardware",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1",
-    "locations": [
-      "Twinsburg, OH",
-      "Waukesha, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784505600,
-    "date_updated": 1784557847,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
@@ -19847,24 +19330,6 @@
     "program": "cs"
   },
   {
-    "id": "cd4e5539-0fd0-4b45-b76c-0ece4db32125",
-    "company_name": "Garmin",
-    "company_url": "https://simplify.jobs/c/Garmin",
-    "title": "EMC Engineer Intern",
-    "url": "https://careers.garmin.com/jobs/20216?icims=1",
-    "locations": [
-      "Olathe, KS"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790115065,
-    "date_updated": 1790115482,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "eeb5660e-5241-42ab-8b48-af7b01b81087",
     "company_name": "Garmin",
     "company_url": "https://simplify.jobs/c/Garmin",
@@ -19987,6 +19452,24 @@
     "date_posted": 1789423662,
     "date_updated": 1789424281,
     "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "9d7fba42-9b7a-428c-8e74-6c7727783d75",
+    "company_name": "Garmin",
+    "company_url": "https://simplify.jobs/c/Garmin",
+    "title": "Software Engineer Intern",
+    "url": "https://careers.garmin.com/jobs/20055?icims=1",
+    "locations": [
+      "Montgomery, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790662170,
+    "date_updated": 1790662679,
+    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -20651,24 +20134,6 @@
     "program": "other"
   },
   {
-    "id": "c7669059-c3a1-48a3-b160-4cd69bf4882f",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Motorsports Strategy Intern - Sportscar Motorsports Strategy",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859",
-    "locations": [
-      "Concord, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789344000,
-    "date_updated": 1789424821,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f9a08de0-d633-4b19-b444-8002689fc795",
     "company_name": "General Motors",
     "company_url": "https://simplify.jobs/c/General-Motors",
@@ -20723,24 +20188,6 @@
     "date_posted": 1789948800,
     "date_updated": 1790031204,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e8e4de39-fe79-4cb4-9edf-57780d8a6422",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Summer Intern - Performance Analysis",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985",
-    "locations": [
-      "Concord, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789344000,
-    "date_updated": 1789424638,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -21348,22 +20795,130 @@
     "program": "cs"
   },
   {
-    "id": "5bdec003-2a02-42a4-a602-467541840552",
+    "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "company_name": "Goldman Sachs",
     "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - Americas - Engineering",
-    "url": "https://higher.gs.com/roles/171565?type=students",
+    "title": "Quantitative Strategist Intern - Americas",
+    "url": "https://higher.gs.com/roles/171532?type=students",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767952,
+    "date_updated": 1788489726,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171551?type=students",
     "locations": [
       "Salt Lake City, UT"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
+    "date_posted": 1786767952,
+    "date_updated": 1788489723,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171534?type=students",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767952,
+    "date_updated": 1788489725,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171549?type=students",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767946,
+    "date_updated": 1788489725,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+    "url": "https://higher.gs.com/roles/171548?type=students",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
     "date_posted": 1786767953,
-    "date_updated": 1788489731,
+    "date_updated": 1788489726,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Summer Analyst Intern - Engineering",
+    "url": "https://higher.gs.com/roles/177808?type=students",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767938,
+    "date_updated": 1788489727,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "url": "https://higher.gs.com/roles/181628?type=students",
+    "locations": [
+      "West Palm Beach, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767935,
+    "date_updated": 1786806912,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "96cd6ad8-81e9-4fb4-bbf6-b3dd4f259a58",
@@ -22824,24 +22379,6 @@
     "program": "other"
   },
   {
-    "id": "88c5caad-cb4c-4072-ba31-6de074b0984e",
-    "company_name": "Hexagon AB",
-    "company_url": "https://simplify.jobs/c/Hexagon-AB",
-    "title": "Positioning Services Intern",
-    "url": "https://careers-hexagonpositioning.icims.com/jobs/3085/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Calgary, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788473198,
-    "date_updated": 1788489741,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "38ef5409-b962-46f0-a83e-73363efb0f04",
     "company_name": "Hiebing",
     "company_url": "https://simplify.jobs/c/a3140f6c-1e06-4a71-865b-62a5aad6acf2",
@@ -22873,42 +22410,6 @@
     "source": "simplify",
     "date_posted": 1789424266,
     "date_updated": 1789424626,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "76ef25fd-801d-4c81-9867-64085601c325",
-    "company_name": "Highgate",
-    "company_url": "https://simplify.jobs/c/Highgate",
-    "title": "Revenue Management Intern - Summer 2027",
-    "url": "https://externalhourly-highgate.icims.com/jobs/82512/job?hub=7&mobile=true&needsRedirect=false",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789411438,
-    "date_updated": 1790327502,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e7bcc39a-7fdd-453f-b556-1ee9c411c5c9",
-    "company_name": "Highgate",
-    "company_url": "https://simplify.jobs/c/Highgate",
-    "title": "Revenue Management Intern - Summer 2027",
-    "url": "https://externalhourly-highgate.icims.com/jobs/82513/job?hub=7&mobile=true&needsRedirect=false",
-    "locations": [
-      "Miami, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789411438,
-    "date_updated": 1790331055,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -23659,24 +23160,6 @@
     "program": "cs"
   },
   {
-    "id": "9e770238-e3ff-491f-baa6-08a85518e661",
-    "company_name": "Illinois Tool Works",
-    "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
-    "title": "Software Engineer Intern",
-    "url": "https://careers.itw.com/global/en/job/JR10261",
-    "locations": [
-      "Eden Prairie, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790202132,
-    "date_updated": 1790203741,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "d5f1160b-114b-4a0e-b196-adf32447203e",
     "company_name": "Immuta",
     "company_url": "https://simplify.jobs/c/Immuta",
@@ -24145,24 +23628,6 @@
     "program": "cs"
   },
   {
-    "id": "c125d363-9bdc-456d-92f1-eff43afdc8ae",
-    "company_name": "Intel",
-    "company_url": "https://simplify.jobs/c/Intel",
-    "title": "Firmware Development Undergraduate Engineering Co-op",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790121600,
-    "date_updated": 1790203009,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ca96c441-d218-4a8a-b6f6-a035b101c51b",
     "company_name": "Intel",
     "company_url": "https://simplify.jobs/c/Intel",
@@ -24463,24 +23928,6 @@
     "program": "cs"
   },
   {
-    "id": "b59a478b-37c7-40b4-af73-c2419fe4d772",
-    "company_name": "Intelliguard",
-    "company_url": "https://simplify.jobs/c/Intelliguard",
-    "title": "Engineering Intern - R&D",
-    "url": "https://ats.rippling.com/intelliguard/jobs/f7754742-8ec6-4803-b2fc-1a50c682030f",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789683740,
-    "date_updated": 1789685353,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "72d70be2-7543-43d5-a8cd-9b80189884ad",
     "company_name": "InterSystems",
     "company_url": "https://simplify.jobs/c/InterSystems",
@@ -24706,25 +24153,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "ef9f0f9b-5794-4b38-a0c7-b641999f1c49",
-    "company_name": "Intuit",
-    "company_url": "https://simplify.jobs/c/Intuit",
-    "title": "Product Manager Intern",
-    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
-    "locations": [
-      "Mountain View, CA",
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789420086,
-    "date_updated": 1789420298,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "71018f38-602e-4001-9e45-698d20f81b5f",
@@ -26031,24 +25459,6 @@
     "program": "cs"
   },
   {
-    "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
-    "company_name": "KLA Corporation",
-    "company_url": "https://simplify.jobs/c/KLA-Corporation",
-    "title": "Software Engineering Intern - C++ - Unix",
-    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790035200,
-    "date_updated": 1790144696,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "d269fad7-d513-4c35-b790-f31017a09c8a",
     "company_name": "KOSTAL Group",
     "company_url": "https://simplify.jobs/c/KOSTAL-Group",
@@ -26483,24 +25893,6 @@
     "program": "cs"
   },
   {
-    "id": "66a61359-31ec-434c-9b02-f8c2802c91b2",
-    "company_name": "Kinaxis",
-    "company_url": "https://simplify.jobs/c/Kinaxis",
-    "title": "AI Quality Co-op Intern - Evaluation & Security",
-    "url": "https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789682723,
-    "date_updated": 1789683361,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "5ac1d7a8-5581-4468-b12a-92c221dd3cd0",
     "company_name": "Kinaxis",
     "company_url": "https://simplify.jobs/c/Kinaxis",
@@ -26623,24 +26015,6 @@
     "date_posted": 1788402200,
     "date_updated": 1788419070,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d86e44b9-4c31-4fce-9921-62b882b53084",
-    "company_name": "Kite Pharma",
-    "company_url": "https://simplify.jobs/c/Kite-Pharma",
-    "title": "Kite Development Intern - Tech Ops - Process Development",
-    "url": "https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---California---Santa-Monica/Intern---Kite-Development---Tech-Ops--Process-Development-_R0054669",
-    "locations": [
-      "Santa Monica, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788852025,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -28504,60 +27878,6 @@
     "program": "cs"
   },
   {
-    "id": "d776dc7e-67b7-4245-b891-fab6aa5edfae",
-    "company_name": "Live Oak Bank",
-    "company_url": "https://simplify.jobs/c/Live-Oak-Bank",
-    "title": "Data Engineer Intern - Multiple Teams",
-    "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634",
-    "locations": [
-      "Wilmington, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790030229,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3ffcd0e4-1c94-4df2-ae83-88132a1a017e",
-    "company_name": "Live Oak Bank",
-    "company_url": "https://simplify.jobs/c/Live-Oak-Bank",
-    "title": "Data Science Intern",
-    "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
-    "locations": [
-      "Wilmington, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790030218,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "bc4117e4-8373-4215-901c-689e3476cdfb",
-    "company_name": "Live Oak Bank",
-    "company_url": "https://simplify.jobs/c/Live-Oak-Bank",
-    "title": "Software Engineering Intern - Summer Internship Program",
-    "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643",
-    "locations": [
-      "Wilmington, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790030242,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "3926a1b3-dad2-4a73-8bb0-c9ac6ab28dc0",
     "company_name": "Loram",
     "company_url": "https://simplify.jobs/c/Loram",
@@ -29022,24 +28342,6 @@
     "date_posted": 1787186877,
     "date_updated": 1787186981,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "952056a2-b2cc-495f-b6f7-1ea3d4caf8a1",
-    "company_name": "MFS",
-    "company_url": "https://simplify.jobs/c/MFS",
-    "title": "Consultant Relations Co-op - January - June",
-    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1789971529,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -29638,25 +28940,6 @@
     "program": "cs"
   },
   {
-    "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
-    "company_name": "Marsh",
-    "company_url": "https://simplify.jobs/c/Marsh",
-    "title": "Government Health Consulting Informatics Intern - College Program",
-    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073",
-    "locations": [
-      "Phoenix, AZ",
-      "Minneapolis, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787270400,
-    "date_updated": 1787350502,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "22b78f4a-3df3-419a-9868-20e68b7dbb6f",
     "company_name": "Marvell",
     "company_url": "https://simplify.jobs/c/Marvell",
@@ -29780,6 +29063,24 @@
     "source": "simplify",
     "date_posted": 1790208000,
     "date_updated": 1790288295,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "06dcf017-75e1-4b49-813d-0671772b0592",
+    "company_name": "Marvell",
+    "company_url": "https://simplify.jobs/c/Marvell",
+    "title": "Board Product Engineer Intern - BS",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Board-Product-Engineer-Intern--BS---Summer-2027_2603833",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1790674361,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -29909,28 +29210,6 @@
     "program": "other"
   },
   {
-    "id": "d72a211e-044f-49a3-86c1-7b6b5c9fa66e",
-    "company_name": "Marvell",
-    "company_url": "https://simplify.jobs/c/Marvell",
-    "title": "Digital IC Design Intern - BS",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827-1",
-    "locations": [
-      "Hudson Valley, NY",
-      "Austin, TX",
-      "Irvine, CA",
-      "Santa Clara, CA",
-      "Boise, ID"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790030360,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "8d331a2d-b001-4caa-8b4b-d156010085c0",
     "company_name": "Marvell",
     "company_url": "https://simplify.jobs/c/Marvell",
@@ -30026,44 +29305,6 @@
     "program": "cs"
   },
   {
-    "id": "8ce088a5-0a5d-4469-9b3f-d8a196162728",
-    "company_name": "Marvell",
-    "company_url": "https://simplify.jobs/c/Marvell",
-    "title": "Firmware Engineer Intern",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790035200,
-    "date_updated": 1790088733,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e2983544-b2c7-4646-833d-b960d39cf290",
-    "company_name": "Marvell",
-    "company_url": "https://simplify.jobs/c/Marvell",
-    "title": "Functional Validation Intern - BS",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514",
-    "locations": [
-      "Santa Clara, CA",
-      "Boise, ID",
-      "Westborough, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788480000,
-    "date_updated": 1788559931,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "2efbdbb6-799e-4b37-8c81-68bf168efb5f",
     "company_name": "Marvell",
     "company_url": "https://simplify.jobs/c/Marvell",
@@ -30121,30 +29362,6 @@
     "source": "simplify",
     "date_posted": 1788480000,
     "date_updated": 1788570643,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "c59f85f4-61b5-40c1-886f-14943e17c10e",
-    "company_name": "Marvell",
-    "company_url": "https://simplify.jobs/c/Marvell",
-    "title": "Physical Design Engineer Intern - BS",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1",
-    "locations": [
-      "Morrisville, NC",
-      "Austin, TX",
-      "Rochester, MN",
-      "Santa Clara, CA",
-      "Boise, ID",
-      "Burlington, VT",
-      "Westborough, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788480000,
-    "date_updated": 1788570629,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -31098,26 +30315,6 @@
     "program": "cs"
   },
   {
-    "id": "26e7fc97-03fa-4445-8338-fdad5cb0812c",
-    "company_name": "Mercury",
-    "company_url": "https://simplify.jobs/c/Mercury",
-    "title": "Software Engineering Intern - Spring 2027",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
-    "locations": [
-      "Remote in USA",
-      "Portland, OR",
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789982316,
-    "date_updated": 1789982933,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "721b1502-72bd-47a9-91c2-a71011c5fd1c",
     "company_name": "Meridian Partners",
     "company_url": "https://simplify.jobs/c/Meridian-Partners",
@@ -31507,24 +30704,6 @@
     "program": "other"
   },
   {
-    "id": "9c12dcc7-3cb4-42ae-9f92-b25cd4e324c3",
-    "company_name": "Micron Technology",
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "title": "DRAM Design Engineer Intern",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458",
-    "locations": [
-      "Boise, ID"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786924800,
-    "date_updated": 1786974922,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
     "company_name": "Micron Technology",
     "company_url": "https://simplify.jobs/c/Micron-Technology",
@@ -31829,25 +31008,6 @@
     "date_posted": 1789165435,
     "date_updated": 1789165946,
     "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "b68764db-1c55-4c12-a7a8-8345bfc7aca4",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Silicon Engineering Intern - 6-month Program",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982259",
-    "locations": [
-      "Hillsboro, OR",
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789711593,
-    "date_updated": 1789712101,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
   },
@@ -32719,24 +31879,6 @@
     "program": "cs"
   },
   {
-    "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
-    "company_name": "NVIDIA",
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "title": "Deep Learning Computer Architecture Intern",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787097600,
-    "date_updated": 1787132048,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
     "company_name": "NVIDIA",
     "company_url": "https://simplify.jobs/c/NVIDIA",
@@ -32768,24 +31910,6 @@
     "source": "simplify",
     "date_posted": 1787097600,
     "date_updated": 1788342932,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
-    "company_name": "NVIDIA",
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "title": "Hardware ASIC Design Intern - Hardware",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787097600,
-    "date_updated": 1787132055,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -33614,24 +32738,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "2e2b4512-02d3-4134-a01d-b3f6887cd3e5",
-    "company_name": "Nationwide",
-    "company_url": "https://simplify.jobs/c/Nationwide",
-    "title": "Personal Lines Sales Business Analyst Intern",
-    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Sales-Business-Analyst-Intern_100038",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788480000,
-    "date_updated": 1788860845,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "02d9e13e-0a78-4ac3-ac88-bcc860a02ee5",
@@ -35808,24 +34914,6 @@
     "program": "cs"
   },
   {
-    "id": "be741c04-69a7-41b2-8fb3-8d280bacbe8c",
-    "company_name": "Oshkosh",
-    "company_url": "https://simplify.jobs/c/Oshkosh",
-    "title": "AI Engineer Intern",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265",
-    "locations": [
-      "Oshkosh, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789084800,
-    "date_updated": 1789166205,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "66842e6a-844a-444e-b6f7-7c6403506740",
     "company_name": "Oshkosh",
     "company_url": "https://simplify.jobs/c/Oshkosh",
@@ -36527,6 +35615,24 @@
     "source": "simplify",
     "date_posted": 1783980674,
     "date_updated": 1788471199,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "08264811-d767-497d-b0da-835dff66cf7b",
+    "company_name": "Peak Energy",
+    "company_url": "https://simplify.jobs/c/Peak-Energy",
+    "title": "Test Engineer Intern",
+    "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5178781007&gh_jid=5178781007",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783721447,
+    "date_updated": 1790675822,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -39005,24 +38111,6 @@
     "program": "other"
   },
   {
-    "id": "c2cbd149-9096-42ca-b785-b8ab7d96e3cf",
-    "company_name": "Qumulo",
-    "company_url": "https://simplify.jobs/c/Qumulo",
-    "title": "Software Development Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790202097,
-    "date_updated": 1790203718,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "59143a12-b5c5-4756-adf5-a3376f4b7296",
     "company_name": "RAVE Aerospace",
     "company_url": "https://simplify.jobs/c/RAVE-Aerospace",
@@ -39075,24 +38163,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "f0da3c1f-2fb8-46f1-b1f7-57c7a9ca092a",
-    "company_name": "REV Robotics",
-    "company_url": "https://simplify.jobs/c/REV-Robotics",
-    "title": "Software Engineer Intern",
-    "url": "https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba",
-    "locations": [
-      "Carrollton, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789683499,
-    "date_updated": 1789685075,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "619bd52a-9875-4fc1-8397-91599716755c",
@@ -39351,6 +38421,24 @@
     "program": "other"
   },
   {
+    "id": "6bc1c873-c812-4770-8e16-7e18397b1432",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Display Systems Engineering Co-op",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790640000,
+    "date_updated": 1790662616,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "d1b58794-f4e7-4d28-af0d-73a29d2fd9b6",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -39495,24 +38583,6 @@
     "program": "cs"
   },
   {
-    "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Performance Indicator Development and Process and Project Management Internship",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-d-indicateurs-de-performance-et-gestion-des-processus-et-projets---Internship---Winter-2027--Development-of-Performance-Indicators-and-Process-and-Project-Management_01867284",
-    "locations": [
-      "Longueuil, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788393600,
-    "date_updated": 1788490600,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "fffa4bdc-f97d-4cc9-9912-6015b38cfd10",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -39585,24 +38655,6 @@
     "program": "cs"
   },
   {
-    "id": "b698f712-411d-4005-b00c-49d33f52731c",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Co-op",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788998400,
-    "date_updated": 1789079554,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "36518220-e089-4427-b9c1-8e0b42abf389",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -39617,24 +38669,6 @@
     "date_posted": 1788998400,
     "date_updated": 1789079540,
     "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "76730cc1-91aa-4e2a-84db-89852233810d",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788907599,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -39671,24 +38705,6 @@
     "date_posted": 1789776000,
     "date_updated": 1789884796,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9eba7545-19f8-461d-b313-6a523b17e88c",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645",
-    "locations": [
-      "East Hartford, CT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790035200,
-    "date_updated": 1790144246,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -39765,24 +38781,6 @@
     "program": "cs"
   },
   {
-    "id": "757ed4c0-2f8e-4285-a0dd-e82bb8698fb7",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineering Co-op",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op---Spring-Summer-2027-_01872230",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788912000,
-    "date_updated": 1788993917,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a9a76fae-a7c1-48c3-8229-1804f208d98d",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -39817,6 +38815,60 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
+  },
+  {
+    "id": "159f82a2-c7ed-4eee-8157-6d300f593c83",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Systems Engineer Co-op - Spring/Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1790676400,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "9ab13260-bac2-4bc2-9334-a6f0d248d8be",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Systems Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern--Systems-Engineer--Onsite-_01868477",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788220800,
+    "date_updated": 1790679275,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "139c5ee4-482e-40f4-9946-3027f84308e3",
+    "company_name": "RTX",
+    "company_url": "https://simplify.jobs/c/RTX",
+    "title": "Test Engineering Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Test-Engineering-Intern--Summer-2027-_01872154",
+    "locations": [
+      "Burnsville, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789430400,
+    "date_updated": 1790676385,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
   },
   {
     "id": "20e60473-ab0b-483d-8db0-683b9665e97c",
@@ -40618,6 +39670,24 @@
     "program": "other"
   },
   {
+    "id": "1736ee29-1f1e-4421-8616-9c616abc3f8e",
+    "company_name": "Rhoda AI",
+    "company_url": "https://simplify.jobs/c/Rhoda-AI",
+    "title": "Robot Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5/application?embed=true",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790662681,
+    "date_updated": 1790662917,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "91dc2cea-fc02-4261-b19d-3c2c94d12a0d",
     "company_name": "Rigetti",
     "company_url": "https://simplify.jobs/c/Rigetti",
@@ -41339,6 +40409,24 @@
     "source": "simplify",
     "date_posted": 1789603200,
     "date_updated": 1789683300,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "9c40bb4c-e181-478f-94f6-bbb35c085b3b",
+    "company_name": "Rodan Energy Solutions",
+    "company_url": "https://simplify.jobs/c/Rodan-Energy-Solutions",
+    "title": "Data Science Co-op",
+    "url": "https://rodanenergysolutionsinc.applytojob.com/apply/Bn4sqYBZPe/Data-Science-Coop-Student-Winter-2027",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790029506,
+    "date_updated": 1790031181,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -44323,25 +43411,6 @@
     "source": "simplify",
     "date_posted": 1789516800,
     "date_updated": 1789596543,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "8dc19272-2833-4254-bc11-07d090e9ce14",
-    "company_name": "Super",
-    "company_url": "https://simplify.jobs/c/Super",
-    "title": "Data Analytics Intern",
-    "url": "https://jobs.ashbyhq.com/super.com/3ee6ff20-3502-410b-bf24-71db02488986/application?embed=true",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790202086,
-    "date_updated": 1790203501,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -48489,24 +47558,6 @@
     "program": "other"
   },
   {
-    "id": "37a8eaba-b127-49e5-8f0f-9b2eb342be9f",
-    "company_name": "The US Oncology Network",
-    "company_url": "https://simplify.jobs/c/The-US-Oncology-Network",
-    "title": "Data Analyst Intern",
-    "url": "https://careers.usoncology.com/jobs/43158?icims=1",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790287510,
-    "date_updated": 1790287585,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a767329d-41e2-4902-a15c-d28cb21ad5e1",
     "company_name": "The Voleon Group",
     "company_url": "https://simplify.jobs/c/The-Voleon-Group",
@@ -48611,6 +47662,24 @@
     "source": "simplify",
     "date_posted": 1788998400,
     "date_updated": 1789079885,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "7a4c54a2-858e-4678-90f3-93bba7644c52",
+    "company_name": "Thrivent",
+    "company_url": "https://simplify.jobs/c/Thrivent",
+    "title": "Application Engineer Intern - Investments",
+    "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790640000,
+    "date_updated": 1790662608,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -51190,25 +50259,6 @@
     "program": "cs"
   },
   {
-    "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
-    "company_name": "Trane Technologies",
-    "company_url": "https://simplify.jobs/c/Trane-Technologies",
-    "title": "AI & Analytics Intern",
-    "url": "https://careers.tranetechnologies.com/global/en/job/JR-7591",
-    "locations": [
-      "Minneapolis, MN",
-      "Davidson, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788238446,
-    "date_updated": 1788239715,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
     "company_name": "Trane Technologies",
     "company_url": "https://simplify.jobs/c/Trane-Technologies",
@@ -52964,6 +52014,60 @@
     "program": "cs"
   },
   {
+    "id": "3e456223-d5b0-4c98-9c23-c9658c558899",
+    "company_name": "Verizon Communications",
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "title": "Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387",
+    "locations": [
+      "Irving, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790640000,
+    "date_updated": 1790662586,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "4d75efc0-61e0-48f4-955d-15ea4c188bae",
+    "company_name": "Verizon Communications",
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "title": "Data Science Intern - Network and Technology",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384",
+    "locations": [
+      "Irving, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790640000,
+    "date_updated": 1790662586,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "810a66c8-0c3f-4ac3-bec1-fb4ae6080325",
+    "company_name": "Verizon Communications",
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "title": "Data Scientist Intern - Fiber Engineering & Operations",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386",
+    "locations": [
+      "Irving, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790640000,
+    "date_updated": 1790662586,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "27ec0955-4e9f-417f-b354-3581a4623c59",
     "company_name": "Verkada",
     "company_url": "https://simplify.jobs/c/Verkada",
@@ -53978,6 +53082,24 @@
     "program": "cs"
   },
   {
+    "id": "2535090d-f04a-40f9-afb9-01cd43e2af3f",
+    "company_name": "W.W. Grainger",
+    "company_url": "https://simplify.jobs/c/WW-Grainger",
+    "title": "Business Analyst Intern",
+    "url": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors",
+    "locations": [
+      "Green Bay, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790662356,
+    "date_updated": 1790662501,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "bb0509d1-41ed-4c91-ba8b-14fa499ce25c",
     "company_name": "W.W. Grainger",
     "company_url": "https://simplify.jobs/c/WW-Grainger",
@@ -54137,24 +53259,6 @@
     "date_posted": 1781083263,
     "date_updated": 1781083562,
     "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "b7359908-b1b9-4e89-befe-99ce05f4df7f",
-    "company_name": "Walmart",
-    "company_url": "https://simplify.jobs/c/Walmart",
-    "title": "Senior Data Scientist Intern",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032",
-    "locations": [
-      "Bentonville, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788998400,
-    "date_updated": 1789078729,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -56073,24 +55177,6 @@
     "source": "simplify",
     "date_posted": 1789170645,
     "date_updated": 1789170661,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
-    "company_name": "k-ID",
-    "company_url": "https://simplify.jobs/c/K-ID",
-    "title": "Engineering Intern - Program",
-    "url": "https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784596670,
-    "date_updated": 1785615418,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
