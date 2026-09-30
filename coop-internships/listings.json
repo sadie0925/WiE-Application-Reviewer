@@ -2541,60 +2541,6 @@
     "program": "cs"
   },
   {
-    "id": "af4ae6bb-f0fe-41f1-af62-5ea8c2bc515f",
-    "company_name": "Allied Solutions",
-    "company_url": "https://simplify.jobs/c/Allied-Solutions",
-    "title": "Data Governance Intern",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076",
-    "locations": [
-      "St Paul, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788307200,
-    "date_updated": 1788414127,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9b1b26ff-b7e0-4bb3-9295-ca054fdf0a44",
-    "company_name": "Allied Solutions",
-    "company_url": "https://simplify.jobs/c/Allied-Solutions",
-    "title": "Data Science Intern - Data Intelligence",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077",
-    "locations": [
-      "Carmel, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788307200,
-    "date_updated": 1788414127,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "20930d88-f7dd-4419-8030-471b614af90e",
-    "company_name": "Allied Solutions",
-    "company_url": "https://simplify.jobs/c/Allied-Solutions",
-    "title": "IT Performance Analyst Intern",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Performance-Analyst-Intern_R-011082",
-    "locations": [
-      "Carmel, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788307200,
-    "date_updated": 1788414127,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "b1b8e29b-5511-480f-81c2-be6ceb87b8cf",
     "company_name": "Allied Solutions",
     "company_url": "https://simplify.jobs/c/Allied-Solutions",
@@ -2611,42 +2557,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "92416bd1-1305-45ff-8558-9427fd6cc2bb",
-    "company_name": "Allied Solutions",
-    "company_url": "https://simplify.jobs/c/Allied-Solutions",
-    "title": "Sales Analytics Intern",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098",
-    "locations": [
-      "Carmel, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788480000,
-    "date_updated": 1788561541,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "837e72ab-fcb7-41aa-b35b-6a804c4f5954",
-    "company_name": "Allied Solutions",
-    "company_url": "https://simplify.jobs/c/Allied-Solutions",
-    "title": "Software Engineer Intern",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087",
-    "locations": [
-      "Carmel, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788307200,
-    "date_updated": 1788415197,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "f2b9e6b4-e247-42e2-8737-f7e8234ef0ea",
@@ -6860,24 +6770,6 @@
     "source": "simplify",
     "date_posted": 1788220800,
     "date_updated": 1788287783,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "69a94e8f-fc98-4b1e-a293-67e9d1853c9a",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Data Scientist Intern",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249837",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790032358,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -15857,24 +15749,6 @@
     "program": "cs"
   },
   {
-    "id": "a3b700b5-11b3-48ae-92cf-a4cd8017c1f6",
-    "company_name": "Entegris",
-    "company_url": "https://simplify.jobs/c/Entegris",
-    "title": "Lab Automation & AI Engineering Co-op",
-    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1",
-    "locations": [
-      "Billerica, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788998400,
-    "date_updated": 1789050087,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "19d8e1f9-fd1a-43d1-a864-b5ab2e3e3cea",
     "company_name": "Entegris",
     "company_url": "https://simplify.jobs/c/Entegris",
@@ -20626,24 +20500,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "30aaecc3-d600-4c24-bde5-386b4056f2ee",
-    "company_name": "GlobalFoundries",
-    "company_url": "https://simplify.jobs/c/GlobalFoundries",
-    "title": "Design Application Engineering Intern",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Design-Application-Engineering-Intern--Summer-2027-_JR-2604221",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790294400,
-    "date_updated": 1790375581,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "e751268e-d0fb-4f42-afbf-21fab826d6ee",
@@ -26769,24 +26625,6 @@
     "program": "cs"
   },
   {
-    "id": "e0dcbc43-33a2-4fab-a165-d3a89c549a89",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1428460500/?ats=successfactors",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789049801,
-    "date_updated": 1789050058,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "a4d13889-6dc1-4a09-8283-436347c602ca",
     "company_name": "L3Harris Technologies",
     "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
@@ -26944,24 +26782,6 @@
     "source": "simplify",
     "date_posted": 1789049800,
     "date_updated": 1789050060,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1c48f600-06bd-47c6-b7a6-720bdbab01ea",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-NY-14610-1839/1416677000/?ats=successfactors",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789049778,
-    "date_updated": 1789050045,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -27196,24 +27016,6 @@
     "source": "simplify",
     "date_posted": 1789509965,
     "date_updated": 1789510589,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "09c94917-70f6-40c1-b1e4-ad10b54d98ee",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.l3harris.com/job/Melbourne-Intern,-Software-Engineer-FL-32904/1433003500/?ats=successfactors",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790201373,
-    "date_updated": 1790203075,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -28789,24 +28591,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "e4654e28-bb64-4c28-b1f3-c86baeabe85a",
-    "company_name": "Major League Baseball",
-    "company_url": "https://simplify.jobs/c/MLB",
-    "title": "Software Engineer Intern - Baseball Systems",
-    "url": "https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8827470002",
-    "locations": [
-      "Cleveland, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790290040,
-    "date_updated": 1790290261,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "d1378a04-b2e2-4cfd-ae35-e0e1c8a675b5",
@@ -30583,24 +30367,6 @@
     "date_posted": 1788825600,
     "date_updated": 1788847984,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "2504c78d-986a-40de-b1e5-49135a5f9043",
-    "company_name": "Merck",
-    "company_url": "https://simplify.jobs/c/Merck",
-    "title": "Optical Imaging Data Science Intern",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788847971,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -38040,24 +37806,6 @@
     "program": "other"
   },
   {
-    "id": "8c53032c-d29b-4077-82e5-835b75a70990",
-    "company_name": "Qorvo",
-    "company_url": "https://simplify.jobs/c/Qorvo",
-    "title": "Test Engineer Intern",
-    "url": "https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75080/1424797000/?ats=successfactors",
-    "locations": [
-      "Richardson, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788186899,
-    "date_updated": 1788186997,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "f5cf3346-173a-44e6-847a-d9334db5775c",
     "company_name": "Qorvo",
     "company_url": "https://simplify.jobs/c/Qorvo",
@@ -40115,24 +39863,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "5b45c51f-8025-4c1f-9845-28a30c387ae0",
-    "company_name": "Renesas Electronics",
-    "company_url": "https://simplify.jobs/c/Renesas-Electronics",
-    "title": "Design Verification Intern",
-    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000152284789",
-    "locations": [
-      "Duluth, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790644172,
-    "date_updated": 1790645221,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "f57bb086-aa5d-4b27-be0c-45e482f63cc5",
@@ -52403,24 +52133,6 @@
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "c744757a-3327-4052-bc7a-62b0e22f6dce",
-    "company_name": "Valeo",
-    "company_url": "https://simplify.jobs/c/Valeo",
-    "title": "Systems Engineering Co-op - Software",
-    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241",
-    "locations": [
-      "Troy, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1781215659,
-    "date_updated": 1781216830,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "e1ae2c85-470c-4630-9b2d-c0fcd897ad01",
