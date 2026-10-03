@@ -1041,6 +1041,24 @@
     "program": "cs"
   },
   {
+    "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
+    "company_name": "APEX Analytix",
+    "company_url": "https://simplify.jobs/c/APEX-Analytix",
+    "title": "Data Science Intern",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789510953,
+    "date_updated": 1789512887,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "6605fc56-e2f1-411d-aee7-a7b19e4f51a1",
     "company_name": "AQR Capital Management",
     "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
@@ -9547,6 +9565,24 @@
     "program": "other"
   },
   {
+    "id": "7ca0d74d-4cb3-4ad6-80ae-61921c8aeff6",
+    "company_name": "CesiumAstro",
+    "company_url": "https://simplify.jobs/c/CesiumAstro",
+    "title": "Electrical Engineering Intern - FPGA",
+    "url": "https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791036734,
+    "date_updated": 1791036989,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "1f4b8669-695e-4ecc-970c-eaef0de39d99",
     "company_name": "CesiumAstro",
     "company_url": "https://simplify.jobs/c/CesiumAstro",
@@ -14294,6 +14330,24 @@
     "program": "cs"
   },
   {
+    "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
+    "company_name": "EQT Corporation",
+    "company_url": "https://simplify.jobs/c/EQT-Corporation",
+    "title": "Data Engineering Intern - Completions Services",
+    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008",
+    "locations": [
+      "Canonsburg, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789597915,
+    "date_updated": 1789599497,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "93dd3fda-fc7f-40c8-b141-553b32a68027",
     "company_name": "Eaton",
     "company_url": "https://simplify.jobs/c/Eaton-Corporation",
@@ -17515,6 +17569,24 @@
     "program": "cs"
   },
   {
+    "id": "820b14cc-f1d1-4c26-9a48-d04cc309866f",
+    "company_name": "First Citizens BancShares",
+    "company_url": "https://simplify.jobs/c/First-Citizens-BancShares",
+    "title": "Summer Intern - Sales Performance & Analytics Strategy",
+    "url": "https://firstcitizens.jibeapply.com/jobs/35826?icims=1",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791036379,
+    "date_updated": 1791036643,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "4a4488a7-d411-4cdf-bf48-8d34e3a60a68",
     "company_name": "First National Bank",
     "company_url": "https://simplify.jobs/c/First-National-Bank",
@@ -20573,96 +20645,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Americas",
-    "url": "https://higher.gs.com/roles/171532?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489726,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171534?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489725,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "url": "https://higher.gs.com/roles/171548?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767953,
-    "date_updated": 1788489726,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - Engineering",
-    "url": "https://higher.gs.com/roles/177808?type=students",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767938,
-    "date_updated": 1788489727,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "url": "https://higher.gs.com/roles/181628?type=students",
-    "locations": [
-      "West Palm Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767935,
-    "date_updated": 1786806912,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "96cd6ad8-81e9-4fb4-bbf6-b3dd4f259a58",
@@ -24111,6 +24093,24 @@
     "source": "simplify",
     "date_posted": 1787963949,
     "date_updated": 1787964148,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "a63f1342-abee-4e15-bd4c-988628442f07",
+    "company_name": "Invesco",
+    "company_url": "https://simplify.jobs/c/Invesco",
+    "title": "Early Career Intern - Fixed Income Global Technology",
+    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790812800,
+    "date_updated": 1790894432,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -31875,24 +31875,6 @@
     "program": "cs"
   },
   {
-    "id": "3fb97c17-713f-4d82-ab2e-8174eeaebfb2",
-    "company_name": "Moog",
-    "company_url": "https://simplify.jobs/c/Moog",
-    "title": "Artificial Intelligence Intern",
-    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288",
-    "locations": [
-      "Buffalo, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790640000,
-    "date_updated": 1790720252,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "5f7a34ef-1409-4c5f-8952-1bbeaad4cedd",
     "company_name": "Moog",
     "company_url": "https://simplify.jobs/c/Moog",
@@ -34299,24 +34281,6 @@
     "program": "cs"
   },
   {
-    "id": "2b8a623c-d139-413c-aff2-d9afce6a38e4",
-    "company_name": "Northrop Grumman",
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "title": "Cyber Software Engineer Intern",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790035200,
-    "date_updated": 1790807634,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "0e88b223-3137-4971-96be-a636939bea84",
     "company_name": "Northrop Grumman",
     "company_url": "https://simplify.jobs/c/Northrop-Grumman",
@@ -36584,24 +36548,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "2c831f83-ca5c-44e8-b6b8-dce99992900e",
-    "company_name": "Philips",
-    "company_url": "https://simplify.jobs/c/Philips",
-    "title": "Electrical Engineer Intern",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790294400,
-    "date_updated": 1790384963,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "c54c66c0-44fb-477d-906d-1544410c81ce",
@@ -39128,19 +39074,19 @@
     "program": "cs"
   },
   {
-    "id": "e6eed6a3-2c62-4035-8952-30b4577d84e3",
+    "id": "9f477186-5000-4fe3-8151-4971b1c4abfb",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Co-op - Spring/Summer 2027",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384",
+    "title": "Software Engineer Co-op - Winter/Spring 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464",
     "locations": [
       "Cedar Rapids, IA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1790640000,
-    "date_updated": 1790731081,
+    "date_posted": 1789516800,
+    "date_updated": 1789598927,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -39231,24 +39177,6 @@
     "source": "simplify",
     "date_posted": 1790035200,
     "date_updated": 1790144246,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "51b8b3e7-e7d0-4727-9f90-91917bc88230",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561",
-    "locations": [
-      "Woburn, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790640000,
-    "date_updated": 1790700299,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -45016,24 +44944,6 @@
     "date_posted": 1790121600,
     "date_updated": 1790203766,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "b76f087b-87ac-46aa-87cf-36b7ef985f21",
-    "company_name": "TD Bank",
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "title": "Data Analyst Co-op - Global Technology & Solutions",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236",
-    "locations": [
-      "Mt Laurel Township, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789084800,
-    "date_updated": 1789107136,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -51984,26 +51894,6 @@
     "program": "cs"
   },
   {
-    "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
-    "company_name": "Tyler Technologies",
-    "company_url": "https://simplify.jobs/c/Tyler-Technologies",
-    "title": "Software Development Intern - Summer 2027",
-    "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
-    "locations": [
-      "Yarmouth, ME",
-      "Orono, ME",
-      "Falmouth, ME"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790029561,
-    "date_updated": 1790040061,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "bcdf932a-34be-4d72-8b26-c843cffa9886",
     "company_name": "Tyson Foods",
     "company_url": "https://simplify.jobs/c/Tyson-Foods",
@@ -54529,24 +54419,6 @@
     "program": "cs"
   },
   {
-    "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
-    "company_name": "Walmart",
-    "company_url": "https://simplify.jobs/c/Walmart",
-    "title": "Software Engineer 2 Intern",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II---Sunnyvale_R-2630127",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788393600,
-    "date_updated": 1788490023,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f00e8399-0777-4e56-b2cb-0fd0631a0655",
     "company_name": "Walmart",
     "company_url": "https://simplify.jobs/c/Walmart",
@@ -54706,24 +54578,6 @@
     "source": "simplify",
     "date_posted": 1790806994,
     "date_updated": 1790808042,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "baa23a3b-d414-4373-9c07-e1c15ba9f262",
-    "company_name": "Wellington Management",
-    "company_url": "https://simplify.jobs/c/Wellington-Management",
-    "title": "Technology Undergraduate Intern",
-    "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788998400,
-    "date_updated": 1789078746,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -56150,6 +56004,24 @@
     "program": "cs"
   },
   {
+    "id": "e04fda0f-12a2-4117-aaa1-dc27e62a8cd0",
+    "company_name": "Zions Bank",
+    "company_url": "https://simplify.jobs/c/Zions-Bank",
+    "title": "Software Engineer Intern",
+    "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071639",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789511022,
+    "date_updated": 1789513102,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "82583da7-e72f-4b4f-aabb-0066a8951ba5",
     "company_name": "Zip",
     "company_url": "https://simplify.jobs/c/Zip",
@@ -56272,24 +56144,6 @@
     "date_posted": 1789516800,
     "date_updated": 1790699270,
     "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
-    "company_name": "bioMérieux",
-    "company_url": "https://simplify.jobs/c/BioMerieux",
-    "title": "Hardware Co-op",
-    "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-    "locations": [
-      "Hazelwood, MO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789510912,
-    "date_updated": 1789511761,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
   },
