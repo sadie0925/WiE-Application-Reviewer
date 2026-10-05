@@ -9972,6 +9972,26 @@
     "program": "cs"
   },
   {
+    "id": "28286b52-4c99-4d00-a870-d919c13d68c6",
+    "company_name": "Citadel",
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "title": "Software Engineer Intern",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "locations": [
+      "Greenwich, CT",
+      "Houston, TX",
+      "Miami, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1783318141,
+    "date_updated": 1783318226,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "d4041518-dc22-4f01-96d9-aa0030510fd8",
     "company_name": "Citadel Securities",
     "company_url": "https://simplify.jobs/c/Citadel-Securities",
@@ -16008,24 +16028,6 @@
     "program": "other"
   },
   {
-    "id": "b8e5d108-c2d4-4203-be00-c0a649c4459d",
-    "company_name": "Etched",
-    "company_url": "https://simplify.jobs/c/Etched",
-    "title": "Electrical Platform Intern",
-    "url": "https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770430155,
-    "date_updated": 1773307413,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "c3f5e2ad-b12d-4ea0-bcce-3fc9a30ae812",
     "company_name": "Etched",
     "company_url": "https://simplify.jobs/c/Etched",
@@ -16039,24 +16041,6 @@
     "source": "simplify",
     "date_posted": 1789453100,
     "date_updated": 1789453261,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "2e947349-323e-4e5a-af34-b79087418d65",
-    "company_name": "Etched",
-    "company_url": "https://simplify.jobs/c/Etched",
-    "title": "PD Intern",
-    "url": "https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770430151,
-    "date_updated": 1771668866,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -16076,78 +16060,6 @@
     "date_posted": 1785795538,
     "date_updated": 1785797102,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "cce7f674-04ef-491a-8e8d-9adbfff6a06f",
-    "company_name": "Etched",
-    "company_url": "https://simplify.jobs/c/Etched",
-    "title": "RTL Intern",
-    "url": "https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770430144,
-    "date_updated": 1773907524,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "1677419e-8d02-4e05-b049-cd051f2b1b28",
-    "company_name": "Etched.ai",
-    "company_url": "https://simplify.jobs/c/Etched-AI",
-    "title": "Chipsim Intern",
-    "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770430153,
-    "date_updated": 1770430153,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "92d6996f-07c3-4808-bd14-f290ddd71004",
-    "company_name": "Etched.ai",
-    "company_url": "https://simplify.jobs/c/Etched-AI",
-    "title": "DV Intern",
-    "url": "https://jobs.ashbyhq.com/Etched/dacedaca-c4ca-4964-85a7-8df1738005bb/application",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770430146,
-    "date_updated": 1770430146,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "b6a3ef51-360d-4fca-b9ce-d3956052fbb0",
-    "company_name": "Etched.ai",
-    "company_url": "https://simplify.jobs/c/Etched-AI",
-    "title": "Firmware Intern - Firmware",
-    "url": "https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1770430143,
-    "date_updated": 1770430143,
-    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -30616,6 +30528,42 @@
     "program": "cs"
   },
   {
+    "id": "a9abc1d3-27bf-4290-9ab4-f785087a3634",
+    "company_name": "Micron Technology",
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "title": "HBM Memory Design Engineer Intern - HBM",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791072000,
+    "date_updated": 1791162980,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "3ec3bd30-a625-49ef-bad3-4a40b9de33ea",
+    "company_name": "Micron Technology",
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "title": "Memory Design Engineer Intern - HBM",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791072000,
+    "date_updated": 1791162979,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "82d2f53d-fc5f-477d-bbfa-42b2f0710605",
     "company_name": "Micron Technology",
     "company_url": "https://simplify.jobs/c/Micron-Technology",
@@ -36207,6 +36155,24 @@
     "source": "simplify",
     "date_posted": 1787680853,
     "date_updated": 1787680981,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "16856e96-3bd9-4fee-85e4-ed92164905ae",
+    "company_name": "Primient",
+    "company_url": "https://simplify.jobs/c/Primient",
+    "title": "AI Analyst Intern",
+    "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056",
+    "locations": [
+      "Schaumburg, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791072000,
+    "date_updated": 1791152101,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -47432,24 +47398,6 @@
     "source": "simplify",
     "date_posted": 1790812800,
     "date_updated": 1790893088,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1de3a007-a2fa-4dda-9ba0-055c6f70c3d4",
-    "company_name": "The Friedkin Group",
-    "company_url": "https://simplify.jobs/c/The-Friedkin-Group",
-    "title": "IT Data Analytics Intern - Business Systems & AI",
-    "url": "https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789164969,
-    "date_updated": 1789165710,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
