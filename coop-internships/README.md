@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**3182 active US/Canada co-op & intern listings** · 2453 CS/software · 729 other programs · 0 inactive · Last updated: 2026-10-10 16:52 ET
+**3187 active US/Canada co-op & intern listings** · 2456 CS/software · 731 other programs · 0 inactive · Last updated: 2026-10-10 22:54 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -338,7 +338,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (2174)
+### CS / Software (2177)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -1139,6 +1139,8 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Gilead Sciences | Research Intern - Drug Metabolism - AI | Foster City, CA | 2026-09-24 | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism---AI_R0055519) |
 | Glean | Software Engineer Intern | Mountain View, CA | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4595665005) |
 | GlobalFoundries | Software Engineer Intern | Austin, TX, Santa Clara, CA | 2026-10-08 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039) |
+| Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | Salt Lake City, UT | 2026-08-15 | [Apply](https://higher.gs.com/roles/171551?type=students) |
+| Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | Dallas, TX | 2026-08-15 | [Apply](https://higher.gs.com/roles/171534?type=students) |
 | Google | User Experience Engineer Intern | Palo Alto, CA, Cambridge, MA (+20) | 2026-09-14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/112499004540887750) |
 | Gordon Food Service | Category Insights Analyst Intern | Wyoming, MI | 2026-09-17 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/NA-Category-Insights-Analyst-Intern_R-57366-1) |
 | Gordon Food Service | Category Support Intern | Wyoming, MI | 2026-09-21 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Intern--NA-Category-Support_R-57473) |
@@ -1308,6 +1310,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Johns Hopkins Applied Physics Laboratory | Computer Engineer Intern - Shipboard Systems Group | Laurel, MD | 2026-09-14 | [Apply](https://careers.jhuapl.edu/jobs/60049?icims=1) |
 | Johns Hopkins Applied Physics Laboratory | Cyber Physical Systems Intern | Laurel, MD | 2026-10-01 | [Apply](https://careers.jhuapl.edu/jobs/60339?icims=1) |
 | Johns Hopkins Applied Physics Laboratory | Cyber Software Engineer Intern - Capabilities Development | Laurel, MD | 2026-09-01 | [Apply](https://careers.jhuapl.edu/jobs/59779?icims=1) |
+| Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | 2026-10-10 | [Apply](https://careers.jhuapl.edu/jobs/60432?icims=1) |
 | Johns Hopkins Applied Physics Laboratory | Data Scientist Intern - Data Science - System Performance Evaluation | Laurel, MD | 2026-08-25 | [Apply](https://careers.jhuapl.edu/jobs/59800?icims=1) |
 | Johns Hopkins Applied Physics Laboratory | Engineer/Analyst/Scientist Intern - C2 Resilience Sciences | Laurel, MD | 2026-09-01 | [Apply](https://careers.jhuapl.edu/jobs/59832?icims=1) |
 | Johns Hopkins Applied Physics Laboratory | Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control | Laurel, MD | 2026-09-01 | [Apply](https://careers.jhuapl.edu/jobs/59598?icims=1) |
@@ -2517,7 +2520,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | xAI | Software Engineer Intern/Co-op | Palo Alto, CA | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007) |
 | xAI | Software Engineering Intern Co-op | Palo Alto, CA | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007) |
 
-### Other programs (645)
+### Other programs (647)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -2844,6 +2847,8 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Marvell | Security Verification/Validation Engineer Intern | Chandler, AZ | 2026-09-22 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148) |
 | Marvell | Test Equipment Engineer Intern | Santa Clara, CA | 2026-09-20 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern_2603826) |
 | Marvell | Test Equipment Engineer Intern | Santa Clara, CA | 2026-09-20 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern_2603826-1) |
+| Marvell | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT | 2026-09-08 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) |
+| Marvell | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT | 2026-09-08 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) |
 | Masco | Hardware Engineer Co-op - Electrical Engineering | Indianapolis, IN | 2026-09-09 | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2) |
 | McKesson | Business Analyst Intern - Product Performance | Irving, TX | 2026-09-15 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111) |
 | Medline | MBA Intern - Product Management | Chicago, IL, Northfield, IL | 2026-08-06 | [Apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) |

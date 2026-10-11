@@ -21423,6 +21423,42 @@
     "program": "cs"
   },
   {
+    "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171551?type=students",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767952,
+    "date_updated": 1788489723,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
+    "company_name": "Goldman Sachs",
+    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171534?type=students",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1786767952,
+    "date_updated": 1788489725,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "96cd6ad8-81e9-4fb4-bbf6-b3dd4f259a58",
     "company_name": "Google",
     "company_url": "https://simplify.jobs/c/Google",
@@ -25935,6 +25971,24 @@
     "date_posted": 1788288493,
     "date_updated": 1788288751,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "cc5558b2-1bda-49b9-a95f-0a93489f72e2",
+    "company_name": "Johns Hopkins Applied Physics Laboratory",
+    "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+    "title": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+    "url": "https://careers.jhuapl.edu/jobs/60432?icims=1",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791670057,
+    "date_updated": 1791670322,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -31453,6 +31507,42 @@
     "source": "simplify",
     "date_posted": 1789948800,
     "date_updated": 1790702581,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "f110d4a7-32ed-49ae-a14e-357e17fe995a",
+    "company_name": "Marvell",
+    "company_url": "https://simplify.jobs/c/Marvell",
+    "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788912000,
+    "date_updated": 1788965549,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "e01c6336-8606-4375-b8f5-69be1e983e2f",
+    "company_name": "Marvell",
+    "company_url": "https://simplify.jobs/c/Marvell",
+    "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788912000,
+    "date_updated": 1788965554,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
