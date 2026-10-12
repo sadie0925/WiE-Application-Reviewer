@@ -8985,6 +8985,24 @@
     "program": "cs"
   },
   {
+    "id": "bb47dc93-f16f-46a0-b000-c7c3f10499df",
+    "company_name": "C&S Wholesale Grocers",
+    "company_url": "https://simplify.jobs/c/CS-Wholesale-Grocers",
+    "title": "IS Intern - Data Analytics & Data Science",
+    "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
+    "locations": [
+      "Edison, NJ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791676800,
+    "date_updated": 1791756797,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "5e14584d-3148-449a-b903-28b77771e883",
     "company_name": "C&S Wholesale Grocers",
     "company_url": "https://simplify.jobs/c/CS-Wholesale-Grocers",
@@ -20576,6 +20594,42 @@
     "program": "cs"
   },
   {
+    "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "AV Sensor Design, Release and Integration Intern",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993",
+    "locations": [
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791331200,
+    "date_updated": 1791412774,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "9336555d-472f-4804-b5f7-a1e52e004ac6",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Autonomous Driving Software Engineer Intern",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791417600,
+    "date_updated": 1791499078,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
     "company_name": "General Motors",
     "company_url": "https://simplify.jobs/c/General-Motors",
@@ -20591,6 +20645,45 @@
     "date_posted": 1788134400,
     "date_updated": 1788208989,
     "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Embedded and Systems Engineering Intern - Digital Product",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+    "locations": [
+      "Austin, TX",
+      "Milford, MI",
+      "Mountain View, CA",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1790031192,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "937f9f37-e581-434f-a5f4-54b33dbe72ab",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Infotainment Software Developer Co-op",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790553600,
+    "date_updated": 1790893841,
+    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -20704,6 +20797,44 @@
     "date_posted": 1789948800,
     "date_updated": 1790031204,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "206b933c-d14d-4bf7-952c-895af8edc9ac",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+    "locations": [
+      "Milford, MI",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791158400,
+    "date_updated": 1791240154,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Systems Engineer Intern - Asd",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989",
+    "locations": [
+      "Milford, MI",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791331200,
+    "date_updated": 1791412777,
+    "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -21275,24 +21406,6 @@
     "program": "cs"
   },
   {
-    "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171549?type=students",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767946,
-    "date_updated": 1788489725,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "company_name": "Goldman Sachs",
     "company_url": "https://simplify.jobs/c/Goldman-Sachs",
@@ -21309,42 +21422,6 @@
     "category": "Quant",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - Engineering",
-    "url": "https://higher.gs.com/roles/177808?type=students",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767938,
-    "date_updated": 1788489727,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "url": "https://higher.gs.com/roles/181628?type=students",
-    "locations": [
-      "West Palm Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767935,
-    "date_updated": 1786806912,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "96cd6ad8-81e9-4fb4-bbf6-b3dd4f259a58",
@@ -24484,24 +24561,6 @@
     "program": "cs"
   },
   {
-    "id": "a0a903aa-873b-439c-a75f-944260620ad7",
-    "company_name": "Impulse Space",
-    "company_url": "https://simplify.jobs/c/Impulse-Space",
-    "title": "Avionics Electric Propulsion Engineering Intern",
-    "url": "https://impulsespace.pinpointhq.com/en/postings/e3b63a8a-129f-4ffa-abe9-fde35e6e6974?ats=pinpointhq",
-    "locations": [
-      "Redondo Beach, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789170805,
-    "date_updated": 1791116643,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "1e876ae2-39bb-4074-b163-dcb7368e9df3",
     "company_name": "Impulse Space",
     "company_url": "https://simplify.jobs/c/Impulse-Space",
@@ -26764,6 +26823,24 @@
     "program": "cs"
   },
   {
+    "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
+    "company_name": "KLA",
+    "company_url": "https://simplify.jobs/c/KLA",
+    "title": "Product Development Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790726400,
+    "date_updated": 1791326662,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
     "id": "695b19fd-a757-4b61-95e6-b7d31ea50129",
     "company_name": "KLA",
     "company_url": "https://simplify.jobs/c/KLA",
@@ -26885,6 +26962,24 @@
     "source": "simplify",
     "date_posted": 1790726400,
     "date_updated": 1790778901,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "fb99fc9f-da10-4a0c-9d4c-565dd66138c8",
+    "company_name": "KLA Corporation",
+    "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "title": "Software Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/UIUC-Next-Day-On-Campus-Interviews_2640825-1",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788912000,
+    "date_updated": 1791066078,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -30529,24 +30624,6 @@
     "program": "cs"
   },
   {
-    "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
-    "company_name": "Marsh",
-    "company_url": "https://simplify.jobs/c/Marsh",
-    "title": "Summer Analyst Intern - Data and Analytics",
-    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787788800,
-    "date_updated": 1787869000,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "6f576614-627b-4348-9a04-178f26b01381",
     "company_name": "Marvell",
     "company_url": "https://simplify.jobs/c/Marvell",
@@ -31416,24 +31493,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "3d114c80-b3b3-4c00-bd97-baf23f379b01",
-    "company_name": "McKesson",
-    "company_url": "https://simplify.jobs/c/McKesson",
-    "title": "Business Analyst Intern - Product Performance",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111",
-    "locations": [
-      "Irving, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789516800,
-    "date_updated": 1791123482,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "2cd2eed4-ab82-44f3-bf55-31b703917e15",
@@ -41489,6 +41548,24 @@
     "source": "simplify",
     "date_posted": 1788216786,
     "date_updated": 1788216927,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "515ed5fe-a9ee-4b7c-8490-ae8eb2439255",
+    "company_name": "Resource Innovations",
+    "company_url": "https://simplify.jobs/c/Resource-Innovations",
+    "title": "Energy Engineering Intern",
+    "url": "https://apply.workable.com/resource-innovations/j/4CAAA40639/apply",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791756869,
+    "date_updated": 1791756901,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
