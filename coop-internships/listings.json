@@ -1406,24 +1406,6 @@
     "program": "other"
   },
   {
-    "id": "0811fecf-0bc0-49dc-b96d-2a673f0a19e9",
-    "company_name": "Acxiom",
-    "company_url": "https://simplify.jobs/c/Acxiom",
-    "title": "Product Manager Intern - Real Identity Product Team",
-    "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1",
-    "locations": [
-      "Conway, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789430400,
-    "date_updated": 1789511628,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "442e767f-02ce-411c-8238-a1f8c5d06757",
     "company_name": "Adobe",
     "company_url": "https://simplify.jobs/c/Adobe",
@@ -18812,24 +18794,6 @@
     "program": "cs"
   },
   {
-    "id": "5a24ffd7-21dd-4446-9322-8b43eab99a97",
-    "company_name": "Freddie Mac",
-    "company_url": "https://simplify.jobs/c/Freddie-Mac",
-    "title": "Software Developer Intern - Single-Family",
-    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787603070,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "9b814dc4-e65c-4e43-aa10-eb1cfeed3036",
     "company_name": "Freddie Mac",
     "company_url": "https://simplify.jobs/c/Freddie-Mac",
@@ -20097,24 +20061,6 @@
     "source": "simplify",
     "date_posted": 1790952217,
     "date_updated": 1790952351,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "518eb063-8156-4ee0-82dc-173594892c67",
-    "company_name": "Gas South",
-    "company_url": "https://simplify.jobs/c/Gas-South",
-    "title": "Junior Analyst Co-op",
-    "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247655",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790894601,
-    "date_updated": 1790894720,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"

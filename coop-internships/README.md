@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**3218 active US/Canada co-op & intern listings** · 2465 CS/software · 753 other programs · 0 inactive · Last updated: 2026-10-16 11:46 ET
+**3215 active US/Canada co-op & intern listings** · 2463 CS/software · 752 other programs · 0 inactive · Last updated: 2026-10-16 16:14 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -355,7 +355,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (2183)
+### CS / Software (2181)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -1052,7 +1052,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Freddie Mac | Multifamily Capital Markets Analytics & Engineering Intern | McLean, VA | 2026-09-30 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690) |
 | Freddie Mac | Multifamily Software Development Intern - Summer 2027 | McLean, VA | 2026-08-23 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) |
 | Freddie Mac | Quantitative Risk Management Intern | McLean, VA | 2026-08-23 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
-| Freddie Mac | Software Developer Intern - Single-Family | McLean, VA | 2026-08-23 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | GAF | Data Science (AI) Intern | Parsippany-Troy Hills, NJ | 2026-10-11 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/AI-Intern_26421) |
 | GAF | IT Data Analytics Intern | Parsippany-Troy Hills, NJ | 2026-10-11 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/IT-Data-Analytics-Intern_26422) |
 | GAF | Master Data Management Intern | Parsippany-Troy Hills, NJ | 2026-10-11 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Data-Management-Intern_26425) |
@@ -1107,7 +1106,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | Gartner | Data Analyst Intern | Irving, TX | 2026-08-12 | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297) |
 | Gartner | IT Intern | Stamford, CT | 2026-08-12 | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095) |
 | Gas South | Analyst Intern | Atlanta, GA | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/gassouth/jobs/8247586) |
-| Gas South | Junior Analyst Co-op | Atlanta, GA | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/gassouth/jobs/8247655) |
 | Gas South | Software Engineer Intern | Atlanta, GA | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/gassouth/jobs/8247622) |
 | Gecko Robotics | Embedded Software Engineer Intern - RoboSPLAT - Field Infra | Pittsburgh, PA | 2026-09-15 | [Apply](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application?embed=true) |
 | Generac | Data Science Intern - Summer 2027 | Pewaukee, WI, Waukesha, WI | 2026-09-16 | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001) |
@@ -2543,7 +2541,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | xAI | Software Engineer Intern/Co-op | Palo Alto, CA | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007) |
 | xAI | Software Engineering Intern Co-op | Palo Alto, CA | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007) |
 
-### Other programs (660)
+### Other programs (659)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -2556,7 +2554,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | AQR Capital Management | Portfolio Implementation – Trading and Portfolio Finance Analyst Intern | Greenwich, CT | 2026-05-15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) |
 | Acron Aviation | Electrical Engineer Intern - Multiple Teams | Phoenix, AZ | 2026-09-13 | [Apply](https://jobs.lever.co/acronaviation/69dcdf12-38f2-41ab-81fb-9af7903e7329/apply) |
 | Acuity | Product Management Technology Intern | Conyers, GA | 2026-09-29 | [Apply](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) |
-| Acxiom | Product Manager Intern - Real Identity Product Team | Conway, AR | 2026-09-14 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1) |
 | Adobe | MBA Intern - Product Manager | San Jose, CA | 2026-09-29 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) |
 | AeroVironment | Systems Test Engineer Intern | Germantown, MD, Annapolis Junction, MD (+13) | 2026-08-31 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390) |
 | Allegion | Hardware Engineer Intern - Advanced Development | Indianapolis, IN | 2026-09-07 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) |
