@@ -11287,24 +11287,6 @@
     "program": "other"
   },
   {
-    "id": "2d7cf9e5-bb8b-45ac-9e32-aadc612bb2f4",
-    "company_name": "Ciena",
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "title": "NPI Hardware Co-op - 8 month",
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789084800,
-    "date_updated": 1789137721,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "3389e541-d8fc-4085-b561-20e494d014cb",
     "company_name": "Ciena",
     "company_url": "https://simplify.jobs/c/Ciena",
@@ -18354,24 +18336,6 @@
     "program": "cs"
   },
   {
-    "id": "4a4488a7-d411-4cdf-bf48-8d34e3a60a68",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "AI and Innovation Intern",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788277196,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "97668103-86e8-41b6-b716-68da7bbab832",
     "company_name": "First National Bank",
     "company_url": "https://simplify.jobs/c/First-National-Bank",
@@ -18386,24 +18350,6 @@
     "date_posted": 1788220800,
     "date_updated": 1788307290,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "85dc62c3-ab71-4f8c-9c0b-8ec92bf2dc40",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "Application Development Intern",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Application-Development-Intern_2026-01847",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788307286,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -18464,61 +18410,6 @@
     "program": "cs"
   },
   {
-    "id": "680cb3c9-354c-4f44-9cff-8c903de42749",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "Data Engineering Intern",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
-    "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788307291,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "3201641c-0fb8-4501-a614-976eeaa47ef5",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "Data Management Intern - Data Quality and Governance",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2026-Data-Management-Intern---Pittsburgh--PA_2026-01833",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788307297,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5d230d84-fa4c-431c-9970-e72967e854e5",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "Data Science Intern",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788277156,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "acaafa81-6155-4e77-8d56-dc8aac3847d6",
     "company_name": "First National Bank",
     "company_url": "https://simplify.jobs/c/First-National-Bank",
@@ -18535,24 +18426,6 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "0db2b599-5313-4e72-a932-36bdd7eafa58",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "Enterprise Operations Intern - Multiple Teams",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Operations-Intern_2026-01839",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788408006,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "a9a6f9d5-20b7-4f71-8462-13e56e208848",
@@ -20694,6 +20567,269 @@
     "source": "simplify",
     "date_posted": 1788473329,
     "date_updated": 1788596901,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "ADAS Software Engineer Intern - Adpt",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
+    "locations": [
+      "Milford, MI",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791158400,
+    "date_updated": 1791240148,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "554a8d6f-461f-46af-a16c-958c34f78906",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791936000,
+    "date_updated": 1792021148,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "827ccc8c-5daf-4ca9-90a9-badca54261a8",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790812800,
+    "date_updated": 1790921601,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "297cab20-afc1-4907-a0ac-266c5647d2c4",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "AI/ML Engineer Intern - Mapping",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
+    "locations": [
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791158400,
+    "date_updated": 1791240148,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "AV Sensor Design, Release and Integration Intern",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993",
+    "locations": [
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791331200,
+    "date_updated": 1791412774,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "9336555d-472f-4804-b5f7-a1e52e004ac6",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Autonomous Driving Software Engineer Intern",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791417600,
+    "date_updated": 1791499078,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Embedded and Systems Engineering Intern - Digital Product",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+    "locations": [
+      "Austin, TX",
+      "Milford, MI",
+      "Mountain View, CA",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1790031192,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "037d751e-e964-4164-ad1e-5cd1b7b6cb57",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Machine Learning Engineer Intern - AV/AI Platform",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790899200,
+    "date_updated": 1790980954,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "f9a08de0-d633-4b19-b444-8002689fc795",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Product Management Intern - Digital Product",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
+    "locations": [
+      "Austin, TX",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789689600,
+    "date_updated": 1789770932,
+    "category": "Product",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "5c721084-2430-498d-ae4c-d36aeaee8fac",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790812800,
+    "date_updated": 1790921598,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Software Engineer Intern - AV/AI Platform",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
+    "locations": [
+      "Sunnyvale, CA",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790899200,
+    "date_updated": 1790980947,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Software Engineer Intern - Digital Product: Software Engineering",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
+    "locations": [
+      "Austin, TX",
+      "Milford, MI",
+      "Mountain View, CA",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1789948800,
+    "date_updated": 1790031204,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "206b933c-d14d-4bf7-952c-895af8edc9ac",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+    "locations": [
+      "Milford, MI",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791158400,
+    "date_updated": 1791240154,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",
+    "company_name": "General Motors",
+    "company_url": "https://simplify.jobs/c/General-Motors",
+    "title": "Systems Engineer Intern - Asd",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989",
+    "locations": [
+      "Milford, MI",
+      "Warren, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791331200,
+    "date_updated": 1791412777,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -26065,24 +26201,6 @@
     "source": "simplify",
     "date_posted": 1790208000,
     "date_updated": 1790290101,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "183a7c4c-19d3-4b57-85de-1ae125ee8aee",
-    "company_name": "Johnson & Johnson",
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "title": "Electrical Engineer Intern - Robotics R&D",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789344000,
-    "date_updated": 1789425249,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -32688,24 +32806,6 @@
     "program": "cs"
   },
   {
-    "id": "4068c133-b8ab-4f49-a575-d0f6bffd2288",
-    "company_name": "Meta",
-    "company_url": "https://simplify.jobs/c/Meta",
-    "title": "Signal Integrity Intern",
-    "url": "https://www.metacareers.com/jobs/2262379047961521",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791929216,
-    "date_updated": 1791929633,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "5193d72a-8b4e-4cfd-95b5-73e63926cacd",
     "company_name": "Meta",
     "company_url": "https://simplify.jobs/c/Meta",
@@ -34919,25 +35019,6 @@
     "source": "simplify",
     "date_posted": 1788480000,
     "date_updated": 1788560771,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "02d9e13e-0a78-4ac3-ac88-bcc860a02ee5",
-    "company_name": "Nationwide",
-    "company_url": "https://simplify.jobs/c/Nationwide",
-    "title": "State Product Analyst Intern - Personal Lines",
-    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794",
-    "locations": [
-      "Des Moines, IA",
-      "Columbus, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787270400,
-    "date_updated": 1788437341,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -40893,24 +40974,6 @@
     "program": "other"
   },
   {
-    "id": "3170bd08-be46-4758-93fa-a6d1157147c3",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Electrical Production Support Engineer Intern - Summer 2027",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788134400,
-    "date_updated": 1790701930,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "46b35ec8-88e8-4800-ad1a-d17665e52fa1",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -41176,24 +41239,6 @@
     "source": "simplify",
     "date_posted": 1790035200,
     "date_updated": 1790144246,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "27282ffa-070f-4079-bf3e-b159fa097600",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741",
-    "locations": [
-      "Fullerton, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791763200,
-    "date_updated": 1791844525,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -54268,24 +54313,6 @@
     "program": "cs"
   },
   {
-    "id": "0d0bd770-88d6-48be-bb98-c0010e7aed3f",
-    "company_name": "Tutor Intelligence",
-    "company_url": "https://simplify.jobs/c/TutorIntelligence",
-    "title": "Robotics Research Scientist Intern - Winter/Spring 2026",
-    "url": "https://jobs.lever.co/tutorintelligence/cc14adfa-0425-42b2-a804-ed1aead5a7c4/apply",
-    "locations": [
-      "Belmont, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1773181383,
-    "date_updated": 1788456261,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "170b4dbe-36bf-488f-8c87-9759f8f3fc2b",
     "company_name": "Tyler Technologies",
     "company_url": "https://simplify.jobs/c/Tyler-Technologies",
@@ -57949,78 +57976,6 @@
     "source": "simplify",
     "date_posted": 1790259294,
     "date_updated": 1790259301,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0049eda1-f2e8-424b-bab5-4e0ef74ca654",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Data Analyst Intern",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833",
-    "locations": [
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788739200,
-    "date_updated": 1788761761,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "18eeb2a6-97b5-4ca5-9d64-d93fadcd08be",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Data Analyst Intern",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1",
-    "locations": [
-      "Amarillo, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788907701,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "161f02c2-374c-4634-a355-03b295c6a3a4",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Power Generation Analytics Intern",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Power-Generation-Analytics-Intern--CO_JR115734-2",
-    "locations": [
-      "Henderson, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788739200,
-    "date_updated": 1788761767,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "062bdbce-e91d-4a7c-aeac-138825e5c279",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Wildfire Analyst Intern",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Wildfire-Analyst-Intern--CO_JR115413-1",
-    "locations": [
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788739200,
-    "date_updated": 1788761791,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
