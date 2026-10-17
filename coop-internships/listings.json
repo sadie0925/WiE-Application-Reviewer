@@ -10777,24 +10777,6 @@
     "program": "cs"
   },
   {
-    "id": "fea9f279-8f49-4840-bf20-b5cdaf60b8d9",
-    "company_name": "Cencora",
-    "company_url": "https://simplify.jobs/c/Cencora",
-    "title": "Business Analytics Intern",
-    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790294400,
-    "date_updated": 1790375818,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "049ae851-e54d-45cd-8180-1c82261e09cd",
     "company_name": "Centerstone",
     "company_url": "https://simplify.jobs/c/Centerstone",
@@ -13079,24 +13061,6 @@
     "date_posted": 1790039820,
     "date_updated": 1790040046,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "97899cd4-de4e-4a30-88bb-d77f77c316cb",
-    "company_name": "Cox",
-    "company_url": "https://simplify.jobs/c/Cox",
-    "title": "Data Scientist Intern",
-    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788848101,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -16735,24 +16699,6 @@
     "program": "cs"
   },
   {
-    "id": "fe4a0f8c-3de2-411c-8959-9b9893900a52",
-    "company_name": "Ensemble Health Partners",
-    "company_url": "https://simplify.jobs/c/Ensemble-Health-Partners",
-    "title": "Engineering Excellence Intern",
-    "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1784246400,
-    "date_updated": 1784326321,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "b6fc3934-181a-4132-bdaa-096257d221fe",
     "company_name": "Ensign-Bickford Aerospace & Defense Company",
     "company_url": "https://simplify.jobs/c/Ensign-Bickford-Aerospace-Defense-Company",
@@ -18915,24 +18861,6 @@
     "program": "other"
   },
   {
-    "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
-    "company_name": "Freddie Mac",
-    "company_url": "https://simplify.jobs/c/Freddie-Mac",
-    "title": "Quantitative Risk Management Intern",
-    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1787529600,
-    "date_updated": 1787581834,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "965d9d0a-6d28-4b11-877b-698242e3b2d3",
     "company_name": "GAF",
     "company_url": "https://simplify.jobs/c/GAF",
@@ -20766,269 +20694,6 @@
     "source": "simplify",
     "date_posted": 1788473329,
     "date_updated": 1788596901,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "ADAS Software Engineer Intern - Adpt",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
-    "locations": [
-      "Milford, MI",
-      "Warren, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791158400,
-    "date_updated": 1791240148,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "554a8d6f-461f-46af-a16c-958c34f78906",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791936000,
-    "date_updated": 1792021148,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "827ccc8c-5daf-4ca9-90a9-badca54261a8",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790812800,
-    "date_updated": 1790921601,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "297cab20-afc1-4907-a0ac-266c5647d2c4",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "AI/ML Engineer Intern - Mapping",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
-    "locations": [
-      "Warren, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791158400,
-    "date_updated": 1791240148,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "AV Sensor Design, Release and Integration Intern",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993",
-    "locations": [
-      "Warren, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791331200,
-    "date_updated": 1791412774,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "9336555d-472f-4804-b5f7-a1e52e004ac6",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Autonomous Driving Software Engineer Intern",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791417600,
-    "date_updated": 1791499078,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Embedded and Systems Engineering Intern - Digital Product",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
-    "locations": [
-      "Austin, TX",
-      "Milford, MI",
-      "Mountain View, CA",
-      "Warren, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790031192,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "037d751e-e964-4164-ad1e-5cd1b7b6cb57",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Machine Learning Engineer Intern - AV/AI Platform",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790899200,
-    "date_updated": 1790980954,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f9a08de0-d633-4b19-b444-8002689fc795",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Product Management Intern - Digital Product",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
-    "locations": [
-      "Austin, TX",
-      "Warren, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789689600,
-    "date_updated": 1789770932,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "5c721084-2430-498d-ae4c-d36aeaee8fac",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790812800,
-    "date_updated": 1790921598,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Software Engineer Intern - AV/AI Platform",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
-    "locations": [
-      "Sunnyvale, CA",
-      "Warren, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790899200,
-    "date_updated": 1790980947,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Software Engineer Intern - Digital Product: Software Engineering",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
-    "locations": [
-      "Austin, TX",
-      "Milford, MI",
-      "Mountain View, CA",
-      "Warren, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789948800,
-    "date_updated": 1790031204,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "206b933c-d14d-4bf7-952c-895af8edc9ac",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Summer Intern - AI & Hardware Analytics - Adpt",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
-    "locations": [
-      "Milford, MI",
-      "Warren, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791158400,
-    "date_updated": 1791240154,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",
-    "company_name": "General Motors",
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "title": "Systems Engineer Intern - Asd",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989",
-    "locations": [
-      "Milford, MI",
-      "Warren, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791331200,
-    "date_updated": 1791412777,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -25719,6 +25384,24 @@
     "program": "cs"
   },
   {
+    "id": "7f093b2f-6a53-4d35-b5f2-b8abc4cf3abe",
+    "company_name": "Invesco",
+    "company_url": "https://simplify.jobs/c/Invesco",
+    "title": "Early Career Intern - Technology",
+    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790640000,
+    "date_updated": 1790702887,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "7e94c6d9-c88c-4d70-8bd0-51a2cc801485",
     "company_name": "Iridium Communications",
     "company_url": "https://simplify.jobs/c/Iridium-Communications",
@@ -26535,24 +26218,6 @@
     "program": "cs"
   },
   {
-    "id": "ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
-    "company_name": "Johnson & Johnson",
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789344000,
-    "date_updated": 1789435347,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "635bf0d1-e3cb-4d15-98d1-86f3a5f11691",
     "company_name": "Johnson & Johnson",
     "company_url": "https://simplify.jobs/c/Johnson-Johnson",
@@ -26620,24 +26285,6 @@
     "source": "simplify",
     "date_posted": 1787702400,
     "date_updated": 1787790556,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
-    "company_name": "Johnson & Johnson",
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "title": "Software Engineer Intern - Robotics R&D",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789430400,
-    "date_updated": 1789513295,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -36930,6 +36577,24 @@
     "program": "cs"
   },
   {
+    "id": "83a9740c-e026-4b0f-b269-23b44589b6bc",
+    "company_name": "Northrop Grumman",
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "title": "Senior Principal Intelligence Analyst Intern - SkillBridge",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Newport-News/Sr-Principal-Intel-Analyst--SkillBridge-_R10254116",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790899200,
+    "date_updated": 1791378175,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "1c140b14-cbd4-45da-9316-2fd50f440ccf",
     "company_name": "Northrop Grumman",
     "company_url": "https://simplify.jobs/c/Northrop-Grumman",
@@ -37088,6 +36753,24 @@
     "date_posted": 1772003651,
     "date_updated": 1772003651,
     "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "85784523-0c03-4666-ae02-7febc36bc65c",
+    "company_name": "Northwestern Mutual",
+    "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+    "title": "Underwriting Research Intern",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Underwriting-Research-Intern--Summer-2027_JR-46209",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792022400,
+    "date_updated": 1792103221,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -39024,24 +38707,6 @@
     "date_posted": 1789079195,
     "date_updated": 1789079924,
     "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e83278e0-c4fd-42f9-a773-171b6b1e16c1",
-    "company_name": "Perry Homes",
-    "company_url": "https://simplify.jobs/c/Perry-Homes",
-    "title": "Options Analyst Intern",
-    "url": "https://apply.workable.com/perryhomes/j/D309E69A5B/apply",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788537804,
-    "date_updated": 1788538003,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -47532,6 +47197,24 @@
     "source": "simplify",
     "date_posted": 1781638799,
     "date_updated": 1781643086,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "d88cbfd5-185a-4200-8daa-b8222f07e7af",
+    "company_name": "Syntiant",
+    "company_url": "https://simplify.jobs/c/Syntiant",
+    "title": "Machine Learning Intern - KWS/AED",
+    "url": "https://apply.workable.com/syntiant/j/113F994B7B/apply",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788906899,
+    "date_updated": 1788907701,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -58271,42 +57954,6 @@
     "program": "cs"
   },
   {
-    "id": "a9f96455-83df-4502-ab33-b878fb073616",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "AI & Automation Intern - Regulatory",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1",
-    "locations": [
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788739200,
-    "date_updated": 1788761755,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "9d775cbb-265e-4b3f-9406-171ecf54ffb2",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Asset Strategy & Budget Integration Intern",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Asset-Strategy---Budget-Integration-Intern--CO_JR115564-1",
-    "locations": [
-      "Henderson, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788739200,
-    "date_updated": 1788761766,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "0049eda1-f2e8-424b-bab5-4e0ef74ca654",
     "company_name": "Xcel Energy",
     "company_url": "https://simplify.jobs/c/Xcel-Energy",
@@ -58343,44 +57990,6 @@
     "program": "cs"
   },
   {
-    "id": "8367abf1-0004-45dc-9b38-6d41c668730a",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Data Governance, Visualization and Automation Intern - Financial Data Governance - Data Visualization",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Governance--Visualization-and-Automation-Intern_JR116628-2",
-    "locations": [
-      "Eau Claire, WI",
-      "Minneapolis, MN",
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789430400,
-    "date_updated": 1789512977,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "e80d6106-b8f0-46f9-913a-bb970d461cdf",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Load Research & Energy and Demand Forecasting Intern",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Load-Research---Energy-and-Demand-Forecasting-Intern_JR116604-1",
-    "locations": [
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789344000,
-    "date_updated": 1789410781,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "161f02c2-374c-4634-a355-03b295c6a3a4",
     "company_name": "Xcel Energy",
     "company_url": "https://simplify.jobs/c/Xcel-Energy",
@@ -58394,60 +58003,6 @@
     "source": "simplify",
     "date_posted": 1788739200,
     "date_updated": 1788761767,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "eb864411-1731-4c2b-b415-4b9881d16890",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Renewable Operations Center Intern",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Golden-CO-80401/Renewable-Operation-Center-Intern--CO_JR115736-1",
-    "locations": [
-      "Golden, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788739200,
-    "date_updated": 1788761830,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "9f3cbb1e-b4a0-4f15-b1fc-ea0c6a200973",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Residential Energy Product Strategy Intern",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1",
-    "locations": [
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788912000,
-    "date_updated": 1788993379,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
-    "id": "5c2025b4-9d0f-4646-a4ab-27dcc03f13cf",
-    "company_name": "Xcel Energy",
-    "company_url": "https://simplify.jobs/c/Xcel-Energy",
-    "title": "Resource Planning Intern",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Intern--CO_JR115820-1",
-    "locations": [
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788739200,
-    "date_updated": 1788761825,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
