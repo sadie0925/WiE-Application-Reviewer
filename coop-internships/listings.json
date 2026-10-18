@@ -34316,24 +34316,6 @@
     "program": "other"
   },
   {
-    "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
-    "company_name": "NVIDIA",
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "title": "Software Engineer Intern",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791158400,
-    "date_updated": 1791195827,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "be628885-fde3-4b73-bb0a-58e11856e97b",
     "company_name": "NVIDIA",
     "company_url": "https://simplify.jobs/c/NVIDIA",
@@ -43239,24 +43221,6 @@
     "program": "cs"
   },
   {
-    "id": "3e9bc6fa-0837-4aef-9543-d3529a2c2943",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Software Development Intern - Wealth Management Technology",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
-    "locations": [
-      "Minneapolis, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790035200,
-    "date_updated": 1790117698,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "ddca61ef-e1db-4670-a09d-a0d95c626118",
     "company_name": "Royal Caribbean Group",
     "company_url": "https://simplify.jobs/c/Royal-Caribbean-Group",
@@ -47890,22 +47854,22 @@
     "program": "other"
   },
   {
-    "id": "68c18319-478a-4870-9d8b-35cc4d650e90",
+    "id": "931408fb-5cb7-4179-8c33-35a242bbc266",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Actuator Test Engineer Intern - Optimus",
-    "url": "https://www.tesla.com/careers/search/job/283634",
+    "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
+    "url": "https://www.tesla.com/careers/search/job/286986",
     "locations": [
-      "Langley, BC, Canada"
+      "Fremont, CA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1789510094,
-    "date_updated": 1789511586,
-    "category": "Hardware",
+    "date_posted": 1792316241,
+    "date_updated": 1792316420,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
-    "program": "other"
+    "program": "cs"
   },
   {
     "id": "06fa48a4-38e1-4ac5-9534-ba1c6702b680",
@@ -48429,6 +48393,24 @@
     "source": "simplify",
     "date_posted": 1790039650,
     "date_updated": 1790039786,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "2d44df47-4fb1-4120-a4ac-7fbcc5f6c103",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure",
+    "url": "https://www.tesla.com/careers/search/job/287024",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792316246,
+    "date_updated": 1792316421,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "cs"
@@ -53947,24 +53929,6 @@
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
-  },
-  {
-    "id": "bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
-    "company_name": "Trimble",
-    "company_url": "https://simplify.jobs/c/Trimble",
-    "title": "Product Management Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893",
-    "locations": [
-      "Westminster, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790899200,
-    "date_updated": 1790979503,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
   },
   {
     "id": "170b4dbe-36bf-488f-8c87-9759f8f3fc2b",
