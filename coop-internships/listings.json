@@ -6707,6 +6707,24 @@
     "program": "cs"
   },
   {
+    "id": "0854004d-3797-4a41-92c7-8b23ea92f186",
+    "company_name": "Axos Bank",
+    "company_url": "https://simplify.jobs/c/Axos-Bank",
+    "title": "Data Analyst 1 Intern",
+    "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1788393600,
+    "date_updated": 1792311530,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "e07ec537-4dc6-406b-a6e3-741101d69653",
     "company_name": "Axos Bank",
     "company_url": "https://simplify.jobs/c/Axos-Bank",
@@ -10962,6 +10980,28 @@
     "program": "other"
   },
   {
+    "id": "25fc66da-f7d2-4a82-b918-c0645c1eb9db",
+    "company_name": "Chainlink Labs",
+    "company_url": "https://simplify.jobs/c/Chainlink-Labs",
+    "title": "Research Intern",
+    "url": "https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Remote in USA",
+      "Remote in Canada",
+      "Remote in Switzerland"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1782338934,
+    "date_updated": 1792311673,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "e5dfef91-5533-406d-a42a-fab2b837638b",
     "company_name": "Chamberlain Group",
     "company_url": "https://simplify.jobs/c/Chamberlain-Group",
@@ -12219,24 +12259,6 @@
     "date_posted": 1789596914,
     "date_updated": 1789598016,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "272cb1de-278a-45fe-87a1-7215f39bdd32",
-    "company_name": "Codeage",
-    "company_url": "https://simplify.jobs/c/Codeage",
-    "title": "Web Developer Intern - Wordpress and Woocommerce",
-    "url": "https://jobs.smartrecruiters.com/Codeage/743999669081604",
-    "locations": [
-      "Culver City, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1771571435,
-    "date_updated": 1771571435,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -27918,96 +27940,6 @@
     "source": "simplify",
     "date_posted": 1784160000,
     "date_updated": 1788464719,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "941463b7-732f-40bc-8932-531a347a7611",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Application Developer Intern",
-    "url": "https://jobs.l3harris.com/job/Greenville-Application-Developer-Intern-TX-75402/1425609500/?ats=successfactors",
-    "locations": [
-      "Greenville, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788302264,
-    "date_updated": 1788302342,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5cdccc6d-3f48-476f-a0e7-576b4158a76b",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Application Developer Intern",
-    "url": "https://jobs.l3harris.com/job/Canoga-Park-Application-Developer-Intern-CA-91311/1425609200/?ats=successfactors",
-    "locations": [
-      "Canoga Park, LA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788302256,
-    "date_updated": 1788302342,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "5f51df85-f362-425b-811e-958c07266b8e",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Application Developer Intern",
-    "url": "https://jobs.l3harris.com/job/Melbourne-Application-Developer-Intern-FL-32919/1425611200/?ats=successfactors",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788302254,
-    "date_updated": 1788302342,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "556a9f83-e9ef-4df2-af50-03818c084d87",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Application Developer Intern",
-    "url": "https://jobs.l3harris.com/job/Melbourne-Application-Developer-Intern-FL-32919/1425610400/?ats=successfactors",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788302265,
-    "date_updated": 1788302342,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "16853d18-2909-41d9-9162-4cc792f0ea17",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Application Developer Intern",
-    "url": "https://jobs.l3harris.com/job/Rochester-Application-Developer-Intern-NY-14606/1425604500/?ats=successfactors",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788302259,
-    "date_updated": 1788302342,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -47157,42 +47089,6 @@
     "program": "cs"
   },
   {
-    "id": "0ae8eab8-0ba9-41fd-ada9-5af34d6026a2",
-    "company_name": "TD Bank",
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "title": "Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788848090,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "73d79b50-25b2-48bc-8d74-c95e069e68c8",
-    "company_name": "TD Bank",
-    "company_url": "https://simplify.jobs/c/TD-Bank",
-    "title": "Portfolio Analytics Developer Intern/Co-op - Winter 2027",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788848089,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "25fa3cf0-19e1-48c4-a10b-cd91ace49138",
     "company_name": "TELUS Digital",
     "company_url": "https://simplify.jobs/c/TELUS-Digital",
@@ -50753,24 +50649,6 @@
     "program": "cs"
   },
   {
-    "id": "e16ac71f-72f4-4100-b277-2a92a88c6d05",
-    "company_name": "The Home Depot",
-    "company_url": "https://simplify.jobs/c/The-Home-Depot",
-    "title": "AI Machine Learning Developer Intern",
-    "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790812800,
-    "date_updated": 1790894094,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "4060f153-ab15-44d4-9f86-1bf555dbf0f7",
     "company_name": "The Home Depot",
     "company_url": "https://simplify.jobs/c/The-Home-Depot",
@@ -50785,24 +50663,6 @@
     "date_posted": 1788134400,
     "date_updated": 1788203629,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "73cce5ae-4123-4752-9ad2-67b8ab0e009f",
-    "company_name": "The Home Depot",
-    "company_url": "https://simplify.jobs/c/The-Home-Depot",
-    "title": "Full Stack Software Developer Intern",
-    "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790812800,
-    "date_updated": 1790894091,
-    "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
   },
@@ -54089,25 +53949,6 @@
     "program": "cs"
   },
   {
-    "id": "63bb5635-fcbb-4c10-ac91-d7f76b6c3d75",
-    "company_name": "Trimble",
-    "company_url": "https://simplify.jobs/c/Trimble",
-    "title": "Product Management Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
-    "locations": [
-      "Westminster, CO",
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788907167,
-    "category": "Product",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
     "company_name": "Trimble",
     "company_url": "https://simplify.jobs/c/Trimble",
@@ -54124,31 +53965,6 @@
     "category": "Product",
     "sponsorship": "Other",
     "program": "other"
-  },
-  {
-    "id": "ca3d442d-982e-4251-b443-6e607ffd2504",
-    "company_name": "Trimble",
-    "company_url": "https://simplify.jobs/c/Trimble",
-    "title": "Software Engineer Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
-    "locations": [
-      "Dayton, OH",
-      "Knoxville, TN",
-      "Portsmouth, NH",
-      "Princeton, NJ",
-      "Lake Oswego, OR",
-      "Westminster, CO",
-      "Sunnyvale, CA",
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788825600,
-    "date_updated": 1788907456,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
   },
   {
     "id": "170b4dbe-36bf-488f-8c87-9759f8f3fc2b",
