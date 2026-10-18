@@ -13,7 +13,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**3183 active US/Canada co-op & intern listings** · 2437 CS/software · 746 other programs · 0 inactive · Last updated: 2026-10-18 11:05 ET
+**3182 active US/Canada co-op & intern listings** · 2436 CS/software · 746 other programs · 0 inactive · Last updated: 2026-10-18 15:51 ET
 
 Grouped by **country** (Canada / US), then **CS/software** vs **other programs**. Term/season is omitted unless clearly needed — many feeds stamp seasons incorrectly.
 
@@ -356,7 +356,7 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 
 ## United States
 
-### CS / Software (2155)
+### CS / Software (2154)
 
 | Company | Role | Location | Posted | Apply |
 | ------- | ---- | -------- | ------ | ----- |
@@ -898,7 +898,6 @@ Grouped by **country** (Canada / US), then **CS/software** vs **other programs**
 | DocuSign | Software Engineer Intern | Seattle, WA | 2026-10-09 | [Apply](https://careers.docusign.com/jobs/30513?icims=1) |
 | DocuSign | Software Engineer Intern | Chicago, IL | 2026-10-09 | [Apply](https://careers.docusign.com/jobs/30497?icims=1) |
 | DocuSign | Software Engineer Intern | Seattle, WA | 2026-10-09 | [Apply](https://careers.docusign.com/jobs/30499?icims=1) |
-| DocuSign | Software Engineer Intern - Observability - Platform | Seattle, WA | 2026-10-08 | [Apply](https://careers.docusign.com/jobs/30510?icims=1) |
 | DocuSign | Software Engineer Intern - Self-Service Directory Diagnostics | Seattle, WA | 2026-10-04 | [Apply](https://careers.docusign.com/jobs/30464?icims=1) |
 | Docugami | Software Engineer Intern | Kirkland, WA | 2026-05-15 | [Apply](https://job-boards.greenhouse.io/docugami/jobs/4014838003) |
 | Dominion Energy | GIS Development Data Analyst Intern | Cayce, SC | 2026-09-22 | [Apply](https://careers.dominionenergy.com/job/CAYCE-Intern-GIS-SC-29033/1432505500/?ats=successfactors) |
