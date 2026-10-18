@@ -7447,7 +7447,7 @@
     "id": "f3ce0494-256c-4884-acf3-f8db79e4216d",
     "company_name": "Bio-Techne",
     "company_url": "https://simplify.jobs/c/Bio-Techne",
-    "title": "Hardware Engineering Intern",
+    "title": "Hardware Engineer Intern",
     "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533",
     "locations": [
       "San Jose, CA"
@@ -7455,8 +7455,8 @@
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1771544537,
-    "date_updated": 1771544537,
+    "date_posted": 1783160682,
+    "date_updated": 1791120195,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
@@ -18336,80 +18336,6 @@
     "program": "cs"
   },
   {
-    "id": "97668103-86e8-41b6-b716-68da7bbab832",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "AI/Machine Learning Modeler Intern",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788307290,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "94b01cac-fcb0-4724-8377-0f5ba298e9b8",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "Corporate Analytics Intern",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Corporate-Analytics-Intern_2026-01910",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788277321,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f18879c8-741c-4bb0-a152-89ea9d98844e",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "Data Engineer Intern",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714",
-    "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788307293,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "d26e9ab4-44ab-46c9-86f1-d24c92ae631a",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "Data Engineering Intern",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
-    "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788307293,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
     "id": "acaafa81-6155-4e77-8d56-dc8aac3847d6",
     "company_name": "First National Bank",
     "company_url": "https://simplify.jobs/c/First-National-Bank",
@@ -18423,24 +18349,6 @@
     "source": "simplify",
     "date_posted": 1788307200,
     "date_updated": 1788414263,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a9a6f9d5-20b7-4f71-8462-13e56e208848",
-    "company_name": "First National Bank",
-    "company_url": "https://simplify.jobs/c/First-National-Bank",
-    "title": "Retail Administration Analytics Intern",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Retail-Administration-Analytics-Intern_2026-02039",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1788220800,
-    "date_updated": 1788239121,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -21240,132 +21148,6 @@
     "program": "cs"
   },
   {
-    "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Americas",
-    "url": "https://higher.gs.com/roles/171532?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489726,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171551?type=students",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489723,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171534?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767952,
-    "date_updated": 1788489725,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171549?type=students",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767946,
-    "date_updated": 1788489725,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "url": "https://higher.gs.com/roles/171548?type=students",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767953,
-    "date_updated": 1788489726,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - Engineering",
-    "url": "https://higher.gs.com/roles/177808?type=students",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767938,
-    "date_updated": 1788489727,
-    "category": "Software",
-    "sponsorship": "Other",
-    "program": "cs"
-  },
-  {
-    "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "url": "https://higher.gs.com/roles/181628?type=students",
-    "locations": [
-      "West Palm Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1786767935,
-    "date_updated": 1786806912,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "program": "other"
-  },
-  {
     "id": "68895e12-9a1f-4ca5-8dfb-b050f2ea8a43",
     "company_name": "Google",
     "company_url": "https://simplify.jobs/c/Google",
@@ -22194,6 +21976,44 @@
     "source": "simplify",
     "date_posted": 1791331200,
     "date_updated": 1791412095,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "19c1720c-cfad-48e9-a226-cf3675ab78d2",
+    "company_name": "HCSC",
+    "company_url": "https://simplify.jobs/c/HCSC",
+    "title": "Finance Application Developer Intern",
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477",
+    "locations": [
+      "Chicago, IL",
+      "Richardson, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792195200,
+    "date_updated": 1792275062,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "c02d9734-d615-4259-8106-5100b09f6352",
+    "company_name": "HCSC",
+    "company_url": "https://simplify.jobs/c/HCSC",
+    "title": "Finance Data & Analytics Developer Intern",
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478",
+    "locations": [
+      "Chicago, IL",
+      "Richardson, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792195200,
+    "date_updated": 1792275064,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
@@ -36635,6 +36455,24 @@
     "source": "simplify",
     "date_posted": 1791849600,
     "date_updated": 1791930524,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "program": "other"
+  },
+  {
+    "id": "6c5f2df0-d0bf-482f-a24b-4fde60f7cc92",
+    "company_name": "Northrop Grumman",
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "title": "Engineering Technician Intern - Electrical Ground Support Equipment",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Engineering-Technician---Electrical-Ground-Support-Equipment_R10256530",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792195200,
+    "date_updated": 1792276049,
     "category": "Hardware",
     "sponsorship": "Other",
     "program": "other"
