@@ -13049,6 +13049,24 @@
     "program": "cs"
   },
   {
+    "id": "8ea7dfa9-2c59-482d-9584-d63a1fd13505",
+    "company_name": "ConnectPrep",
+    "company_url": "https://simplify.jobs/c/ConnectPrep",
+    "title": "Data Analyst Intern",
+    "url": "https://apply.workable.com/connectprep/j/1AF4F8C65F/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792968258,
+    "date_updated": 1792968344,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "5123007b-1b8e-4d00-babb-8c1c4ec245cc",
     "company_name": "ConocoPhillips",
     "company_url": "https://simplify.jobs/c/ConocoPhillips",
@@ -25168,6 +25186,24 @@
     "source": "simplify",
     "date_posted": 1790374603,
     "date_updated": 1790376129,
+    "category": "Software",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "6c3c3d72-bc76-4b02-b99c-a3e1867d21ea",
+    "company_name": "Intuit",
+    "company_url": "https://simplify.jobs/c/Intuit",
+    "title": "Software Developer Co-op - Front End",
+    "url": "https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792966320,
+    "date_updated": 1792966354,
     "category": "Software",
     "sponsorship": "Other",
     "program": "cs"
@@ -44920,6 +44956,24 @@
     "program": "cs"
   },
   {
+    "id": "da440996-588c-4176-9566-aa70eab6e1fa",
+    "company_name": "Skydio",
+    "company_url": "https://simplify.jobs/c/Skydio",
+    "title": "Autonomy Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?embed=true",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792886400,
+    "date_updated": 1792976767,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
     "id": "d3f54d58-9f89-4689-b91d-f9e03013c3ca",
     "company_name": "Skydio",
     "company_url": "https://simplify.jobs/c/Skydio",
@@ -44933,6 +44987,24 @@
     "source": "simplify",
     "date_posted": 1788486573,
     "date_updated": 1788490835,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "program": "cs"
+  },
+  {
+    "id": "baa25da2-9ee0-403d-8396-0d4788626830",
+    "company_name": "Skydio",
+    "company_url": "https://simplify.jobs/c/Skydio",
+    "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+    "url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792886400,
+    "date_updated": 1792976849,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "program": "cs"
