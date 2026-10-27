@@ -11,10 +11,11 @@ from pathlib import Path
 
 from readme_generator import update_readme
 from scrapers import scrape_company
-from scrapers.filters import classify_program
+from scrapers.filters import NEW_GRAD_TITLE_PATTERN, classify_program, purge_listings
 from scrapers.location import filter_us_ca_locations
 from sync_simplify import (
     listings_fingerprint,
+    load_config,
     merge_with_community,
     sync,
 )
@@ -50,12 +51,34 @@ def save_hash(value: str) -> None:
 
 
 def annotate_programs(listings: list[dict]) -> list[dict]:
-    """Ensure every listing has a cs/other program tag."""
+    """Ensure every listing has a program tag and intern vs new-grad track."""
     for listing in listings:
         listing["program"] = classify_program(listing)
+        title = listing.get("title") or ""
+        if listing.get("track") not in {"intern", "new_grad"}:
+            listing["track"] = (
+                "new_grad" if NEW_GRAD_TITLE_PATTERN.search(title) else "intern"
+            )
         # Drop unreliable season metadata from feed
         listing.pop("terms", None)
     return listings
+
+
+def finalize_listings(listings: list[dict]) -> tuple[list[dict], dict]:
+    """Tag, drop closed/expired rows, and sort newest first."""
+    config = load_config()
+    max_age_days = int(config.get("max_age_days", 30))
+    prepared = annotate_programs(listings)
+    kept, stats = purge_listings(prepared, max_age_days=max_age_days)
+    kept.sort(
+        key=lambda item: (
+            -(int(item.get("date_posted") or 0)),
+            (item.get("company_name") or "").lower(),
+            (item.get("title") or "").lower(),
+        )
+    )
+    stats["max_age_days"] = max_age_days
+    return kept, stats
 
 
 def regenerate_readme(listings: list[dict]) -> None:
@@ -69,31 +92,35 @@ def cmd_sync(args) -> int:
     if not isinstance(existing, list):
         existing = []
 
-    print("Fetching Simplify community feed (1 HTTP request)...")
+    print("Fetching Simplify internship + new-grad feeds...")
     simplify_listings, stats = sync()
 
-    merged = annotate_programs(merge_with_community(simplify_listings, existing))
+    merged, purge_stats = finalize_listings(
+        merge_with_community(simplify_listings, existing)
+    )
     new_hash = listings_fingerprint(merged)
     old_hash = load_hash()
 
     print(
-        f"  Raw: {stats['raw_count']} → Filtered: {stats['filtered_count']} "
-        f"US/Canada undergrad roles ({stats['elapsed_seconds']}s)"
+        f"  Intern feed: {stats['intern_raw_count']} raw → {stats['intern_count']} kept"
     )
-    print(f"  Total in listings.json: {len(merged)}")
+    print(
+        f"  New-grad feed: {stats['new_grad_raw_count']} raw → {stats['new_grad_count']} software"
+    )
+    print(
+        f"  Removed {purge_stats['closed']} closed, {purge_stats['expired']} older than "
+        f"{purge_stats['max_age_days']} days, {purge_stats['other_new_grad']} non-software new-grad"
+    )
+    print(f"  Open listings: {len(merged)} ({stats['elapsed_seconds']}s)")
 
     listings_changed = new_hash != old_hash or args.force
     if listings_changed:
         save_json(LISTINGS_PATH, merged)
         save_hash(new_hash)
-        print("listings.json updated.")
+        regenerate_readme(merged)
+        print("listings.json and boards updated.")
     else:
-        print("No listing changes detected — listings.json unchanged.")
-        # Persist program tags / drop terms even when URLs unchanged
-        save_json(LISTINGS_PATH, merged)
-
-    # Always regenerate README so "Last updated" refreshes every sync period.
-    regenerate_readme(merged)
+        print("No listing changes — skipped commit files.")
     return 0
 
 
@@ -137,10 +164,13 @@ def cmd_scrape(args) -> int:
         if url:
             listing["date_updated"] = now
             listing["program"] = classify_program(listing)
+            listing["track"] = (
+                "new_grad" if NEW_GRAD_TITLE_PATTERN.search(listing.get("title") or "") else "intern"
+            )
             listing.pop("terms", None)
             by_url[url] = listing
 
-    merged = annotate_programs(list(by_url.values()))
+    merged, _purge_stats = finalize_listings(list(by_url.values()))
     save_json(LISTINGS_PATH, merged)
     save_hash(listings_fingerprint(merged))
     save_json(state_path, {"offset": next_offset})
@@ -153,9 +183,13 @@ def cmd_readme() -> int:
     listings = load_json(LISTINGS_PATH)
     if not isinstance(listings, list):
         listings = []
-    listings = annotate_programs(listings)
-    # Persist program tags if missing so next sync is cheaper to reason about
+    listings, purge_stats = finalize_listings(listings)
     save_json(LISTINGS_PATH, listings)
+    save_hash(listings_fingerprint(listings))
+    print(
+        f"Removed {purge_stats['closed']} closed, {purge_stats['expired']} older than "
+        f"{purge_stats['max_age_days']} days"
+    )
     regenerate_readme(listings)
     return 0
 
@@ -190,10 +224,13 @@ def cmd_add_manual(args) -> int:
         "category": "",
     }
     listing["program"] = classify_program(listing)
+    listing["track"] = (
+        "new_grad" if NEW_GRAD_TITLE_PATTERN.search(listing["title"]) else "intern"
+    )
 
     by_url = {item["url"]: item for item in existing if item.get("url")}
     by_url[listing["url"]] = listing
-    merged = annotate_programs(list(by_url.values()))
+    merged, _purge_stats = finalize_listings(list(by_url.values()))
     save_json(LISTINGS_PATH, merged)
     save_hash(listings_fingerprint(merged))
     regenerate_readme(merged)

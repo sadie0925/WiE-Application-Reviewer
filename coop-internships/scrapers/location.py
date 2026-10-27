@@ -19,6 +19,53 @@ CA_CITIES = (
 )
 
 REMOTE_PATTERN = re.compile(r"\bremote\b", re.IGNORECASE)
+_US_TEXT = re.compile(
+    r"\b(usa|u\.s\.a?\.?|united states)\b|(?:^|[\s,/(])us(?:$|[\s,).])",
+    re.IGNORECASE,
+)
+_BARE_REMOTE = re.compile(
+    r"^remote(?:[\s\-/]*(?:only|ok|friendly|eligible|work|position|role))?$",
+    re.IGNORECASE,
+)
+
+
+def location_countries(location: str) -> set[str]:
+    """Countries a single location string belongs to.
+
+    Bare "Remote" is listed in both Canada and the US. "Remote in USA" is US
+    only. "Remote in UK" is neither.
+    """
+    if not location or not location.strip():
+        return set()
+
+    loc = location.strip()
+    lower = loc.lower()
+    found: set[str] = set()
+
+    if "canada" in lower:
+        found.add("Canada")
+    if _US_TEXT.search(lower):
+        found.add("United States")
+
+    for part in [p.strip() for p in loc.split(",") if p.strip()]:
+        token = part.upper().replace(".", "")
+        if token in US_STATES or token in {"US", "USA"}:
+            found.add("United States")
+        elif token in CA_PROVINCES or token == "CANADA":
+            found.add("Canada")
+
+    if found:
+        return found
+
+    if any(city in lower for city in CA_CITIES):
+        return {"Canada"}
+
+    if REMOTE_PATTERN.search(lower):
+        if "north america" in lower or _BARE_REMOTE.match(lower):
+            return {"Canada", "United States"}
+        return set()
+
+    return set()
 
 
 def _region_code(location: str) -> str | None:
@@ -30,25 +77,7 @@ def _region_code(location: str) -> str | None:
 
 
 def is_us_or_canada_location(location: str) -> bool:
-    if not location or not location.strip():
-        return False
-
-    loc = location.strip()
-    lower = loc.lower()
-
-    if REMOTE_PATTERN.search(lower):
-        return True
-    if "canada" in lower or "united states" in lower or ", usa" in lower:
-        return True
-
-    region = _region_code(loc)
-    if region:
-        if region in US_STATES or region in CA_PROVINCES:
-            return True
-        if region in ("US", "USA", "CANADA"):
-            return True
-
-    return any(city in lower for city in CA_CITIES)
+    return bool(location_countries(location))
 
 
 def filter_us_ca_locations(locations: list[str]) -> list[str]:
@@ -92,6 +121,18 @@ def classify_country(location: str) -> str:
             return "Canada"
 
     return "United States"
+
+
+def listing_countries(listing: dict) -> set[str]:
+    """Country pages this listing belongs on.
+
+    A posting with both a Canadian and a US location is listed on both pages.
+    Bare "Remote" (no country) is listed on both. "Remote in UK" is not listed.
+    """
+    found: set[str] = set()
+    for loc in listing.get("locations") or []:
+        found |= location_countries(loc)
+    return found
 
 
 def get_board_country(listing: dict) -> str:

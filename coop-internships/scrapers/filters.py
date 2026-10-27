@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+import time
 
 from scrapers.location import filter_us_ca_locations, is_us_or_canada_location
 
@@ -11,14 +12,19 @@ INCLUDE_PATTERN = re.compile(
     re.IGNORECASE,
 )
 
+# Roles that are never internships or new-grad software jobs we want to list.
 EXCLUDE_PATTERN = re.compile(
     r"\b("
     r"phd|doctorate|postdoc|post-doc|"
-    r"new\s*grad|new-grad|"
     r"recruiter|recruiting|head\s+of|"
     r"people\s+strategy|inside\s+sales|"
     r"early\s+career(?!\s+(engineer|developer|intern))"
     r")\b",
+    re.IGNORECASE,
+)
+
+NEW_GRAD_TITLE_PATTERN = re.compile(
+    r"\b(new\s*grad(?:uate)?|new-grad|university\s+grad(?:uate)?|fresh\s+grad(?:uate)?)\b",
     re.IGNORECASE,
 )
 
@@ -71,7 +77,7 @@ OTHER_TITLE_PATTERN = re.compile(
 
 
 def is_intern_title(title: str) -> bool:
-    if EXCLUDE_PATTERN.search(title):
+    if EXCLUDE_PATTERN.search(title) or NEW_GRAD_TITLE_PATTERN.search(title):
         return False
     return bool(INCLUDE_PATTERN.search(title))
 
@@ -108,6 +114,93 @@ def classify_program(listing: dict) -> str:
     return "other"
 
 
+def is_new_grad_degrees(degrees: list | None) -> bool:
+    """Allow bachelor's/master's new-grad roles. Reject PhD-only postings."""
+    if not degrees:
+        return True
+    lower = [str(d).lower() for d in degrees]
+    has_phd = any("phd" in d or "doctorate" in d for d in lower)
+    has_bachelors_or_masters = any("bachelor" in d or "master" in d for d in lower)
+    if has_phd and not has_bachelors_or_masters:
+        return False
+    return True
+
+
+def passes_new_grad_filters(listing: dict) -> bool:
+    """Software-adjacent new-grad roles. Intern/co-op titles stay on the intern boards."""
+    if not listing.get("active"):
+        return False
+    if listing.get("is_visible") is False:
+        return False
+
+    title = listing.get("title", "")
+    if INCLUDE_PATTERN.search(title):
+        return False
+    if EXCLUDE_PATTERN.search(title):
+        return False
+    if not is_new_grad_degrees(listing.get("degrees")):
+        return False
+
+    locations = listing.get("locations", [])
+    if not any(is_us_or_canada_location(loc) for loc in locations):
+        return False
+    return True
+
+
+def listing_added_at(listing: dict) -> int:
+    """When the posting was added. Prefer date_posted over later edits."""
+    try:
+        posted = int(listing.get("date_posted") or 0)
+    except (TypeError, ValueError):
+        posted = 0
+    if posted > 0:
+        return posted
+    try:
+        return int(listing.get("date_updated") or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
+def is_closed(listing: dict) -> bool:
+    if listing.get("active") is False:
+        return True
+    if listing.get("is_visible") is False:
+        return True
+    return False
+
+
+def purge_listings(
+    listings: list[dict],
+    *,
+    max_age_days: int = 30,
+    now: float | None = None,
+) -> tuple[list[dict], dict]:
+    """Drop closed applications and anything added more than max_age_days ago.
+
+    Non-software new-grad roles are dropped too — only software new-grad is published.
+    """
+    current = time.time() if now is None else now
+    max_age_seconds = max_age_days * 24 * 60 * 60
+    kept: list[dict] = []
+    stats = {"closed": 0, "expired": 0, "other_new_grad": 0, "kept": 0}
+
+    for listing in listings:
+        if is_closed(listing):
+            stats["closed"] += 1
+            continue
+        if listing.get("track") == "new_grad" and listing.get("program") != "cs":
+            stats["other_new_grad"] += 1
+            continue
+        added = listing_added_at(listing)
+        if added <= 0 or (current - added) > max_age_seconds:
+            stats["expired"] += 1
+            continue
+        kept.append(listing)
+
+    stats["kept"] = len(kept)
+    return kept, stats
+
+
 def passes_listing_filters(listing: dict, *, require_active: bool = True) -> bool:
     if require_active:
         if not listing.get("active"):
@@ -128,7 +221,7 @@ def passes_listing_filters(listing: dict, *, require_active: bool = True) -> boo
     return True
 
 
-def normalize_filtered_listing(listing: dict, source: str) -> dict:
+def normalize_filtered_listing(listing: dict, source: str, track: str = "intern") -> dict:
     """Return listing with US/CA locations only and consistent fields.
 
     Terms are intentionally omitted: Simplify often stamps a season that is not
@@ -149,6 +242,7 @@ def normalize_filtered_listing(listing: dict, source: str) -> dict:
         "date_updated": listing.get("date_updated", 0),
         "category": listing.get("category", ""),
         "sponsorship": listing.get("sponsorship", ""),
+        "track": track,
     }
     normalized["program"] = classify_program(normalized)
     return normalized
