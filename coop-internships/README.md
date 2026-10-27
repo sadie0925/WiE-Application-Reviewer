@@ -1,36 +1,31 @@
 # Co-op & Internship Listings (US & Canada)
 
-Undergraduate co-ops, internships, and software new-grad roles in **Canada** and the **United States**.
+Undergraduate co-op and internship postings in **United States & Canada**, synced automatically from the [Simplify Jobs](https://github.com/SimplifyJobs/Summer2026-Internships) community feed (plus optional ATS scrapers / community submissions).
 
-Synced every 30 minutes from:
-
-- [Simplify Summer 2027 internships](https://github.com/SimplifyJobs/Summer2027-Internships)
-- [Simplify new-grad positions](https://github.com/SimplifyJobs/New-Grad-Positions) (software roles only)
-
-Each board is its own page. Newest roles are at the top. A posting is removed when the application is closed, or when it was added more than **30 days** ago.
+Boards are separate pages, newest first. Closed applications, and anything added more than 30 days ago, are removed. Software new-grad titles from this same feed go on their own pages.
 
 ## Quick start
 
 ```bash
 cd coop-internships
 python3 -m pip install requests
-python3 main.py sync      # fetch both feeds, drop stale rows, rewrite boards
-python3 main.py readme    # rewrite boards from listings.json
+python3 main.py sync      # fetch feed + regenerate README (1 HTTP request)
+python3 main.py readme    # regenerate README only
 ```
 
 <!-- LISTINGS:START -->
 
-**1834 open listings** across the boards below · newest first · Updated 2026-10-27 18:58 ET
+**1402 open listings** · newest first · Updated 2026-10-27 19:05 ET
 
-A listing is removed when Simplify marks the application closed, or when it was added more than **30 days** ago. Roles posted in both countries show up on both pages.
+Same Simplify feed as before. A listing is removed when the application is closed, or when it was added more than **30 days** ago. Roles in both countries show up on both pages.
 
 | Board | Open |
 | ----- | ---- |
-| [Canada — Software internships](boards/canada-software.md) | 171 |
-| [United States — Software internships](boards/us-software.md) | 853 |
+| [Canada — Software internships](boards/canada-software.md) | 177 |
+| [United States — Software internships](boards/us-software.md) | 870 |
 | [Canada — Other internships](boards/canada-other.md) | 47 |
-| [United States — Other internships](boards/us-other.md) | 323 |
-| [Canada — Software new grad](boards/canada-new-grad.md) | 40 |
-| [United States — Software new grad](boards/us-new-grad.md) | 419 |
+| [United States — Other internships](boards/us-other.md) | 322 |
+| [Canada — Software new grad](boards/canada-new-grad.md) | 0 |
+| [United States — Software new grad](boards/us-new-grad.md) | 1 |
 
 <!-- LISTINGS:END -->

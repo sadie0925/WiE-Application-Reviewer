@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**47 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-27 18:58 ET
+**47 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-27 19:05 ET
 
 [All boards](../README.md)
 
@@ -16,7 +16,7 @@ Co-ops and internships in Canada that are not software engineering.
 | Altera | Technical Intern | Toronto, ON, Canada | 2026-10-25 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Undergrad-Intern-Technical_R03351) |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052) |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) |
-| 1Password | Product Management Intern - End User Experience | Remote in Canada, Remote in USA | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) |
+| 1Password | Product Management Intern - End User Experience | Remote in USA, Remote in Canada | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) |
 | Altera | Intellectual Property Design Intern | Toronto, ON, Canada | 2026-10-22 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) |
 | GE Vernova | Product Management Intern | Markham, ON, Canada | 2026-10-22 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) |
 | GE Vernova | Product Management Intern | Markham, ON, Canada | 2026-10-22 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) |

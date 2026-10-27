@@ -5,22 +5,22 @@
 1. Open a [Co-op Listing Submission](../../issues/new/choose) issue
 2. Fill in company, title, URL, and **US or Canada location**
 3. A maintainer adds the `approved` label
-4. GitHub Action adds it to `listings.json`, regenerates the boards, and closes the issue
+4. GitHub Action adds it to `listings.json`, regenerates the README, and closes the issue
 
-**Note:** Only US and Canada locations are accepted. Closed applications, and anything added more than 30 days ago, are removed on the next sync.
+**Note:** Only US and Canada locations are accepted.
 
 ## Data source
 
-- Internships: [Simplify Summer 2027](https://github.com/SimplifyJobs/Summer2027-Internships)
-- Software new grad: [Simplify New-Grad Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+Primary data comes from the [Simplify Jobs](https://github.com/SimplifyJobs/Summer2026-Internships) public feed, filtered for:
+- Undergraduate intern/co-op roles (any program — not CS-only)
+- United States & Canada locations only
+- Excludes PhD, new grad, recruiter roles
 
-Pages (newest first):
+README sections:
+- **Canada** / **United States** (no city/province sub-boards)
+- Within each country: **CS / Software** vs **Other programs**
 
-- Canada and the United States are separate pages
-- Each country has **software internships**, **other internships**, and **software new grad**
-- A role with locations in both countries is listed on both pages
-
-Season/term columns are omitted — feed metadata is often wrong unless the title itself names a season.
+Season/term columns are intentionally omitted — feed metadata is often wrong unless the title itself names a season.
 
 ## listings.json schema
 
@@ -32,7 +32,6 @@ Season/term columns are omitted — feed metadata is often wrong unless the titl
   "url": "https://...",
   "locations": ["San Francisco, CA"],
   "program": "cs",
-  "track": "intern",
   "active": true,
   "is_visible": true,
   "source": "simplify",
@@ -41,4 +40,4 @@ Season/term columns are omitted — feed metadata is often wrong unless the titl
 }
 ```
 
-`program` is `"cs"` or `"other"`. `track` is `"intern"` or `"new_grad"`. Both are derived from the title and category.
+`program` is `"cs"` or `"other"`, derived from title/category.

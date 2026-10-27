@@ -2,7 +2,7 @@ name: Co-op Sync Listings
 
 on:
   schedule:
-    # Every 30 minutes. The job only commits when listings actually change.
+    # Every 30 minutes. Commits only when the listings actually change.
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
@@ -36,7 +36,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add coop-internships/listings.json coop-internships/.listings-hash coop-internships/README.md coop-internships/boards
           git diff --staged --quiet || \
-            git commit -m "chore: sync co-op listings ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git commit -m "chore: sync co-op listings + README ($(date -u +%Y-%m-%d))"
 
       - name: Push
         run: git push

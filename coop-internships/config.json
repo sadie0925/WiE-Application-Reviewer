@@ -1,11 +1,10 @@
 {
-  "simplify_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
-  "new_grad_url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+  "simplify_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
   "sync_interval_minutes": 30,
   "max_age_days": 30,
   "regions": ["United States", "Canada"],
   "scrape_batch_size": 5,
   "scrape_delay_seconds": 2,
-  "readme_group_by": ["country", "track", "program"],
+  "readme_group_by": ["country", "program"],
   "include_terms": false
 }

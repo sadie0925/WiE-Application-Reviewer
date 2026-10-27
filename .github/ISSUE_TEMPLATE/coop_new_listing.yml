@@ -41,5 +41,5 @@ body:
         A maintainer will review your submission. Once the `approved` label is added,
         a GitHub Action will automatically add it to `coop-internships/listings.json`.
 
-        Listings are split into separate pages for Canada and the United States, and for software internships, other internships, and software new grad.
-        Only US and Canada locations are accepted. Closed or 30-day-old postings are removed automatically.
+        Listings are grouped by **Canada / United States** and **CS/software vs other programs**.
+        Only US and Canada locations are accepted. Season/term is not collected (titles are enough).

@@ -1,4 +1,4 @@
-"""Write the listings index and one markdown page per board."""
+"""Write the listings index and one page per board. Same listings, split for reading."""
 
 from __future__ import annotations
 
@@ -8,22 +8,12 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from scrapers.filters import classify_program
-from scrapers.location import listing_countries, location_countries
+from scrapers.location import listing_countries
 
 MARKER_START = "<!-- LISTINGS:START -->"
 MARKER_END = "<!-- LISTINGS:END -->"
 
 TORONTO = ZoneInfo("America/Toronto")
-
-# Newest postings first. Company name only breaks ties on the same day.
-def _sort_key(listing: dict) -> tuple:
-    posted = int(listing.get("date_posted") or 0)
-    return (
-        -posted,
-        (listing.get("company_name") or "").lower(),
-        (listing.get("title") or "").lower(),
-    )
-
 
 BOARDS = (
     {
@@ -61,7 +51,7 @@ BOARDS = (
     {
         "filename": "canada-new-grad.md",
         "title": "Canada — Software new grad",
-        "blurb": "Full-time software new-grad roles in Canada.",
+        "blurb": "Software new-grad roles in Canada from the same feed.",
         "country": "Canada",
         "program": "cs",
         "track": "new_grad",
@@ -69,7 +59,7 @@ BOARDS = (
     {
         "filename": "us-new-grad.md",
         "title": "United States — Software new grad",
-        "blurb": "Full-time software new-grad roles in the United States.",
+        "blurb": "Software new-grad roles in the United States from the same feed.",
         "country": "United States",
         "program": "cs",
         "track": "new_grad",
@@ -77,11 +67,19 @@ BOARDS = (
 )
 
 
+def _sort_key(listing: dict) -> tuple:
+    posted = int(listing.get("date_posted") or 0)
+    return (
+        -posted,
+        (listing.get("company_name") or "").lower(),
+        (listing.get("title") or "").lower(),
+    )
+
+
 def _max_age_days() -> int:
     path = Path(__file__).parent / "config.json"
     try:
-        data = json.loads(path.read_text(encoding="utf-8"))
-        return int(data.get("max_age_days", 30))
+        return int(json.loads(path.read_text(encoding="utf-8")).get("max_age_days", 30))
     except (OSError, ValueError, TypeError, json.JSONDecodeError):
         return 30
 
@@ -96,20 +94,10 @@ def _escape_md(text: str) -> str:
     return text.replace("|", "\\|")
 
 
-def _format_locations(listing: dict, country: str | None = None) -> str:
-    locs = list(listing.get("locations") or [])
+def _format_locations(listing: dict) -> str:
+    locs = listing.get("locations") or []
     if not locs:
         return "—"
-    if country:
-        def _rank(loc: str) -> int:
-            countries = location_countries(loc)
-            if country in countries and len(countries) == 1:
-                return 0
-            if country in countries:
-                return 1
-            return 2
-
-        locs.sort(key=_rank)
     shown = locs[:2]
     text = ", ".join(shown)
     if len(locs) > 2:
@@ -127,7 +115,7 @@ def _matches(listing: dict, board: dict) -> bool:
     return board["country"] in listing_countries(listing)
 
 
-def _table(listings: list[dict], country: str) -> list[str]:
+def _table(listings: list[dict]) -> list[str]:
     lines = [
         "| Company | Role | Location | Added | Apply |",
         "| ------- | ---- | -------- | ----- | ----- |",
@@ -135,7 +123,7 @@ def _table(listings: list[dict], country: str) -> list[str]:
     for listing in sorted(listings, key=_sort_key):
         company = _escape_md(listing.get("company_name", "—"))
         title = _escape_md(listing.get("title", "—"))
-        location = _format_locations(listing, country)
+        location = _format_locations(listing)
         added = format_date(int(listing.get("date_posted") or 0))
         url = listing.get("url", "")
         apply_link = f"[Apply]({url})" if url else "—"
@@ -158,30 +146,10 @@ def _render_board(board: dict, listings: list[dict], now: str, max_age_days: int
         "",
     ]
     if rows:
-        lines.extend(_table(rows, board["country"]))
+        lines.extend(_table(rows))
     else:
         lines.append("No open listings on this board right now.")
     lines.append("")
-    return "\n".join(lines)
-
-
-def generate_listings_section(counts: list[tuple[dict, int]], total: int, now: str, max_age_days: int) -> str:
-    lines = [
-        MARKER_START,
-        "",
-        f"**{total} open listings** across the boards below · newest first · "
-        f"Updated {now}",
-        "",
-        f"A listing is removed when Simplify marks the application closed, "
-        f"or when it was added more than **{max_age_days} days** ago. "
-        "Roles posted in both countries show up on both pages.",
-        "",
-        "| Board | Open |",
-        "| ----- | ---- |",
-    ]
-    for board, count in counts:
-        lines.append(f"| [{board['title']}](boards/{board['filename']}) | {count} |")
-    lines.extend(["", MARKER_END])
     return "\n".join(lines)
 
 
@@ -194,17 +162,33 @@ def update_readme(readme_path, listings: list[dict]) -> None:
     now = datetime.now(TORONTO).strftime("%Y-%m-%d %H:%M ET")
     max_age_days = _max_age_days()
 
-    counts: list[tuple[dict, int]] = []
+    counts = []
     for board in BOARDS:
         matched = [item for item in active if _matches(item, board)]
         counts.append((board, len(matched)))
-        page = _render_board(board, active, now, max_age_days)
-        (boards_dir / board["filename"]).write_text(page, encoding="utf-8")
+        (boards_dir / board["filename"]).write_text(
+            _render_board(board, active, now, max_age_days),
+            encoding="utf-8",
+        )
 
-    # A role in both countries is counted on each page, so sum(counts) can exceed total.
-    section = generate_listings_section(counts, len(active), now, max_age_days)
+    lines = [
+        MARKER_START,
+        "",
+        f"**{len(active)} open listings** · newest first · Updated {now}",
+        "",
+        f"Same Simplify feed as before. A listing is removed when the application is closed, "
+        f"or when it was added more than **{max_age_days} days** ago. "
+        "Roles in both countries show up on both pages.",
+        "",
+        "| Board | Open |",
+        "| ----- | ---- |",
+    ]
+    for board, count in counts:
+        lines.append(f"| [{board['title']}](boards/{board['filename']}) | {count} |")
+    lines.extend(["", MARKER_END])
+    section = "\n".join(lines)
+
     content = readme_path.read_text(encoding="utf-8")
-
     if MARKER_START in content and MARKER_END in content:
         before = content[: content.index(MARKER_START)]
         after = content[content.index(MARKER_END) + len(MARKER_END) :]
@@ -212,6 +196,6 @@ def update_readme(readme_path, listings: list[dict]) -> None:
     else:
         readme_path.write_text(content.rstrip() + "\n\n" + section + "\n", encoding="utf-8")
 
-    print(f"Updated {readme_path.name} and {len(BOARDS)} boards in {boards_dir}")
+    print(f"Updated {readme_path.name} and {len(BOARDS)} boards")
     for board, count in counts:
         print(f"  {board['filename']}: {count}")
