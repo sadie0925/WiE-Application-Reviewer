@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**323 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 13:22 ET
+**319 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 17:45 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -30,7 +30,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Meta | Battery Engineering Intern | Sunnyvale, CA |  |  | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/938682979075854) |
 | Texas Instruments | Analog Design Engineer Intern | Santa Clara, CA |  |  | 2026-10-26 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682) |
 | Paccar | Product Planning Intern | Kirkland, WA |  |  | 2026-10-26 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors) |
-| Renesas Electronics | Digital Design Electrical Engineer Intern | Austin, TX |  |  | 2026-10-26 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000157896855) |
 | Hive Financial Systems | Product & Program Management Intern | Atlanta, GA |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
 | ABB | Product Management Intern | New Berlin, WI |  |  | 2026-10-25 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) |
 | Analog Devices | Embedded Systems Co-op | Boston, MA |  |  | 2026-10-25 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) |
@@ -144,7 +143,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | NVIDIA | Product Management MBA Intern | Santa Clara, CA |  |  | 2026-10-14 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
 | Q2 | Product Operations Intern - Product Operations | Austin, TX |  |  | 2026-10-14 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) |
 | ROCKWOOL Group | Associate Product Management Intern | Chicago, IL |  |  | 2026-10-14 | [Apply](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) |
-| RTX | Electrical Engineer Intern | Marlborough, MA |  |  | 2026-10-14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705) |
 | Meta | ASIC Engineer Intern - Design Verification - Silicon Engineering | Sunnyvale, CA |  |  | 2026-10-14 | [Apply](https://www.metacareers.com/jobs/1079763448023260) |
 | Meta | Hardware Engineer Intern - Camera & Sensing Architecture | Redmond, WA, Sunnyvale, CA |  |  | 2026-10-14 | [Apply](https://www.metacareers.com/jobs/29216393121298039) |
 | Meta | Display Array Modeling Engineer Intern | Sunnyvale, CA |  |  | 2026-10-14 | [Apply](https://www.metacareers.com/jobs/2773227806411499) |
@@ -255,7 +253,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | BorgWarner | Electrical Design Engineer Intern | Kokomo, IN |  |  | 2026-10-05 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electrical-Design-Engineer-Intern_R2026-3965) |
 | GE Healthcare | Electrical Engineering Technician Co-op | Waukesha, WI |  |  | 2026-10-05 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Electrical-Engineering-Technician-Co-op_R4046982-1) |
 | GE Vernova | Systems Architecture Intern | Greenville, SC, Schenectady, NY |  |  | 2026-10-05 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-1) |
-| Hewlett Packard Enterprise | Electrical Engineer Intern | Spring, TX |  |  | 2026-10-05 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Labs-Intern_1213083) |
 | Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA |  |  | 2026-10-05 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214064) |
 | Hewlett Packard Enterprise | Optical Engineering Intern | Sunnyvale, CA |  |  | 2026-10-05 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Engineering-Intern_1214223) |
 | Hewlett Packard Enterprise | PCB Layout Automation Intern | Sunnyvale, CA |  |  | 2026-10-05 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/PCB-Layout-Automation-Intern_1214127) |
@@ -284,7 +281,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Koch Industries | Product Management Intern | Eden Prairie, MN, Lisle, IL |  |  | 2026-10-02 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195099) |
 | Arc | Electrical Hardware Engineering Intern | Torrance, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | Vertiv | Design Engineering Intern | Delaware, OH, Fort Lauderdale, FL |  |  | 2026-10-02 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257) |
-| Koch Industries | Engineering Assistant Co-op | Rochester Hills, MI |  |  | 2026-10-02 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195462) |
 | Intuit | Finance Transformation & Analytics Intern | Mountain View, CA |  |  | 2026-10-02 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) |
 | Muon Space | Electrical Engineer Intern | San Jose, CA |  |  | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) |
 | Allegion | Hardware Engineering Intern - Hardware Engineering | Indianapolis, IN |  |  | 2026-10-01 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413-1) |

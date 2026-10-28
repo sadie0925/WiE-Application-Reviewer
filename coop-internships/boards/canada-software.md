@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**174 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 13:22 ET
+**173 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 17:45 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -114,7 +114,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Electronic Arts | Analytics Intern | Vancouver, BC, Canada |  |  | 2026-10-16 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) |
 | BC Pensions | Application Developer Co-op | Victoria, BC, Canada |  |  | 2026-10-15 | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227) |
 | Alliaxis | Manufacturing Excellence Co-op Student | Oakville, ON, Canada |  |  | 2026-10-15 | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2) |
-| Altera | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-15 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320) |
 | General Magic | AI Engineer Co-op | Toronto, ON, Canada |  |  | 2026-10-15 | [Apply](https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true) |
 | General Magic | Backend Engineer Co-op | Toronto, ON, Canada |  |  | 2026-10-15 | [Apply](https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true) |
 | General Magic | Design Engineer Co-op | Toronto, ON, Canada |  |  | 2026-10-15 | [Apply](https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true) |

@@ -460,44 +460,6 @@
     "program": "cs"
   },
   {
-    "id": "d54ad503-0917-4cd9-8e73-8ecd6fe2d56d",
-    "company_name": "VSP Vision",
-    "company_url": "https://simplify.jobs/c/VSP-Vision",
-    "title": "Software Engineer Intern",
-    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793145600,
-    "date_updated": 1793187566,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "5a6710d9-eb37-4044-b352-2b23303dd73c",
-    "company_name": "VSP Vision",
-    "company_url": "https://simplify.jobs/c/VSP-Vision",
-    "title": "Software Engineer Intern",
-    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793145600,
-    "date_updated": 1793189370,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
     "company_name": "VSP Vision",
     "company_url": "https://simplify.jobs/c/VSP-Vision",
@@ -569,25 +531,6 @@
     "date_posted": 1793140351,
     "date_updated": 1793140452,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "7cf9e6f3-53d7-436f-8cfb-de413386333b",
-    "company_name": "Nomad GCS",
-    "company_url": "https://simplify.jobs/c/Nomad-GCS",
-    "title": "Software Engineer Intern",
-    "url": "https://nomadgcs.bamboohr.com/careers/506/",
-    "locations": [
-      "Columbia Falls, MT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793140122,
-    "date_updated": 1793140294,
-    "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -2880,25 +2823,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "de7fa612-c692-41df-bee6-384a28885a20",
-    "company_name": "Renesas Electronics",
-    "company_url": "https://simplify.jobs/c/Renesas-Electronics",
-    "title": "Digital Design Electrical Engineer Intern",
-    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157896855",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793042631,
-    "date_updated": 1793139304,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "5e2d95be-4aa3-4837-8222-35bef4eeb890",
@@ -6806,25 +6730,6 @@
     "date_posted": 1792707010,
     "date_updated": 1792707166,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "8af9387e-120b-4e72-bafe-1c85ff072299",
-    "company_name": "Ursa Major",
-    "company_url": "https://simplify.jobs/c/UrsaMajor",
-    "title": "Embedded Flight Software Intern",
-    "url": "https://ursamajor.com/careers/?gh_jid=4746825005",
-    "locations": [
-      "Longmont, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792706741,
-    "date_updated": 1792706993,
-    "category": "Hardware",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -12010,25 +11915,6 @@
     "program": "cs"
   },
   {
-    "id": "c667509a-a75f-4862-a9ae-d0ca20846b62",
-    "company_name": "Altera",
-    "company_url": "https://simplify.jobs/c/Altera-Corporation",
-    "title": "Software Engineer Intern",
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792108800,
-    "date_updated": 1792190166,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "7eb2dc1e-a2d8-4cd8-a3cf-70178e3bc5d2",
     "company_name": "American Bankers Association",
     "company_url": "https://simplify.jobs/c/American-Bankers-Association",
@@ -13228,25 +13114,6 @@
     "program": "other"
   },
   {
-    "id": "450e4484-4377-400a-9da6-573dd1196e57",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Electrical Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
-    "locations": [
-      "Marlborough, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792022400,
-    "date_updated": 1792102528,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "f36586f0-7cae-49e9-8b12-06db77de4051",
     "company_name": "State of Wisconsin Investment Board",
     "company_url": "https://simplify.jobs/c/State-Of-Wisconsin-Investment-Board",
@@ -13469,25 +13336,6 @@
     "source": "simplify",
     "date_posted": 1792017647,
     "date_updated": 1792017732,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "7667ab73-65ee-42b0-96d1-cbf12853d654",
-    "company_name": "AGCO",
-    "company_url": "https://simplify.jobs/c/AGCO",
-    "title": "AI & Data Science Intern",
-    "url": "https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors",
-    "locations": [
-      "Champaign, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792017240,
-    "date_updated": 1792017410,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
@@ -15368,25 +15216,6 @@
     "source": "simplify",
     "date_posted": 1791853763,
     "date_updated": 1791853922,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "07b72404-06cc-425a-80c5-b8a9a253652a",
-    "company_name": "7-Eleven",
-    "company_url": "https://simplify.jobs/c/7-Eleven",
-    "title": "AI Analyst / AI Automation Specialist Intern",
-    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017",
-    "locations": [
-      "Irving, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791849600,
-    "date_updated": 1791930138,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
@@ -21585,25 +21414,6 @@
     "program": "cs"
   },
   {
-    "id": "1ed211df-94af-49fb-adc6-90893c7879b2",
-    "company_name": "Hewlett Packard Enterprise",
-    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-    "title": "Electrical Engineer Intern",
-    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Labs-Intern_1213083",
-    "locations": [
-      "Spring, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791244800,
-    "date_updated": 1791353885,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "0c54130a-f5da-49fe-90fd-81e416d718ac",
     "company_name": "Hewlett Packard Enterprise",
     "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
@@ -23097,25 +22907,6 @@
     "source": "simplify",
     "date_posted": 1790979719,
     "date_updated": 1790980246,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "766c0340-ea87-48cd-8d8a-9e800c455e0a",
-    "company_name": "Koch Industries",
-    "company_url": "https://simplify.jobs/c/Koch-Industries",
-    "title": "Engineering Assistant Co-op",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/195462",
-    "locations": [
-      "Rochester Hills, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790979637,
-    "date_updated": 1791370490,
     "category": "Hardware",
     "sponsorship": "Other",
     "track": "intern",
