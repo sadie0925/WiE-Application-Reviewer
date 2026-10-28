@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**47 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-27 20:20 ET
+**46 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 01:39 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -56,4 +56,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada |  |  | 2026-09-30 | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors) |
 | Qualcomm | Silicon Engineering Intern | Toronto, ON, Canada |  |  | 2026-09-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302528) |
 | Qualcomm | Soft IP ASIC Engineer Intern | Ottawa, ON, Canada |  |  | 2026-09-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302471) |
-| Lumentum | Reliability Test Automation Engineer Co-op Intern | Ottawa, ON, Canada |  |  | 2026-09-27 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382) |

@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**177 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-27 20:20 ET
+**174 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 01:39 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| NUVACORE | CPU Software Intern | Markham, ON, Canada |  |  | 2026-10-27 | [Apply](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) |
 | Uber | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-27 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) |
 | Lumerate | Data Associate Intern | Canada, Remote in Canada |  |  | 2026-10-27 | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) |
 | CIBC | Data Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-co-op_2622122) |
@@ -33,14 +34,12 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Royal Bank of Canada | Data Engineer Intern | Halifax Regional Municipality, NS, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195) |
 | Royal Bank of Canada | Data Engineer Intern | Calgary, AB, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201) |
 | Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1) |
-| Royal Bank of Canada | Data Engineer Intern | Halifax Regional Municipality, NS, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195-1) |
 | Royal Bank of Canada | Data Engineer Intern | Calgary, AB, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2) |
 | Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192) |
 | Royal Bank of Canada | Data Engineer Intern - Amplify 2027 | Vancouver, BC, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198) |
 | Royal Bank of Canada | Developer Intern | Halifax Regional Municipality, NS, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196) |
 | Royal Bank of Canada | Developer Intern | Vancouver, BC, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2) |
 | Royal Bank of Canada | Developer Intern | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1) |
-| Royal Bank of Canada | Developer Intern | Bedford, NS, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196-1) |
 | Royal Bank of Canada | Developer Intern | Calgary, AB, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1) |
 | Royal Bank of Canada | Developer Intern | Vancouver, BC, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199) |
 | Royal Bank of Canada | Developer Intern | Calgary, AB, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202) |
@@ -52,7 +51,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Intuit | Software Developer Co-op - Front End | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) |
 | 1Password | Developer Intern - Credential Brokering | Remote in USA, Remote in Canada |  |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) |
 | 1Password | Developer Intern - Developer Interfaces | Remote in USA, Remote in Canada |  |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) |
-| Amazon | Systems Development Engineer Intern | Vancouver, BC, Canada |  |  | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-22 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366) |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-22 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704364) |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-22 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704365) |
@@ -98,7 +96,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Picton Mahoney Asset Management | Data Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://pictonmahoney.bamboohr.com/careers/387/) |
 | Steel | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
 | GeoSpectrum Technologies | Software Developer Co-op | Dartmouth, NS, Canada |  |  | 2026-10-20 | [Apply](https://geospectrum.bamboohr.com/careers/286/) |
-| Altera | Quartus User Interface Intern | Toronto, ON, Canada |  |  | 2026-10-19 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-User-Interface---Intern_R03353) |
 | Hitachi | AI Intern Supply Chain | Toronto, ON, Canada |  |  | 2026-10-19 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  | 2026-10-19 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604) |
 | Nuovo Photography | Software Developer Intern | Montreal, QC, Canada |  |  | 2026-10-19 | [Apply](https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply) |
