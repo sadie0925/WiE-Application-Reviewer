@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**176 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 07:38 ET
+**174 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 13:22 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -30,13 +30,11 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | CIBC | AI Scientist Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) |
 | CIBC | AI Scientist Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) |
 | Royal Bank of Canada | Data Engineer Intern | Vancouver, BC, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2) |
-| Royal Bank of Canada | Data Engineer Intern | Halifax Regional Municipality, NS, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195) |
 | Royal Bank of Canada | Data Engineer Intern | Calgary, AB, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201) |
 | Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1) |
 | Royal Bank of Canada | Data Engineer Intern | Calgary, AB, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2) |
 | Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192) |
 | Royal Bank of Canada | Data Engineer Intern - Amplify 2027 | Vancouver, BC, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198) |
-| Royal Bank of Canada | Developer Intern | Halifax Regional Municipality, NS, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196) |
 | Royal Bank of Canada | Developer Intern | Vancouver, BC, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2) |
 | Royal Bank of Canada | Developer Intern | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1) |
 | Royal Bank of Canada | Developer Intern | Calgary, AB, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1) |
