@@ -9,6 +9,7 @@ import sys
 import time
 from pathlib import Path
 
+from hackathons import fetch_hackathons
 from readme_generator import update_readme
 from scrapers import scrape_company
 from scrapers.filters import NEW_GRAD_TITLE_PATTERN, classify_program, purge_listings
@@ -24,6 +25,7 @@ LISTINGS_PATH = ROOT / "listings.json"
 COMPANIES_PATH = ROOT / "companies.json"
 HASH_PATH = ROOT / ".listings-hash"
 README_PATH = ROOT / "README.md"
+HACKATHONS_PATH = ROOT / "hackathons.json"
 
 
 def load_json(path: Path) -> list | dict:
@@ -85,8 +87,12 @@ def finalize_listings(listings: list[dict]) -> tuple[list[dict], dict]:
     return kept, stats
 
 
-def regenerate_readme(listings: list[dict]) -> None:
-    update_readme(README_PATH, listings)
+def save_hackathons(events: list[dict]) -> None:
+    save_json(HACKATHONS_PATH, events)
+
+
+def regenerate_readme(listings: list[dict], hackathons: list[dict] | None = None) -> None:
+    update_readme(README_PATH, listings, hackathons)
     print(f"Updated listings section in {README_PATH}")
 
 
@@ -100,7 +106,22 @@ def cmd_sync(args) -> int:
     simplify_listings, stats = sync()
 
     merged, purge_stats = finalize_listings(merge_with_community(simplify_listings, existing))
-    new_hash = listings_fingerprint(merged)
+    print("Fetching hackathons (MLH + Devpost)...")
+    try:
+        hackathon_events = fetch_hackathons()
+    except Exception as exc:
+        print(f"  Hackathon fetch failed: {exc}", file=sys.stderr)
+        hackathon_events = []
+        if HACKATHONS_PATH.exists():
+            saved = load_json(HACKATHONS_PATH)
+            hackathon_events = saved if isinstance(saved, list) else []
+    uw_count = sum(1 for item in hackathon_events if item.get("tier") == "uw")
+    print(f"  Hackathons: {len(hackathon_events)} ({uw_count} Waterloo clubs/committees first)")
+
+    new_hash = listings_fingerprint(merged) + "|" + json.dumps(
+        [(item.get("name"), item.get("url"), item.get("tier"), item.get("deadline_at"), item.get("deadline_kind")) for item in hackathon_events],
+        sort_keys=True,
+    )
     old_hash = load_hash()
 
     print(
@@ -115,8 +136,9 @@ def cmd_sync(args) -> int:
 
     if new_hash != old_hash or args.force:
         save_json(LISTINGS_PATH, merged)
+        save_hackathons(hackathon_events)
         save_hash(new_hash)
-        regenerate_readme(merged)
+        regenerate_readme(merged, hackathon_events)
         print("listings.json and boards updated.")
     else:
         print("No listing changes — left the boards as they are.")

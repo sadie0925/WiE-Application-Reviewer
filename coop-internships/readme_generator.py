@@ -7,6 +7,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from hackathons import drop_past_deadlines
 from scrapers.filters import classify_program
 from scrapers.location import listing_countries
 
@@ -153,7 +154,90 @@ def _render_board(board: dict, listings: list[dict], now: str, max_age_days: int
     return "\n".join(lines)
 
 
-def update_readme(readme_path, listings: list[dict]) -> None:
+def _format_deadline(event: dict) -> str:
+    raw = event.get("deadline_at") or ""
+    if not raw:
+        return "—"
+    try:
+        parsed = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        label = parsed.astimezone(TORONTO).strftime("%Y-%m-%d")
+    except ValueError:
+        return raw
+    if event.get("deadline_kind") == "application":
+        return f"{label} applications"
+    if event.get("deadline_kind") == "event_start":
+        return f"{label} event start"
+    return label
+
+
+def _format_when(event: dict) -> str:
+    starts = event.get("starts_at") or ""
+    if starts:
+        try:
+            parsed = datetime.fromisoformat(starts.replace("Z", "+00:00"))
+            return parsed.astimezone(TORONTO).strftime("%Y-%m-%d")
+        except ValueError:
+            pass
+    return event.get("when") or "—"
+
+
+def _render_hackathon_board(events: list[dict], now: str) -> str:
+    uw = [item for item in events if item.get("tier") == "uw"]
+    major = [item for item in events if item.get("tier") != "uw"]
+    lines = [
+        "# Hackathons and innovation challenges",
+        "",
+        "Waterloo clubs and committees are listed first "
+        "(EngSoc, UW clubs, WiCS, WiE, design teams), from their own websites. "
+        "Other Canada and US hackathons follow. "
+        "A row is removed as soon as its deadline passes. "
+        "That deadline is the application close when the organizer publishes one. "
+        "If they do not, the event start is used. This is separate from the 30-day job rule.",
+        "",
+        f"**{len(events)} upcoming** · {len(uw)} Waterloo · {len(major)} other Canada/US · Updated {now}",
+        "",
+        "[All boards](../README.md)",
+        "",
+        "## Waterloo clubs and committees",
+        "",
+    ]
+    lines.extend(_hackathon_table(uw))
+    lines.extend(["", "## Other Canada and US hackathons", ""])
+    lines.extend(_hackathon_table(major))
+    lines.append("")
+    return "\n".join(lines)
+
+
+def _hackathon_table(events: list[dict]) -> list[str]:
+    if not events:
+        return ["None open right now.", ""]
+    lines = [
+        "| Event | Where | When | Deadline | Link |",
+        "| ----- | ----- | ---- | -------- | ---- |",
+    ]
+    for event in events:
+        name = _escape_md(event.get("name") or "—")
+        where = _escape_md(event.get("location") or "—")
+        when = _escape_md(_format_when(event))
+        deadline = _escape_md(_format_deadline(event))
+        url = event.get("url") or ""
+        link = f"[Open]({url})" if url else "—"
+        lines.append(f"| {name} | {where} | {when} | {deadline} | {link} |")
+    return lines
+
+
+def _load_hackathons(readme_path: Path) -> list[dict]:
+    path = readme_path.parent / "hackathons.json"
+    if not path.exists():
+        return []
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return []
+    return data if isinstance(data, list) else []
+
+
+def update_readme(readme_path, listings: list[dict], hackathons: list[dict] | None = None) -> None:
     readme_path = Path(readme_path)
     boards_dir = readme_path.parent / "boards"
     boards_dir.mkdir(exist_ok=True)
@@ -161,6 +245,12 @@ def update_readme(readme_path, listings: list[dict]) -> None:
     active = [item for item in listings if item.get("active") and item.get("is_visible", True)]
     now = datetime.now(TORONTO).strftime("%Y-%m-%d %H:%M ET")
     max_age_days = _max_age_days()
+
+    if hackathons is None:
+        hackathons = _load_hackathons(readme_path)
+    hackathons = drop_past_deadlines(hackathons)
+    hackathon_page = _render_hackathon_board(hackathons, now)
+    (boards_dir / "hackathons.md").write_text(hackathon_page, encoding="utf-8")
 
     counts = []
     for board in BOARDS:
@@ -185,6 +275,11 @@ def update_readme(readme_path, listings: list[dict]) -> None:
     ]
     for board, count in counts:
         lines.append(f"| [{board['title']}](boards/{board['filename']}) | {count} |")
+    uw_count = sum(1 for item in hackathons if item.get("tier") == "uw")
+    lines.append(
+        f"| [Hackathons and innovation challenges](boards/hackathons.md) | {len(hackathons)} "
+        f"({uw_count} Waterloo first) |"
+    )
     lines.extend(["", MARKER_END])
     section = "\n".join(lines)
 

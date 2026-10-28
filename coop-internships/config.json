@@ -1,6 +1,6 @@
 {
   "simplify_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
-  "sync_interval_minutes": 30,
+  "sync_interval_minutes": 5,
   "max_age_days": 30,
   "regions": ["United States", "Canada"],
   "scrape_batch_size": 5,

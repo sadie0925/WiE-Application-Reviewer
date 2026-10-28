@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**870 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-27 19:05 ET
+**870 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-27 19:20 ET
 
 [All boards](../README.md)
 

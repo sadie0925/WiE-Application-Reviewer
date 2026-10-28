@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**47 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-27 19:05 ET
+**47 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-27 19:20 ET
 
 [All boards](../README.md)
 

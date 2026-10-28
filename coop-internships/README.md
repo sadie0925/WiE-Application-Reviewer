@@ -4,6 +4,8 @@ Undergraduate co-op and internship postings in **United States & Canada**, synce
 
 Boards are separate pages, newest first. Closed applications, and anything added more than 30 days ago, are removed. Software new-grad titles from this same feed go on their own pages.
 
+The checker runs every 5 minutes, which is the fastest GitHub will schedule it. A new posting shows up on the next check after it appears in the feed. Hackathons are on their own page: Waterloo clubs and committees first, then other Canada and US events. A hackathon is removed as soon as its deadline passes, which is separate from the 30-day job rule.
+
 ## Quick start
 
 ```bash
@@ -15,7 +17,7 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**1402 open listings** · newest first · Updated 2026-10-27 19:05 ET
+**1402 open listings** · newest first · Updated 2026-10-27 19:20 ET
 
 Same Simplify feed as before. A listing is removed when the application is closed, or when it was added more than **30 days** ago. Roles in both countries show up on both pages.
 
@@ -27,5 +29,6 @@ Same Simplify feed as before. A listing is removed when the application is close
 | [United States — Other internships](boards/us-other.md) | 322 |
 | [Canada — Software new grad](boards/canada-new-grad.md) | 0 |
 | [United States — Software new grad](boards/us-new-grad.md) | 1 |
+| [Hackathons and innovation challenges](boards/hackathons.md) | 57 (1 Waterloo first) |
 
 <!-- LISTINGS:END -->
