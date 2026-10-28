@@ -74,6 +74,7 @@ def listings_fingerprint(listings: list[dict]) -> str:
                 "title": l.get("title"),
                 "active": l.get("active"),
                 "locations": l.get("locations"),
+                "sponsorship": l.get("sponsorship"),
             }
             for l in sorted(listings, key=lambda x: x.get("url", ""))
         ],

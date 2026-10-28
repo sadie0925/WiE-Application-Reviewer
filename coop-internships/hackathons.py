@@ -41,7 +41,7 @@ UW_STRONG_PATTERNS = re.compile(
     r"midnight\s+sun|watonomous|waterloop|uwaft|"
     r"formula\s+electric|concrete\s+toboggan|"
     r"waterloo\s+aerial|uworb|"
-    r"uw\s+club"
+    r"uw\s+club|velocity|ideas\s+clinic|socratica|communitech"
     r")\b",
     re.IGNORECASE,
 )
@@ -59,12 +59,25 @@ TORONTO = ZoneInfo("America/Toronto")
 UW_EVENT_FEEDS = (
     "https://uwaterloo.ca/women-in-engineering/events/events.xml",
     "https://uwaterloo.ca/women-in-computer-science/events/events.xml",
+    "https://uwaterloo.ca/engineering-ideas-clinic/events/events.xml",
 )
 
 HACKATHON_TITLE = re.compile(
-    r"\b(hackathon|innovation\s+challenge|designathon|makeathon)\b",
+    r"\b(hackathon|innovation\s+challenge|designathon|makeathon|buildathon)\b",
     re.IGNORECASE,
 )
+
+VELOCITY_INDEX = "https://www.velocityincubator.com/students"
+IDEAS_INDEX = "https://uwaterloo.ca/engineering-ideas-clinic/"
+RADAR_URL = "https://www.hackathonradar.com/discover/waterloo"
+SOCRATICA_CALENDAR = "https://wygo.world/o/socratica"
+COMMUNITECH_EVENTS = "https://www.communitech.ca/community/events/"
+CHALLENGE_LINK = re.compile(r"challenge|hackathon|buildathon", re.IGNORECASE)
+SOCRATICA_KEEP = re.compile(
+    r"\b(hackathon|buildathon|innovation|challenge|symposium)\b",
+    re.IGNORECASE,
+)
+LOCAL_SOURCES = {"uwaterloo", "velocity", "ideas-clinic", "socratica", "communitech"}
 
 APPLICATION_DUE = re.compile(
     r"(?:applications?|registration|sign[\s-]?ups?)\s+(?:are\s+)?"
@@ -363,6 +376,277 @@ def fetch_uw_events(now: datetime | None = None) -> list[dict]:
     return drop_past_deadlines(events, current)
 
 
+def _plain(page: str) -> str:
+    text = re.sub(r"<script[\s\S]*?</script>", " ", page, flags=re.IGNORECASE)
+    text = re.sub(r"<style[\s\S]*?</style>", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", " ", text)
+    return re.sub(r"\s+", " ", html.unescape(text))
+
+
+def _page_title(page: str) -> str:
+    match = re.search(r"<h1[^>]*>(.*?)</h1>", page, re.IGNORECASE | re.S)
+    if not match:
+        match = re.search(r"<title[^>]*>(.*?)</title>", page, re.IGNORECASE | re.S)
+    if not match:
+        return ""
+    title = re.sub(r"<[^>]+>", " ", match.group(1))
+    title = re.sub(r"\s+", " ", html.unescape(title)).strip()
+    return re.split(r"\s+\|\s+", title)[0].strip()
+
+
+def _date_in_phrase(phrase: str, default_year: int) -> datetime | None:
+    match = re.search(
+        r"([A-Za-z]+)\.?\s+(\d{1,2})(?:st|nd|rd|th)?"
+        r"(?:\s*[–-]\s*(?:[A-Za-z]+\.?\s+)?\d{1,2}(?:st|nd|rd|th)?)?"
+        r"(?:,?\s*(20\d{2}))?",
+        phrase,
+    )
+    if not match:
+        return None
+    year = int(match.group(3)) if match.group(3) else default_year
+    return parse_loose_date(f"{match.group(1)} {match.group(2)}, {year}", year)
+
+
+def _dated_phrase(text: str, default_year: int) -> datetime | None:
+    patterns = (
+        r"When:\s*([^.]{0,80})",
+        r"Upcoming session\s+([^.]{0,90})",
+        r"will take place on\s+([^.]{0,80})",
+        r"will be\s+([A-Za-z]+\.?\s+\d{1,2}[^.]{0,40})",
+        r"Kick-off event:\s+([^.]{0,80})",
+    )
+    for pattern in patterns:
+        match = re.search(pattern, text, re.IGNORECASE)
+        if not match:
+            continue
+        found = _date_in_phrase(match.group(1), default_year)
+        if found:
+            return found
+    return None
+
+
+def _challenge_event(name: str, location: str, url: str, page: str, source: str, now: datetime) -> dict | None:
+    start = _dated_phrase(_plain(page), now.year)
+    deadline = parse_application_deadline(page, start.year if start else now.year)
+    if deadline is not None:
+        deadline_kind = "application"
+    elif start is not None:
+        deadline = start
+        deadline_kind = "event_start"
+    else:
+        return None
+    return {
+        "name": name,
+        "location": location,
+        "url": url,
+        "starts_at": start.isoformat() if start else "",
+        "ends_at": "",
+        "deadline_at": deadline.isoformat(),
+        "deadline_kind": deadline_kind,
+        "when": start.astimezone(TORONTO).strftime("%Y-%m-%d") if start else "",
+        "status": "Open" if deadline_kind == "application" else "Upcoming",
+        "tier": "uw",
+        "source": source,
+    }
+
+
+def _linked_challenges(index_url: str, location: str, source: str, now: datetime) -> list[dict]:
+    response = _get(index_url, headers={"Accept": "text/html"})
+    links = []
+    seen = set()
+    for href in re.findall(r'href="([^"]+)"', response.text):
+        if not CHALLENGE_LINK.search(href):
+            continue
+        if href.startswith("http"):
+            url = href
+        elif href.startswith("/"):
+            url = requests.compat.urljoin(index_url, href)
+        else:
+            continue
+        url = url.split("#")[0].split("?")[0]
+        if url in seen or url.rstrip("/") == index_url.rstrip("/"):
+            continue
+        seen.add(url)
+        links.append(url)
+    events = []
+    for url in links[:12]:
+        try:
+            page = _get(url, headers={"Accept": "text/html"})
+        except requests.RequestException:
+            continue
+        name = _page_title(page.text)
+        if not name:
+            continue
+        event = _challenge_event(name, location, url, page.text, source, now)
+        if event:
+            events.append(event)
+    return drop_past_deadlines(events, now)
+
+
+def fetch_velocity_events(now: datetime | None = None) -> list[dict]:
+    current = now or datetime.now(timezone.utc)
+    try:
+        return _linked_challenges(VELOCITY_INDEX, "University of Waterloo", "velocity", current)
+    except requests.RequestException:
+        return []
+
+
+def fetch_ideas_clinic_events(now: datetime | None = None) -> list[dict]:
+    current = now or datetime.now(timezone.utc)
+    try:
+        return _linked_challenges(
+            IDEAS_INDEX,
+            "Pearl Sullivan Engineering IDEAs Clinic",
+            "ideas-clinic",
+            current,
+        )
+    except requests.RequestException:
+        return []
+
+
+def fetch_hackathon_radar(now: datetime | None = None) -> list[dict]:
+    """Hackathon Radar's public Waterloo page. Past rows are not kept."""
+    current = now or datetime.now(timezone.utc)
+    try:
+        response = _get(RADAR_URL, headers={"Accept": "text/html"})
+    except requests.RequestException:
+        return []
+    events = []
+    seen = set()
+    blocks = re.finditer(
+        r'<h3 class="text-xs[^"]*"[^>]*>([^<]+)</h3>(.*?)(?=<h3 class="text-xs|$)',
+        response.text,
+        re.S,
+    )
+    for block in blocks:
+        starts = parse_loose_date(html.unescape(block.group(1)), current.year)
+        for card in re.finditer(r'href="(/database/hackathon/[^"]+)"([\s\S]*?)</a>', block.group(2)):
+            body = card.group(2)
+            if ">Past<" in body:
+                continue
+            name_match = re.search(r"<h3[^>]*>([^<]+)</h3>", body)
+            if not name_match:
+                continue
+            name = html.unescape(name_match.group(1)).strip()
+            key = name.lower()
+            if not name or key in seen:
+                continue
+            seen.add(key)
+            url = "https://www.hackathonradar.com" + card.group(1)
+            tier = _tier(name, "Waterloo", url) or "major"
+            deadline = starts
+            events.append(
+                {
+                    "name": name,
+                    "location": "Waterloo",
+                    "url": url,
+                    "starts_at": starts.isoformat() if starts else "",
+                    "ends_at": "",
+                    "deadline_at": deadline.isoformat() if deadline else "",
+                    "deadline_kind": "event_start",
+                    "when": starts.astimezone(TORONTO).strftime("%Y-%m-%d") if starts else "",
+                    "status": "Upcoming",
+                    "tier": tier,
+                    "source": "hackathon-radar",
+                }
+            )
+    return drop_past_deadlines(events, current)
+
+
+def fetch_socratica_events(now: datetime | None = None) -> list[dict]:
+    """Socratica's public calendar. The email newsletter has no public archive."""
+    current = now or datetime.now(timezone.utc)
+    try:
+        response = _get(SOCRATICA_CALENDAR, headers={"Accept": "text/html"})
+    except requests.RequestException:
+        return []
+    events = []
+    seen = set()
+    parts = re.split(r'<div class="font-medium">([^<]+)</div>', response.text)
+    for date_text, chunk in zip(parts[1::2], parts[2::2]):
+        starts = parse_loose_date(html.unescape(date_text), current.year)
+        for card in re.finditer(r'href="(/[^"]+)"[\s\S]*?text-text-title">([^<]+)<', chunk):
+            name = html.unescape(card.group(2)).strip()
+            if not name or not SOCRATICA_KEEP.search(name):
+                continue
+            key = name.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            href = card.group(1)
+            url = href if href.startswith("http") else "https://wygo.world" + href
+            deadline = starts
+            events.append(
+                {
+                    "name": name,
+                    "location": "Waterloo",
+                    "url": url,
+                    "starts_at": starts.isoformat() if starts else "",
+                    "ends_at": "",
+                    "deadline_at": deadline.isoformat() if deadline else "",
+                    "deadline_kind": "event_start",
+                    "when": starts.astimezone(TORONTO).strftime("%Y-%m-%d") if starts else "",
+                    "status": "Upcoming",
+                    "tier": "uw",
+                    "source": "socratica",
+                }
+            )
+    return drop_past_deadlines(events, current)
+
+
+def fetch_communitech_events(now: datetime | None = None) -> list[dict]:
+    """Communitech's events page. Their newsletter is members-only, and the site often blocks scripts."""
+    current = now or datetime.now(timezone.utc)
+    try:
+        response = _get(
+            COMMUNITECH_EVENTS,
+            headers={
+                "Accept": "text/html",
+                "User-Agent": (
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+                ),
+            },
+        )
+    except requests.RequestException:
+        return []
+    if "Security Check" in response.text[:800]:
+        return []
+    events = []
+    seen = set()
+    for match in re.finditer(r"<h[23][^>]*>(.*?)</h[23]>", response.text, re.IGNORECASE | re.S):
+        name = re.sub(r"<[^>]+>", " ", match.group(1))
+        name = re.sub(r"\s+", " ", html.unescape(name)).strip()
+        if not name or not HACKATHON_TITLE.search(name) or name.lower() in seen:
+            continue
+        window = response.text[max(0, match.start() - 500): match.end() + 300]
+        starts = _date_in_phrase(_plain(window), current.year)
+        if starts is None:
+            continue
+        seen.add(name.lower())
+        href = re.search(r'href="([^"]+)"', window)
+        url = COMMUNITECH_EVENTS
+        if href:
+            raw = html.unescape(href.group(1))
+            url = raw if raw.startswith("http") else requests.compat.urljoin(COMMUNITECH_EVENTS, raw)
+        events.append(
+            {
+                "name": name,
+                "location": "Communitech, Kitchener",
+                "url": url,
+                "starts_at": starts.isoformat(),
+                "ends_at": "",
+                "deadline_at": starts.isoformat(),
+                "deadline_kind": "event_start",
+                "when": starts.astimezone(TORONTO).strftime("%Y-%m-%d"),
+                "status": "Upcoming",
+                "tier": "uw",
+                "source": "communitech",
+            }
+        )
+    return drop_past_deadlines(events, current)
+
+
 def merge_hackathons(*groups: list[dict]) -> list[dict]:
     """Waterloo site rows win over a feed row with the same name."""
     by_name: dict[str, dict] = {}
@@ -370,7 +654,9 @@ def merge_hackathons(*groups: list[dict]) -> list[dict]:
         for item in group:
             key = item["name"].strip().lower()
             current = by_name.get(key)
-            if current is None or item.get("source") == "uwaterloo":
+            candidate_local = item.get("source") in LOCAL_SOURCES
+            current_local = current is not None and current.get("source") in LOCAL_SOURCES
+            if current is None or (candidate_local and not current_local):
                 by_name[key] = item
     merged = drop_past_deadlines(list(by_name.values()))
     merged.sort(
@@ -384,4 +670,19 @@ def merge_hackathons(*groups: list[dict]) -> list[dict]:
 
 
 def fetch_hackathons() -> list[dict]:
-    return merge_hackathons(fetch_devpost_events(), fetch_mlh_events(), fetch_uw_events())
+    groups = []
+    for fetch in (
+        fetch_devpost_events,
+        fetch_mlh_events,
+        fetch_uw_events,
+        fetch_velocity_events,
+        fetch_ideas_clinic_events,
+        fetch_hackathon_radar,
+        fetch_socratica_events,
+        fetch_communitech_events,
+    ):
+        try:
+            groups.append(fetch())
+        except Exception:
+            groups.append([])
+    return merge_hackathons(*groups)

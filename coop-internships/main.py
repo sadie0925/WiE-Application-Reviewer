@@ -106,7 +106,7 @@ def cmd_sync(args) -> int:
     simplify_listings, stats = sync()
 
     merged, purge_stats = finalize_listings(merge_with_community(simplify_listings, existing))
-    print("Fetching hackathons (MLH + Devpost)...")
+    print("Fetching hackathons (MLH, Devpost, and Waterloo sources)...")
     try:
         hackathon_events = fetch_hackathons()
     except Exception as exc:

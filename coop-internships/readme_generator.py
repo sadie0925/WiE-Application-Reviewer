@@ -8,7 +8,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from hackathons import drop_past_deadlines
-from scrapers.filters import classify_program
+from scrapers.filters import classify_program, work_auth_label, work_term_label
 from scrapers.location import listing_countries
 
 MARKER_START = "<!-- LISTINGS:START -->"
@@ -118,17 +118,21 @@ def _matches(listing: dict, board: dict) -> bool:
 
 def _table(listings: list[dict]) -> list[str]:
     lines = [
-        "| Company | Role | Location | Added | Apply |",
-        "| ------- | ---- | -------- | ----- | ----- |",
+        "| Company | Role | Location | Term | Work auth | Added | Apply |",
+        "| ------- | ---- | -------- | ---- | --------- | ----- | ----- |",
     ]
     for listing in sorted(listings, key=_sort_key):
         company = _escape_md(listing.get("company_name", "—"))
         title = _escape_md(listing.get("title", "—"))
         location = _format_locations(listing)
+        term = _escape_md(work_term_label(listing))
+        auth = _escape_md(work_auth_label(listing))
         added = format_date(int(listing.get("date_posted") or 0))
         url = listing.get("url", "")
         apply_link = f"[Apply]({url})" if url else "—"
-        lines.append(f"| {company} | {title} | {location} | {added} | {apply_link} |")
+        lines.append(
+            f"| {company} | {title} | {location} | {term} | {auth} | {added} | {apply_link} |"
+        )
     return lines
 
 
@@ -142,6 +146,12 @@ def _render_board(board: dict, listings: list[dict], now: str, max_age_days: int
         f"**{len(rows)} open** · newest first · "
         f"removed when the application closes or after {max_age_days} days · "
         f"Updated {now}",
+        "",
+        "Term is filled only when the title or description says Winter, Spring, Fall, or Summer. "
+        "Summer is shown as Spring, which is Waterloo's May–August term. "
+        "Work auth is filled only when the posting says it sponsors a work permit, "
+        "or that it requires US citizenship, a US person, permanent residence, "
+        "unrestricted work authorization, or a US clearance. Otherwise that cell is blank.",
         "",
         "[All boards](../README.md)",
         "",
@@ -188,7 +198,9 @@ def _render_hackathon_board(events: list[dict], now: str) -> str:
         "# Hackathons and innovation challenges",
         "",
         "Waterloo clubs and committees are listed first "
-        "(EngSoc, UW clubs, WiCS, WiE, design teams), from their own websites. "
+        "(EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). "
+        "Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, "
+        "MLH, and Devpost. "
         "Other Canada and US hackathons follow. "
         "A row is removed as soon as its deadline passes. "
         "That deadline is the application close when the organizer publishes one. "

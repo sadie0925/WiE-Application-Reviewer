@@ -13,6 +13,32 @@
     "source": "uwaterloo"
   },
   {
+    "name": "The Blockchain Innovation Challenge powered by Stellar",
+    "location": "University of Waterloo",
+    "url": "https://www.velocityincubator.com/programs-events/the-blockchain-innovation-challenge-powered-by-stellar",
+    "starts_at": "2026-11-02T23:59:59-05:00",
+    "ends_at": "",
+    "deadline_at": "2026-11-02T23:59:59-05:00",
+    "deadline_kind": "event_start",
+    "when": "2026-11-02",
+    "status": "Upcoming",
+    "tier": "uw",
+    "source": "velocity"
+  },
+  {
+    "name": "The Co-op Workplace Simulation by Velocity",
+    "location": "University of Waterloo",
+    "url": "https://www.velocityincubator.com/programs-events/velocity-co-op-innovation-challenge",
+    "starts_at": "2026-11-16T23:59:59-05:00",
+    "ends_at": "",
+    "deadline_at": "2026-11-16T23:59:59-05:00",
+    "deadline_kind": "event_start",
+    "when": "2026-11-16",
+    "status": "Upcoming",
+    "tier": "uw",
+    "source": "velocity"
+  },
+  {
     "name": "SharkByte",
     "location": "Miami, FL",
     "url": "https://shark-byte.io/",

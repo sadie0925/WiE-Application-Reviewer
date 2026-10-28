@@ -210,5 +210,84 @@ def normalize_filtered_listing(listing: dict, source: str, track: str = "intern"
         "sponsorship": listing.get("sponsorship", ""),
         "track": track,
     }
+    description = (listing.get("description") or "").strip()
+    if description:
+        normalized["description"] = description
     normalized["program"] = classify_program(normalized)
     return normalized
+
+
+# Waterloo's spring term is May–August. US postings call that summer.
+_SEASON_WORD = re.compile(
+    r"\b(winter|spring|fall|autumn|summer)\b(?:\s+(20\d{2}))?",
+    re.IGNORECASE,
+)
+_SEASON_LABEL = {
+    "winter": "Winter",
+    "spring": "Spring",
+    "fall": "Fall",
+    "autumn": "Fall",
+    "summer": "Spring",
+}
+_SEASON_ORDER = {"Winter": 0, "Spring": 1, "Fall": 2}
+
+_SPONSORSHIP_LABELS = {
+    "Offers Sponsorship": "Sponsors",
+    "Does Not Offer Sponsorship": "No sponsorship",
+    "U.S. Citizenship is Required": "US citizenship",
+}
+_RESTRICTION_PATTERNS = (
+    (re.compile(r"\b(ts/?\s*sci|top\s+secret|secret\s+clearance|security\s+clearance|(?:u\.?s\.?|us)\s+clearance)\b", re.I), "US clearance"),
+    (re.compile(r"\bu\.?s\.?\s+persons?\b", re.I), "US person"),
+    (re.compile(r"\b(u\.?s\.?\s+citizens?|us\s+citizens?|citizenship(?:\s+is)?\s+required|must\s+be\s+a\s+citizen)\b", re.I), "US citizenship"),
+    (re.compile(r"\b(?:u\.?s\.?\s+)?permanent\s+residents?\b", re.I), "PR only"),
+    (re.compile(r"\b(authorized\s+to\s+work|work\s+authorization|without\s+restriction|legally\s+authorized\s+to\s+work)\b", re.I), "Work auth required"),
+    (re.compile(r"\b(no\s+sponsorship|does\s+not\s+sponsor|not\s+offer\s+sponsorship|will\s+not\s+sponsor|unable\s+to\s+sponsor)\b", re.I), "No sponsorship"),
+    (re.compile(r"\b(offers?\s+sponsorship|visa\s+sponsorship|will\s+sponsor|sponsorship\s+available)\b", re.I), "Sponsors"),
+)
+
+
+def work_term_label(listing: dict) -> str:
+    """Waterloo term from the title or description. Blank when neither says one.
+
+    Summer is reported as Spring. "Summer Games" is a program name, not a term.
+    """
+    text = f"{listing.get('title') or ''}\n{listing.get('description') or ''}"
+    found = []
+    seen = set()
+    for match in _SEASON_WORD.finditer(text):
+        word = match.group(1).lower()
+        after = text[match.end(): match.end() + 16]
+        if word == "summer" and re.match(r"\s+games\b", after, re.IGNORECASE):
+            continue
+        if word == "summer":
+            window = text[max(0, match.start() - 40): match.end() + 40]
+            seasonal = match.group(2) or re.search(
+                r"\b(intern|internship|co-?op|term|student|analyst)\b",
+                window,
+                re.IGNORECASE,
+            )
+            if not seasonal:
+                continue
+        label = _SEASON_LABEL[word]
+        year = match.group(2) or ""
+        key = (label, year)
+        if key in seen:
+            continue
+        seen.add(key)
+        found.append((year or "0000", _SEASON_ORDER[label], f"{label} {year}".strip()))
+    found.sort()
+    return ", ".join(item[2] for item in found)
+
+
+def work_auth_label(listing: dict) -> str:
+    """Sponsorship or a restriction that blocks many UW students. Blank if unstated."""
+    labels = []
+    sponsorship = (listing.get("sponsorship") or "").strip()
+    if sponsorship in _SPONSORSHIP_LABELS:
+        labels.append(_SPONSORSHIP_LABELS[sponsorship])
+    text = f"{listing.get('title') or ''}\n{listing.get('description') or ''}"
+    for pattern, label in _RESTRICTION_PATTERNS:
+        if pattern.search(text) and label not in labels:
+            labels.append(label)
+    return ", ".join(labels)
