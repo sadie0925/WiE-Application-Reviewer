@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**46 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 17:45 ET
+**45 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 21:16 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada |  |  | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) |
 | Altera | IP Design Intern | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322) |
 | Ciena | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada |  |  | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) |
 | Ciena | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada |  |  | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) |
@@ -54,5 +55,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Intel | Graphics Hardware Validation Undergraduate Engineering Intern | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) |
 | Marvell | IC Validation Engineer Intern Co-op - BS/MS | Ottawa, ON, Canada |  |  | 2026-09-30 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada |  |  | 2026-09-30 | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors) |
-| Qualcomm | Silicon Engineering Intern | Toronto, ON, Canada |  |  | 2026-09-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302528) |
-| Qualcomm | Soft IP ASIC Engineer Intern | Ottawa, ON, Canada |  |  | 2026-09-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302471) |
