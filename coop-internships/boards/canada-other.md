@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**45 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 10:15 ET
+**47 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 15:40 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -36,6 +36,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Accenture | MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada |  |  | 2026-10-18 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351) |
 | NVIDIA | ASIC Verification Intern | Toronto, ON, Canada |  |  | 2026-10-18 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
 | Moment Energy | Test Engineering Co-op | Surrey, BC, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) |
+| SiTime | ASIC Digital Verification Engineer Co-op | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4452852009) |
+| SiTime | ASIC Digital Verification Engineer Intern | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009) |
 | Tenstorrent | Systems Intern - Multiple Teams | Toronto, ON, Canada, Vancouver, BC, Canada |  |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) |
 | Lumentum | Electrical Engineer Intern Co-op | Ottawa, ON, Canada |  |  | 2026-10-13 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433) |
 | Canadian Tire | Product Strategy Student Intern | Oakville, ON, Canada |  |  | 2026-10-12 | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) |
