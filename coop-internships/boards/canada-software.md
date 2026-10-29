@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**174 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 21:16 ET
+**176 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 03:11 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -73,7 +73,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | BC Pensions | Junior Information Management Analyst Co-op | Victoria, BC, Canada |  |  | 2026-10-22 | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229) |
 | Veeda AI | Software Engineering Intern | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) |
 | KRAFTON | UI Programming Intern | Montreal, QC, Canada |  |  | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) |
-| Nutanix | Software Developer Co-op | Vancouver, BC, Canada |  |  | 2026-10-22 | [Apply](https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false) |
 | Qualcomm | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada |  |  | 2026-10-22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) |
 | Aptiv | HVP Certification Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704378) |
 | Aptiv | HVP/Certification Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379) |
@@ -163,6 +162,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | SailPoint | Software Engineer Intern - Platform Engines | Remote in UK |  |  | 2026-10-06 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
 | Varian | Software Developer Co-op | Winnipeg, MB, Canada |  |  | 2026-10-06 | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142) |
 | The Semios Group | Software Developer Co-op | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://apply.workable.com/semios/j/4B5D1FB613/apply) |
+| Coveo | Software Developer Intern - Solutions Engineering Core Team | Montreal, QC, Canada |  |  | 2026-10-06 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
 | Astera Labs | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada |  |  | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) |
@@ -181,6 +181,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Marvell | Firmware Engineer Intern | Ottawa, ON, Canada |  |  | 2026-10-01 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) |
 | Stripe | Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
 | Pinterest | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) |
+| Coveo | Corporate Business Intelligence Intern | Québec City, QC, Canada |  |  | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) |
+| Coveo | Corporate Business Intelligence Intern | Montreal, QC, Canada |  |  | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) |
 | Manulife Financial | ALM Data Management & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada |  |  | 2026-09-30 | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors) |
 | Foresters Financial | Software Engineer Co-op - AI | Toronto, ON, Canada |  |  | 2026-09-29 | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332) |

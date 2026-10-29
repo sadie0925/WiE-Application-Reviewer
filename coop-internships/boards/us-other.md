@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**321 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-28 21:16 ET
+**320 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 03:11 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -53,7 +53,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA |  |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1) |
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA |  |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858) |
 | National Indemnity Company | Marketing Data Intern | Omaha, NE |  |  | 2026-10-25 | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) |
-| RTX | Systems Engineering Co-op | Woburn, MA |  |  | 2026-10-25 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039) |
 | Teledyne | Engineering Intern - Technical | Woodridge, IL |  |  | 2026-10-25 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728) |
 | Zebra Technologies | Product Management Intern | Lincolnshire, IL |  |  | 2026-10-25 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
 | Microsoft | Product Manager Intern | Cambridge, MA |  |  | 2026-10-23 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557044772) |
@@ -160,6 +159,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Quantinuum | Optics Engineer Intern | Broomfield, CO |  |  | 2026-10-14 | [Apply](https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71/apply) |
 | Formlabs | Hardware Systems Integration Intern | Somerville, MA |  |  | 2026-10-14 | [Apply](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) |
 | Texas Instruments | Validation/Characterization Engineer Intern | Santa Clara, CA |  |  | 2026-10-14 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623) |
+| Indie | Design Verification Engineer Intern | Aliso Viejo, CA |  |  | 2026-10-14 | [Apply](https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265698007) |
 | Meta | Optical Engineer Intern - Camera, Depth & Cover Window Optics | Sunnyvale, CA |  |  | 2026-10-14 | [Apply](https://www.metacareers.com/jobs/2271558583687956) |
 | Groma | Finance Systems Co-op | Boston, MA |  |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/groma/jobs/4743496005) |
 | Nokia | Optoelectronics Test Development Co-op | Allentown, PA |  |  | 2026-10-13 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41124) |
@@ -302,7 +302,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Schweitzer Engineering Laboratories | Hardware Engineering Intern | Pullman, WA |  |  | 2026-10-01 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159) |
 | The Toro Company | Mechatronics Engineering Co-op | Bloomington, MN |  |  | 2026-10-01 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) |
 | Trimble | Product Management Intern | Westminster, CO |  |  | 2026-10-01 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893) |
-| Space Dynamics Laboratory | Laboratory Technician Intern | Albuquerque, NM |  |  | 2026-10-01 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/LwyTYMQ5h7/Laboratory-Technician-Intern) |
 | BNY | Product Management Intern - Program Management | Pittsburgh, PA |  |  | 2026-10-01 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
 | BNY | Product Management Intern | Lake Mary, FL |  |  | 2026-10-01 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) |
 | Varda Space | Mission Operations Intern - Summer 2027 | El Segundo, CA | Spring 2027 |  | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
