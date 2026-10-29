@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**176 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 03:11 ET
+**177 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 10:15 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -22,7 +22,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | CIBC | Junior Insights & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) |
 | CIBC | Junior Insights & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) |
-| NVIDIA | Software Engineer Intern - AI Agents and Backend Infrastructure | Remote in UK |  |  | 2026-10-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) |
 | Sun Life | Quality Engineering Analyst Intern | Waterloo, ON, Canada |  |  | 2026-10-26 | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Quality-Engineering-Analyst--Winter-and-Summer-2027-_JR00128337) |
 | TMX Group | Analyst Model Validation Intern | Montreal, QC, Canada |  |  | 2026-10-26 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603) |
 | Royal Bank of Canada | Developer Intern | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) |
@@ -120,6 +119,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Tower Research Capital | Machine Learning Intern | Montreal, QC, Canada |  |  | 2026-10-15 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
 | TechInsights | Software Development Co-op Student | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) |
+| Capital de Recherche Tower | Machine Learning Intern | Montreal, QC, Canada |  |  | 2026-10-15 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8286965) |
 | Ciena | Embedded Software Developer Intern | Ottawa, ON, Canada |  |  | 2026-10-14 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) |
 | Intel | Compiler Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-14 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) |
 | Kensington | Analytics Intern | Toronto, ON, Canada |  |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) |
@@ -183,6 +183,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Pinterest | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) |
 | Coveo | Corporate Business Intelligence Intern | Québec City, QC, Canada |  |  | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) |
 | Coveo | Corporate Business Intelligence Intern | Montreal, QC, Canada |  |  | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) |
+| Qualcomm | Design Automation & Quality Assurance Engineer Intern | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721349404) |
 | Manulife Financial | ALM Data Management & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada |  |  | 2026-09-30 | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors) |
 | Foresters Financial | Software Engineer Co-op - AI | Toronto, ON, Canada |  |  | 2026-09-29 | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332) |
