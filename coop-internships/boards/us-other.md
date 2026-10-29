@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**327 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 15:40 ET
+**333 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 19:35 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,7 +10,20 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
+| SmartFlower Solar | Embedded Systems Engineering Intern | Woburn, MA |  |  | 2026-10-29 | [Apply](https://apply.workable.com/smartflower-solar-llc/j/240CCDA520/apply) |
+| Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
+| Diversified Automation | Hardware Engineering Co-op | Louisville, KY |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3/apply) |
+| V2X | Electrical Engineer Intern | Indianapolis, IN |  |  | 2026-10-29 | [Apply](https://careers.gov2x.com/jobs/63854?icims=1) |
+| Lunar Energy | Hardware Test Engineer Intern | Mountain View, CA |  |  | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004) |
+| Hasbro | Electrical Engineering Co-op | Boston, MA |  |  | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4472128009) |
+| Cloudflare | Product Manager Intern | Austin, TX |  |  | 2026-10-29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790) |
 | CACI | Systems Engineering Co-op Intern | Rochester, NY |  |  | 2026-10-28 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157) |
+| Carrier Global | Lab Assistant Engineer Co-op | Fort Wayne, IN |  |  | 2026-10-28 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Lab-Assistant-Engineering---Co-Op_30220677) |
+| Hewlett Packard Enterprise | ASIC Verification Engineer Intern | Roseville, CA |  |  | 2026-10-28 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Engineering-Intern_1214028) |
+| RTX | Electrical Engineering Intern | Fort Wayne, IN |  |  | 2026-10-28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical-Engineering-Hardware-Intern--Summer-2027--Onsite-_01886126) |
+| Signify | Product Management Intern | Peachtree City, GA |  |  | 2026-10-28 | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870) |
+| T-Mobile | Associate Product Manager Intern | Overland Park, KS |  |  | 2026-10-28 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746) |
 | Uline | Sales Analyst Intern | Waukegan, IL, Milwaukee, WI (+3) |  |  | 2026-10-28 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774) |
 | Texas Instruments | Product/Test Engineering Intern | Santa Clara, CA |  |  | 2026-10-28 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016391) |
 | SharkNinja | Product Strategy & Development Co-op | Needham, MA |  |  | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) |
@@ -47,7 +60,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Analog Devices | Embedded Systems Co-op | Boston, MA |  |  | 2026-10-25 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) |
 | Axos Bank | Product Intern | San Diego, CA |  |  | 2026-10-25 | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/Los-Angeles-CA/Product-Intern_JR5661) |
 | Boston Dynamics | Systems Test Engineer Co-op | Waltham, MA |  |  | 2026-10-25 | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312) |
-| Danaher | Sustaining Engineer Intern | Irvine, CA |  |  | 2026-10-25 | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Irvine-California-United-States/Sustaining-Engineering-Intern_R1320906) |
 | Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA |  |  | 2026-10-25 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067) |
 | Jabil | Validation Engineer Intern | Austin, TX |  |  | 2026-10-25 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310) |
 | Leidos | Electrical Design Engineer Intern | Huntsville, AL |  |  | 2026-10-25 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) |
@@ -82,7 +94,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Quadric | RTL Intern | Burlingame, CA |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2/application?embed=true) |
 | Radiance Technologies | High Energy Laser Intern | Huntsville, AL |  |  | 2026-10-22 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/High-Energy-Laser-intern_HR102530) |
 | Peak Energy | Systems Integration and Test Engineer Intern | Burlingame, CA |  |  | 2026-10-22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) |
-| S&C Electric Company | Electronics Engineering Intern - TBI | Chicago, IL |  |  | 2026-10-22 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107453) |
 | Tesla | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter, Spring 2027 |  | 2026-10-21 | [Apply](https://www.tesla.com/careers/search/job/287443) |
 | TikTok | Product-Led-Growth Product Manager Project Intern | San Jose, CA |  |  | 2026-10-21 | [Apply](https://lifeattiktok.com/search/7655421207605889333) |
 | Skydio | Hardware Test and Reliability Intern - Summer 2027 | San Mateo, CA | Spring 2027 |  | 2026-10-21 | [Apply](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true) |
@@ -332,8 +343,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Life Fitness | Marketing Analytics Intern | Rosemont, IL |  |  | 2026-09-29 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253) |
 | Rockwell Automation | Product Management Intern - Digital Client | Mequon, WI |  |  | 2026-09-29 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261) |
 | Rockwell Automation | Product Management Intern - Digital Client | Mequon, WI |  |  | 2026-09-29 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261-1) |
-| Epic Games | Product Management Intern | Cary, NC |  |  | 2026-09-29 | [Apply](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) |
-| DEKA Research & Development Corp. | Electrical Engineer Co-op | Manchester, NH |  |  | 2026-09-29 | [Apply](https://deka.applytojob.com/apply/IGTaMelH6z/Electrical-Engineer-CoOp-Spring-2027) |
-| Acuity | Product Management Technology Intern | Conyers, GA |  |  | 2026-09-29 | [Apply](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) |
-| AMCA | Electrical Engineering Internship - Summer 2027 | El Segundo, CA | Spring 2027 |  | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4396690009) |
-| Société Générale de Surveillance | Project Engineer Intern | Suwanee, GA |  |  | 2026-09-29 | [Apply](https://jobs.smartrecruiters.com/SGS/744000152533359) |

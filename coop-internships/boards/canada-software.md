@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**183 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 15:40 ET
+**193 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 19:35 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,9 +10,19 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Waterworth | Computer Science Co-op | Victoria, BC, Canada |  |  | 2026-10-29 | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) |
+| Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
+| Qualcomm | AI Software Systems Co-op Intern | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
+| Qualcomm | Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems | Markham, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) |
+| Geotab | Data Governance & Operations Data Analyst Intern | Toronto, ON, Canada, Burnaby, BC, Canada (+1) |  |  | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008) |
+| Altera | Software Engineer Intern - Factory Apps | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384) |
 | Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) |
 | CIBC | AI Developer Co-op - Bilingual | Montreal, QC, Canada |  |  | 2026-10-28 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390) |
 | CIBC | Analyst Co-op | Montreal, QC, Canada |  |  | 2026-10-28 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369) |
+| Ciena | Embedded Software Engineer Co-op | Ottawa, ON, Canada |  |  | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005) |
+| SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  | 2026-10-28 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611) |
+| Sun Life | Data Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284) |
+| TMX Group | Analyst – Market Insights Intern | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) |
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada |  |  | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |
 | Certa | Frontend Engineer Intern | Remote in India |  |  | 2026-10-28 | [Apply](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) |
 | NUVACORE | CPU Software Intern | Markham, ON, Canada |  |  | 2026-10-27 | [Apply](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) |
