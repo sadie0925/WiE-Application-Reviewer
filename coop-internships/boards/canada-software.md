@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**190 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 16:12 ET
+**200 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 19:44 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,16 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| AltaLink | Project Support Co-op | Calgary, AB, Canada |  |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
+| CIBC | Project Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) |
+| CIBC | Project Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) |
+| NAV CANADA | Aviation Predictive Analytics Co-op | Ottawa, ON, Canada |  |  | 2026-10-29 | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599) |
+| OLG | Front End Developer Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada |  |  | 2026-10-29 | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665) |
+| Revvity | Full-stack AI Developer Intern | Ontario, Canada |  |  | 2026-10-29 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792) |
+| Revvity | Full-stack AI Developer Intern | Ontario, Canada |  |  | 2026-10-29 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794) |
+| Revvity | Full-stack AI Developer Intern | Ontario, Canada |  |  | 2026-10-29 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793) |
+| Revvity | Full-stack AI Developer Intern | Ontario, Canada |  |  | 2026-10-29 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791) |
+| Revvity | Full-stack AI Developer Intern | Ontario, Canada |  |  | 2026-10-29 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045795) |
 | Waterworth | Computer Science Co-op | Victoria, BC, Canada |  |  | 2026-10-29 | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) |
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
 | Qualcomm | AI Software Systems Co-op Intern | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |

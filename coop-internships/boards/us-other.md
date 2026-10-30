@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**326 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 16:12 ET
+**332 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 19:44 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,8 +10,19 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC |  |  | 2026-10-30 | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
+| TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701480558070597893) |
+| TikTok | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701486873210390837) |
+| Pyrotek | Product Management Intern | Spokane, WA |  |  | 2026-10-30 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000158830479) |
+| Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | 2026-10-30 | [Apply](https://jobs.keysight.com/jobs/55276?icims=1) |
 | Commonwealth of Massachusetts | HR Business Intelligence Co-op | Boston, MA |  |  | 2026-10-29 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL) |
 | GlobalFoundries | Device Engineering Intern - Silicon Photonics | Malta, NY |  |  | 2026-10-29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
+| HP Inc. | Product Management Intern | Spring, TX |  |  | 2026-10-29 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358) |
+| HP Inc. | Product Management Intern | Spring, TX |  |  | 2026-10-29 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1) |
+| RTX | Electrical Engineer Co-op - Winter/Spring 2027 | Cedar Rapids, IA | Winter, Spring 2027 |  | 2026-10-29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineering-Co-op--Winter-Spring-2027-_01885823) |
+| Signify | Product Manager Intern | Aurora, CO |  |  | 2026-10-29 | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Aurora/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366897) |
+| Snowflake | Product Management Intern | Menlo Park, CA |  |  | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true) |
+| Teamworks | Product Management MBA Intern | Remote in USA |  |  | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06/application?embed=true) |
 | Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
 | SmartFlower Solar | Embedded Systems Engineering Intern | Woburn, MA |  |  | 2026-10-29 | [Apply](https://apply.workable.com/smartflower-solar-llc/j/240CCDA520/apply) |
 | Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
@@ -107,7 +118,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Radiance Technologies | Microelectronics Engineer Intern | Ruston, LA |  |  | 2026-10-21 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Microelectronics-Engineer-Intern_HR102520) |
 | Rockwell Automation | Electrical Engineer Intern | Mequon, WI, Eden Prairie, MN |  |  | 2026-10-21 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Eden-Prairie-Minnesota-United-States/Intern--Electrical-Engineer_R26-8320-1) |
 | Rockwell Automation | Electrical Engineer Intern | Mequon, WI, Eden Prairie, MN |  |  | 2026-10-21 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Eden-Prairie-Minnesota-United-States/Intern--Electrical-Engineer_R26-8320) |
-| Walmart | Automation Product Manager Intern - Product Manager | Lancaster, TX |  |  | 2026-10-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739) |
 | Meta | Research Intern - Audio Hardware | Redmond, WA |  |  | 2026-10-21 | [Apply](https://www.metacareers.com/jobs/1445807477756644) |
 | Anduril | Business Operations Engineer Co-op | Ashville, OH, Costa Mesa, CA |  |  | 2026-10-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007) |
 | Anduril | Business Operations Engineer Intern | Ashville, OH, Costa Mesa, CA |  |  | 2026-10-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) |
@@ -332,7 +342,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Micron Technology | Compute System Compatibility Engineer Intern | Boise, ID |  |  | 2026-09-30 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627) |
 | Micron Technology | Dram Architecture Intern | San Jose, CA, Boise, ID |  |  | 2026-09-30 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---DRAM-ARCTITECHTURE_JR113298) |
 | Skyband Systems | Avionics Hardware & Test Engineer Intern | Kirkland, WA |  |  | 2026-09-30 | [Apply](https://jobs.ashbyhq.com/skyband%20systems/36bb9bd3-7ecb-42fe-908a-7d7486620d77/application?embed=true) |
-| Epic Games | Technical Product Management Intern | Cary, NC |  |  | 2026-09-30 | [Apply](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) |
-| Rivian | Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP | Palo Alto, CA |  |  | 2026-09-30 | [Apply](https://careers.rivian.com/jobs/33874?icims=1) |
-| Rivian | Engineering Intern/Co-op - Design Verification - Neural Engine | Palo Alto, CA |  |  | 2026-09-30 | [Apply](https://careers.rivian.com/jobs/33833?icims=1) |
-| Astronics | Electrical Test Engineer Intern | Redmond, WA |  |  | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009) |
