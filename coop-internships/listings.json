@@ -1,5 +1,43 @@
 [
   {
+    "id": "b1af74c5-7bce-4b61-a57f-bdbb3cb3926e",
+    "company_name": "Newmont",
+    "company_url": "https://simplify.jobs/c/Newmont",
+    "title": "Resource Modeling Intern",
+    "url": "https://jobs.newmont.com/us/en/job/45053",
+    "locations": [
+      "Denver, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793341775,
+    "date_updated": 1793341804,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
+    "id": "ac27249b-0f36-44ff-a07c-513168c4e98b",
+    "company_name": "Stratolaunch",
+    "company_url": "https://simplify.jobs/c/Stratolaunch",
+    "title": "Manufacturing Systems & Data Intern - Systems",
+    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008",
+    "locations": [
+      "Mojave, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793334097,
+    "date_updated": 1793341122,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "7dcf9c9c-985e-4e6f-a942-9cbe7521e917",
     "company_name": "Commonwealth of Massachusetts",
     "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
@@ -3565,6 +3603,25 @@
     "date_posted": 1793138653,
     "date_updated": 1793138763,
     "category": "Software",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
+    "id": "515bc7ee-5cb6-4df0-904a-19e675ac3476",
+    "company_name": "SageSure",
+    "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
+    "title": "Data Science Product Analyst Intern",
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006",
+    "locations": [
+      "Fairfield, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793132246,
+    "date_updated": 1793349547,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -11458,6 +11515,25 @@
     "program": "cs"
   },
   {
+    "id": "6728eddb-f87c-470c-bc8f-0a8ac2bc5694",
+    "company_name": "SK hynix",
+    "company_url": "https://simplify.jobs/c/SK-Hynix",
+    "title": "ASIC Design Intern",
+    "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792539542,
+    "date_updated": 1793342560,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "other"
+  },
+  {
     "id": "ea672c45-89c1-45e5-afb3-0a7061e3ea16",
     "company_name": "DriveWealth",
     "company_url": "https://simplify.jobs/c/DriveWealth",
@@ -12062,25 +12138,6 @@
     "date_posted": 1792454400,
     "date_updated": 1792506477,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "80919054-b40e-4ff9-9a11-e6e21dcf9d98",
-    "company_name": "DriveWealth",
-    "company_url": "https://simplify.jobs/c/DriveWealth",
-    "title": "AI Consulting Associate Program Product Owner Intern",
-    "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792454400,
-    "date_updated": 1793151932,
-    "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -13170,25 +13227,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "20688eaf-1a51-4f19-8b7d-bfafc2497702",
-    "company_name": "Accenture",
-    "company_url": "https://simplify.jobs/c/Accenture-FS",
-    "title": "MES & Supply Chain Systems Co-op Analyst",
-    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792368000,
-    "date_updated": 1792449376,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "31ee782b-3421-455d-9cc1-e5c1fc84b692",
@@ -14654,25 +14692,6 @@
     "date_posted": 1792108800,
     "date_updated": 1792190410,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "dd0253eb-1b0d-4b57-abfc-061656bcb829",
-    "company_name": "Fidelity Investments",
-    "company_url": "https://simplify.jobs/c/Fidelity-Investments",
-    "title": "Investment Risk Management Intern",
-    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Chicago-IL/Intern--Operations_2136370",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792108800,
-    "date_updated": 1792837116,
-    "category": "Quant",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -20799,25 +20818,6 @@
     "program": "cs"
   },
   {
-    "id": "772840e3-4552-42aa-b102-8cb0e1752b13",
-    "company_name": "SharkNinja",
-    "company_url": "https://simplify.jobs/c/SharkNinja",
-    "title": "Electrical Engineering Co-op",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006",
-    "locations": [
-      "Needham, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791497519,
-    "date_updated": 1791497925,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "cc8ac2c6-0874-480d-89fe-1ba79e6af0d9",
     "company_name": "Koch Industries",
     "company_url": "https://simplify.jobs/c/Koch-Industries",
@@ -21668,25 +21668,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "8606aed6-677f-4e1d-9f11-6e1a60e1e783",
-    "company_name": "S&C Electric Company",
-    "company_url": "https://simplify.jobs/c/S-And-C-Electric-Company",
-    "title": "Test Equipment Engineering and Maintenance Intern",
-    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107368",
-    "locations": [
-      "Franklin, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791382879,
-    "date_updated": 1791383164,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "b02141a2-8d29-4f0b-b7a7-280a77592468",
@@ -22876,6 +22857,25 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
+  },
+  {
+    "id": "e0553b2c-7e2d-480a-9c85-f6a323f04d6c",
+    "company_name": "SK hynix",
+    "company_url": "https://simplify.jobs/c/SK-Hynix",
+    "title": "Research Intern - Loop Engineering",
+    "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4435645009",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791312584,
+    "date_updated": 1793342521,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "other"
   },
   {
     "id": "56ec84f6-5260-4f75-a7ea-a98c17287bf9",
@@ -25768,6 +25768,25 @@
     "program": "cs"
   },
   {
+    "id": "ee9ccca0-8bd3-4e29-a009-8eb52e728539",
+    "company_name": "C3.ai",
+    "company_url": "https://simplify.jobs/c/C3ai",
+    "title": "AI Product Manager Intern",
+    "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790967160,
+    "date_updated": 1793341117,
+    "category": "Product",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "212771ed-92c6-48c7-b5d0-8fba7e55a26f",
     "company_name": "Definity Financial",
     "company_url": "https://simplify.jobs/c/Definity-Financial",
@@ -26768,6 +26787,25 @@
     "program": "cs"
   },
   {
+    "id": "a44afb95-ee20-423c-be43-f22e3bffb5de",
+    "company_name": "New York ISO",
+    "company_url": "https://simplify.jobs/c/New-York-ISO",
+    "title": "Market Mitigation & Analysis Intern",
+    "url": "https://job-boards.greenhouse.io/nyisointernships/jobs/5236684007",
+    "locations": [
+      "Rensselaer, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790864284,
+    "date_updated": 1793341727,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "e85e2ad7-ddcf-4c1c-84f4-84d1985e0cd0",
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
@@ -27710,6 +27748,25 @@
     "program": "other"
   },
   {
+    "id": "b5646bd6-fe0f-4ecd-9059-5522d8fa320e",
+    "company_name": "Ncino",
+    "company_url": "https://simplify.jobs/c/NCino",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790789205,
+    "date_updated": 1793341459,
+    "category": "Software",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "c51327c4-9c59-4844-892a-e98c6bae088e",
     "company_name": "PrizePicks",
     "company_url": "https://simplify.jobs/c/PrizePicks",
@@ -27894,25 +27951,6 @@
     "source": "simplify",
     "date_posted": 1790777238,
     "date_updated": 1790777522,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e",
-    "company_name": "AMCA",
-    "company_url": "https://simplify.jobs/c/AMCA",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790748479,
-    "date_updated": 1790748702,
     "category": "Software",
     "sponsorship": "Other",
     "track": "intern",

@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**52 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 22:53 ET
+**51 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 05:06 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -37,7 +37,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Semtech | PCB Layout Intern | Burlington, ON, Canada |  |  | 2026-10-19 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632) |
 | Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada |  |  | 2026-10-19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) |
 | FanDuel | Product Co-op | Toronto, ON, Canada |  |  | 2026-10-19 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) |
-| Accenture | MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada |  |  | 2026-10-18 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351) |
 | NVIDIA | ASIC Verification Intern | Toronto, ON, Canada |  |  | 2026-10-18 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
 | Behaviour Interactive | Product Management Intern - 7 Days to Die | Montreal, QC, Canada |  |  | 2026-10-16 | [Apply](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) |
 | Moment Energy | Test Engineering Co-op | Surrey, BC, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) |

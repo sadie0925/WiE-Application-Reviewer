@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**327 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 22:53 ET
+**327 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 05:06 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -121,6 +121,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Travelers | Decision Science – Marketing & Communications Intern | Hartford, CT |  |  | 2026-10-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Decision-Science---Marketing---Communications-Intern_R-53354) |
 | Uline | Executive Operations Analyst Intern | Pleasant Prairie, WI |  |  | 2026-10-20 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434) |
 | Uline | Operations Analyst Intern | Pleasant Prairie, WI |  |  | 2026-10-20 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) |
+| SK hynix | ASIC Design Intern | San Jose, CA |  |  | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009) |
 | Paccar | Engineering Operations Intern | Kirkland, WA |  |  | 2026-10-20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) |
 | Keysight Technologies | Hardware Engineering Intern | Santa Rosa, CA |  |  | 2026-10-20 | [Apply](https://jobs.keysight.com/jobs/55112?icims=1) |
 | Skydio | Wireless Hardware Engineer Intern | San Mateo, CA |  |  | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true) |
@@ -232,7 +233,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | BorgWarner | Systems Integration Engineer Intern | Kokomo, IN |  |  | 2026-10-08 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/System-Integration-Intern_R2026-4042) |
 | Hewlett Packard Enterprise | ASIC Engineer Intern | Sunnyvale, CA |  |  | 2026-10-08 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555) |
 | Workday | Product Manager Intern | Pleasanton, CA |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) |
-| SharkNinja | Electrical Engineering Co-op | Needham, MA |  |  | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006) |
 | Rugged Robotics | Electrical Engineer Intern Co-op | Houston, TX |  |  | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005) |
 | MSA Safety | Electrical Engineering Co-op | Cranberry Township, PA |  |  | 2026-10-08 | [Apply](https://careers.msasafety.com/jobs/10163?icims=1) |
 | MSA Safety | Electrical Engineering Technology Co-op | Cranberry Township, PA |  |  | 2026-10-08 | [Apply](https://careers.msasafety.com/jobs/10162?icims=1) |
@@ -241,7 +241,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Vertex Pharmaceuticals | People Research and Analytics Co-op - People Research and Analytics - Human Resources | Boston, MA |  |  | 2026-10-07 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-op--People-Research-and-Analytics--Human-Resources_REQ-31103-1) |
 | Texas Instruments | Analog Design Engineer Intern | Dallas, TX |  |  | 2026-10-07 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924) |
 | Garmin | FPGA Engineer Intern | Olathe, KS |  |  | 2026-10-07 | [Apply](https://careers.garmin.com/jobs/19836?icims=1) |
-| S&C Electric Company | Test Equipment Engineering and Maintenance Intern | Franklin, WI |  |  | 2026-10-07 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107368) |
 | Tenstorrent | Physical Design & DFT Intern | Boston, MA, Austin, TX (+2) |  |  | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) |
 | Tenstorrent | RISC-5 CPU Intern | Boston, MA, Austin, TX (+2) |  |  | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) |
 | Figure | Validation Engineer Intern | San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
@@ -259,6 +258,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Electronic Arts | Product Management Intern | Austin, TX |  |  | 2026-10-06 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) |
 | Nokia | ASIC Physical Design Co-op | San Jose, CA |  |  | 2026-10-06 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122) |
 | onsemi | Applications Intern | Princeton, NJ |  |  | 2026-10-06 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506799) |
+| SK hynix | Research Intern - Loop Engineering | San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4435645009) |
 | Cadence Solutions | Product Management Intern | Remote in USA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4715294006) |
 | Astera Labs | Platform Solutions Product Management Intern | Cary, NC |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005) |
 | Astera Labs | Physical Design Engineer Intern | San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729022005) |

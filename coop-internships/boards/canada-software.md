@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**191 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 22:53 ET
+**191 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 05:06 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
