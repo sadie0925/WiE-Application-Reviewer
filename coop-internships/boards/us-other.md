@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**327 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 05:06 ET
+**327 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 11:50 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -11,6 +11,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
 | Commonwealth of Massachusetts | HR Business Intelligence Co-op | Boston, MA |  |  | 2026-10-29 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL) |
+| GlobalFoundries | Device Engineering Intern - Silicon Photonics | Malta, NY |  |  | 2026-10-29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
 | Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
 | SmartFlower Solar | Embedded Systems Engineering Intern | Woburn, MA |  |  | 2026-10-29 | [Apply](https://apply.workable.com/smartflower-solar-llc/j/240CCDA520/apply) |
 | Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
@@ -336,4 +337,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Rivian | Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP | Palo Alto, CA |  |  | 2026-09-30 | [Apply](https://careers.rivian.com/jobs/33874?icims=1) |
 | Rivian | Engineering Intern/Co-op - Design Verification - Neural Engine | Palo Alto, CA |  |  | 2026-09-30 | [Apply](https://careers.rivian.com/jobs/33833?icims=1) |
 | Astronics | Electrical Test Engineer Intern | Redmond, WA |  |  | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009) |
-| L3Harris Technologies | Systems Engineering Intern | Clifton, NJ |  |  | 2026-09-30 | [Apply](https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Intern-(Clifton,-NJ)-NJ-07014/1435252900/?ats=successfactors) |

@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**51 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 05:06 ET
+**49 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 11:50 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -30,7 +30,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada |  |  | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada |  |  | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada |  |  | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) |
-| Synopsys | Technical-Engineering Intern | Markham, ON, Canada |  |  | 2026-10-22 | [Apply](https://synopsys.avature.net/careers/JobDetail/19182) |
 | Kensington | Marketing Analytics Intern | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007) |
 | Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada |  |  | 2026-10-22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) |
 | CIBC | Product Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) |
@@ -60,4 +59,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Hitachi Energy | Hardware Test Engineering Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | Intel | Graphics Hardware Validation Undergraduate Engineering Intern | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) |
 | Marvell | IC Validation Engineer Intern Co-op - BS/MS | Ottawa, ON, Canada |  |  | 2026-09-30 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) |
-| L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada |  |  | 2026-09-30 | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors) |

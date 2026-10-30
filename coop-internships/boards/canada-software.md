@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**191 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 05:06 ET
+**190 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 11:50 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -200,4 +200,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Coveo | Corporate Business Intelligence Intern | Montreal, QC, Canada |  |  | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) |
 | Qualcomm | Design Automation & Quality Assurance Engineer Intern | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721349404) |
 | Manulife Financial | ALM Data Management & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) |
-| L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada |  |  | 2026-09-30 | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors) |

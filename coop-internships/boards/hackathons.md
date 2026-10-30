@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. A row is removed as soon as its deadline passes. That deadline is the application close when the organizer publishes one. If they do not, the event start is used. This is separate from the 30-day job rule.
 
-**59 upcoming** · 3 Waterloo · 56 other Canada/US · Updated 2026-10-30 05:06 ET
+**60 upcoming** · 3 Waterloo · 57 other Canada/US · Updated 2026-10-30 11:50 ET
 
 [All boards](../README.md)
 
@@ -46,6 +46,7 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | WHACK (Wellesley Hackathon) | Wellesley , Massachesetts | 2026-11-21 | 2026-11-21 event start | [Open](https://www.wellesleyhacks.org/) |
 | BostonHacks | Boston, MA | 2026-11-21 | 2026-11-21 event start | [Open](https://bostonhacks.org/) |
 | Hack Western 13 | SEI Building | Nov 20 - 22, 2026 | 2026-11-22 applications | [Open](https://hack-western-13.devpost.com/) |
+| Hack Cats | Manhattan, Kansas | 2026-12-03 | 2026-12-03 event start | [Open](https://hackkstate.tech/) |
 | DeltaHacks | Hamilton, Ontario | 2027-01-09 | 2027-01-09 event start | [Open](https://www.deltahacks.com/) |
 | UofTHacks | Toronto, Ontario | 2027-01-14 | 2027-01-14 event start | [Open](https://uofthacks.com/) |
 | uOttaHack 9 | Ottawa, Ontario  | 2027-01-14 | 2027-01-14 event start | [Open](https://2027.uottahack.ca/) |
