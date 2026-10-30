@@ -251,25 +251,6 @@
     "program": "cs"
   },
   {
-    "id": "ae05080d-5298-4731-9bce-6c0748537d01",
-    "company_name": "Synopsys",
-    "company_url": "https://simplify.jobs/c/Synopsys",
-    "title": "Technical Engineer Intern",
-    "url": "https://synopsys.avature.net/careers/JobDetail/19523",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793313324,
-    "date_updated": 1793313414,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "5b1d6184-e8d0-413a-94df-e5abdf39ba54",
     "company_name": "Waterworth",
     "company_url": "https://simplify.jobs/c/Waterworth",
@@ -936,25 +917,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "c3ab4f77-d094-4084-bb94-7d744ca3e728",
-    "company_name": "Blackberry",
-    "company_url": "https://simplify.jobs/c/BlackBerry",
-    "title": "Application Engineering Student Intern",
-    "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Application-Engineering-Student_20260335",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793313921,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "16383177-59a6-4e58-94ba-2fb28a3c779a",
@@ -6500,25 +6462,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "3a3e1cad-1c4e-4313-b167-c5db6f4ab4fb",
-    "company_name": "Leidos",
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "title": "Electrical Design Engineer Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793024136,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "be947cb8-0a95-43aa-bc3b-e77243d0e655",
@@ -12468,25 +12411,6 @@
     "program": "cs"
   },
   {
-    "id": "7a73e6f4-b7ad-4f5e-990c-f6638569032e",
-    "company_name": "Schweitzer Engineering Laboratories",
-    "company_url": "https://simplify.jobs/c/SEL",
-    "title": "Software Engineer Intern",
-    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190",
-    "locations": [
-      "Pullman, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792454400,
-    "date_updated": 1792534327,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "06d085a2-9e1f-4eed-806f-fecc1c17fce5",
     "company_name": "Semtech",
     "company_url": "https://simplify.jobs/c/Semtech",
@@ -13968,26 +13892,6 @@
     "date_posted": 1792195200,
     "date_updated": 1792275062,
     "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "c02d9734-d615-4259-8106-5100b09f6352",
-    "company_name": "HCSC",
-    "company_url": "https://simplify.jobs/c/HCSC",
-    "title": "Finance Data & Analytics Developer Intern",
-    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478",
-    "locations": [
-      "Chicago, IL",
-      "Richardson, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792195200,
-    "date_updated": 1792275064,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -19227,26 +19131,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "4f779abb-5aab-4de8-951b-4fc91fc3daec",
-    "company_name": "Nissan",
-    "company_url": "https://simplify.jobs/c/Nissan",
-    "title": "AI & Data Analytics Intern",
-    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223",
-    "locations": [
-      "Franklin, TN",
-      "Irving, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791763200,
-    "date_updated": 1791844662,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "27adb757-bad5-4f3b-b9d6-3995cfd4e90b",
@@ -27747,24 +27631,5 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "b5646bd6-fe0f-4ecd-9059-5522d8fa320e",
-    "company_name": "Ncino",
-    "company_url": "https://simplify.jobs/c/NCino",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009",
-    "locations": [
-      "Lehi, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790789205,
-    "date_updated": 1793341459,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   }
 ]

@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**896 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 11:50 ET
+**892 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 16:12 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -429,7 +429,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | RTX | Software Engineer Co-op | Aurora, CO |  |  | 2026-10-19 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452) |
 | Ryan | Application Engineering Intern | Plano, TX |  |  | 2026-10-19 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-1) |
 | Ryan | Application Engineering Intern | Plano, TX |  |  | 2026-10-19 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-2) |
-| Schweitzer Engineering Laboratories | Software Engineer Intern | Pullman, WA |  |  | 2026-10-19 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190) |
 | Vertex Pharmaceuticals | Commercial Analytics Co-op - Commercial Analytics | Boston, MA |  |  | 2026-10-19 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1) |
 | Electronic Arts | Software Engineer Intern | Orlando, FL |  |  | 2026-10-19 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216262) |
 | Electronic Arts | Software Engineer Intern | Orlando, FL |  |  | 2026-10-19 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250) |
@@ -472,7 +471,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Tesla | Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027 | Fremont, CA | Winter, Spring 2027 |  | 2026-10-18 | [Apply](https://www.tesla.com/careers/search/job/286986) |
 | Ascension | Managed Care Analytics Intern | St. Louis, MO |  |  | 2026-10-17 | [Apply](https://jobs.ascension.org/us/en/job/15636) |
 | HCSC | Finance Application Developer Intern | Chicago, IL, Richardson, TX |  |  | 2026-10-16 | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477) |
-| HCSC | Finance Data & Analytics Developer Intern | Chicago, IL, Richardson, TX |  |  | 2026-10-16 | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) |
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, Pittsburgh, PA |  |  | 2026-10-16 | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
 | AGCO | Embedded Software Engineer Intern | Hesston, KS, Jackson, MN |  |  | 2026-10-16 | [Apply](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors) |
 | Impulse Space | Enterprise Software Engineer Intern | Redondo Beach, CA |  |  | 2026-10-16 | [Apply](https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq) |
@@ -629,7 +627,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Johnson & Johnson | IDAR Summer Intern - Ease | Spring House, PA, Raritan, NJ | Spring |  | 2026-10-11 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328) |
 | Life Fitness | Android Software Engineer Intern | Schaumburg, IL |  |  | 2026-10-11 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277) |
 | Life Fitness | Embedded Software Engineer Intern | Schaumburg, IL |  |  | 2026-10-11 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276) |
-| Nissan | AI & Data Analytics Intern | Franklin, TN, Irving, TX |  |  | 2026-10-11 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223) |
 | Nissan Global | Data Science Intern | Franklin, TN |  |  | 2026-10-11 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250) |
 | Nissan Global | Data Science Intern | Smyrna, TN |  |  | 2026-10-11 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331) |
 | Nissan Global | Financial AI Engineer Intern | Franklin, TN |  |  | 2026-10-11 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241) |
@@ -905,4 +902,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Electronic Arts | Software Engineer Intern | Orlando, FL |  |  | 2026-09-30 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263) |
 | Rivian | Engineering Intern Co-op - Machine Learning Hardware | Palo Alto, CA |  |  | 2026-09-30 | [Apply](https://careers.rivian.com/jobs/33820?icims=1) |
 | Muon Space | Flight Software Engineer Intern | San Jose, CA |  |  | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247725007) |
-| Ncino | Software Engineer Intern | Lehi, UT |  |  | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009) |

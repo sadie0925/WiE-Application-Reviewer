@@ -130,11 +130,11 @@
     "source": "mlh"
   },
   {
-    "name": "HACK.COMS 2026",
+    "name": "HACK.COMS",
     "location": "Rochester, New York",
-    "url": "https://events.mlh.io/events/14418-hack-coms-2026",
+    "url": "https://events.mlh.com/events/14418-hack-coms-2026",
     "starts_at": "2026-11-07T14:00:00Z",
-    "ends_at": "2026-11-08T21:30:00Z",
+    "ends_at": "2026-11-08T21:00:00Z",
     "deadline_at": "2026-11-07T14:00:00Z",
     "deadline_kind": "event_start",
     "when": "NOV 07 - 08",

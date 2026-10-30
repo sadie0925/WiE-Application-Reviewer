@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**327 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 11:50 ET
+**326 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 16:12 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -65,7 +65,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Boston Dynamics | Systems Test Engineer Co-op | Waltham, MA |  |  | 2026-10-25 | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312) |
 | Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA |  |  | 2026-10-25 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067) |
 | Jabil | Validation Engineer Intern | Austin, TX |  |  | 2026-10-25 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310) |
-| Leidos | Electrical Design Engineer Intern | Huntsville, AL |  |  | 2026-10-25 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) |
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA |  |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1) |
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA |  |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858) |
 | National Indemnity Company | Marketing Data Intern | Omaha, NE |  |  | 2026-10-25 | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) |

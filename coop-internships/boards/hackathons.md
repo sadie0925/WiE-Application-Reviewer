@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. A row is removed as soon as its deadline passes. That deadline is the application close when the organizer publishes one. If they do not, the event start is used. This is separate from the 30-day job rule.
 
-**60 upcoming** · 3 Waterloo · 57 other Canada/US · Updated 2026-10-30 11:50 ET
+**60 upcoming** · 3 Waterloo · 57 other Canada/US · Updated 2026-10-30 16:12 ET
 
 [All boards](../README.md)
 
@@ -25,7 +25,7 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | HackUTD | Richardson, Texas | 2026-11-07 | 2026-11-07 event start | [Open](https://zeroday.hackutd.co) |
 | CommuniHacks | Kitchener, Ontario | 2026-11-07 | 2026-11-07 event start | [Open](https://www.communihacks.ca) |
 | Hack the Change | Calgary, Alberta | 2026-11-07 | 2026-11-07 event start | [Open](https://hackthechangeyyc.ca/) |
-| HACK.COMS 2026 | Rochester, New York | 2026-11-07 | 2026-11-07 event start | [Open](https://events.mlh.io/events/14418-hack-coms-2026) |
+| HACK.COMS | Rochester, New York | 2026-11-07 | 2026-11-07 event start | [Open](https://events.mlh.com/events/14418-hack-coms-2026) |
 | HackRPI 2026 | Troy, New York | 2026-11-07 | 2026-11-07 event start | [Open](https://hackrpi.com/) |
 | MakeCU | New York, New York | 2026-11-07 | 2026-11-07 event start | [Open](https://v0-curc-makecu.vercel.app/) |
 | Sheridan Datathon 2026 | Mississauga, Ontario | 2026-11-07 | 2026-11-07 event start | [Open](https://sheridandatathon.com/) |
