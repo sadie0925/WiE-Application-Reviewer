@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**333 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 19:35 ET
+**327 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 22:53 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Commonwealth of Massachusetts | HR Business Intelligence Co-op | Boston, MA |  |  | 2026-10-29 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL) |
 | Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
 | SmartFlower Solar | Embedded Systems Engineering Intern | Woburn, MA |  |  | 2026-10-29 | [Apply](https://apply.workable.com/smartflower-solar-llc/j/240CCDA520/apply) |
 | Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
@@ -18,6 +19,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Lunar Energy | Hardware Test Engineer Intern | Mountain View, CA |  |  | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004) |
 | Hasbro | Electrical Engineering Co-op | Boston, MA |  |  | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4472128009) |
 | Cloudflare | Product Manager Intern | Austin, TX |  |  | 2026-10-29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790) |
+| ASML | Optical Engineer Co-op Intern | Wilton, CT |  |  | 2026-10-28 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324) |
 | CACI | Systems Engineering Co-op Intern | Rochester, NY |  |  | 2026-10-28 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157) |
 | Carrier Global | Lab Assistant Engineer Co-op | Fort Wayne, IN |  |  | 2026-10-28 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Lab-Assistant-Engineering---Co-Op_30220677) |
 | Hewlett Packard Enterprise | ASIC Verification Engineer Intern | Roseville, CA |  |  | 2026-10-28 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Engineering-Intern_1214028) |
@@ -138,7 +140,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | L3Harris Technologies | Systems Engineering Co-op | Clifton, NJ |  |  | 2026-10-19 | [Apply](https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Spring-Co-Op-NJ-07014/1441503600/?ats=successfactors) |
 | Keysight Technologies | R&D Hardware Engineer Intern | Santa Clara, CA |  |  | 2026-10-19 | [Apply](https://jobs.keysight.com/jobs/54804?icims=1) |
 | Amplify | Product Management Intern | Remote in USA |  |  | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) |
-| Johns Hopkins Applied Physics Laboratory | Electrical and Computer Engineer Intern | Laurel, MD |  |  | 2026-10-19 | [Apply](https://careers.jhuapl.edu/jobs/60390?icims=1) |
 | Badger Meter | Systems Integration Engineer Intern | Milwaukee, WI |  |  | 2026-10-18 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Systems-Integration---Engineering-Intern_4641) |
 | Carrier Global | Test Engineer Intern | Fort Wayne, IN |  |  | 2026-10-18 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233) |
 | Hewlett Packard Enterprise | ASIC Intern | Roseville, CA |  |  | 2026-10-18 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Intern_1214020) |
@@ -336,10 +337,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Rivian | Engineering Intern/Co-op - Design Verification - Neural Engine | Palo Alto, CA |  |  | 2026-09-30 | [Apply](https://careers.rivian.com/jobs/33833?icims=1) |
 | Astronics | Electrical Test Engineer Intern | Redmond, WA |  |  | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009) |
 | L3Harris Technologies | Systems Engineering Intern | Clifton, NJ |  |  | 2026-09-30 | [Apply](https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Intern-(Clifton,-NJ)-NJ-07014/1435252900/?ats=successfactors) |
-| Adobe | MBA Intern - Product Manager | San Jose, CA |  |  | 2026-09-29 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) |
-| Draper | Integrated Circuits Intern | Cambridge, MA |  |  | 2026-09-29 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR002973) |
-| KLA | Product Development Engineer Intern | Milpitas, CA |  |  | 2026-09-29 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1) |
-| KLA | Product Development Engineer Intern | Milpitas, CA |  |  | 2026-09-29 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562) |
-| Life Fitness | Marketing Analytics Intern | Rosemont, IL |  |  | 2026-09-29 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253) |
-| Rockwell Automation | Product Management Intern - Digital Client | Mequon, WI |  |  | 2026-09-29 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261) |
-| Rockwell Automation | Product Management Intern - Digital Client | Mequon, WI |  |  | 2026-09-29 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261-1) |

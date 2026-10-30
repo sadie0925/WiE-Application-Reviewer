@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**51 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 19:35 ET
+**52 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 22:53 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Qualcomm | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) |
 | Synopsys | Technical Engineer Intern | Ottawa, ON, Canada |  |  | 2026-10-29 | [Apply](https://synopsys.avature.net/careers/JobDetail/19523) |
 | Blackberry | Application Engineering Student Intern | Ottawa, ON, Canada |  |  | 2026-10-28 | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Application-Engineering-Student_20260335) |
 | Ciena | Hardware Characterization Automation Co-op | Ottawa, ON, Canada |  |  | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014) |

@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**193 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 19:35 ET
+**191 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-29 22:53 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -60,7 +60,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Royal Bank of Canada | Developer Intern - RBC Amplify | Montreal, QC, Canada |  |  | 2026-10-25 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1) |
 | SOTI | Software Developer Intern - Android | Mississauga, ON, Canada |  |  | 2026-10-25 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) |
 | SOTI | Software Developer Intern - Server | Mississauga, ON, Canada |  |  | 2026-10-25 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) |
-| Intuit | Software Developer Co-op - Front End | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) |
 | 1Password | Developer Intern - Credential Brokering | Remote in USA, Remote in Canada |  |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) |
 | 1Password | Developer Intern - Developer Interfaces | Remote in USA, Remote in Canada |  |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-22 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366) |
@@ -202,4 +201,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Qualcomm | Design Automation & Quality Assurance Engineer Intern | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721349404) |
 | Manulife Financial | ALM Data Management & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada |  |  | 2026-09-30 | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors) |
-| Foresters Financial | Software Engineer Co-op - AI | Toronto, ON, Canada |  |  | 2026-09-29 | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332) |
