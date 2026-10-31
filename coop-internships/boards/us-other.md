@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**332 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 19:44 ET
+**326 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 22:45 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -115,7 +115,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | CVS Health | Innovation & Technology Internship - Product & Agile Delivery | Dallas, TX, Scottsdale, AZ (+2) |  |  | 2026-10-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767) |
 | FedEx Freight | Media & Web Development Intern - Marketing | United States |  |  | 2026-10-21 | [Apply](https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600) |
 | Hewlett Packard Enterprise | Electrical Hardware Engineer Intern | Chippewa Falls, WI |  |  | 2026-10-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineering-Intern_1213409) |
-| Radiance Technologies | Microelectronics Engineer Intern | Ruston, LA |  |  | 2026-10-21 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Microelectronics-Engineer-Intern_HR102520) |
 | Rockwell Automation | Electrical Engineer Intern | Mequon, WI, Eden Prairie, MN |  |  | 2026-10-21 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Eden-Prairie-Minnesota-United-States/Intern--Electrical-Engineer_R26-8320-1) |
 | Rockwell Automation | Electrical Engineer Intern | Mequon, WI, Eden Prairie, MN |  |  | 2026-10-21 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Eden-Prairie-Minnesota-United-States/Intern--Electrical-Engineer_R26-8320) |
 | Meta | Research Intern - Audio Hardware | Redmond, WA |  |  | 2026-10-21 | [Apply](https://www.metacareers.com/jobs/1445807477756644) |
@@ -337,8 +336,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Varda Space | Avionics Engineering Intern | El Segundo, CA |  |  | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |
 | Keysight Technologies | R&D Electrical Engineering Intern | Colorado Springs, CO |  |  | 2026-10-01 | [Apply](https://jobs.keysight.com/jobs/54664?icims=1) |
 | Keysight Technologies | R&D Electrical Engineering Intern | Colorado Springs, CO |  |  | 2026-10-01 | [Apply](https://jobs.keysight.com/jobs/54665?icims=1) |
-| Rivian | Engineer Intern Co-op - Design-for-Test | Palo Alto, CA |  |  | 2026-09-30 | [Apply](https://careers.rivian.com/jobs/33810?icims=1) |
-| Capital One | MBA Product Intern | McLean, VA, Richmond, VA (+1) |  |  | 2026-09-30 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) |
-| Micron Technology | Compute System Compatibility Engineer Intern | Boise, ID |  |  | 2026-09-30 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627) |
-| Micron Technology | Dram Architecture Intern | San Jose, CA, Boise, ID |  |  | 2026-09-30 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---DRAM-ARCTITECHTURE_JR113298) |
-| Skyband Systems | Avionics Hardware & Test Engineer Intern | Kirkland, WA |  |  | 2026-09-30 | [Apply](https://jobs.ashbyhq.com/skyband%20systems/36bb9bd3-7ecb-42fe-908a-7d7486620d77/application?embed=true) |

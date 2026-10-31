@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**200 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 19:44 ET
+**197 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 22:45 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -50,7 +50,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Royal Bank of Canada | Developer Intern | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) |
 | AltaLink | Summer Student Intern - CRU Project Support | Calgary, AB, Canada | Spring |  | 2026-10-26 | [Apply](https://apply.workable.com/altalink/j/3FB9DD016F/apply) |
 | Royal Bank of Canada | Developer Intern | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1) |
-| Altera | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382) |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Montreal, QC, Canada |  |  | 2026-10-25 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
 | CIBC | AI Scientist Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) |
 | CIBC | AI Scientist Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) |
@@ -208,5 +207,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Pinterest | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) |
 | Coveo | Corporate Business Intelligence Intern | Québec City, QC, Canada |  |  | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) |
 | Coveo | Corporate Business Intelligence Intern | Montreal, QC, Canada |  |  | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) |
-| Qualcomm | Design Automation & Quality Assurance Engineer Intern | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721349404) |
-| Manulife Financial | ALM Data Management & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) |

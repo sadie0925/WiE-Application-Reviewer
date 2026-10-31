@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**54 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 19:44 ET
+**52 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-30 22:45 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -62,5 +62,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Hitachi Energy | Electrical Component Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-04 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) |
 | Definity Financial | Operations Analyst Co-op Intern | Toronto, ON, Canada, Waterloo, ON, Canada (+1) |  |  | 2026-10-02 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) |
 | Hitachi Energy | Hardware Test Engineering Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
-| Intel | Graphics Hardware Validation Undergraduate Engineering Intern | Toronto, ON, Canada |  |  | 2026-09-30 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) |
-| Marvell | IC Validation Engineer Intern Co-op - BS/MS | Ottawa, ON, Canada |  |  | 2026-09-30 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) |
