@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**321 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 10:56 ET
+**318 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 18:11 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -328,6 +328,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Schweitzer Engineering Laboratories | Hardware Engineering Intern | Pullman, WA |  |  | 2026-10-01 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159) |
 | The Toro Company | Mechatronics Engineering Co-op | Bloomington, MN |  |  | 2026-10-01 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) |
 | Trimble | Product Management Intern | Westminster, CO |  |  | 2026-10-01 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893) |
-| BNY | Product Management Intern - Program Management | Pittsburgh, PA |  |  | 2026-10-01 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
-| BNY | Product Management Intern | Lake Mary, FL |  |  | 2026-10-01 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) |
-| Varda Space | Mission Operations Intern - Summer 2027 | El Segundo, CA | Spring 2027 |  | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |

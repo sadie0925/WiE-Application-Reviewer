@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**891 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 10:56 ET
+**888 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 18:11 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -898,6 +898,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Keysight Technologies | IT Engineering Intern | Colorado Springs, CO |  |  | 2026-10-01 | [Apply](https://jobs.keysight.com/jobs/54649?icims=1) |
 | Keysight Technologies | Software Development Intern | Pleasant Grove, UT |  |  | 2026-10-01 | [Apply](https://jobs.keysight.com/jobs/54671?icims=1) |
 | Principal Financial Group | Quantitative Analyst Intern - Quantitative Research | Des Moines, IA |  |  | 2026-10-01 | [Apply](https://careers.principal.com/jobs/52721?icims=1) |
-| Amazon | Software Engineer Intern | Seattle, WA, Jessup, MD (+2) |  |  | 2026-10-01 | [Apply](https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) |
-| L3Harris Technologies | Software Engineering Intern | Columbia, MD |  |  | 2026-10-01 | [Apply](https://jobs.l3harris.com/job/Columbia-Software-Engineer-Intern-MD-21046/1425456300/?ats=successfactors) |
-| L3Harris Technologies | Image Processing Engineer Intern | Tulsa, OK |  |  | 2026-10-01 | [Apply](https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1412926700/?ats=successfactors) |

@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**196 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 10:56 ET
+**194 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 18:11 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -204,5 +204,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Marvell | Firmware Engineer Intern | Ottawa, ON, Canada |  |  | 2026-10-01 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) |
 | Stripe | Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
 | Pinterest | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) |
-| Coveo | Corporate Business Intelligence Intern | Québec City, QC, Canada |  |  | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) |
-| Coveo | Corporate Business Intelligence Intern | Montreal, QC, Canada |  |  | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) |
