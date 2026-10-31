@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**50 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 04:55 ET
+**51 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 10:56 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -14,6 +14,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Qualcomm | Camera Systems Intern | Vancouver, BC, Canada |  |  | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) |
 | Qualcomm | High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW | Ottawa, ON, Canada |  |  | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721874877) |
 | Definity Financial | Direct Channel Operations Co-op Intern | Toronto, ON, Canada |  |  | 2026-10-30 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) |
+| Qualcomm | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) |
 | Altera | FPGA Development Tools Intern | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394) |
 | Altera | Hardware Design Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367) |
 | Ciena | Hardware Characterization Automation Co-op | Ottawa, ON, Canada |  |  | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014) |
