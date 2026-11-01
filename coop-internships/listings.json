@@ -4984,44 +4984,6 @@
     "program": "cs"
   },
   {
-    "id": "e2505b77-7cf2-4649-ad34-77ec15332d45",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Associate – Software Engineering Intern",
-    "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1443908200/?ats=successfactors",
-    "locations": [
-      "Greenville, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793064890,
-    "date_updated": 1793064989,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "53c80701-fd03-4de6-b3d7-defc622faa0b",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.l3harris.com/job/Rochester-Intern,-Software-Engineer-NY-14624/1443908600/?ats=successfactors",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793064890,
-    "date_updated": 1793064983,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "6a4d978f-591a-4db3-91fc-cf7e1e34458b",
     "company_name": "Meta",
     "company_url": "https://simplify.jobs/c/Meta",
@@ -14625,25 +14587,6 @@
     "program": "cs"
   },
   {
-    "id": "c9f2736c-ca54-46f8-98a1-81570a3bd159",
-    "company_name": "Johnson & Johnson",
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "title": "Quality Data Science Co-op",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792368000,
-    "date_updated": 1792390258,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "05d7b800-db86-469c-8a88-a83e497ba035",
     "company_name": "Manulife Financial",
     "company_url": "https://simplify.jobs/c/Manulife-Financial",
@@ -15685,25 +15628,6 @@
     "source": "simplify",
     "date_posted": 1792108800,
     "date_updated": 1792160330,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "ffd69a94-dc9e-4734-b09a-90e056934918",
-    "company_name": "American Family Insurance Group",
-    "company_url": "https://simplify.jobs/c/American-Family-Insurance-Group",
-    "title": "Data Engineering / Data Science Intern",
-    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674",
-    "locations": [
-      "Madison, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792108800,
-    "date_updated": 1792190410,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
@@ -26150,63 +26074,6 @@
     "program": "cs"
   },
   {
-    "id": "20960b45-bcba-4977-a12f-eabbf6b2c80c",
-    "company_name": "State of North Carolina",
-    "company_url": "https://simplify.jobs/c/State-Of-North-Carolina",
-    "title": "Data Analytics Intern",
-    "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220",
-    "locations": [
-      "Wake County, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791158400,
-    "date_updated": 1791181157,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "0f621445-f310-4ae7-9e91-f830db926091",
-    "company_name": "State of North Carolina",
-    "company_url": "https://simplify.jobs/c/State-Of-North-Carolina",
-    "title": "Data Engineer Intern",
-    "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791158400,
-    "date_updated": 1791181157,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "3d0e6a5a-a1a8-484a-9a12-fd9fcdb36ad4",
-    "company_name": "State of North Carolina",
-    "company_url": "https://simplify.jobs/c/State-Of-North-Carolina",
-    "title": "Data Science Intern",
-    "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791158400,
-    "date_updated": 1791181157,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "326100ad-000e-45bb-b619-347263128bdc",
     "company_name": "Zurn Elkay Water Solutions",
     "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
@@ -26780,81 +26647,5 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "eee7ad08-5a09-4e71-82b2-3eefe1615b80",
-    "company_name": "Profluent",
-    "company_url": "https://simplify.jobs/c/Profluent",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/profluent/jobs/5441955008",
-    "locations": [
-      "Emeryville, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790922132,
-    "date_updated": 1790922252,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "a3467596-1476-4677-a459-8383949106b7",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.keysight.com/jobs/54668?icims=1",
-    "locations": [
-      "Tewksbury, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790921402,
-    "date_updated": 1790921521,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "947e0edf-c842-4a59-b67c-747847abf090",
-    "company_name": "Range",
-    "company_url": "https://simplify.jobs/c/Range",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790903968,
-    "date_updated": 1790904162,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "6d096fd6-91d6-425b-9d76-fdb3eea54dd1",
-    "company_name": "Muon Space",
-    "company_url": "https://simplify.jobs/c/MuonSpace",
-    "title": "Electrical Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790903360,
-    "date_updated": 1790903753,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   }
 ]

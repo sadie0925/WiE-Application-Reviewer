@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**864 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 21:08 ET
+**854 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 02:28 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -186,8 +186,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA |  |  | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4467398009) |
 | First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC |  |  | 2026-10-27 | [Apply](https://firstcitizens.jibeapply.com/jobs/36230?icims=1) |
 | Sherwin-Williams | R&D Product Systems Intern | Cleveland, OH |  |  | 2026-10-27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417) |
-| L3Harris Technologies | Associate – Software Engineering Intern | Greenville, TX |  |  | 2026-10-26 | [Apply](https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1443908200/?ats=successfactors) |
-| L3Harris Technologies | Software Engineer Intern | Rochester, NY |  |  | 2026-10-26 | [Apply](https://jobs.l3harris.com/job/Rochester-Intern,-Software-Engineer-NY-14624/1443908600/?ats=successfactors) |
 | Meta | Research Scientist Intern - Foundation Model Optimization | Burlingame, CA, Menlo Park, CA |  |  | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/1435245618154892) |
 | Meta | Research Scientist Intern - Search | Menlo Park, CA |  |  | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/2171476533578976) |
 | 42dot | Foundation Models Intern | Sunnyvale, CA |  |  | 2026-10-26 | [Apply](https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b/application?embed=true) |
@@ -493,7 +491,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Highmark Health | Data Analyst Undergraduate Intern | Pittsburgh, PA |  |  | 2026-10-18 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017) |
 | Highmark Health | Data Science Research and Development Graduate Intern | Washington, DC |  |  | 2026-10-18 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175) |
 | Highmark Health | Reimbursement Analyst Intern | Washington, DC |  |  | 2026-10-18 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Reimbursement-Analyst-Undergraduate-Intern_J287154) |
-| Johnson & Johnson | Quality Data Science Co-op | Cincinnati, OH |  |  | 2026-10-18 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) |
 | NVIDIA | Product Manager MBA Intern - Enterprise AI | Santa Clara, CA |  |  | 2026-10-18 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) |
 | Salesforce | Software Engineer Intern | Bellevue, WA |  |  | 2026-10-18 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
 | Salesforce | Software Engineer Intern | Bellevue, WA |  |  | 2026-10-18 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |
@@ -525,7 +522,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | AiDash | Software Engineer Intern - Backend | Palo Alto, CA |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) |
 | AeroVironment | Software Engineer Intern | Moorpark, CA |  |  | 2026-10-15 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineering-Intern_9094) |
 | American Bankers Association | Banking Policy and Economic Research Intern | Washington, DC |  |  | 2026-10-15 | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) |
-| American Family Insurance Group | Data Engineering / Data Science Intern | Madison, WI |  |  | 2026-10-15 | [Apply](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674) |
 | GlobalFoundries | Research Account Management & Field Application Engineering Support Intern | Essex Junction, VT |  |  | 2026-10-15 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431) |
 | Hilb Group | Benefits Analytics Intern | Hunt Valley, Cockeysville, MD |  |  | 2026-10-15 | [Apply](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) |
 | J.M. Smucker | Finance Technology Intern | Orrville, OH |  |  | 2026-10-15 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016) |
@@ -851,9 +847,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Midland States Bank | AI Solutions Engineer Intern | Rockford, IL, St. Louis, MO (+1) |  |  | 2026-10-04 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461) |
 | Midland States Bank | Associate Solutions Engineer Intern - Data Warehouse | St. Louis, MO, Effingham, IL |  |  | 2026-10-04 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462) |
 | National Laboratory of the Rockies | Undergraduate / Graduate Cyber Security Research Intern - 5G | Golden, CO |  |  | 2026-10-04 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555) |
-| State of North Carolina | Data Analytics Intern | Wake County, NC |  |  | 2026-10-04 | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220) |
-| State of North Carolina | Data Engineer Intern | Raleigh, NC |  |  | 2026-10-04 | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224) |
-| State of North Carolina | Data Science Intern | Raleigh, NC |  |  | 2026-10-04 | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) |
 | Diversified Energy | Information Technology Intern | Birmingham, AL |  |  | 2026-10-04 | [Apply](https://careers.div.energy/jobs/2734?icims=1) |
 | Keysight Technologies | Data Scientist Intern | Santa Rosa, CA |  |  | 2026-10-04 | [Apply](https://jobs.keysight.com/jobs/54570?icims=1) |
 | DocuSign | Software Engineer Intern - Self-Service Directory Diagnostics | Seattle, WA |  |  | 2026-10-04 | [Apply](https://careers.docusign.com/jobs/30464?icims=1) |
@@ -871,6 +864,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | C3.ai | AI Product Manager Intern | Redwood City, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8860562002) |
 | Farmers Mutual Hail | Data Architect Intern | West Des Moines, IA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009) |
 | Mindex | Software Engineer Co-op | Rochester, NY |  |  | 2026-10-02 | [Apply](https://apply.workable.com/mindex/j/84B10DB922/apply) |
-| Profluent | Software Engineer Intern | Emeryville, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/profluent/jobs/5441955008) |
-| Keysight Technologies | Software Engineer Intern | Tewksbury, MA |  |  | 2026-10-02 | [Apply](https://jobs.keysight.com/jobs/54668?icims=1) |
-| Range | Software Engineer Intern | McLean, VA |  |  | 2026-10-01 | [Apply](https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true) |

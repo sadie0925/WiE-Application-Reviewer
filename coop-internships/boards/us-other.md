@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**310 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 21:08 ET
+**309 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 02:28 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -319,4 +319,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Arc | Electrical Hardware Engineering Intern | Torrance, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | Vertiv | Design Engineering Intern | Delaware, OH, Fort Lauderdale, FL |  |  | 2026-10-02 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257) |
 | Intuit | Finance Transformation & Analytics Intern | Mountain View, CA |  |  | 2026-10-02 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) |
-| Muon Space | Electrical Engineer Intern | San Jose, CA |  |  | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) |
