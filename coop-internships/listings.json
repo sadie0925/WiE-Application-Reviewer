@@ -1,5 +1,24 @@
 [
   {
+    "id": "406b0816-39b7-4e44-bdd9-17030f08c8f2",
+    "company_name": "TRG",
+    "company_url": "https://simplify.jobs/c/TRG",
+    "title": "Full Stack Application Developer Intern",
+    "url": "https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793545518,
+    "date_updated": 1793545561,
+    "category": "Software",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "016fa4b5-f0be-4f7d-9eaa-5a420aa83638",
     "company_name": "Firework",
     "company_url": "https://simplify.jobs/c/Firework",
@@ -26509,44 +26528,6 @@
     "date_posted": 1790978679,
     "date_updated": 1790979000,
     "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "ee9ccca0-8bd3-4e29-a009-8eb52e728539",
-    "company_name": "C3.ai",
-    "company_url": "https://simplify.jobs/c/C3ai",
-    "title": "AI Product Manager Intern",
-    "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002",
-    "locations": [
-      "Redwood City, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790967160,
-    "date_updated": 1793341117,
-    "category": "Product",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "66abc21b-ff22-412a-8284-46a8e772c901",
-    "company_name": "Farmers Mutual Hail",
-    "company_url": "https://simplify.jobs/c/Farmers-Mutual-Hail",
-    "title": "Data Architect Intern",
-    "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009",
-    "locations": [
-      "West Des Moines, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790954932,
-    "date_updated": 1793400122,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"

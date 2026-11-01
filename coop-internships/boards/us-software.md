@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**851 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 09:25 ET
+**850 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 14:01 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| TRG | Full Stack Application Developer Intern | Dallas, TX |  |  | 2026-11-01 | [Apply](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) |
 | Firework | Data Engineer Intern | San Mateo, CA |  |  | 2026-10-30 | [Apply](https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply) |
 | Meta | Research Scientist Intern - Video Recsys | Menlo Park, CA |  |  | 2026-10-30 | [Apply](https://www.metacareers.com/jobs/1553890293163197) |
 | Molina Healthcare | Customer Experience & Analytics Intern - Undergraduate | Remote in USA |  |  | 2026-10-30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169) |
@@ -859,5 +860,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | C3.ai | AI Product Manager Intern - Summer 2027 | Redwood City, CA | Spring 2027 |  | 2026-10-02 | [Apply](https://c3.ai/job-description/8860563002?gh_jid=8860563002) |
 | Colibri Group | Product Builder Returnship Intern | Pleasanton, CA |  |  | 2026-10-02 | [Apply](https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488/apply) |
 | InComm Payments | Software Engineer Intern | Sandy, UT |  |  | 2026-10-02 | [Apply](https://jobs.incommpayments.com/jobs/22268?icims=1) |
-| C3.ai | AI Product Manager Intern | Redwood City, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8860562002) |
-| Farmers Mutual Hail | Data Architect Intern | West Des Moines, IA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009) |
