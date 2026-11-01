@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**308 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 14:01 ET
+**305 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 17:42 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -315,6 +315,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Hewlett Packard Enterprise | VLSI Design Verification Intern | Chippewa Falls, WI |  |  | 2026-10-03 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400) |
 | Micron Technology | HBM Memory Design Engineer Intern - HBM | Richardson, TX |  |  | 2026-10-03 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) |
 | Koch Industries | Product Management Intern | Eden Prairie, MN, Lisle, IL |  |  | 2026-10-02 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195099) |
-| Arc | Electrical Hardware Engineering Intern | Torrance, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
-| Vertiv | Design Engineering Intern | Delaware, OH, Fort Lauderdale, FL |  |  | 2026-10-02 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257) |
-| Intuit | Finance Transformation & Analytics Intern | Mountain View, CA |  |  | 2026-10-02 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) |

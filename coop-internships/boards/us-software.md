@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**850 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 14:01 ET
+**841 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 17:42 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -851,12 +851,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | DocuSign | Software Engineer Intern - Self-Service Directory Diagnostics | Seattle, WA |  |  | 2026-10-04 | [Apply](https://careers.docusign.com/jobs/30464?icims=1) |
 | Keysight Technologies | R&D Software Engineering Intern | Atlanta, GA |  |  | 2026-10-03 | [Apply](https://jobs.keysight.com/jobs/54388?icims=1) |
 | RTX | AI DSP Applied Research Co-op | Cedar Rapids, IA |  |  | 2026-10-02 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) |
-| Arc | Software Engineer Intern | Torrance, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008) |
-| MasterControl | AI/ML Engineer Intern | United States |  |  | 2026-10-02 | [Apply](https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005) |
-| Tesla | Distributed Systems Software Engineer Intern - Energy Engineering | Palo Alto, CA |  |  | 2026-10-02 | [Apply](https://www.tesla.com/careers/search/job/285508) |
-| Intuit | Marketing Intern - AI Tooling for Marketing Efficiency | Mountain View, CA |  |  | 2026-10-02 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552) |
-| xAI | Software Engineer Intern/Co-op | Palo Alto, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007) |
-| xAI | Software Engineering Intern Co-op | Palo Alto, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007) |
-| C3.ai | AI Product Manager Intern - Summer 2027 | Redwood City, CA | Spring 2027 |  | 2026-10-02 | [Apply](https://c3.ai/job-description/8860563002?gh_jid=8860563002) |
-| Colibri Group | Product Builder Returnship Intern | Pleasanton, CA |  |  | 2026-10-02 | [Apply](https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488/apply) |
-| InComm Payments | Software Engineer Intern | Sandy, UT |  |  | 2026-10-02 | [Apply](https://jobs.incommpayments.com/jobs/22268?icims=1) |
