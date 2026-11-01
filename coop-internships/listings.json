@@ -1876,44 +1876,6 @@
     "program": "cs"
   },
   {
-    "id": "e7d2687d-8b7e-4615-88e6-df7f4f101331",
-    "company_name": "Adobe",
-    "company_url": "https://simplify.jobs/c/Adobe",
-    "title": "Technical Support Consultant Intern",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793279967,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "a25226c4-ad0d-4016-a9eb-072e72a8b5f0",
-    "company_name": "Adobe",
-    "company_url": "https://simplify.jobs/c/Adobe",
-    "title": "Technical Support Consultant Intern",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172786",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793279970,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "6cb8334b-aefe-49d7-8abf-7622722ab92f",
     "company_name": "Altera",
     "company_url": "https://simplify.jobs/c/Altera-Corporation",
@@ -21927,25 +21889,6 @@
     "program": "cs"
   },
   {
-    "id": "560fbfa2-951c-4d72-adc2-93abc85d1a5b",
-    "company_name": "StudyFetch",
-    "company_url": "https://simplify.jobs/c/StudyFetch",
-    "title": "Robotics Intern - Learning Kits & Curriculum",
-    "url": "https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5",
-    "locations": [
-      "Beverly Hills, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791422612,
-    "date_updated": 1792831187,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "60881082-3930-422a-9543-38028c8e9208",
     "company_name": "Amazon",
     "company_url": "https://simplify.jobs/c/Amazon",
@@ -26604,46 +26547,6 @@
     "date_posted": 1790954932,
     "date_updated": 1793400122,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "212771ed-92c6-48c7-b5d0-8fba7e55a26f",
-    "company_name": "Definity Financial",
-    "company_url": "https://simplify.jobs/c/Definity-Financial",
-    "title": "Operations Analyst Co-op Intern",
-    "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Waterloo, ON, Canada",
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790950113,
-    "date_updated": 1790950353,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "96268a8b-5041-4571-913d-7a04ae9c4c50",
-    "company_name": "Mindex",
-    "company_url": "https://simplify.jobs/c/Mindex",
-    "title": "Software Engineer Co-op",
-    "url": "https://apply.workable.com/mindex/j/84B10DB922/apply",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790932501,
-    "date_updated": 1790932630,
-    "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"

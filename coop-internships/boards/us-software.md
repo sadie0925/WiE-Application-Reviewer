@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**854 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 02:28 ET
+**851 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 09:25 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -66,8 +66,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Boston Scientific | AI Solutions Engineering Intern | Arden Hills, MN |  |  | 2026-10-29 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813547675) |
 | USAFacts | AI & Software Engineer Intern | Bellevue, WA |  |  | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/usafacts/jobs/4472154009) |
 | Boston Scientific | R&D Software Design Intern | Arden Hills, MN |  |  | 2026-10-28 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813862687) |
-| Adobe | Technical Support Consultant Intern | San Jose, CA |  |  | 2026-10-28 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785) |
-| Adobe | Technical Support Consultant Intern | San Jose, CA |  |  | 2026-10-28 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172786) |
 | Arch Capital Group | Data Analytics Intern | Greensboro, NC |  |  | 2026-10-28 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Data-Analytics-Intern_R26_1137-1) |
 | Austin Community College District | GIS Intern | Austin, TX |  |  | 2026-10-28 | [Apply](https://austincc.wd1.myworkdayjobs.com/external/job/Highland-Campus/GIS-Intern-at-ACC-Inc--Hourly-_R-10104) |
 | Axiom Space | Enterprise Data Analyst Intern - Power BI & Data Quality | Houston, TX |  |  | 2026-10-28 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823) |
@@ -863,4 +861,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | InComm Payments | Software Engineer Intern | Sandy, UT |  |  | 2026-10-02 | [Apply](https://jobs.incommpayments.com/jobs/22268?icims=1) |
 | C3.ai | AI Product Manager Intern | Redwood City, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8860562002) |
 | Farmers Mutual Hail | Data Architect Intern | West Des Moines, IA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009) |
-| Mindex | Software Engineer Co-op | Rochester, NY |  |  | 2026-10-02 | [Apply](https://apply.workable.com/mindex/j/84B10DB922/apply) |
