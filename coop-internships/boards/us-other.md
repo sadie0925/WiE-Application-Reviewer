@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**318 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 18:11 ET
+**310 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 21:08 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -320,11 +320,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Vertiv | Design Engineering Intern | Delaware, OH, Fort Lauderdale, FL |  |  | 2026-10-02 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257) |
 | Intuit | Finance Transformation & Analytics Intern | Mountain View, CA |  |  | 2026-10-02 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) |
 | Muon Space | Electrical Engineer Intern | San Jose, CA |  |  | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) |
-| Allegion | Hardware Engineering Intern - Hardware Engineering | Indianapolis, IN |  |  | 2026-10-01 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413-1) |
-| General Motors | Systems/Calibration Engineer Intern - ADAS Drive | Milford, MI |  |  | 2026-10-01 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Systems-Calibration-Engineer--ADAS-Drive_JR-202621623) |
-| Hewlett Packard Enterprise | ASIC Engineer Intern | Durham, NC |  |  | 2026-10-01 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Engineering-Intern_1214213) |
-| Hitachi Energy | Component Engineering Co-op | Pittsburgh, PA |  |  | 2026-10-01 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Co-op---Component-Engineering_R0140272) |
-| Regeneron Pharmaceuticals | Precision Medicine Operations Co-op | Armonk, NY |  |  | 2026-10-01 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
-| Schweitzer Engineering Laboratories | Hardware Engineering Intern | Pullman, WA |  |  | 2026-10-01 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159) |
-| The Toro Company | Mechatronics Engineering Co-op | Bloomington, MN |  |  | 2026-10-01 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) |
-| Trimble | Product Management Intern | Westminster, CO |  |  | 2026-10-01 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893) |

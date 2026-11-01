@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**194 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 18:11 ET
+**191 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 21:08 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -201,6 +201,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Kinaxis | Intern Developer - Back End Technologies | Ottawa, ON, Canada |  |  | 2026-10-02 | [Apply](https://kinaxis.jibeapply.com/jobs/35372?icims=1) |
 | Solink | Software Engineer Co-op - Agents | Ottawa, ON, Canada, Remote in Canada |  |  | 2026-10-02 | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) |
 | Nokia | Automation Engineer Co-op Intern | Ottawa, ON, Canada |  |  | 2026-10-02 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) |
-| Marvell | Firmware Engineer Intern | Ottawa, ON, Canada |  |  | 2026-10-01 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) |
-| Stripe | Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
-| Pinterest | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) |

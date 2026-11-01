@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**888 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 18:11 ET
+**864 open** · newest first · removed when the application closes or after 30 days · Updated 2026-10-31 21:08 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -874,27 +874,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Profluent | Software Engineer Intern | Emeryville, CA |  |  | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/profluent/jobs/5441955008) |
 | Keysight Technologies | Software Engineer Intern | Tewksbury, MA |  |  | 2026-10-02 | [Apply](https://jobs.keysight.com/jobs/54668?icims=1) |
 | Range | Software Engineer Intern | McLean, VA |  |  | 2026-10-01 | [Apply](https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true) |
-| American Bankers Association | Quantitative Research Intern | Washington, DC |  |  | 2026-10-01 | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614) |
-| American Family Insurance Group | GenAI/ML Intern | Madison, WI, Boston, MA |  |  | 2026-10-01 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514) |
-| General Motors | Machine Learning Engineer Intern - AV/AI Platform | Sunnyvale, CA |  |  | 2026-10-01 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) |
-| General Motors | Software Engineer Intern - AV/AI Platform | Sunnyvale, CA, Warren, MI |  |  | 2026-10-01 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696) |
-| HCSC | Early Careers Automation Programmer Intern | Richardson, TX |  |  | 2026-10-01 | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Automation-Programmer-Intern_R0059484) |
-| Hewlett Packard | AI Applied Engineering Intern | Vancouver, WA |  |  | 2026-10-01 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2) |
-| Hewlett Packard | AI Applied Engineering Intern | Vancouver, WA |  |  | 2026-10-01 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670) |
-| HNTB | AI Business Process Developer Intern | Austin, TX |  |  | 2026-10-01 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865) |
-| HNTB | AI Business Process Developer Intern | Austin, TX |  |  | 2026-10-01 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1) |
-| Nelnet | IT Software Engineer Intern | Lincoln, NE |  |  | 2026-10-01 | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198) |
-| New York Mets | Data Science Intern | Queens, NY |  |  | 2026-10-01 | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508) |
-| Regeneron Pharmaceuticals | Data Analytics & Digital Tools Co-op | Rensselaer, NY |  |  | 2026-10-01 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1) |
-| Regeneron Pharmaceuticals | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Tarrytown, NY |  |  | 2026-10-01 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) |
-| Vanguard | College to Corporate Investment Systems Intern | Malvern, PA |  |  | 2026-10-01 | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782) |
-| Vanguard | College to Corporate IT Intern - Application Development | Malvern, PA |  |  | 2026-10-01 | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) |
-| Vanguard | IT Intern Application Development | Charlotte, NC |  |  | 2026-10-01 | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781) |
-| Meta | Research Scientist Intern - Robotics | Menlo Park, CA |  |  | 2026-10-01 | [Apply](https://www.metacareers.com/jobs/1940312740718917) |
-| Stripe | Data Analyst Intern | Seattle, WA |  |  | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8194291) |
-| Intuit | Business Data Analyst Intern - Strategy & Planning | Mountain View, CA |  |  | 2026-10-01 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360) |
-| Pinterest | Software Engineer Intern | Remote in USA |  |  | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
-| Stand Together | Analytics Intern | Chicago, IL |  |  | 2026-10-01 | [Apply](https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply) |
-| Keysight Technologies | IT Engineering Intern | Colorado Springs, CO |  |  | 2026-10-01 | [Apply](https://jobs.keysight.com/jobs/54649?icims=1) |
-| Keysight Technologies | Software Development Intern | Pleasant Grove, UT |  |  | 2026-10-01 | [Apply](https://jobs.keysight.com/jobs/54671?icims=1) |
-| Principal Financial Group | Quantitative Analyst Intern - Quantitative Research | Des Moines, IA |  |  | 2026-10-01 | [Apply](https://careers.principal.com/jobs/52721?icims=1) |
