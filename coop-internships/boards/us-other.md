@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**305 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 17:42 ET
+**305 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 20:50 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| KnowBe4 | Associate Product Manager Intern | Clearwater, FL |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) |
 | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC |  |  | 2026-10-30 | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
 | TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701480558070597893) |
 | TikTok | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701486873210390837) |
@@ -314,4 +315,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Hewlett Packard Enterprise | Electric Hardware Engineer Intern | Chippewa Falls, WI |  |  | 2026-10-03 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414) |
 | Hewlett Packard Enterprise | VLSI Design Verification Intern | Chippewa Falls, WI |  |  | 2026-10-03 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400) |
 | Micron Technology | HBM Memory Design Engineer Intern - HBM | Richardson, TX |  |  | 2026-10-03 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) |
-| Koch Industries | Product Management Intern | Eden Prairie, MN, Lisle, IL |  |  | 2026-10-02 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195099) |

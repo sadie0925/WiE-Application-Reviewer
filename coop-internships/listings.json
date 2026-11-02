@@ -1,5 +1,62 @@
 [
   {
+    "id": "bf1ec0ef-494e-419c-abea-be20337732b0",
+    "company_name": "KnowBe4",
+    "company_url": "https://simplify.jobs/c/KnowBe4",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
+    "locations": [
+      "Clearwater, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793561101,
+    "date_updated": 1793575334,
+    "category": "Software",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
+    "id": "2d8cadab-63ca-494f-bf8b-b7d5b157d376",
+    "company_name": "KnowBe4",
+    "company_url": "https://simplify.jobs/c/KnowBe4",
+    "title": "Associate Product Manager Intern",
+    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002",
+    "locations": [
+      "Clearwater, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793560603,
+    "date_updated": 1793575335,
+    "category": "Product",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "other"
+  },
+  {
+    "id": "f0dc8939-bff2-4aa9-9b54-3545a4a0ead6",
+    "company_name": "Spaceium",
+    "company_url": "https://simplify.jobs/c/Spaceium",
+    "title": "Electrical Intern",
+    "url": "https://job-boards.greenhouse.io/spaceium/jobs/4475283009",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793549201,
+    "date_updated": 1793575631,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "other"
+  },
+  {
     "id": "406b0816-39b7-4e44-bdd9-17030f08c8f2",
     "company_name": "TRG",
     "company_url": "https://simplify.jobs/c/TRG",
@@ -26183,45 +26240,6 @@
     "date_posted": 1791007697,
     "date_updated": 1791007814,
     "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "fdc152bc-2ce6-48c0-86db-6a70bc5a49f3",
-    "company_name": "Koch Industries",
-    "company_url": "https://simplify.jobs/c/Koch-Industries",
-    "title": "Product Management Intern",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/195099",
-    "locations": [
-      "Eden Prairie, MN",
-      "Lisle, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790990232,
-    "date_updated": 1790990281,
-    "category": "Product",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "44d51ce5-b0d7-47ab-93d2-24148841c53d",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "AI DSP Applied Research Co-op",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790985600,
-    "date_updated": 1791076435,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"

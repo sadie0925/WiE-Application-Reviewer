@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**841 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 17:42 ET
+**841 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 20:50 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| KnowBe4 | Software Engineer Intern | Clearwater, FL |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002) |
 | TRG | Full Stack Application Developer Intern | Dallas, TX |  |  | 2026-11-01 | [Apply](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) |
 | Firework | Data Engineer Intern | San Mateo, CA |  |  | 2026-10-30 | [Apply](https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply) |
 | Meta | Research Scientist Intern - Video Recsys | Menlo Park, CA |  |  | 2026-10-30 | [Apply](https://www.metacareers.com/jobs/1553890293163197) |
@@ -850,4 +851,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Keysight Technologies | Data Scientist Intern | Santa Rosa, CA |  |  | 2026-10-04 | [Apply](https://jobs.keysight.com/jobs/54570?icims=1) |
 | DocuSign | Software Engineer Intern - Self-Service Directory Diagnostics | Seattle, WA |  |  | 2026-10-04 | [Apply](https://careers.docusign.com/jobs/30464?icims=1) |
 | Keysight Technologies | R&D Software Engineering Intern | Atlanta, GA |  |  | 2026-10-03 | [Apply](https://jobs.keysight.com/jobs/54388?icims=1) |
-| RTX | AI DSP Applied Research Co-op | Cedar Rapids, IA |  |  | 2026-10-02 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) |

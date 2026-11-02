@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**48 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 17:42 ET
+**49 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 20:50 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Spaceium | Electrical Intern | Ottawa, ON, Canada |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) |
 | Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada |  |  | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) |
 | Qualcomm | Camera Systems Intern | Vancouver, BC, Canada |  |  | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) |
 | Qualcomm | High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW | Ottawa, ON, Canada |  |  | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721874877) |
