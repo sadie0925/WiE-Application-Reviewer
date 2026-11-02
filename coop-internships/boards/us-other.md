@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**303 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-02 03:24 ET
+**307 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-02 13:38 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,10 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| AXA | Operations Metrics and Reporting Intern | Scottsdale, AZ |  |  | 2026-11-02 | [Apply](https://careers.axa.com/jobs/25497?icims=1) |
+| ParetoHealth | Product Manager Intern | Philadelphia, PA |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) |
+| The Federal Reserve System | Supervision & Regulation Intern - Business Relationship | Atlanta, GA |  |  | 2026-11-01 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) |
+| KnowBe4 | Associate Product Manager Intern | Clearwater, FL |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) |
 | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC |  |  | 2026-10-30 | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
 | TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701480558070597893) |
 | TikTok | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701486873210390837) |
@@ -137,7 +141,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Cummins | Engineering School-to-Work Intern - Electronics Systems Validation Engineering | Troy, MI |  |  | 2026-10-20 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439243) |
 | Dell Technologies | Hardware Engineer 1 Intern | Austin, TX |  |  | 2026-10-20 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141) |
 | Riverlane | Engineer Intern | Cambridge, MA |  |  | 2026-10-20 | [Apply](https://www.riverlane.com/jobs?gh_jid=5010283101#vacancies) |
-| CACI | Electrical Test Engineer Intern | Danbury, CT |  |  | 2026-10-19 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Electrical-Test-Engineering-Intern---Summer-2027_333809) |
 | Micron Technology | Design Engineer Intern - Pathfinding | San Jose, CA, Folsom, CA |  |  | 2026-10-19 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189) |
 | Rockwell Automation | Hardware Development Engineer Intern | Mayfield Heights, OH |  |  | 2026-10-19 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2) |
 | Rockwell Automation | Hardware Development Engineer Intern | Mayfield Heights, OH |  |  | 2026-10-19 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1) |
@@ -245,6 +248,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Rugged Robotics | Electrical Engineer Intern Co-op | Houston, TX |  |  | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005) |
 | MSA Safety | Electrical Engineering Co-op | Cranberry Township, PA |  |  | 2026-10-08 | [Apply](https://careers.msasafety.com/jobs/10163?icims=1) |
 | MSA Safety | Electrical Engineering Technology Co-op | Cranberry Township, PA |  |  | 2026-10-08 | [Apply](https://careers.msasafety.com/jobs/10162?icims=1) |
+| StudyFetch | Robotics Intern - Learning Kits & Curriculum | Beverly Hills, CA |  |  | 2026-10-07 | [Apply](https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5) |
 | Hewlett Packard Enterprise | ASIC Verification/Design Engineering Intern | Roseville, CA |  |  | 2026-10-07 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211) |
 | Vertex Pharmaceuticals | People Research and Analytics Co-op - People Research and Analytics - Human Resources | Boston, MA |  |  | 2026-10-07 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-op--People-Research-and-Analytics--Human-Resources_REQ-31103-1) |
 | Texas Instruments | Analog Design Engineer Intern | Dallas, TX |  |  | 2026-10-07 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924) |

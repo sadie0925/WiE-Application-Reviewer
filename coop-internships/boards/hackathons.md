@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. A row is removed as soon as its deadline passes. That deadline is the application close when the organizer publishes one. If they do not, the event start is used. This is separate from the 30-day job rule.
 
-**59 upcoming** · 2 Waterloo · 57 other Canada/US · Updated 2026-11-02 03:24 ET
+**59 upcoming** · 2 Waterloo · 57 other Canada/US · Updated 2026-11-02 13:38 ET
 
 [All boards](../README.md)
 

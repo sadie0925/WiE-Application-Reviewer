@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**188 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-02 03:24 ET
+**182 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-02 13:38 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Tecsys | Developer Intern | Montreal, QC, Canada |  |  | 2026-11-02 | [Apply](https://apply.workable.com/tecsys/j/D61D5FB9AB/apply) |
+| Entrust | AI Developer Intern | Remote in Germany, Shakopee, MN |  |  | 2026-11-01 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada |  |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) |
@@ -24,7 +26,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
 | Qualcomm | AI Software Systems Co-op Intern | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | Qualcomm | Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems | Markham, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) |
-| Geotab | Data Governance & Operations Data Analyst Intern | Toronto, ON, Canada, Burnaby, BC, Canada (+1) |  |  | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008) |
 | Altera | Software Engineer Intern - Factory Apps | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384) |
 | Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) |
 | CIBC | AI Developer Co-op - Bilingual | Montreal, QC, Canada |  |  | 2026-10-28 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390) |
@@ -70,8 +71,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | SOTI | Software Developer Intern - Android | Mississauga, ON, Canada |  |  | 2026-10-25 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) |
 | SOTI | Software Developer Intern - Server | Mississauga, ON, Canada |  |  | 2026-10-25 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) |
 | Kinaxis | Full Stack Developer Intern - C# | Ottawa, ON, Canada |  |  | 2026-10-23 | [Apply](https://kinaxis.jibeapply.com/jobs/35343?icims=1) |
-| 1Password | Developer Intern - Credential Brokering | Remote in USA, Remote in Canada |  |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) |
-| 1Password | Developer Intern - Developer Interfaces | Remote in USA, Remote in Canada |  |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-22 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366) |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-22 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704364) |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-22 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704365) |
@@ -86,11 +85,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Trimble | Software Engineer Intern | Richmond Hill, ON, Canada |  |  | 2026-10-22 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) |
 | Qualcomm | AI and DSP Applications Engineer Intern | Markham, ON, Canada |  |  | 2026-10-22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721686396) |
 | Aon | Actuarial Intern - Client Consulting | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://jobs.aon.com/jobs/106879?icims=1) |
-| 1Password | Developer Intern - Extension Excellence | Remote in USA, Remote in Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true) |
-| 1Password | Developer Intern - Front-End Platform | Remote in USA, Remote in Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true) |
-| 1Password | Developer Intern - Machine Identity | Remote in USA, Remote in Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true) |
-| 1Password | Developer Intern - Provisioning | Remote in USA, Remote in Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true) |
-| 1Password | Developer Intern - Vault Team | Remote in USA, Remote in Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true) |
 | BC Pensions | Junior Information Management Analyst Co-op | Victoria, BC, Canada |  |  | 2026-10-22 | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229) |
 | Veeda AI | Software Engineering Intern | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) |
 | KRAFTON | UI Programming Intern | Montreal, QC, Canada |  |  | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) |
