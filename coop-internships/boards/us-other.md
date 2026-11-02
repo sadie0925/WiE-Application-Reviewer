@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**305 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-01 20:50 ET
+**303 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-02 03:24 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,7 +10,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
-| KnowBe4 | Associate Product Manager Intern | Clearwater, FL |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) |
 | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC |  |  | 2026-10-30 | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
 | TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701480558070597893) |
 | TikTok | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701486873210390837) |
@@ -81,7 +80,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | National Indemnity Company | Marketing Data Intern | Omaha, NE |  |  | 2026-10-25 | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) |
 | Teledyne | Engineering Intern - Technical | Woodridge, IL |  |  | 2026-10-25 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728) |
 | Zebra Technologies | Product Management Intern | Lincolnshire, IL |  |  | 2026-10-25 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
-| Microsoft | Product Manager Intern | Cambridge, MA |  |  | 2026-10-23 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557044772) |
 | Intercontinental Exchange | Audit Analytics Intern | Atlanta, GA |  |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14069?icims=1) |
 | Intercontinental Exchange | Product Management Intern | Atlanta, GA |  |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14065?icims=1) |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | 2026-10-23 | [Apply](https://jobs.keysight.com/jobs/55152?icims=1) |

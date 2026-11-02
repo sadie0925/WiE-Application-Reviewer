@@ -1,41 +1,41 @@
 [
   {
-    "id": "bf1ec0ef-494e-419c-abea-be20337732b0",
-    "company_name": "KnowBe4",
-    "company_url": "https://simplify.jobs/c/KnowBe4",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
+    "id": "09939e91-4c36-4e3b-ace2-9d0117e05b68",
+    "company_name": "Microsoft",
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "title": "Explore Program Engineering Intern",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
     "locations": [
-      "Clearwater, FL"
+      "Redmond, WA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1793561101,
-    "date_updated": 1793575334,
+    "date_posted": 1793604875,
+    "date_updated": 1793604987,
     "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
   },
   {
-    "id": "2d8cadab-63ca-494f-bf8b-b7d5b157d376",
-    "company_name": "KnowBe4",
-    "company_url": "https://simplify.jobs/c/KnowBe4",
-    "title": "Associate Product Manager Intern",
-    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002",
+    "id": "ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0",
+    "company_name": "Roku",
+    "company_url": "https://simplify.jobs/c/Roku",
+    "title": "Software Engineer Intern - AI Engineering",
+    "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
     "locations": [
-      "Clearwater, FL"
+      "San Jose, CA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1793560603,
-    "date_updated": 1793575335,
-    "category": "Product",
+    "date_posted": 1793601363,
+    "date_updated": 1793603392,
+    "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
-    "program": "other"
+    "program": "cs"
   },
   {
     "id": "f0dc8939-bff2-4aa9-9b54-3545a4a0ead6",
@@ -4198,25 +4198,6 @@
     "program": "cs"
   },
   {
-    "id": "f51c760b-2cc4-48c5-b54a-fb26ce4db7ed",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169",
-    "locations": [
-      "Sterling, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793145600,
-    "date_updated": 1793225935,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "1b1a0773-2947-45fb-8f7c-8a6429ed4941",
     "company_name": "Sonos",
     "company_url": "https://simplify.jobs/c/Sonos",
@@ -5722,25 +5703,6 @@
     "date_posted": 1793059200,
     "date_updated": 1793139122,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "ee1db599-f6bc-4f33-97e1-d5b75fa8d948",
-    "company_name": "Northrop Grumman",
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "title": "Software Engineer Intern",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798",
-    "locations": [
-      "Boulder, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793140050,
-    "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -8220,25 +8182,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "7d6bf1c5-976f-4398-b41d-4408341be367",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Product Manager Intern",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792795221,
-    "date_updated": 1792795389,
-    "category": "Product",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "c56751ac-6762-423d-9796-8d62264d5cac",
@@ -21240,25 +21183,6 @@
     "program": "other"
   },
   {
-    "id": "9a42eb0e-d390-47e7-85fa-9d1494c41240",
-    "company_name": "Johnson & Johnson",
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "title": "Proteins Cell Engineering, Analytics & Screening Automation Co-op",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580",
-    "locations": [
-      "Spring House, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791504000,
-    "date_updated": 1791585596,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "d3a06147-0758-442a-a7b5-578fcc38219a",
     "company_name": "Johnson & Johnson",
     "company_url": "https://simplify.jobs/c/Johnson-Johnson",
@@ -24595,44 +24519,6 @@
     "program": "cs"
   },
   {
-    "id": "f8e5913f-abf8-4eed-838d-d784c5b7907b",
-    "company_name": "ABB",
-    "company_url": "https://simplify.jobs/c/ABB",
-    "title": "AI Engineering ERP Intern",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
-    "locations": [
-      "Cary, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791244800,
-    "date_updated": 1791326805,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "fc5e6607-4ac0-4e9c-9d0d-429cb1076eee",
-    "company_name": "ABB",
-    "company_url": "https://simplify.jobs/c/ABB",
-    "title": "AI Engineering Intern - Business Systems",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714",
-    "locations": [
-      "Cary, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791244800,
-    "date_updated": 1791326159,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "b2f853e1-3a69-4b5e-a66e-51596c031a7c",
     "company_name": "AeroVironment",
     "company_url": "https://simplify.jobs/c/AeroVironment",
@@ -25708,25 +25594,6 @@
     "program": "cs"
   },
   {
-    "id": "fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
-    "company_name": "Fresenius Medical Care",
-    "company_url": "https://simplify.jobs/c/Fresenius",
-    "title": "Software Engineering Co-op",
-    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309",
-    "locations": [
-      "Lawrence, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791158400,
-    "date_updated": 1791211501,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "9eb980d0-a05f-4268-9ca9-c84dfc35cefb",
     "company_name": "General Motors",
     "company_url": "https://simplify.jobs/c/General-Motors",
@@ -26224,24 +26091,5 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "3bdfa3d0-178e-48f0-be29-54a668942c5c",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "R&D Software Engineering Intern",
-    "url": "https://jobs.keysight.com/jobs/54388?icims=1",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791007697,
-    "date_updated": 1791007814,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   }
 ]
