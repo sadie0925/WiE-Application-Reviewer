@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**314 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 10:39 ET
+**312 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 16:15 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Paccar | Product Planning Intern | Denton, TX |  |  | 2026-11-03 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) |
 | onsemi | Device Characterization Intern | San Jose, CA |  |  | 2026-11-03 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506292) |
 | Costco | Costco Data Systems Intern - IT Product Owner | Issaquah, WA |  |  | 2026-11-02 | [Apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024) |
 | LexisNexis Risk Solutions | Product Management Intern - Insurance | Alpharetta, GA |  |  | 2026-11-02 | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) |
@@ -34,7 +35,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC |  |  | 2026-10-30 | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
 | TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701480558070597893) |
 | TikTok | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701486873210390837) |
-| Pyrotek | Product Management Intern | Spokane, WA |  |  | 2026-10-30 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000158830479) |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | 2026-10-30 | [Apply](https://jobs.keysight.com/jobs/55276?icims=1) |
 | Commonwealth of Massachusetts | HR Business Intelligence Co-op | Boston, MA |  |  | 2026-10-29 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL) |
 | GlobalFoundries | Device Engineering Intern - Silicon Photonics | Malta, NY |  |  | 2026-10-29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
@@ -122,7 +122,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Huntington Bancshares | Enterprise Payments Intern | Detroit, MI, Minnetonka, MN (+1) |  |  | 2026-10-22 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171) |
 | KLA | Engineer Intern | Milpitas, CA |  |  | 2026-10-22 | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Engineering-Intern_2642277-1) |
 | KLA Corporation | Engineer Intern | Milpitas, CA |  |  | 2026-10-22 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Engineering-Intern_2642277) |
-| Philips | Service Offer Design Intern | Cambridge, MA |  |  | 2026-10-22 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern----Service-Offer-Design---Cambridge--MA---Summer-2027_593517) |
 | Quadric | Design Verification Intern | Burlingame, CA |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/quadric/42074f13-dab4-4203-99a7-8fa3186de168/application?embed=true) |
 | Quadric | RTL Intern | Burlingame, CA |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2/application?embed=true) |
 | Radiance Technologies | High Energy Laser Intern | Huntsville, AL |  |  | 2026-10-22 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/High-Energy-Laser-intern_HR102530) |
@@ -161,7 +160,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Rockwell Automation | Hardware Development Engineer Intern | Mayfield Heights, OH |  |  | 2026-10-19 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1) |
 | Skydio | Electrical Engineer Intern | San Mateo, CA |  |  | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4/application?embed=true) |
 | Zebra Technologies | Mechanical Engineer Intern | Holtsville, NY |  |  | 2026-10-19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627) |
-| Zebra Technologies | Supplies & Sensors Product Manager Intern - US | Lincolnshire, IL |  |  | 2026-10-19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) |
 | Zebra Technologies | Supplies and Sensors R&D Intern | Morris Plains, NJ |  |  | 2026-10-19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Morris-Plains-New-Jersey/XMLNAME-2027-Summer-Internship--US----Supplies-and-Sensors-R-D_JR103643) |
 | Meta | Research Scientist Intern - Robotics Hardware | Redmond, WA |  |  | 2026-10-19 | [Apply](https://www.metacareers.com/jobs/2105411693413958) |
 | L3Harris Technologies | Systems Engineering Co-op | Clifton, NJ |  |  | 2026-10-19 | [Apply](https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Spring-Co-Op-NJ-07014/1441503600/?ats=successfactors) |

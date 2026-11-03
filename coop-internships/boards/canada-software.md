@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**185 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 10:39 ET
+**184 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 16:15 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Botpress Technologies | Software Developer Intern | Montreal, QC, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
+| Botpress Technologies | Software Development Intern | Montreal, QC, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/apply) |
 | Meta | Research Scientist Intern - FAIR - World Model Foundations | Montreal, QC, Canada |  |  | 2026-11-02 | [Apply](https://www.metacareers.com/jobs/1406585275871250) |
 | RTX | Digital Support & Business Intelligence Intern - Computer Science | Longueuil, QC, Canada |  |  | 2026-11-02 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1) |
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
@@ -103,7 +105,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | CIBC | Machine Learning Engineer Co-op | Toronto, ON, Canada |  |  | 2026-10-21 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721) |
 | CIBC | Machine Learning Engineer Co-op | Toronto, ON, Canada |  |  | 2026-10-21 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1) |
 | Ciena | Software Developer Intern | Ottawa, ON, Canada |  |  | 2026-10-21 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) |
-| RTX | Business Intelligence and Governance Analyst Intern | Longueuil, QC, Canada |  |  | 2026-10-21 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1) |
 | Qualcomm | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada |  |  | 2026-10-21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
 | Qualcomm | Display Systems Engineer Intern | Markham, ON, Canada |  |  | 2026-10-21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661677) |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) |
@@ -172,7 +173,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Electronic Arts | C++ Software Engineer Intern | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) |
 | ProCogia | LLM Research Intern | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://procogia.com/about-us/careers/?gh_jid=5448685008) |
 | ProCogia | AI Applied & Agentic AI Intern | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://procogia.com/about-us/careers/?gh_jid=5448664008) |
-| Workday | Machine Learning Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) |
 | Workday | Software Development Engineer Intern | Vancouver, BC, Canada |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807) |
 | Equitable Bank | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-08 | [Apply](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) |
 | Tenstorrent | AI Software Intern | Toronto, ON, Canada |  |  | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
@@ -194,4 +194,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Lumentum | Embedded Software Developer Co-op - Optical Circuit Switch | Ottawa, ON, Canada |  |  | 2026-10-04 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) |
 | Semtech | Software Developer Co-op - Web/Cloud Application | Richmond, BC, Canada |  |  | 2026-10-04 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644) |
 | SOTI | Data Scientist Intern | Mississauga, ON, Canada |  |  | 2026-10-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) |
-| TobogganLabs | Data Science Intern | Québec City, QC, Canada |  |  | 2026-10-04 | [Apply](https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003) |
