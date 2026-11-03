@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**187 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-02 20:13 ET
+**185 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 02:55 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -19,6 +19,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada |  |  | 2026-11-02 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) |
 | Tecsys | Developer Intern | Montreal, QC, Canada |  |  | 2026-11-02 | [Apply](https://apply.workable.com/tecsys/j/D61D5FB9AB/apply) |
 | Entrust | AI Developer Intern | Remote in Germany, Shakopee, MN |  |  | 2026-11-01 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) |
+| NVIDIA | Math Libraries Intern | Canada, Santa Clara, CA (+1) |  |  | 2026-11-01 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada |  |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) |
@@ -45,7 +46,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Certa | Frontend Engineer Intern | Remote in India |  |  | 2026-10-28 | [Apply](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) |
 | NUVACORE | CPU Software Intern | Markham, ON, Canada |  |  | 2026-10-27 | [Apply](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) |
 | Cenovus Energy | Student Risk Analytics Intern | Calgary, AB, Canada |  |  | 2026-10-27 | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263) |
-| Manulife Financial | Operations & Data Analyst Co-op | Toronto, ON, Canada, Waterloo, ON, Canada |  |  | 2026-10-27 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348) |
 | Uber | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-27 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) |
 | Lumerate | Data Associate Intern | Canada, Remote in Canada |  |  | 2026-10-27 | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) |
 | CIBC | Data Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-co-op_2622122) |
@@ -134,8 +134,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada |  |  | 2026-10-16 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) |
 | Electronic Arts | Analytics Intern | Vancouver, BC, Canada |  |  | 2026-10-16 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) |
 | BC Pensions | Application Developer Co-op | Victoria, BC, Canada |  |  | 2026-10-15 | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227) |
-| General Magic | AI Engineer Co-op | Toronto, ON, Canada |  |  | 2026-10-15 | [Apply](https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true) |
-| General Magic | Design Engineer Co-op | Toronto, ON, Canada |  |  | 2026-10-15 | [Apply](https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true) |
 | Tower Research Capital | Machine Learning Intern | Montreal, QC, Canada |  |  | 2026-10-15 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
 | TechInsights | Software Development Co-op Student | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) |

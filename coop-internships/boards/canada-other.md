@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**57 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-02 20:13 ET
+**54 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 02:55 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -16,8 +16,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Qualcomm | Verification Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
 | Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) |
 | Ciena | Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada |  |  | 2026-11-01 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040) |
-| Semtech | Product Engineer Intern | Burlington, ON, Canada |  |  | 2026-11-01 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1) |
-| Semtech | Test Engineer Intern | Burlington, ON, Canada |  |  | 2026-11-01 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) |
 | Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada |  |  | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) |
 | Qualcomm | Camera Systems Intern | Vancouver, BC, Canada |  |  | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) |
@@ -55,7 +53,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | SiTime | ASIC Digital Verification Engineer Intern | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009) |
 | Tenstorrent | Systems Intern - Multiple Teams | Toronto, ON, Canada, Vancouver, BC, Canada |  |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) |
 | Lumentum | Electrical Engineer Intern Co-op | Ottawa, ON, Canada |  |  | 2026-10-13 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433) |
-| Canadian Tire | Product Strategy Student Intern | Oakville, ON, Canada |  |  | 2026-10-12 | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) |
 | Aptiv | Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704362) |
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361) |
 | Workday | Product Manager Intern | Vancouver, BC, Canada |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) |
