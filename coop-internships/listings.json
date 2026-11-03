@@ -1,5 +1,43 @@
 [
   {
+    "id": "e2bae655-ca7c-44a9-9d27-68eb9e0e23c6",
+    "company_name": "Meta",
+    "company_url": "https://simplify.jobs/c/Meta",
+    "title": "Research Scientist Intern - FM Quality ML",
+    "url": "https://www.metacareers.com/jobs/1125383989877928",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793718516,
+    "date_updated": 1793718599,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
+    "id": "ef31b232-5a78-40fe-9d4a-b2cca861468f",
+    "company_name": "Paccar",
+    "company_url": "https://simplify.jobs/c/Paccar",
+    "title": "Software Developer Intern",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
+    "locations": [
+      "Denton, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793692077,
+    "date_updated": 1793692134,
+    "category": "Software",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "65952a38-1cc8-471c-92f6-5f0ce2d07896",
     "company_name": "onsemi",
     "company_url": "https://simplify.jobs/c/Onsemi",
@@ -33,6 +71,25 @@
     "date_posted": 1793664000,
     "date_updated": 1793674263,
     "category": "Software",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
+    "id": "0fafd493-8e5a-4e86-87ae-617311283122",
+    "company_name": "Mosaic",
+    "company_url": "https://simplify.jobs/c/Mosaic",
+    "title": "Artificial Intelligence Co-op Intern",
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420",
+    "locations": [
+      "Lithia, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793664000,
+    "date_updated": 1793718507,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -1891,6 +1948,25 @@
     "program": "cs"
   },
   {
+    "id": "46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
+    "company_name": "NVIDIA",
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "title": "AI Compiler and Kernel Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793577600,
+    "date_updated": 1793692261,
+    "category": "Software",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "a76e7223-bb98-4ed6-af28-3ae42d23856a",
     "company_name": "NVIDIA",
     "company_url": "https://simplify.jobs/c/NVIDIA",
@@ -2755,25 +2831,6 @@
     "program": "cs"
   },
   {
-    "id": "8d1e76b1-c393-4e56-95a5-8fb8284ed06d",
-    "company_name": "Epic Games",
-    "company_url": "https://simplify.jobs/c/Epic-Games",
-    "title": "Tools Programmer Intern - Graphics",
-    "url": "https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004",
-    "locations": [
-      "Cary, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793379367,
-    "date_updated": 1793661481,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "47d45caa-b7cf-4f72-b59d-2b3c52395472",
     "company_name": "First Citizens BancShares",
     "company_url": "https://simplify.jobs/c/First-Citizens-BancShares",
@@ -2864,25 +2921,6 @@
     "source": "simplify",
     "date_posted": 1793366160,
     "date_updated": 1793369393,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "b1af74c5-7bce-4b61-a57f-bdbb3cb3926e",
-    "company_name": "Newmont",
-    "company_url": "https://simplify.jobs/c/Newmont",
-    "title": "Resource Modeling Intern",
-    "url": "https://jobs.newmont.com/us/en/job/45053",
-    "locations": [
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793341775,
-    "date_updated": 1793341804,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
@@ -3650,25 +3688,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "b9797b22-811f-4d42-b0c1-22917f860e5a",
-    "company_name": "Northrop Grumman",
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "title": "Systems Engineer Intern",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1",
-    "locations": [
-      "Woodland Hills, LA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793313436,
-    "date_updated": 1793313556,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "e6698a06-642e-483b-8dfb-1d1b5ec9299c",
@@ -20267,25 +20286,6 @@
     "program": "cs"
   },
   {
-    "id": "19c22c7f-5af3-4bed-806e-2ee412ae0d63",
-    "company_name": "Boston Scientific",
-    "company_url": "https://simplify.jobs/c/Boston-Scientific",
-    "title": "R&D Firmware Engineer Intern",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547667",
-    "locations": [
-      "Arden Hills, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791900957,
-    "date_updated": 1791901081,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "d791060f-6a57-4c7b-a9fb-c69548cdac7e",
     "company_name": "Vertiv",
     "company_url": "https://simplify.jobs/c/Vertiv",
@@ -23438,6 +23438,26 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
+  },
+  {
+    "id": "59dcdcf5-e048-4e2b-99c1-024440a01f9a",
+    "company_name": "ICF International",
+    "company_url": "https://simplify.jobs/c/ICF-International",
+    "title": "Energy Researcher Intern",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418",
+    "locations": [
+      "Arlington County, Arlington, VA",
+      "Reston, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791417600,
+    "date_updated": 1793714780,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
   },
   {
     "id": "92b36766-febe-474d-941e-0bf16bc2ecc0",
@@ -27283,44 +27303,6 @@
     "source": "simplify",
     "date_posted": 1791131291,
     "date_updated": 1793283066,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "57409b22-372d-4871-b5ff-c7bfa79beb07",
-    "company_name": "Diversified Energy",
-    "company_url": "https://simplify.jobs/c/Diversified-Energy",
-    "title": "Information Technology Intern",
-    "url": "https://careers.div.energy/jobs/2734?icims=1",
-    "locations": [
-      "Birmingham, AL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791123139,
-    "date_updated": 1791125438,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "3318c591-4135-42fd-aee3-50ae988fc30f",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "Data Scientist Intern",
-    "url": "https://jobs.keysight.com/jobs/54570?icims=1",
-    "locations": [
-      "Santa Rosa, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791123118,
-    "date_updated": 1791125436,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
