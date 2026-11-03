@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**51 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-02 13:38 ET
+**57 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-02 20:13 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,12 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| TechInsights | Teardown Lab Co-op | Ottawa, ON, Canada |  |  | 2026-11-02 | [Apply](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) |
+| WSP | Environmental Innovation Intern | Sherbrooke, QC, Canada |  |  | 2026-11-02 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98500) |
+| Qualcomm | SoC Engineering Intern | Markham, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721914045) |
+| Qualcomm | Verification Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
+| Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) |
+| Ciena | Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada |  |  | 2026-11-01 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040) |
 | Semtech | Product Engineer Intern | Burlington, ON, Canada |  |  | 2026-11-01 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1) |
 | Semtech | Test Engineer Intern | Burlington, ON, Canada |  |  | 2026-11-01 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) |
