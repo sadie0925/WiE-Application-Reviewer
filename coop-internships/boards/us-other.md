@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**310 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 20:25 ET
+**311 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 02:42 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,9 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Tesla | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA |  |  | 2026-11-03 | [Apply](https://www.tesla.com/careers/search/job/288805) |
+| Nokia | Optoelectronics Test Mech Development Intern | Allentown, PA |  |  | 2026-11-03 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41694) |
+| Pacific Northwest National Laboratory | Undergraduate Tech Intern - Electrical Engineering | Richland, WA |  |  | 2026-11-03 | [Apply](https://careers.pnnl.gov/jobs/13023?icims=1) |
 | Texas Instruments | Validation/Characterization Engineering Intern | Santa Clara, CA |  |  | 2026-11-03 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25012970) |
 | Meta | ASIC Engineer Intern - Formal Verification | Sunnyvale, CA |  |  | 2026-11-03 | [Apply](https://www.metacareers.com/jobs/1450222650641899) |
 | USAFacts | Technical Product Manager Intern | Bellevue, WA |  |  | 2026-11-03 | [Apply](https://job-boards.greenhouse.io/usafacts/jobs/4478253009) |
@@ -20,6 +23,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Marvell | Hardware Signal Integrity Intern | Santa Clara, CA |  |  | 2026-11-02 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) |
 | Marvell | Hardware Signal Integrity Intern | Santa Clara, CA |  |  | 2026-11-02 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877-1) |
 | REGENT | Commercial Business Development Data Intern | North Kingstown, RI |  |  | 2026-11-02 | [Apply](https://jobs.ashbyhq.com/regent/c32af35c-d7bc-4124-834b-7d35cf51dc7b/application?embed=true) |
+| Zurn Elkay Water Solutions | Electrical & Electronics Engineering Intern | Downers Grove, IL |  |  | 2026-11-02 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) |
 | Costco | Costco Data Systems Intern - IT Product Owner | Issaquah, WA |  |  | 2026-11-02 | [Apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024) |
 | LexisNexis Risk Solutions | Product Management Intern - Insurance | Alpharetta, GA |  |  | 2026-11-02 | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) |
 | LexisNexis Risk Solutions | Product Manager Intern - Government | Alpharetta, GA |  |  | 2026-11-02 | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) |
@@ -38,7 +42,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | T-Mobile | Product Management Intern | Philadelphia, PA |  |  | 2026-11-01 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735) |
 | T-Mobile | Product Operations Manager Intern | Bellevue, WA |  |  | 2026-11-01 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888) |
 | The Federal Reserve System | Supervision & Regulation Intern - Business Relationship | Atlanta, GA |  |  | 2026-11-01 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) |
-| KnowBe4 | Associate Product Manager Intern | Clearwater, FL |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) |
 | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC |  |  | 2026-10-30 | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
 | TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701480558070597893) |
 | TikTok | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA |  |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701486873210390837) |
@@ -52,7 +55,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Snowflake | Product Management Intern | Menlo Park, CA |  |  | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true) |
 | Teamworks | Product Management MBA Intern | Remote in USA |  |  | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06/application?embed=true) |
 | Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
-| SmartFlower Solar | Embedded Systems Engineering Intern | Woburn, MA |  |  | 2026-10-29 | [Apply](https://apply.workable.com/smartflower-solar-llc/j/240CCDA520/apply) |
 | Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
 | Diversified Automation | Hardware Engineering Co-op | Louisville, KY |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3/apply) |
 | V2X | Electrical Engineer Intern | Indianapolis, IN |  |  | 2026-10-29 | [Apply](https://careers.gov2x.com/jobs/63854?icims=1) |
@@ -319,4 +321,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Cirrus Logic | Mixed Signal Products Applications Engineer Intern | Austin, TX |  |  | 2026-10-05 | [Apply](https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2/apply) |
 | Cirrus Logic | Validation Engineer Intern | Austin, TX |  |  | 2026-10-05 | [Apply](https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027/apply) |
 | Tesla | Systems Integration Engineering Intern - Thermal Systems | Palo Alto, CA |  |  | 2026-10-05 | [Apply](https://www.tesla.com/careers/search/job/285779) |
-| Mohawk | Product Management Intern | Calhoun, GA |  |  | 2026-10-05 | [Apply](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) |
