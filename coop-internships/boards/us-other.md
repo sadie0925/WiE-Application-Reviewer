@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**311 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 10:47 ET
+**309 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 16:33 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -53,7 +53,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | HP Inc. | Product Management Intern | Spring, TX |  |  | 2026-10-29 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1) |
 | RTX | Electrical Engineer Co-op - Winter/Spring 2027 | Cedar Rapids, IA | Winter, Spring 2027 |  | 2026-10-29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineering-Co-op--Winter-Spring-2027-_01885823) |
 | Signify | Product Manager Intern | Aurora, CO |  |  | 2026-10-29 | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Aurora/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366897) |
-| Snowflake | Product Management Intern | Menlo Park, CA |  |  | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true) |
 | Teamworks | Product Management MBA Intern | Remote in USA |  |  | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06/application?embed=true) |
 | Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
 | Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
@@ -157,7 +156,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Marvell | Silicon Validation Intern | Santa Clara, CA |  |  | 2026-10-20 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1) |
 | Marvell | Silicon Validation Intern | Santa Clara, CA |  |  | 2026-10-20 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850) |
 | Travelers | Decision Science – Marketing & Communications Intern | Hartford, CT |  |  | 2026-10-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Decision-Science---Marketing---Communications-Intern_R-53354) |
-| Uline | Executive Operations Analyst Intern | Pleasant Prairie, WI |  |  | 2026-10-20 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434) |
 | Uline | Operations Analyst Intern | Pleasant Prairie, WI |  |  | 2026-10-20 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) |
 | SK hynix | ASIC Design Intern | San Jose, CA |  |  | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009) |
 | Paccar | Engineering Operations Intern | Kirkland, WA |  |  | 2026-10-20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) |

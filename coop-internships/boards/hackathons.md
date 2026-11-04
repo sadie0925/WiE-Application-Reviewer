@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. A row is removed as soon as its deadline passes. That deadline is the application close when the organizer publishes one. If they do not, the event start is used. This is separate from the 30-day job rule.
 
-**61 upcoming** · 1 Waterloo · 60 other Canada/US · Updated 2026-11-04 10:47 ET
+**61 upcoming** · 1 Waterloo · 60 other Canada/US · Updated 2026-11-04 16:33 ET
 
 [All boards](../README.md)
 
@@ -53,14 +53,14 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | QWER Hacks | Los Angeles, CA | 2027-01-15 | 2027-01-15 event start | [Open](https://www.qwerhacks.com/) |
 | HackBI X | Alexandria, Virginia | 2027-01-16 | 2027-01-16 event start | [Open](https://hackbi.org/) |
 | nwHacks | Vancouver, British Columbia | 2027-01-16 | 2027-01-16 event start | [Open](https://nwhacks.io/) |
-| Hackville 2027 | Missisauga, Ontario | 2027-01-21 | 2027-01-21 event start | [Open](https://hackville.io/) |
 | Hoya Hacks | Washington, DC | 2027-01-22 | 2027-01-22 event start | [Open](https://www.hoyahacks.com/) |
+| Hackville 2027 | Missisauga, Ontario | 2027-01-22 | 2027-01-22 event start | [Open](https://hackville.io/) |
 | ElleHacks | Toronto, Ontario | 2027-01-28 | 2027-01-28 event start | [Open](https://ellehacks.com/) |
 | Hack@Brown 2027 | Providence, RI | 2027-02-04 | 2027-02-04 event start | [Open](https://hackatbrown.org/) |
 | UGAHacks | Athens , Georgia | 2027-02-05 | 2027-02-05 event start | [Open](https://12.ugahacks.com/) |
-| Hack_NCState | Raleigh, North Carolina | 2027-02-05 | 2027-02-05 event start | [Open](https://hackncstate.org/) |
 | InnovateHer | West Lafayette, Indiana | 2027-02-05 | 2027-02-05 event start | [Open](https://innovateherhacks.org/) |
 | SpartaHack | East Lansing, Michigan | 2027-02-05 | 2027-02-05 event start | [Open](https://www.spartahack.com/) |
+| Hack_NCState | Raleigh, North Carolina | 2027-02-06 | 2027-02-06 event start | [Open](https://hackncstate.org/) |
 | MakeUofT | Toronto, Ontario | 2027-02-13 | 2027-02-13 event start | [Open](http://makeuoft.ca/) |
 | SF Hacks | San Francisco, CA | 2027-02-19 | 2027-02-19 event start | [Open](https://sfhacks.io) |
 | CUhackit | Clemson, SC | 2027-02-19 | 2027-02-19 event start | [Open](https://cuhack.it/) |

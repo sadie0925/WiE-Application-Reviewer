@@ -494,19 +494,6 @@
     "source": "mlh"
   },
   {
-    "name": "Hackville 2027",
-    "location": "Missisauga, Ontario",
-    "url": "https://hackville.io/",
-    "starts_at": "2027-01-22T01:11:11Z",
-    "ends_at": "2027-01-24T23:59:59Z",
-    "deadline_at": "2027-01-22T01:11:11Z",
-    "deadline_kind": "event_start",
-    "when": "JAN 22 - 24",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
     "name": "Hoya Hacks",
     "location": "Washington, DC",
     "url": "https://www.hoyahacks.com/",
@@ -515,6 +502,19 @@
     "deadline_at": "2027-01-22T22:00:00Z",
     "deadline_kind": "event_start",
     "when": "JAN 22 - 24",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
+    "name": "Hackville 2027",
+    "location": "Missisauga, Ontario",
+    "url": "https://hackville.io/",
+    "starts_at": "2027-01-23T01:11:11Z",
+    "ends_at": "2027-01-24T23:59:59Z",
+    "deadline_at": "2027-01-23T01:11:11Z",
+    "deadline_kind": "event_start",
+    "when": "JAN 23 - 24",
     "status": "Upcoming",
     "tier": "major",
     "source": "mlh"
@@ -559,19 +559,6 @@
     "source": "mlh"
   },
   {
-    "name": "Hack_NCState",
-    "location": "Raleigh, North Carolina",
-    "url": "https://hackncstate.org/",
-    "starts_at": "2027-02-06T01:11:11Z",
-    "ends_at": "2027-02-07T23:59:59Z",
-    "deadline_at": "2027-02-06T01:11:11Z",
-    "deadline_kind": "event_start",
-    "when": "FEB 06 - 07",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
     "name": "InnovateHer",
     "location": "West Lafayette, Indiana",
     "url": "https://innovateherhacks.org/",
@@ -591,6 +578,19 @@
     "starts_at": "2027-02-06T01:11:11Z",
     "ends_at": "2027-02-07T23:59:59Z",
     "deadline_at": "2027-02-06T01:11:11Z",
+    "deadline_kind": "event_start",
+    "when": "FEB 06 - 07",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
+    "name": "Hack_NCState",
+    "location": "Raleigh, North Carolina",
+    "url": "https://hackncstate.org/",
+    "starts_at": "2027-02-06T14:00:00Z",
+    "ends_at": "2027-02-07T21:00:00Z",
+    "deadline_at": "2027-02-06T14:00:00Z",
     "deadline_kind": "event_start",
     "when": "FEB 06 - 07",
     "status": "Upcoming",

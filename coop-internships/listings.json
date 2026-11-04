@@ -133,6 +133,25 @@
     "program": "cs"
   },
   {
+    "id": "cb700108-bc57-4040-b83c-73777ded135f",
+    "company_name": "Great American Insurance Company",
+    "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
+    "title": "Business Intelligence Intern - Power BI",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793750400,
+    "date_updated": 1793806255,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "354fa9d8-b057-4738-8d2f-90507d404a89",
     "company_name": "Northrop Grumman",
     "company_url": "https://simplify.jobs/c/Northrop-Grumman",
@@ -166,6 +185,26 @@
     "date_posted": 1793750400,
     "date_updated": 1793805330,
     "category": "Software",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
+    "id": "627ccd4d-bfee-4232-9b77-c75320e6631e",
+    "company_name": "Parsons",
+    "company_url": "https://simplify.jobs/c/Parsons",
+    "title": "AI/ML Engineer Intern",
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
+    "locations": [
+      "Centreville, VA",
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793750400,
+    "date_updated": 1793807675,
+    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -891,25 +930,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "99711ceb-b4a5-4878-b79e-1d211bd64a29",
-    "company_name": "Apache Industrial",
-    "company_url": "https://simplify.jobs/c/Apache-Industrial",
-    "title": "AI Implementation Intern",
-    "url": "https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115430",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793664000,
-    "date_updated": 1793748421,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "f5113035-5f0f-4f0c-970b-772d643acbf6",
@@ -3367,25 +3387,6 @@
     "program": "cs"
   },
   {
-    "id": "a6d1ed14-ec30-404a-88c2-2d7d1ab83a77",
-    "company_name": "Leidos",
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "title": "Data Science Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049",
-    "locations": [
-      "Arlington County, Arlington, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793661517,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "a242ca0c-6422-4dea-bea2-2aa135bf80cc",
     "company_name": "Leidos",
     "company_url": "https://simplify.jobs/c/Leidos",
@@ -4979,25 +4980,6 @@
     "program": "other"
   },
   {
-    "id": "def9df22-e128-4dda-9596-1d0de6902d93",
-    "company_name": "Snowflake",
-    "company_url": "https://simplify.jobs/c/Snowflake",
-    "title": "Product Management Intern",
-    "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793318400,
-    "date_updated": 1793399043,
-    "category": "Product",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "df757bc2-dbbd-4572-b2e8-78356ee1a5f4",
     "company_name": "Symbotic",
     "company_url": "https://simplify.jobs/c/Symbotic",
@@ -5106,25 +5088,6 @@
     "source": "simplify",
     "date_posted": 1793318400,
     "date_updated": 1793399452,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "29a95b15-0c3d-48df-b7cf-6a72e17df163",
-    "company_name": "Wex",
-    "company_url": "https://simplify.jobs/c/Wex",
-    "title": "Software Engineer Intern",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793318400,
-    "date_updated": 1793398502,
     "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
@@ -7869,25 +7832,6 @@
     "source": "simplify",
     "date_posted": 1793145600,
     "date_updated": 1793187566,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
-    "company_name": "VSP Vision",
-    "company_url": "https://simplify.jobs/c/VSP-Vision",
-    "title": "Software Engineer Intern - Technology Innovation",
-    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793145600,
-    "date_updated": 1793167795,
     "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
@@ -12337,25 +12281,6 @@
     "program": "other"
   },
   {
-    "id": "24d68083-3cb9-4678-ae53-e6a2fcd638fe",
-    "company_name": "American Family Insurance Group",
-    "company_url": "https://simplify.jobs/c/American-Family-Insurance-Group",
-    "title": "AI Platform Engineering Intern",
-    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462",
-    "locations": [
-      "Madison, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792713600,
-    "date_updated": 1792793353,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "8fdc0497-e3c5-4c6c-b725-d14873b39235",
     "company_name": "American University",
     "company_url": "https://simplify.jobs/c/American-University",
@@ -15413,25 +15338,6 @@
     "source": "simplify",
     "date_posted": 1792540800,
     "date_updated": 1792621082,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "10eb3ac4-0a87-4e8b-ba4d-5cc363d3d846",
-    "company_name": "Uline",
-    "company_url": "https://simplify.jobs/c/Uline",
-    "title": "Executive Operations Analyst Intern",
-    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434",
-    "locations": [
-      "Pleasant Prairie, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792540800,
-    "date_updated": 1792592884,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
@@ -19203,25 +19109,6 @@
     "date_posted": 1792022400,
     "date_updated": 1792104186,
     "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "90d4be1a-888d-4b8c-a5e7-f07c01f135bb",
-    "company_name": "CoverMyMeds",
-    "company_url": "https://simplify.jobs/c/CoverMyMeds",
-    "title": "CMM Technology Intern",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792022400,
-    "date_updated": 1792102501,
-    "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -27630,25 +27517,6 @@
     "date_posted": 1791238199,
     "date_updated": 1791238336,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "3d956618-19c8-41b1-beb3-388e234964d5",
-    "company_name": "Astronics",
-    "company_url": "https://simplify.jobs/c/Astronics",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
-    "locations": [
-      "Kirkland, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791223865,
-    "date_updated": 1793282946,
-    "category": "Hardware",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
