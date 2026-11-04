@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**187 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 02:42 ET
+**184 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 10:47 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -16,8 +16,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Botpress Technologies | Software Developer Intern | Montreal, QC, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
 | Botpress Technologies | Software Development Intern | Montreal, QC, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/apply) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada |  |  | 2026-11-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) |
-| Blackberry | Software Developer Student Intern | Ottawa, ON, Canada |  |  | 2026-11-02 | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342) |
-| Blackberry | Software Development Co-op | Ottawa, ON, Canada |  |  | 2026-11-02 | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343) |
 | Ciena | Software Developer Co-op Intern | Remote in Canada, Québec City, QC, Canada |  |  | 2026-11-02 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) |
 | Royal Bank of Canada | AI Engineer Co-op - Global Equities | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) |
 | Royal Bank of Canada | Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000188376) |
@@ -155,7 +153,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Manulife Financial | Software Engineer Intern | Waterloo, ON, Canada |  |  | 2026-10-13 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1) |
 | Manulife Financial | Software Engineer Intern - Software Engineering | Waterloo, ON, Canada |  |  | 2026-10-13 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) |
 | Pebl | Software Engineering Intern | Toronto, ON, Canada |  |  | 2026-10-13 | [Apply](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) |
-| Electronic Arts | Technical Artist Co-op | Vancouver, BC, Canada |  |  | 2026-10-13 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  | 2026-10-12 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) |
 | Databricks | Software Engineer Intern | Bellevue, WA, Mountain View, CA (+1) |  |  | 2026-10-12 | [Apply](https://boards.greenhouse.io/embed/job_app?token=6865687002) |
 | Aptiv | Cloud Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383) |

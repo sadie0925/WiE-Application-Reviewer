@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**311 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 02:42 ET
+**311 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 10:47 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Bosch Home Comfort | Project Management / Test Engineer Intern | Plymouth, MI |  |  | 2026-11-04 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159649749) |
 | Tesla | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA |  |  | 2026-11-03 | [Apply](https://www.tesla.com/careers/search/job/288805) |
 | Nokia | Optoelectronics Test Mech Development Intern | Allentown, PA |  |  | 2026-11-03 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41694) |
 | Pacific Northwest National Laboratory | Undergraduate Tech Intern - Electrical Engineering | Richland, WA |  |  | 2026-11-03 | [Apply](https://careers.pnnl.gov/jobs/13023?icims=1) |
@@ -171,7 +172,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Skydio | Electrical Engineer Intern | San Mateo, CA |  |  | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4/application?embed=true) |
 | Zebra Technologies | Mechanical Engineer Intern | Holtsville, NY |  |  | 2026-10-19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627) |
 | Meta | Research Scientist Intern - Robotics Hardware | Redmond, WA |  |  | 2026-10-19 | [Apply](https://www.metacareers.com/jobs/2105411693413958) |
-| L3Harris Technologies | Systems Engineering Co-op | Clifton, NJ |  |  | 2026-10-19 | [Apply](https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Spring-Co-Op-NJ-07014/1441503600/?ats=successfactors) |
 | Keysight Technologies | R&D Hardware Engineer Intern | Santa Clara, CA |  |  | 2026-10-19 | [Apply](https://jobs.keysight.com/jobs/54804?icims=1) |
 | Amplify | Product Management Intern | Remote in USA |  |  | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) |
 | Badger Meter | Systems Integration Engineer Intern | Milwaukee, WI |  |  | 2026-10-18 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Systems-Integration---Engineering-Intern_4641) |
@@ -185,10 +185,10 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | onsemi | Applications Intern | Scottsdale, AZ |  |  | 2026-10-16 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972) |
 | QuEra Computing | QPU Build Co-op - Optics & Data Analysis | Boston, MA |  |  | 2026-10-16 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5455950008) |
 | Northrop Grumman | Engineering Technician Intern - Electrical Ground Support Equipment | Chandler, AZ |  |  | 2026-10-16 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Engineering-Technician---Electrical-Ground-Support-Equipment_R10256530) |
+| Westinghouse Electric Company | System Test Engineering Intern | Warrendale, PA |  |  | 2026-10-16 | [Apply](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-System-Test-Engineering-OR/1433673100/?ats=successfactors) |
 | Pattern | Operations Intern | Lehi, UT |  |  | 2026-10-16 | [Apply](https://jobs.lever.co/pattern/13695e3e-92b7-40f7-8805-ea39b9c324e7/apply) |
 | Meta | Signal Integrity Intern | Menlo Park, CA |  |  | 2026-10-16 | [Apply](https://www.metacareers.com/jobs/1950497786328676) |
 | ADT | Hardware Engineering & Connected Devices Intern | Boca Raton, FL |  |  | 2026-10-16 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475) |
-| DoorDash | Electrical Engineer Intern - Labs | Oakland, CA |  |  | 2026-10-16 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
 | Publicis Groupe | Product Intern | Chicago, IL |  |  | 2026-10-16 | [Apply](https://publicisgroupe.jibeapply.com/jobs/172716?icims=1) |
 | Publicis Groupe | Product Intern | Irving, TX |  |  | 2026-10-16 | [Apply](https://publicisgroupe.jibeapply.com/jobs/172715?icims=1) |
 | SiTime | Validation Engineer Intern | Tempe, AZ |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4452953009) |

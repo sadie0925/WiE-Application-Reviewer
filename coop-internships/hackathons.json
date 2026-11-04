@@ -13,6 +13,19 @@
     "source": "velocity"
   },
   {
+    "name": "HackUTD Roadshow",
+    "location": "Richardson, Texas",
+    "url": "https://luma.com/UTDRoadshow",
+    "starts_at": "2026-11-06T01:11:11Z",
+    "ends_at": "2026-11-06T23:59:59Z",
+    "deadline_at": "2026-11-06T01:11:11Z",
+    "deadline_kind": "event_start",
+    "when": "NOV 06",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
     "name": "Solana Hackathon",
     "location": "Everywhere, Worldwide",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",

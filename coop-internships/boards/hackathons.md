@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. A row is removed as soon as its deadline passes. That deadline is the application close when the organizer publishes one. If they do not, the event start is used. This is separate from the 30-day job rule.
 
-**60 upcoming** · 1 Waterloo · 59 other Canada/US · Updated 2026-11-04 02:42 ET
+**61 upcoming** · 1 Waterloo · 60 other Canada/US · Updated 2026-11-04 10:47 ET
 
 [All boards](../README.md)
 
@@ -16,6 +16,7 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
+| HackUTD Roadshow | Richardson, Texas | 2026-11-05 | 2026-11-05 event start | [Open](https://luma.com/UTDRoadshow) |
 | Solana Hackathon | Everywhere, Worldwide | 2026-11-05 | 2026-11-05 event start | [Open](https://events.mlh.com/events/15200-solana-hackathon) |
 | SharkByte | Miami, FL | 2026-11-06 | 2026-11-06 event start | [Open](https://shark-byte.io/) |
 | HackTrent | Peterborough, Ontario | 2026-11-06 | 2026-11-06 event start | [Open](https://www.hacktrent.ca/) |

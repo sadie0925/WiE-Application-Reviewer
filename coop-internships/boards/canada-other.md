@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**58 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 02:42 ET
+**57 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 10:47 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -34,7 +34,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Ciena | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada |  |  | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) |
 | Ciena | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada |  |  | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) |
 | Trimble | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada |  |  | 2026-10-26 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) |
-| Videotron | Engineering Intern | Montreal, QC, Canada |  |  | 2026-10-26 | [Apply](https://jobs.smartrecruiters.com/Videotron/744000157818080) |
 | Altera | Technical Intern | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Undergrad-Intern-Technical_R03351) |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052) |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) |
