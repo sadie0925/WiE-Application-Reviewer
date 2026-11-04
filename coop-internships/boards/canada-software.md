@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**184 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 16:15 ET
+**188 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 20:25 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,8 +10,16 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada |  |  | 2026-11-03 | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) |
+| Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada |  |  | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) |
+| Global Relay | Java Developer Co-op | Vancouver, BC, Canada |  |  | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241593004) |
 | Botpress Technologies | Software Developer Intern | Montreal, QC, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
 | Botpress Technologies | Software Development Intern | Montreal, QC, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/apply) |
+| Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada |  |  | 2026-11-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) |
+| Blackberry | Software Developer Student Intern | Ottawa, ON, Canada |  |  | 2026-11-02 | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342) |
+| Blackberry | Software Development Co-op | Ottawa, ON, Canada |  |  | 2026-11-02 | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343) |
+| Ciena | Software Developer Co-op Intern | Remote in Canada, Québec City, QC, Canada |  |  | 2026-11-02 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) |
+| Royal Bank of Canada | Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000188376) |
 | Meta | Research Scientist Intern - FAIR - World Model Foundations | Montreal, QC, Canada |  |  | 2026-11-02 | [Apply](https://www.metacareers.com/jobs/1406585275871250) |
 | RTX | Digital Support & Business Intelligence Intern - Computer Science | Longueuil, QC, Canada |  |  | 2026-11-02 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1) |
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
@@ -117,7 +125,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Steel | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
 | GeoSpectrum Technologies | Software Developer Co-op | Dartmouth, NS, Canada |  |  | 2026-10-20 | [Apply](https://geospectrum.bamboohr.com/careers/286/) |
 | Hitachi | AI Intern Supply Chain | Toronto, ON, Canada |  |  | 2026-10-19 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) |
-| SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  | 2026-10-19 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604) |
 | Nuovo Photography | Software Developer Intern | Montreal, QC, Canada |  |  | 2026-10-19 | [Apply](https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply) |
 | Citco | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-19 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) |
 | Qualcomm | Machine Learning AISW Intern | Markham, ON, Canada |  |  | 2026-10-19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636765) |
@@ -191,6 +198,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada |  |  | 2026-10-05 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) |
 | McKesson | Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution | Montreal, QC, Canada |  |  | 2026-10-05 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903) |
 | Solink | Software Engineer Co-op - Apps | Ottawa, ON, Canada |  |  | 2026-10-05 | [Apply](https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true) |
-| Lumentum | Embedded Software Developer Co-op - Optical Circuit Switch | Ottawa, ON, Canada |  |  | 2026-10-04 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) |
-| Semtech | Software Developer Co-op - Web/Cloud Application | Richmond, BC, Canada |  |  | 2026-10-04 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644) |
-| SOTI | Data Scientist Intern | Mississauga, ON, Canada |  |  | 2026-10-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) |

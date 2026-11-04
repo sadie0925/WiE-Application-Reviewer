@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**54 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 16:15 ET
+**58 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-03 20:25 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,11 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Kabam | Operations Product Manager Co-op | Vancouver, BC, Canada |  |  | 2026-11-03 | [Apply](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) |
+| Xanadu | Photonics Test Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) |
+| Arlo Technologies | Hardware Engineer Co-op | Richmond, BC, Canada |  |  | 2026-11-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446) |
+| Ciena | Hardware Engineering Co-op | Ottawa, ON, Canada |  |  | 2026-11-02 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054) |
+| Teledyne | Thermal Test Co-op | Montreal, QC, Canada |  |  | 2026-11-02 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169) |
 | TechInsights | Teardown Lab Co-op | Ottawa, ON, Canada |  |  | 2026-11-02 | [Apply](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) |
 | WSP | Environmental Innovation Intern | Sherbrooke, QC, Canada |  |  | 2026-11-02 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98500) |
 | Qualcomm | SoC Engineering Intern | Markham, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721914045) |
@@ -63,4 +68,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Astera Labs | Design-for-Test Engineer Intern | Toronto, ON, Canada, San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) |
 | Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005) |
 | Astera Labs | Digital Design Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005) |
-| Hitachi Energy | Electrical Component Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-04 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) |
