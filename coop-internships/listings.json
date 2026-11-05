@@ -3470,25 +3470,6 @@
     "program": "cs"
   },
   {
-    "id": "4489f18f-4490-438c-9c19-4a7c9724659f",
-    "company_name": "Meta",
-    "company_url": "https://simplify.jobs/c/Meta",
-    "title": "Research Scientist Intern - PAR Safety Evals and Red Teaming",
-    "url": "https://www.metacareers.com/jobs/1272664685039241",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793663365,
-    "date_updated": 1793663491,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "6ec1e81b-4fcc-4f96-8e08-01f231df526c",
     "company_name": "Meta",
     "company_url": "https://simplify.jobs/c/Meta",
@@ -4803,25 +4784,6 @@
     "program": "cs"
   },
   {
-    "id": "0fe9f15d-03e4-48d3-b51b-4509e048d44c",
-    "company_name": "Cincinnati Children’s Hospital and Medical Center",
-    "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
-    "title": "Student 2 Intern - BA Enterprise Business Intelligence",
-    "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---BA-Enterprise-Business-Intelligence_JR226747-1",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793661516,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "d4af5767-b5a8-4242-9292-be11ba375b8c",
     "company_name": "Cincinnati Children’s Hospital and Medical Center",
     "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
@@ -4855,25 +4817,6 @@
     "date_posted": 1793577600,
     "date_updated": 1793663163,
     "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "4e5f22da-1551-4dbf-a079-0c987a791f0d",
-    "company_name": "CoStar Group",
-    "company_url": "https://simplify.jobs/c/CoStar",
-    "title": "Data Science Intern",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
-    "locations": [
-      "Richmond, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793632143,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -9349,25 +9292,6 @@
     "program": "cs"
   },
   {
-    "id": "67c38e84-2904-4f41-b7d9-11a2d287366b",
-    "company_name": "Sonos",
-    "company_url": "https://simplify.jobs/c/Sonos",
-    "title": "Software Product Management Intern",
-    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793145600,
-    "date_updated": 1793198348,
-    "category": "Product",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "f5f92fa6-34b5-4a3d-9bb0-65f4e2a13555",
     "company_name": "Subtotal",
     "company_url": "https://simplify.jobs/c/Subtotal",
@@ -12171,25 +12095,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "26adecaa-1b1b-48c4-bb1e-931f72e03f7d",
-    "company_name": "Highmark Health",
-    "company_url": "https://simplify.jobs/c/Highmark-Health",
-    "title": "Applied Gen AI/Data Scientist Graduate Intern",
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007",
-    "locations": [
-      "Washington, DC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793053536,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "2daece64-1f02-4b15-8dd6-e4c4e1ce0b89",
@@ -20778,25 +20683,6 @@
     "program": "cs"
   },
   {
-    "id": "6bdd4996-2fe0-4af6-9bb8-86d10bc846c0",
-    "company_name": "Signify",
-    "company_url": "https://simplify.jobs/c/Signify",
-    "title": "Electrical Engineer Intern",
-    "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Electrical-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_366726",
-    "locations": [
-      "Peachtree City, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792108800,
-    "date_updated": 1792189804,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "f7d43f88-b142-46f2-9334-796092e21c57",
     "company_name": "University of Texas at Austin",
     "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
@@ -21363,25 +21249,6 @@
     "date_posted": 1792022400,
     "date_updated": 1792046058,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "d22f3e14-e4d1-4fff-9e8a-373760835d7d",
-    "company_name": "Leidos",
-    "company_url": "https://simplify.jobs/c/Leidos",
-    "title": "Performance Enablement AI/ML Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792022400,
-    "date_updated": 1792102214,
-    "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -28192,138 +28059,5 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "d0abf4dd-4e5e-46d9-8066-74d1f5d593ec",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "ASIC Physical Design Co-op",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791325162,
-    "date_updated": 1791326834,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "f465e7dc-6075-4d52-aa52-c4c142f3401b",
-    "company_name": "Alliance Laundry Systems",
-    "company_url": "https://simplify.jobs/c/Alliance-Laundry-Systems",
-    "title": "Embedded Firmware Co-op",
-    "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Ripon, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791325114,
-    "date_updated": 1791326161,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "6511499a-c146-43e7-82d8-17e2afce0bdc",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "Software Development Engineer Intern - 6G Digital Twin and Visualization Platform",
-    "url": "https://jobs.keysight.com/jobs/54319?icims=1",
-    "locations": [
-      "Santa Rosa, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791324878,
-    "date_updated": 1791325300,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "f87f1cf8-6161-4a20-b5d3-f7447b03011f",
-    "company_name": "Garmin",
-    "company_url": "https://simplify.jobs/c/Garmin",
-    "title": "Software Engineer Intern",
-    "url": "https://careers.garmin.com/jobs/19848?icims=1",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791324476,
-    "date_updated": 1791325331,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "2216b085-76c1-4ed0-8bb1-d6d6baeb14a3",
-    "company_name": "onsemi",
-    "company_url": "https://simplify.jobs/c/Onsemi",
-    "title": "Applications Intern",
-    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506799",
-    "locations": [
-      "Princeton, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791324270,
-    "date_updated": 1791324930,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "b1406c9e-19d9-4355-82b0-2b79c3d6e2db",
-    "company_name": "AngloGold Ashanti",
-    "company_url": "https://simplify.jobs/c/AngloGold-Ashanti",
-    "title": "Tailings Intern",
-    "url": "https://careers.anglogoldashanti.com/job/Greenwood-Village-Tailings-Intern-CO-80111/1444876333/?ats=successfactors",
-    "locations": [
-      "Greenwood Village, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791324194,
-    "date_updated": 1793178723,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "c5fba1e3-2ca9-4041-b3c1-c2f9f9e3ffa6",
-    "company_name": "AngloGold Ashanti",
-    "company_url": "https://simplify.jobs/c/AngloGold-Ashanti",
-    "title": "Diagnostic Intern",
-    "url": "https://careers.anglogoldashanti.com/job/Greenwood-Village-Full-Asset-Potential-Diagnostic-Intern-CO-80111/1444873133/?ats=successfactors",
-    "locations": [
-      "Greenwood Village, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791324187,
-    "date_updated": 1791325300,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   }
 ]

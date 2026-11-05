@@ -1,5 +1,18 @@
 [
   {
+    "name": "Blockchain Innovation Challenge powered by Stellar",
+    "location": "Velocity, Innovation Arena",
+    "url": "https://blockchain-stellar-ic.devpost.com/",
+    "starts_at": "",
+    "ends_at": "",
+    "deadline_at": "2026-11-13T23:59:59-05:00",
+    "deadline_kind": "application",
+    "when": "Nov 06 - 13, 2026",
+    "status": "Upcoming",
+    "tier": "uw",
+    "source": "devpost"
+  },
+  {
     "name": "The Co-op Workplace Simulation by Velocity",
     "location": "University of Waterloo",
     "url": "https://www.velocityincubator.com/programs-events/velocity-co-op-innovation-challenge",

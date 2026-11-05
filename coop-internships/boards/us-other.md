@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**306 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 11:43 ET
+**303 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 17:19 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -219,7 +219,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Publicis Groupe | Product Intern | Irving, TX |  |  | 2026-10-16 | [Apply](https://careers.publicisgroupe.com/jobs/172715?icims=1) |
 | SiTime | Validation Engineer Intern | Tempe, AZ |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4452953009) |
 | GlobalFoundries | Foundation IP Design Verification Intern | Santa Clara, CA |  |  | 2026-10-15 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356) |
-| Signify | Electrical Engineer Intern | Peachtree City, GA |  |  | 2026-10-15 | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Electrical-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_366726) |
 | Meta | Quality and Reliability Engineer Intern | Sunnyvale, CA |  |  | 2026-10-15 | [Apply](https://www.metacareers.com/jobs/1624891432439039) |
 | Duolingo | Product Manager MBA Intern | Pittsburgh, PA |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888266002) |
 | Laminar | Sensor Characterization Co-op | Somerville, MA |  |  | 2026-10-15 | [Apply](https://jobs.lever.co/runlaminar/7e573316-8d6b-455a-834b-b278bfadded3/apply) |
@@ -314,5 +313,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Skyband Systems | Avionics Hardware & Test Engineer Intern | Kirkland, WA |  |  | 2026-10-06 | [Apply](https://jobs.ashbyhq.com/skyband%20systems/74d42f88-5265-4879-9c6d-61f532e89b20/application?embed=true) |
 | The Aerospace Corporation | Radiation Effects Undergraduate Intern | El Segundo, CA |  |  | 2026-10-06 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Undergraduate-Intern_R016791) |
 | Electronic Arts | Product Management Intern | Austin, TX |  |  | 2026-10-06 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) |
-| Nokia | ASIC Physical Design Co-op | San Jose, CA |  |  | 2026-10-06 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122) |
-| onsemi | Applications Intern | Princeton, NJ |  |  | 2026-10-06 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506799) |
