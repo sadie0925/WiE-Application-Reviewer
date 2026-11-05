@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**57 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 20:44 ET
+**54 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 03:32 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,9 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Qualcomm | Display IP FPGA Emulation Intern | Markham, ON, Canada |  |  | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361) |
+| Boston Scientific | R&D Product Development Intern | Montreal, QC, Canada |  |  | 2026-11-04 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813850819) |
+| Equitable Bank | Product Management Intern - Digital Banking | Toronto, ON, Canada |  |  | 2026-11-04 | [Apply](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) |
 | Kabam | Operations Product Manager Co-op | Vancouver, BC, Canada |  |  | 2026-11-03 | [Apply](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) |
 | Xanadu | Photonics Test Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) |
 | Arlo Technologies | Hardware Engineer Co-op | Richmond, BC, Canada |  |  | 2026-11-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446) |
@@ -21,6 +24,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Qualcomm | Verification Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
 | Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) |
 | Ciena | Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada |  |  | 2026-11-01 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040) |
+| Semtech | Product Engineer Intern | Burlington, ON, Canada |  |  | 2026-11-01 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1) |
+| Semtech | Test Engineer Intern | Burlington, ON, Canada |  |  | 2026-11-01 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) |
 | Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada |  |  | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) |
 | Qualcomm | Camera Systems Intern | Vancouver, BC, Canada |  |  | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) |
@@ -34,7 +39,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Ciena | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada |  |  | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) |
 | Ciena | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada |  |  | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) |
 | Trimble | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada |  |  | 2026-10-26 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) |
-| Altera | Technical Intern | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Undergrad-Intern-Technical_R03351) |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052) |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) |
 | 1Password | Product Management Intern - End User Experience | Remote in USA, Remote in Canada |  |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) |
@@ -60,10 +64,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Aptiv | Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704362) |
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361) |
 | Workday | Product Manager Intern | Vancouver, BC, Canada |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) |
-| MistyWest | Engineering Co-op | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://apply.workable.com/mistywest/j/5D68DE0118/apply) |
-| Astera Labs | Platform Applications Engineer Intern Co-op - Tools & Validation Infrastructure | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005) |
-| Astera Labs | Physical Design Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) |
-| Astera Labs | System Validation Engineer Intern | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005) |
-| Astera Labs | Design-for-Test Engineer Intern | Toronto, ON, Canada, San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) |
-| Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005) |
-| Astera Labs | Digital Design Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005) |

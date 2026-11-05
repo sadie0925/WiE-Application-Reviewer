@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**176 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 20:44 ET
+**176 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 03:32 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,9 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| DataVisor | Software Engineer Intern | Remote in Canada |  |  | 2026-11-04 | [Apply](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) |
+| Qualcomm | Machine Learning Engineering Intern | Markham, ON, Canada |  |  | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721969461) |
+| Wolters Kluwer | Front-End Developer Intern - Se | Sherbrooke, QC, Canada |  |  | 2026-11-03 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874) |
 | Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada |  |  | 2026-11-03 | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) |
 | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada |  |  | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) |
 | Global Relay | Java Developer Co-op | Vancouver, BC, Canada |  |  | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241593004) |
@@ -60,7 +63,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | CIBC | Junior Insights & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) |
 | CIBC | Junior Insights & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099) |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) |
-| Sun Life | Quality Engineering Analyst Intern | Waterloo, ON, Canada |  |  | 2026-10-26 | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Quality-Engineering-Analyst--Winter-and-Summer-2027-_JR00128337) |
 | TMX Group | Analyst Model Validation Intern | Montreal, QC, Canada |  |  | 2026-10-26 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603) |
 | Royal Bank of Canada | Developer Intern | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) |
 | AltaLink | Summer Student Intern - CRU Project Support | Calgary, AB, Canada | Spring |  | 2026-10-26 | [Apply](https://apply.workable.com/altalink/j/3FB9DD016F/apply) |
@@ -98,7 +100,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Thales | Tools and Process Development Intern | Montreal, QC, Canada |  |  | 2026-10-22 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1) |
 | Trimble | Software Engineer Intern | Richmond Hill, ON, Canada |  |  | 2026-10-22 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) |
 | Qualcomm | AI and DSP Applications Engineer Intern | Markham, ON, Canada |  |  | 2026-10-22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721686396) |
-| Aon | Actuarial Intern - Client Consulting | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://jobs.aon.com/jobs/106879?icims=1) |
 | BC Pensions | Junior Information Management Analyst Co-op | Victoria, BC, Canada |  |  | 2026-10-22 | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229) |
 | Veeda AI | Software Engineering Intern | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) |
 | KRAFTON | UI Programming Intern | Montreal, QC, Canada |  |  | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) |
@@ -185,4 +186,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | The Semios Group | Software Developer Co-op | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://apply.workable.com/semios/j/4B5D1FB613/apply) |
 | Coveo | Software Developer Intern - Solutions Engineering Core Team | Montreal, QC, Canada |  |  | 2026-10-06 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
-| Astera Labs | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) |
