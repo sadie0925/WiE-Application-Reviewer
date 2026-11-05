@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**54 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 03:32 ET
+**55 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 11:43 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -13,6 +13,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Qualcomm | Display IP FPGA Emulation Intern | Markham, ON, Canada |  |  | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361) |
 | Boston Scientific | R&D Product Development Intern | Montreal, QC, Canada |  |  | 2026-11-04 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813850819) |
 | Equitable Bank | Product Management Intern - Digital Banking | Toronto, ON, Canada |  |  | 2026-11-04 | [Apply](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) |
+| AMD | Senior Systems Design Engineer Intern | Markham, ON, Canada |  |  | 2026-11-04 | [Apply](https://careers.amd.com/jobs/95806?icims=1) |
 | Kabam | Operations Product Manager Co-op | Vancouver, BC, Canada |  |  | 2026-11-03 | [Apply](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) |
 | Xanadu | Photonics Test Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) |
 | Arlo Technologies | Hardware Engineer Co-op | Richmond, BC, Canada |  |  | 2026-11-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446) |

@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**176 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 03:32 ET
+**175 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 11:43 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -12,6 +12,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
 | DataVisor | Software Engineer Intern | Remote in Canada |  |  | 2026-11-04 | [Apply](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) |
 | Qualcomm | Machine Learning Engineering Intern | Markham, ON, Canada |  |  | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721969461) |
+| BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada |  |  | 2026-11-04 | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) |
+| BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada |  |  | 2026-11-04 | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456) |
 | Wolters Kluwer | Front-End Developer Intern - Se | Sherbrooke, QC, Canada |  |  | 2026-11-03 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874) |
 | Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada |  |  | 2026-11-03 | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) |
 | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada |  |  | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) |
@@ -143,7 +145,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | TechInsights | Software Development Co-op Student | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) |
 | Capital de Recherche Tower | Machine Learning Intern | Montreal, QC, Canada |  |  | 2026-10-15 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8286965) |
-| Ciena | Embedded Software Developer Intern | Ottawa, ON, Canada |  |  | 2026-10-14 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) |
 | Intel | Compiler Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-14 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) |
 | Kensington | Analytics Intern | Toronto, ON, Canada |  |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) |
 | National Bank of Canada | Artificial Intelligence Scientist Intern | Canada |  |  | 2026-10-14 | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36110) |
@@ -184,5 +185,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | SailPoint | Software Engineer Intern - Platform Engines | Remote in UK |  |  | 2026-10-06 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
 | Varian | Software Developer Co-op | Winnipeg, MB, Canada |  |  | 2026-10-06 | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142) |
 | The Semios Group | Software Developer Co-op | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://apply.workable.com/semios/j/4B5D1FB613/apply) |
-| Coveo | Software Developer Intern - Solutions Engineering Core Team | Montreal, QC, Canada |  |  | 2026-10-06 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) |
-| Tenstorrent | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
