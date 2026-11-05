@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**309 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 16:33 ET
+**291 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 20:44 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -70,7 +70,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Texas Instruments | Product/Test Engineering Intern | Santa Clara, CA |  |  | 2026-10-28 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016391) |
 | SharkNinja | Product Strategy & Development Co-op | Needham, MA |  |  | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) |
 | Lila Sciences | Finance Co-op | Cambridge, MA |  |  | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469146009) |
-| Renesas Electronics | Application Engineer Intern | San Jose, CA |  |  | 2026-10-28 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000158346447) |
 | PrizePicks | Business Intelligence Intern - Game Operations | Atlanta, GA |  |  | 2026-10-28 | [Apply](http://prizepicks.com/position?gh_jid=8047188003) |
 | RosaicLabs | CPU Design Verification Engineer Intern | Austin, TX, Santa Clara, CA |  |  | 2026-10-28 | [Apply](https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply) |
 | Booz Allen | Design and Verification Engineer Intern | Beavercreek, OH |  |  | 2026-10-27 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482) |
@@ -107,7 +106,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA |  |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1) |
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA |  |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858) |
 | National Indemnity Company | Marketing Data Intern | Omaha, NE |  |  | 2026-10-25 | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) |
-| RTX | Systems Engineering Co-op | Woburn, MA |  |  | 2026-10-25 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039) |
 | Teledyne | Engineering Intern - Technical | Woodridge, IL |  |  | 2026-10-25 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728) |
 | Zebra Technologies | Product Management Intern | Lincolnshire, IL |  |  | 2026-10-25 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
 | Intercontinental Exchange | Audit Analytics Intern | Atlanta, GA |  |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14069?icims=1) |
@@ -303,19 +301,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Astera Labs | ATE Engineer Intern - Engineering Ops Technology Intern | San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731409005) |
 | Astera Labs | Design Architecture Engineer Intern | San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731413005) |
 | Astera Labs | Advanced Design Verification Engineer Intern | San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731412005) |
-| Allegion | Product Management Intern | Carmel, IN |  |  | 2026-10-05 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1) |
-| BorgWarner | Electrical Design Engineer Intern | Kokomo, IN |  |  | 2026-10-05 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electrical-Design-Engineer-Intern_R2026-3965) |
-| GE Healthcare | Electrical Engineering Technician Co-op | Waukesha, WI |  |  | 2026-10-05 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Electrical-Engineering-Technician-Co-op_R4046982-1) |
-| GE Vernova | Systems Architecture Intern | Greenville, SC, Schenectady, NY |  |  | 2026-10-05 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-1) |
-| Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA |  |  | 2026-10-05 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214064) |
-| Hewlett Packard Enterprise | Optical Engineering Intern | Sunnyvale, CA |  |  | 2026-10-05 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Engineering-Intern_1214223) |
-| Hewlett Packard Enterprise | PCB Layout Automation Intern | Sunnyvale, CA |  |  | 2026-10-05 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/PCB-Layout-Automation-Intern_1214127) |
-| NVIDIA | PCIe Design Verification Intern | Santa Clara, CA |  |  | 2026-10-05 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704) |
-| NVIDIA | PCIe Design Verification Intern | Austin, TX |  |  | 2026-10-05 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708) |
-| The Toro Company | Electronics Technician Intern | Bloomington, MN |  |  | 2026-10-05 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electronics-Technician-Intern---The-Toro-Company_JR17552) |
-| Astronics | Electrical Engineer Intern | Kirkland, WA |  |  | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4431922009) |
-| Rivian | Electronics Design Engineer Co-op Intern - Electronics Design | Palo Alto, CA |  |  | 2026-10-05 | [Apply](https://careers.rivian.com/jobs/34040?icims=1) |
-| Cirrus Logic | Product Test Engineer Intern | Austin, TX |  |  | 2026-10-05 | [Apply](https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e/apply) |
-| Cirrus Logic | Mixed Signal Products Applications Engineer Intern | Austin, TX |  |  | 2026-10-05 | [Apply](https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2/apply) |
-| Cirrus Logic | Validation Engineer Intern | Austin, TX |  |  | 2026-10-05 | [Apply](https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027/apply) |
-| Tesla | Systems Integration Engineering Intern - Thermal Systems | Palo Alto, CA |  |  | 2026-10-05 | [Apply](https://www.tesla.com/careers/search/job/285779) |

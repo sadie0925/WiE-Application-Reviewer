@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**895 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 16:33 ET
+**873 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 20:44 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -105,7 +105,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007) |
 | KEEN Footwear | Merchandising & Product Data Analytics Intern | Portland, OR |  |  | 2026-11-02 | [Apply](https://www.keenfootwear.com/careers-list.html?4748595005&gh_jid=4748595005) |
 | NOV | Marketing and Data Analyst Intern | Houston, TX |  |  | 2026-11-02 | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45288) |
-| First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC |  |  | 2026-11-02 | [Apply](https://firstcitizens.jibeapply.com/jobs/36234?icims=1) |
 | ParetoHealth | Software Engineer Intern | Philadelphia, PA |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) |
 | ParetoHealth | Analytics Intern | Philadelphia, PA |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006) |
 | Nebius | ML Solution Architect Intern | Remote in USA |  |  | 2026-11-02 | [Apply](https://nebius.com/early-talent-program/swe-ml?gh_jid=5024729101) |
@@ -185,7 +184,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | University of Miami | Data Science & AI Intern | Miami, FL |  |  | 2026-10-29 | [Apply](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549) |
 | University of Miami | Data Science & AI Intern | Miami, FL |  |  | 2026-10-29 | [Apply](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144) |
 | University of Miami | Data Science & AI Intern | Miami, FL |  |  | 2026-10-29 | [Apply](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102550) |
-| VSP Vision | AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development | Remote in USA |  |  | 2026-10-29 | [Apply](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072) |
 | Overland AI | Software Engineering Intern | Seattle, WA |  |  | 2026-10-29 | [Apply](https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e) |
 | Waggoner Financial | Software Engineer Intern | Lansing, MI |  |  | 2026-10-29 | [Apply](https://apply.workable.com/waggoner-financial/j/FA0B644142/apply) |
 | Microsoft | Applied Scientist Intern | Redmond, WA |  |  | 2026-10-29 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557050150) |
@@ -305,7 +303,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | EQT Corporation | AI Intern | Remote in USA |  |  | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
 | Mayo Clinic | Graduate Engineer Intern - Software Development | Rochester, MN |  |  | 2026-10-27 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190) |
 | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA |  |  | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4467398009) |
-| First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC |  |  | 2026-10-27 | [Apply](https://firstcitizens.jibeapply.com/jobs/36230?icims=1) |
 | Sherwin-Williams | R&D Product Systems Intern | Cleveland, OH |  |  | 2026-10-27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417) |
 | Meta | Research Scientist Intern - Foundation Model Optimization | Burlingame, CA, Menlo Park, CA |  |  | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/1435245618154892) |
 | Meta | Research Scientist Intern - Search | Menlo Park, CA |  |  | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/2171476533578976) |
@@ -886,22 +883,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Astera Labs | Applied AI Engineer Intern - Silicon Engineering | San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005) |
 | Astera Labs | Applied AI Intern - Non-Silicon | San Jose, CA |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005) |
 | Mayo Clinic | AI/ML Intern - Radiation Oncology | Rochester, MN |  |  | 2026-10-06 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/385703) |
-| Keysight Technologies | R&D Software Engineer Intern | Colorado Springs, CO |  |  | 2026-10-05 | [Apply](https://jobs.keysight.com/jobs/54724?icims=1) |
-| AeroVironment | Hypersonic RF Software Engineer Intern | Germantown, MD |  |  | 2026-10-05 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993) |
-| Axos Bank | Data Intern | Omaha, NE |  |  | 2026-10-05 | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Data-Intern_JR5642) |
-| Biogen | Integrated Insights & Analytics Co-op - Nephrology | Cambridge, MA |  |  | 2026-10-05 | [Apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Integrated-Insights---Analytics--Nephrology_REQ24281) |
-| F5 | Software Developer Intern | San Jose, CA |  |  | 2026-10-05 | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076) |
-| F5 | Software Development Engineer Intern | Seattle, WA |  |  | 2026-10-05 | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073) |
-| GE Vernova | Systems Architecture Intern | Greenville, SC, Schenectady, NY |  |  | 2026-10-05 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-2) |
-| Highmark Health | Market Analytics Graduate Intern | Pittsburgh, PA |  |  | 2026-10-05 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906) |
-| Leidos | Business Systems AI Intern | Remote in USA |  |  | 2026-10-05 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) |
-| PanAgora | Equity Investments Intern | Boston, MA |  |  | 2026-10-05 | [Apply](https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Equity-Investments--Winter-2026-2027-_R0062722-1) |
-| Royal Bank of Canada | Capital Markets Intern - Quantitative Technology Services | Raleigh, NC |  |  | 2026-10-05 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675) |
-| John Deere | Software Engineer Part-Time Student Intern | Champaign, IL |  |  | 2026-10-05 | [Apply](https://johndeere.eightfold.ai/careers/job/137483700527) |
-| bioMérieux | Data Science Co-op | Hazelwood, MO |  |  | 2026-10-05 | [Apply](https://jobs.jobvite.com/biofiredx/job/ooxSAfw7?nl=1&nl=1&fr=false) |
-| Electronic Arts | Software Engineer Intern | Orlando, FL |  |  | 2026-10-05 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251) |
-| Rivian | Software Engineer Intern Co-op - Embedded Software | Palo Alto, CA |  |  | 2026-10-05 | [Apply](https://careers.rivian.com/jobs/33832?icims=1) |
-| Found Energy | Data Engineer Co-op | Cambridge, MA |  |  | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/foundenergy/jobs/4719227006) |
-| Tesla | Embedded Software Engineer Intern - Thermal Systems | Palo Alto, CA |  |  | 2026-10-05 | [Apply](https://www.tesla.com/careers/search/job/285797) |
-| Vertiv | Technical Innovation Intern | Westerville, OH |  |  | 2026-10-05 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279287) |
-| Vertiv | Technical Innovation Intern | Columbus, OH |  |  | 2026-10-05 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279286) |

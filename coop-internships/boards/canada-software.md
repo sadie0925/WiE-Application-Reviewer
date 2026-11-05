@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**184 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 16:33 ET
+**176 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-04 20:44 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -18,7 +18,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada |  |  | 2026-11-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) |
 | Ciena | Software Developer Co-op Intern | Remote in Canada, Québec City, QC, Canada |  |  | 2026-11-02 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) |
 | Royal Bank of Canada | AI Engineer Co-op - Global Equities | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) |
-| Royal Bank of Canada | Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000188376) |
 | Meta | Research Scientist Intern - FAIR - World Model Foundations | Montreal, QC, Canada |  |  | 2026-11-02 | [Apply](https://www.metacareers.com/jobs/1406585275871250) |
 | RTX | Digital Support & Business Intelligence Intern - Computer Science | Longueuil, QC, Canada |  |  | 2026-11-02 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1) |
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada |  |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
@@ -187,10 +186,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Coveo | Software Developer Intern - Solutions Engineering Core Team | Montreal, QC, Canada |  |  | 2026-10-06 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
 | Astera Labs | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) |
-| Moment Energy | Software Engineering Co-op | Surrey, BC, Canada |  |  | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) |
-| CAE | Artificial Intelligence Intern | Montreal, QC, Canada |  |  | 2026-10-05 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902) |
-| CAE | Data Specialist Intern | Montreal, QC, Canada |  |  | 2026-10-05 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901) |
-| CAE | Full Stack Developer Intern - Training Center Operations Experience | Montreal, QC, Canada |  |  | 2026-10-05 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1) |
-| Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada |  |  | 2026-10-05 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) |
-| McKesson | Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution | Montreal, QC, Canada |  |  | 2026-10-05 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903) |
-| Solink | Software Engineer Co-op - Apps | Ottawa, ON, Canada |  |  | 2026-10-05 | [Apply](https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true) |
