@@ -21,7 +21,7 @@
     "deadline_at": "2026-11-13T23:59:59-05:00",
     "deadline_kind": "application",
     "when": "Nov 06 - 13, 2026",
-    "status": "Upcoming",
+    "status": "Open",
     "tier": "uw",
     "source": "devpost"
   },
@@ -37,19 +37,6 @@
     "status": "Upcoming",
     "tier": "uw",
     "source": "velocity"
-  },
-  {
-    "name": "SharkByte",
-    "location": "Miami, FL",
-    "url": "https://shark-byte.io/",
-    "starts_at": "2026-11-06T21:00:00Z",
-    "ends_at": "2026-11-08T23:00:00Z",
-    "deadline_at": "2026-11-06T21:00:00Z",
-    "deadline_kind": "event_start",
-    "when": "NOV 06 - 08",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
   },
   {
     "name": "HackTrent",

@@ -630,25 +630,6 @@
     "program": "cs"
   },
   {
-    "id": "328d4568-bcae-457f-96e8-ea5e59164c08",
-    "company_name": "Lumbermen's",
-    "company_url": "https://simplify.jobs/c/Lumbermen-S",
-    "title": "Software Developer Intern",
-    "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
-    "locations": [
-      "Grand Rapids, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793895737,
-    "date_updated": 1793921924,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "b92e58ab-ad7c-40c4-a4ae-bd50e1d9102a",
     "company_name": "Acumatica",
     "company_url": "https://simplify.jobs/c/Acumatica",
@@ -5376,25 +5357,6 @@
     "program": "cs"
   },
   {
-    "id": "932b8b82-9a55-4a83-a9a8-8cdead995b71",
-    "company_name": "Tecsys",
-    "company_url": "https://simplify.jobs/c/Tecsys",
-    "title": "Developer Intern",
-    "url": "https://apply.workable.com/tecsys/j/D61D5FB9AB/apply",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793632046,
-    "date_updated": 1793632195,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "ecc88363-2877-44f6-be28-0d968512dd0c",
     "company_name": "AXA",
     "company_url": "https://simplify.jobs/c/AXA",
@@ -6794,25 +6756,6 @@
     "program": "cs"
   },
   {
-    "id": "ecea9da4-9f7c-4d0c-b6d4-365719c8aa35",
-    "company_name": "Cadillac Formula 1 Team",
-    "company_url": "https://simplify.jobs/c/Cadillac-Formula-1-Team",
-    "title": "Aerodynamics AI Industrial Placement Intern",
-    "url": "https://apply.workable.com/cadillacf1team/j/7995A5E448/apply",
-    "locations": [
-      "Indianapolis, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793399017,
-    "date_updated": 1793399125,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "1556f336-95fd-4c5e-bced-3da0d5e2cb99",
     "company_name": "Sophinea",
     "company_url": "https://simplify.jobs/c/Sophinea",
@@ -7023,25 +6966,6 @@
     "program": "cs"
   },
   {
-    "id": "54bf1db6-ad2a-4a55-8eba-9726ba4c9e1c",
-    "company_name": "Johns Hopkins Applied Physics Laboratory",
-    "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
-    "title": "Robotics Engineer Intern - Maritime Systems",
-    "url": "https://careers.jhuapl.edu/jobs/60742?icims=1",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793366160,
-    "date_updated": 1793369393,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "ac27249b-0f36-44ff-a07c-513168c4e98b",
     "company_name": "Stratolaunch",
     "company_url": "https://simplify.jobs/c/Stratolaunch",
@@ -7113,25 +7037,6 @@
     "date_posted": 1793318400,
     "date_updated": 1793400747,
     "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "5e2d984e-53bd-486c-a6e7-04c15a9ff87b",
-    "company_name": "Altera",
-    "company_url": "https://simplify.jobs/c/Altera-Corporation",
-    "title": "Hardware Design Engineer Intern",
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793318400,
-    "date_updated": 1793400747,
-    "category": "Hardware",
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
@@ -8066,25 +7971,6 @@
     "source": "simplify",
     "date_posted": 1793283993,
     "date_updated": 1793284962,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "c5e30c95-0275-4fc7-8451-c385ea2348bf",
-    "company_name": "Docusign",
-    "company_url": "https://simplify.jobs/c/DocuSign",
-    "title": "Software Engineer Intern",
-    "url": "https://careers.docusign.com/jobs/30597?icims=1",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793280780,
-    "date_updated": 1793867401,
     "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
@@ -10164,25 +10050,6 @@
     "program": "other"
   },
   {
-    "id": "47fc293a-86ff-4dfb-9ef9-71a0f154f798",
-    "company_name": "Sonos",
-    "company_url": "https://simplify.jobs/c/Sonos",
-    "title": "Software Engineer Intern",
-    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
-    "locations": [
-      "Boston, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793145600,
-    "date_updated": 1793226835,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "f5f92fa6-34b5-4a3d-9bb0-65f4e2a13555",
     "company_name": "Subtotal",
     "company_url": "https://simplify.jobs/c/Subtotal",
@@ -10315,25 +10182,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "d54ad503-0917-4cd9-8e73-8ecd6fe2d56d",
-    "company_name": "VSP Vision",
-    "company_url": "https://simplify.jobs/c/VSP-Vision",
-    "title": "Software Engineer Intern",
-    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793145600,
-    "date_updated": 1793187566,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "c23b560b-a6bd-4212-80ea-34fb77e95bfa",
@@ -11654,120 +11502,6 @@
     "program": "cs"
   },
   {
-    "id": "e0a98377-2ab5-44f4-a19a-bb11a98699a1",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793110253,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "d03f3f61-cfe8-441f-90db-b9831bc5205c",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793110253,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "ea89ecc3-ebf3-48b1-8f0a-a496dfa9755b",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793110261,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "86cb1b02-b094-4e5e-94bf-bb2c80d2c69e",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793110252,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "4bc03fa9-1a0f-4972-b9ba-e0f07d3372ff",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793110260,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "08f0c2cf-eaef-46a2-a967-d9b0af6ca50b",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793110261,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "f5506af0-7205-497f-8afc-70c81179f25a",
     "company_name": "Visa",
     "company_url": "https://simplify.jobs/c/Visa",
@@ -11787,25 +11521,6 @@
     "program": "cs"
   },
   {
-    "id": "aecfefcb-c6a4-4161-ac54-0464570e82a9",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793111965,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "78503d4f-7c6f-45bb-bad9-1bd6eadd974b",
     "company_name": "Visa",
     "company_url": "https://simplify.jobs/c/Visa",
@@ -11813,101 +11528,6 @@
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2",
     "locations": [
       "Bellevue, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793111964,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "394fd625-992b-45aa-9d72-e2ae53a17bf3",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793111964,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "27ce0059-c008-45e2-93c4-f9e612b9f8e8",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793111965,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "b6f3c11d-afce-4ebd-b16f-8f3bfb75b164",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793111965,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Sophomore Program Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793110252,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "58b2fdc7-432f-48f0-80a9-5e970ba2b3e0",
-    "company_name": "Visa",
-    "company_url": "https://simplify.jobs/c/Visa",
-    "title": "Sophomore Program Software Engineer Intern",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1",
-    "locations": [
-      "Ashburn, VA"
     ],
     "active": true,
     "is_visible": true,
@@ -11971,25 +11591,6 @@
     "source": "simplify",
     "date_posted": 1793053472,
     "date_updated": 1793053622,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "bb2a450a-92f6-43c4-a4ec-8f9b171ab169",
-    "company_name": "L3Harris Technologies",
-    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.l3harris.com/job/Rockwall-Intern,-Software-Engineer-TX-75032/1443682400/?ats=successfactors",
-    "locations": [
-      "Rockwall, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793053470,
-    "date_updated": 1793053654,
     "category": "Hardware",
     "sponsorship": "Other",
     "track": "intern",
@@ -17780,44 +17381,6 @@
     "program": "cs"
   },
   {
-    "id": "73395dc9-ae40-45b9-b46a-7c823d29cc98",
-    "company_name": "ICF International",
-    "company_url": "https://simplify.jobs/c/ICF-International",
-    "title": "Full-Stack Developer Intern",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792540800,
-    "date_updated": 1792620595,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "24537423-4d5f-4c4e-96e3-47f55defe704",
-    "company_name": "ICF International",
-    "company_url": "https://simplify.jobs/c/ICF-International",
-    "title": "Seasonal Associate Intern - Full Stack Developer",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792540800,
-    "date_updated": 1792620606,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "a007a1cd-613c-4053-8d3c-dcd4805d2bbc",
     "company_name": "IDeaS",
     "company_url": "https://simplify.jobs/c/IDeaS",
@@ -18235,25 +17798,6 @@
     "date_posted": 1792534811,
     "date_updated": 1792534921,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "46a45053-654d-405d-9ac0-371cda4b6f79",
-    "company_name": "FanDuel",
-    "company_url": "https://simplify.jobs/c/FanDuel",
-    "title": "Sports Trader Intern",
-    "url": "https://boards.greenhouse.io/embed/job_app?token=8300829",
-    "locations": [
-      "Jersey City, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792534715,
-    "date_updated": 1792534870,
-    "category": "Quant",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -20427,25 +19971,6 @@
     "date_posted": 1792190180,
     "date_updated": 1792190476,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "1dda6476-4e02-4025-a7b8-95a4e556235c",
-    "company_name": "Behaviour Interactive",
-    "company_url": "https://simplify.jobs/c/Behaviour-Interactive",
-    "title": "Product Management Intern - 7 Days to Die",
-    "url": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792190108,
-    "date_updated": 1792190444,
-    "category": "Product",
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
@@ -24578,25 +24103,6 @@
     "program": "cs"
   },
   {
-    "id": "24c2d5a3-467d-49eb-a5e6-8d36e5ded684",
-    "company_name": "Nokia",
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "title": "Hardware Development Co-op",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268",
-    "locations": [
-      "New Providence, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791842980,
-    "date_updated": 1791844168,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "182b2433-7798-4b89-991d-e3734677029c",
     "company_name": "ADT",
     "company_url": "https://simplify.jobs/c/ADT",
@@ -27454,25 +26960,6 @@
     "date_posted": 1791412056,
     "date_updated": 1791413397,
     "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "b8e998a3-d1d0-4dfe-a9fe-d72ab136f1f9",
-    "company_name": "NJ Department of Environmental Protection",
-    "company_url": "https://simplify.jobs/c/NJ-Department-Of-Environmental-Protection",
-    "title": "Environmental Services Intern",
-    "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/k6SokzCoje/WRM20262i-Environmental-Services-Intern",
-    "locations": [
-      "Trenton, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791411736,
-    "date_updated": 1791413011,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"

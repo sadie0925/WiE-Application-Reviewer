@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**300 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 11:57 ET
+**299 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 16:55 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -280,7 +280,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | The Toro Company | IT Business Analyst Intern | Perry, OK |  |  | 2026-10-12 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) |
 | Keysight Technologies | Tech 2 Intern | Roseville, CA |  |  | 2026-10-12 | [Apply](https://jobs.keysight.com/jobs/54715?icims=1) |
 | Keysight Technologies | Research and Development Hardware Engineer Intern | Austin, TX |  |  | 2026-10-12 | [Apply](https://jobs.keysight.com/jobs/54345?icims=1) |
-| Nokia | Hardware Development Co-op | New Providence, NJ |  |  | 2026-10-12 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268) |
 | ADT | Product Management & Product Operations Intern | Boca Raton, FL |  |  | 2026-10-12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
 | Bridge Neurotech | Hardware Engineering Intern | Redwood City, CA |  |  | 2026-10-11 | [Apply](https://jobs.ashbyhq.com/bridgeneurotech/01c03769-b8eb-46c1-b668-469832b99c51/application?embed=true) |
 | Hewlett Packard Enterprise | ASIC Intern | Sunnyvale, CA |  |  | 2026-10-11 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034) |

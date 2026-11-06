@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**178 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 11:57 ET
+**177 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 16:55 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -38,7 +38,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Bank of Montreal | UX/UI Designer Co-op Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) |
 | Bank of Montreal | UX/UI Designer Co-op Intern | Toronto, ON, Canada |  |  | 2026-11-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada |  |  | 2026-11-02 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) |
-| Tecsys | Developer Intern | Montreal, QC, Canada |  |  | 2026-11-02 | [Apply](https://apply.workable.com/tecsys/j/D61D5FB9AB/apply) |
 | Entrust | AI Developer Intern | Remote in Germany, Shakopee, MN |  |  | 2026-11-01 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) |
 | NVIDIA | Math Libraries Intern | Canada, Santa Clara, CA (+1) |  |  | 2026-11-01 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada |  |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |

@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. A row is removed as soon as its deadline passes. That deadline is the application close when the organizer publishes one. If they do not, the event start is used. This is separate from the 30-day job rule.
 
-**22 upcoming** · 3 Waterloo · 19 other Canada/US · Updated 2026-11-06 11:57 ET
+**21 upcoming** · 3 Waterloo · 18 other Canada/US · Updated 2026-11-06 16:55 ET
 
 [All boards](../README.md)
 
@@ -18,7 +18,6 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
-| SharkByte | Miami, FL | 2026-11-06 | 2026-11-06 event start | [Open](https://shark-byte.io/) |
 | HackTrent | Peterborough, Ontario | 2026-11-06 | 2026-11-06 event start | [Open](https://www.hacktrent.ca/) |
 | YCP Hacks | York PA, PA | 2026-11-06 | 2026-11-06 event start | [Open](https://ycphacks.io/) |
 | BioHacks | Hamilton, Ontario | 2026-11-07 | 2026-11-07 event start | [Open](https://www.bioeng4youth.ca) |
