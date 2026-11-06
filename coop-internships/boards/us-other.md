@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**301 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 21:34 ET
+**300 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 04:46 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Zoox | Hardware Engineer Intern - Vehicle Systems | Foster City, CA |  |  | 2026-11-05 | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) |
 | GM Financial | Operations Analyst Intern | Fort Worth, TX |  |  | 2026-11-05 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261259) |
 | DwyerOmega | Sensors Engineer Intern | Westerville, OH |  |  | 2026-11-05 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640964) |
 | General Dynamics Mission Systems | Engineer Intern - Infrastructure Hardware/Network | Pittsfield, MA |  |  | 2026-11-05 | [Apply](https://careers-gdms.icims.com/jobs/75025/job?mobile=true&needsRedirect=false) |
@@ -309,5 +310,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Texas Instruments | Analog Design Engineer Intern | Dallas, TX |  |  | 2026-10-07 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924) |
 | Garmin | FPGA Engineer Intern | Olathe, KS |  |  | 2026-10-07 | [Apply](https://careers.garmin.com/jobs/19836?icims=1) |
 | Schneider Electric | Electronics Hardware Engineer Co-op | Raleigh, NC, Cedar Rapids, IA |  |  | 2026-10-07 | [Apply](https://se.jibeapply.com/jobs/136319?icims=1) |
-| Tenstorrent | Physical Design & DFT Intern | Boston, MA, Austin, TX (+2) |  |  | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) |
-| Tenstorrent | RISC-5 CPU Intern | Boston, MA, Austin, TX (+2) |  |  | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) |

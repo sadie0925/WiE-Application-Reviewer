@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. A row is removed as soon as its deadline passes. That deadline is the application close when the organizer publishes one. If they do not, the event start is used. This is separate from the 30-day job rule.
 
-**21 upcoming** · 2 Waterloo · 19 other Canada/US · Updated 2026-11-05 21:34 ET
+**22 upcoming** · 3 Waterloo · 19 other Canada/US · Updated 2026-11-06 04:46 ET
 
 [All boards](../README.md)
 
@@ -10,6 +10,7 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
+| WiE Hackathon 2026 | PSE | Nov 07, 2026 | 2026-11-07 applications | [Open](https://wie-hackathon-2026.devpost.com/) |
 | Blockchain Innovation Challenge powered by Stellar | Velocity, Innovation Arena | Nov 06 - 13, 2026 | 2026-11-13 applications | [Open](https://blockchain-stellar-ic.devpost.com/) |
 | The Co-op Workplace Simulation by Velocity | University of Waterloo | 2026-11-16 | 2026-11-16 event start | [Open](https://www.velocityincubator.com/programs-events/velocity-co-op-innovation-challenge) |
 

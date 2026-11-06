@@ -1,5 +1,18 @@
 [
   {
+    "name": "WiE Hackathon 2026",
+    "location": "PSE",
+    "url": "https://wie-hackathon-2026.devpost.com/",
+    "starts_at": "",
+    "ends_at": "",
+    "deadline_at": "2026-11-07T23:59:59-05:00",
+    "deadline_kind": "application",
+    "when": "Nov 07, 2026",
+    "status": "Upcoming",
+    "tier": "uw",
+    "source": "devpost"
+  },
+  {
     "name": "Blockchain Innovation Challenge powered by Stellar",
     "location": "Velocity, Innovation Arena",
     "url": "https://blockchain-stellar-ic.devpost.com/",

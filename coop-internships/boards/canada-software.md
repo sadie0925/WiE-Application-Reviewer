@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**177 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 21:34 ET
+**176 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 04:46 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -124,7 +124,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) |
 | CIBC | Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) |
 | CIBC | Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1) |
-| Maple Leaf Sports & Entertainment Partnership (MLSE) | Business Strategy & Product Management Intern - AI | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2) |
 | NVIDIA | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada, Santa Clara, CA (+1) |  |  | 2026-10-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
 | Picton Mahoney Asset Management | Data Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://pictonmahoney.bamboohr.com/careers/387/) |
 | GeoSpectrum Technologies | Software Developer Co-op | Dartmouth, NS, Canada |  |  | 2026-10-20 | [Apply](https://geospectrum.bamboohr.com/careers/286/) |
