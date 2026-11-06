@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**54 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 04:46 ET
+**56 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 11:57 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada |  |  | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120) |
+| Rivian and Volkswagen Group Technologies | Mechatronics Lab Engineering Intern | Vancouver, BC, Canada |  |  | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application?embed=true) |
 | Qualcomm | Display IP FPGA Emulation Intern | Markham, ON, Canada |  |  | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361) |
 | Boston Scientific | R&D Product Development Intern | Montreal, QC, Canada |  |  | 2026-11-04 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813850819) |
 | Equitable Bank | Product Management Intern - Digital Banking | Toronto, ON, Canada |  |  | 2026-11-04 | [Apply](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) |

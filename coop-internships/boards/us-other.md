@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**300 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 04:46 ET
+**300 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 11:57 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,7 +10,9 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| TikTok | POI Content Product Manager Intern | San Jose, CA |  |  | 2026-11-06 | [Apply](https://lifeattiktok.com/search/7696000179569854725) |
 | Zoox | Hardware Engineer Intern - Vehicle Systems | Foster City, CA |  |  | 2026-11-05 | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) |
+| Spectrum Control | Engineering Co-op | Philadelphia, PA |  |  | 2026-11-05 | [Apply](https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101547) |
 | GM Financial | Operations Analyst Intern | Fort Worth, TX |  |  | 2026-11-05 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261259) |
 | DwyerOmega | Sensors Engineer Intern | Westerville, OH |  |  | 2026-11-05 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640964) |
 | General Dynamics Mission Systems | Engineer Intern - Infrastructure Hardware/Network | Pittsfield, MA |  |  | 2026-11-05 | [Apply](https://careers-gdms.icims.com/jobs/75025/job?mobile=true&needsRedirect=false) |
@@ -24,7 +26,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Texas Instruments | Analog IC Design Engineer Intern | Santa Clara, CA |  |  | 2026-11-04 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019660) |
 | Meta | Hardware Systems Architecture Intern - Performance & Workload Analysis | Redmond, WA |  |  | 2026-11-04 | [Apply](https://www.metacareers.com/jobs/1296272445973940) |
 | DwyerOmega | Electrical Engineer Intern | Westerville, OH |  |  | 2026-11-04 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640810) |
-| DwyerOmega | Electrical Engineer Intern | Westerville, OH |  |  | 2026-11-04 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640790) |
 | Applied Materials | Metrology Engineer Co-op Intern | Tempe, AZ |  |  | 2026-11-04 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419) |
 | Eversource Energy | Electric Operations Intern | Dorchester, Boston, MA |  |  | 2026-11-04 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Electric-Operations-Intern--MA-_R-032507) |
 | Invesco | Digital Product Management Intern | Atlanta, GA |  |  | 2026-11-04 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) |
@@ -254,7 +255,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | GlobalFoundries | Human Resources Intern - HR Analytics | Malta, NY |  |  | 2026-10-13 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494) |
 | Nordson | Electrical Engineer Intern | Clinton, SC |  |  | 2026-10-13 | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---South-Carolina---Clinton/Electrical-Engineering-Intern_REQ53355) |
 | Philadelphia Gas Works | Field Operations Revenue Protection Unit Intern | Philadelphia, PA |  |  | 2026-10-13 | [Apply](https://careers-pgworks.icims.com/jobs/1990/job?in_iframe=1&mobile=true&needsRedirect=false) |
-| Philips | Insights and Analytics Intern - Health Systems Marketing | Cambridge, MA |  |  | 2026-10-13 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) |
 | Rockwell Automation | Electrical Engineer Co-op | Chelmsford, MA |  |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1) |
 | Rockwell Automation | Electrical Engineer Co-op | Chelmsford, MA |  |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706) |
 | Rockwell Automation | Hardware Development Engineer Co-op | Mayfield Heights, OH |  |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1) |
@@ -263,6 +263,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Rockwell Automation | Hardware Development Engineer Co-op | Mayfield Heights, OH |  |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891) |
 | Rockwell Automation | Test Engineering Intern | Milwaukee, WI |  |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1) |
 | Rockwell Automation | Test Engineering Intern | Milwaukee, WI |  |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553) |
+| SRI International | Electrical Engineering Co-op | Princeton, NJ |  |  | 2026-10-13 | [Apply](https://careers-sri.icims.com/jobs/6526/job?mobile=true&needsRedirect=false) |
 | Amazon | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MA, Westborough, MA |  |  | 2026-10-13 | [Apply](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
 | Rivian | Electronics Design Engineering Intern - Low Voltage Electronics | Champaign, IL |  |  | 2026-10-13 | [Apply](https://careers.rivian.com/jobs/34370?icims=1) |
 | Keysight Technologies | R&D Hardware Design Engineer Intern | Santa Rosa, CA |  |  | 2026-10-13 | [Apply](https://jobs.keysight.com/jobs/54389?icims=1) |
@@ -309,4 +310,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Vertex Pharmaceuticals | People Research and Analytics Co-op - People Research and Analytics - Human Resources | Boston, MA |  |  | 2026-10-07 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-op--People-Research-and-Analytics--Human-Resources_REQ-31103-1) |
 | Texas Instruments | Analog Design Engineer Intern | Dallas, TX |  |  | 2026-10-07 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924) |
 | Garmin | FPGA Engineer Intern | Olathe, KS |  |  | 2026-10-07 | [Apply](https://careers.garmin.com/jobs/19836?icims=1) |
-| Schneider Electric | Electronics Hardware Engineer Co-op | Raleigh, NC, Cedar Rapids, IA |  |  | 2026-10-07 | [Apply](https://se.jibeapply.com/jobs/136319?icims=1) |
