@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**175 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 17:19 ET
+**177 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-05 21:34 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,10 +10,17 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Qualcomm | Driver and Tools Developer Intern - Telemetry Firmware | Markham, ON, Canada |  |  | 2026-11-05 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721989047) |
+| Acumatica | Developer Intern | Montreal, QC, Canada |  |  | 2026-11-05 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799) |
 | DataVisor | Software Engineer Intern | Remote in Canada |  |  | 2026-11-04 | [Apply](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) |
 | Qualcomm | Machine Learning Engineering Intern | Markham, ON, Canada |  |  | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721969461) |
+| Bank of Montreal | Machine Learning Developer Intern Co-op | Toronto, ON, Canada |  |  | 2026-11-04 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) |
 | BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada |  |  | 2026-11-04 | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) |
 | BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada |  |  | 2026-11-04 | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456) |
+| Element Fleet Management | Forward Deployed Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-04 | [Apply](https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989) |
+| Royal Bank of Canada | Quantitative Technology Services Co-op - Software Developer | Montreal, QC, Canada |  |  | 2026-11-04 | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3) |
+| SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  | 2026-11-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) |
+| SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  | 2026-11-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) |
 | Wolters Kluwer | Front-End Developer Intern - Se | Sherbrooke, QC, Canada |  |  | 2026-11-03 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874) |
 | Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada |  |  | 2026-11-03 | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) |
 | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada |  |  | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) |
@@ -56,7 +63,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | TMX Group | Analyst – Market Insights Intern | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) |
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada |  |  | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |
 | Certa | Frontend Engineer Intern | Remote in India |  |  | 2026-10-28 | [Apply](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) |
-| NUVACORE | CPU Software Intern | Markham, ON, Canada |  |  | 2026-10-27 | [Apply](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) |
 | Cenovus Energy | Student Risk Analytics Intern | Calgary, AB, Canada |  |  | 2026-10-27 | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263) |
 | Uber | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-27 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) |
 | Lumerate | Data Associate Intern | Canada, Remote in Canada |  |  | 2026-10-27 | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) |
@@ -97,7 +103,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Citi | Technology Analyst Intern - Application Development | Mississauga, ON, Canada |  |  | 2026-10-22 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301) |
 | Maple Leaf Sports & Entertainment Partnership (MLSE) | Business Analytics Intern | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Analytics-Intern_JR0000893-2) |
 | RSM | Business Intelligence Consulting Intern | Toronto, ON, Canada, Calgary, AB, Canada (+1) |  |  | 2026-10-22 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1) |
-| Sardine | Engineering Intern | Remote in USA, Remote in Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true) |
 | TELUS Digital | Software Engineering Intern Co-op | Vancouver, BC, Canada |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application?embed=true) |
 | Thales | Tools and Process Development Intern | Montreal, QC, Canada |  |  | 2026-10-22 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1) |
 | Trimble | Software Engineer Intern | Richmond Hill, ON, Canada |  |  | 2026-10-22 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) |
@@ -182,6 +187,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Tenstorrent | AI Software Intern | Toronto, ON, Canada |  |  | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
 | Manulife Financial | Software Engineering Co-op | Waterloo, ON, Canada |  |  | 2026-10-07 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1) |
 | PSP Investments | GenAI and Digital Workplace Intern | Montreal, QC, Canada |  |  | 2026-10-07 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) |
-| SailPoint | Software Engineer Intern - Platform Engines | Remote in UK |  |  | 2026-10-06 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
-| Varian | Software Developer Co-op | Winnipeg, MB, Canada |  |  | 2026-10-06 | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142) |
-| The Semios Group | Software Developer Co-op | Vancouver, BC, Canada |  |  | 2026-10-06 | [Apply](https://apply.workable.com/semios/j/4B5D1FB613/apply) |
