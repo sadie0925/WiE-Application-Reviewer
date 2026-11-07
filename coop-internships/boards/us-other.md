@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**296 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 13:53 ET
+**295 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 17:23 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -188,7 +188,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Anduril | Business Operations Engineer Intern | Ashville, OH, Costa Mesa, CA |  |  | 2026-10-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) |
 | Safran | Optical Engineering Intern | Bedford, NH |  |  | 2026-10-21 | [Apply](https://careers.safran-dsi.com/job/Bedford-Optical-Engineering-Internship-NH-03110/1431030500/?ats=successfactors) |
 | OneEthos | Product Management Intern | Remote in USA |  |  | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) |
-| Garmin | Electrical Design Engineer Intern | Tucson, AZ |  |  | 2026-10-21 | [Apply](https://careers.garmin.com/jobs/19383?icims=1) |
 | Athene | Operations Reporting & Analytics Intern | West Des Moines, IA |  |  | 2026-10-20 | [Apply](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268) |
 | GlobalFoundries | Failure Analysis Engineering Intern | Malta, NY |  |  | 2026-10-20 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Failure-Analysis-Engineering-Intern--Summer-2027-_JR-2604574) |
 | IDeaS | Marketing Analytics Intern | Bloomington, MN |  |  | 2026-10-20 | [Apply](https://ideas-sas.icims.com/jobs/44176/job?mobile=true&needsRedirect=false) |

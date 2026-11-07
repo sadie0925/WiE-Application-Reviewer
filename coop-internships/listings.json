@@ -13586,25 +13586,6 @@
     "program": "cs"
   },
   {
-    "id": "92ec723c-fb9a-4c9a-83de-c0dee7290812",
-    "company_name": "The Federal Reserve System",
-    "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
-    "title": "Innovation Intern",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793053508,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "dd54ada4-0bdc-4fb7-97d1-fa950f4ce4cd",
     "company_name": "Valmont",
     "company_url": "https://simplify.jobs/c/Valmont",
@@ -17482,25 +17463,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "b4a5ec4c-fa35-4e35-aea0-2e099d2d58e5",
-    "company_name": "Garmin",
-    "company_url": "https://simplify.jobs/c/Garmin",
-    "title": "Electrical Design Engineer Intern",
-    "url": "https://careers.garmin.com/jobs/19383?icims=1",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792586580,
-    "date_updated": 1793868483,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "9d2e8616-d457-4092-b63e-97eb1cf2fefe",
@@ -26572,101 +26534,6 @@
     "source": "simplify",
     "date_posted": 1791498217,
     "date_updated": 1791499336,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "6df93910-4192-4f25-8596-45199ca04c6f",
-    "company_name": "DocuSign",
-    "company_url": "https://simplify.jobs/c/DocuSign",
-    "title": "Software Engineer Intern",
-    "url": "https://careers.docusign.com/jobs/30478?icims=1",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791498000,
-    "date_updated": 1791498062,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "69984bf9-c983-408b-befc-bcf50f6c79d5",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "R&D Software Engineer Intern",
-    "url": "https://jobs.keysight.com/jobs/54640?icims=1",
-    "locations": [
-      "Calabasas, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791497998,
-    "date_updated": 1791498062,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "b058e4f4-66d1-4259-8983-1c888392410d",
-    "company_name": "Viget",
-    "company_url": "https://simplify.jobs/c/Viget",
-    "title": "Software Developer Intern",
-    "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply",
-    "locations": [
-      "Boulder, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791497995,
-    "date_updated": 1791498062,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "a0f12336-bc97-406f-8566-d979678ebf6b",
-    "company_name": "Johns Hopkins Applied Physics Laboratory",
-    "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
-    "title": "Analyst/Researcher Intern - Analyst/Researcher",
-    "url": "https://careers.jhuapl.edu/jobs/60433?icims=1",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791497943,
-    "date_updated": 1791498612,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "61d630c7-bc66-4344-a5c4-772ddef31c4e",
-    "company_name": "Tesla",
-    "company_url": "https://simplify.jobs/c/Tesla",
-    "title": "Software Integration Engineer Intern - Service Tooling",
-    "url": "https://www.tesla.com/careers/search/job/286127",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791497847,
-    "date_updated": 1791498532,
     "category": "Software",
     "sponsorship": "Other",
     "track": "intern",

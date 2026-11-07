@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**869 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 13:53 ET
+**863 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 17:23 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -463,7 +463,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Skydio | Autonomy Engineer Intern - Reinforcement Learning | San Mateo, CA |  |  | 2026-10-25 | [Apply](https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048/application?embed=true) |
 | Skydio | Autonomy Engineer Intern - Simulation & Robotics | San Mateo, CA |  |  | 2026-10-25 | [Apply](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true) |
 | The Federal Reserve System | Community and Economic Development Intern | Atlanta, GA |  |  | 2026-10-25 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895) |
-| The Federal Reserve System | Innovation Intern | Atlanta, GA |  |  | 2026-10-25 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884) |
 | Valmont | Operations Data Analyst Intern | Valley, NE |  |  | 2026-10-25 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Operations-Data-Analyst-Intern_R29224) |
 | Wells Fargo | Technology Intern - Early Careers - Data Engineering | Iselin, Woodbridge Township, NJ, Charlotte, NC (+1) |  |  | 2026-10-25 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) |
 | Zillow | Data Science Intern | Seattle, WA |  |  | 2026-10-25 | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) |
@@ -874,8 +873,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | GuidePoint Security | AI & Data Science Intern - GPSU | Remote in USA |  |  | 2026-10-08 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004) |
 | Peraton | Software Development Intern | Topeka, KS |  |  | 2026-10-08 | [Apply](https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false) |
 | SoloPulse | Software Engineer Intern Co-op | Peachtree Corners, GA |  |  | 2026-10-08 | [Apply](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef/apply) |
-| DocuSign | Software Engineer Intern | Seattle, WA |  |  | 2026-10-08 | [Apply](https://careers.docusign.com/jobs/30478?icims=1) |
-| Keysight Technologies | R&D Software Engineer Intern | Calabasas, CA |  |  | 2026-10-08 | [Apply](https://jobs.keysight.com/jobs/54640?icims=1) |
-| Viget | Software Developer Intern | Boulder, CO |  |  | 2026-10-08 | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply) |
-| Johns Hopkins Applied Physics Laboratory | Analyst/Researcher Intern - Analyst/Researcher | Laurel, MD |  |  | 2026-10-08 | [Apply](https://careers.jhuapl.edu/jobs/60433?icims=1) |
-| Tesla | Software Integration Engineer Intern - Service Tooling | Fremont, CA |  |  | 2026-10-08 | [Apply](https://www.tesla.com/careers/search/job/286127) |
