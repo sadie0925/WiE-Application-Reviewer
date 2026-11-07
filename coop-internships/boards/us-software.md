@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**871 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 09:20 ET
+**869 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 13:53 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -140,7 +140,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Leidos | Software Engineering & AI Intern | Remote in USA, Shiloh, IL (+1) |  |  | 2026-11-03 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220) |
 | Logiqal | Quantum Error Correction and Architecture Intern | Princeton, NJ |  |  | 2026-11-03 | [Apply](https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f/application?embed=true) |
 | Microchip Technology | Data Analyst Intern | Gresham, OR |  |  | 2026-11-03 | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Data-Analyst-_R4441-26) |
-| Northrop Grumman | Software Engineer Co-op Intern | McClellan Park, CA |  |  | 2026-11-03 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329) |
 | Parsons | AI/ML Engineer Intern | Centreville, VA, United States |  |  | 2026-11-03 | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194) |
 | RTX | Control/Diagnostic Software Intern | Jupiter, FL |  |  | 2026-11-03 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) |
 | Vizient | Pharmacy Aggregation Intern | Washington, DC, Centennial, CO (+6) |  |  | 2026-11-03 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) |
@@ -880,4 +879,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Viget | Software Developer Intern | Boulder, CO |  |  | 2026-10-08 | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply) |
 | Johns Hopkins Applied Physics Laboratory | Analyst/Researcher Intern - Analyst/Researcher | Laurel, MD |  |  | 2026-10-08 | [Apply](https://careers.jhuapl.edu/jobs/60433?icims=1) |
 | Tesla | Software Integration Engineer Intern - Service Tooling | Fremont, CA |  |  | 2026-10-08 | [Apply](https://www.tesla.com/careers/search/job/286127) |
-| Peraton | Software Developer Intern | Topeka, KS |  |  | 2026-10-08 | [Apply](https://peraton.jibeapply.com/jobs/172061?icims=1) |

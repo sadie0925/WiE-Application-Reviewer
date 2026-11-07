@@ -3742,25 +3742,6 @@
     "program": "other"
   },
   {
-    "id": "85773b47-5ed9-48dd-abb9-1d1c91adb439",
-    "company_name": "Northrop Grumman",
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "title": "Software Engineer Co-op Intern",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329",
-    "locations": [
-      "McClellan Park, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793750400,
-    "date_updated": 1793845871,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "627ccd4d-bfee-4232-9b77-c75320e6631e",
     "company_name": "Parsons",
     "company_url": "https://simplify.jobs/c/Parsons",
@@ -26690,43 +26671,5 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "abdd970b-9c82-4b36-8726-8b1974f2ab7e",
-    "company_name": "Peraton",
-    "company_url": "https://simplify.jobs/c/Peraton",
-    "title": "Software Developer Intern",
-    "url": "https://peraton.jibeapply.com/jobs/172061?icims=1",
-    "locations": [
-      "Topeka, KS"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791477780,
-    "date_updated": 1793428289,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "a05453c1-7c53-46bb-881b-e40b0819352f",
-    "company_name": "Peraton",
-    "company_url": "https://simplify.jobs/c/Peraton",
-    "title": "Electrical Engineer Intern",
-    "url": "https://peraton.jibeapply.com/jobs/172055?icims=1",
-    "locations": [
-      "Topeka, KS"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791476280,
-    "date_updated": 1793428291,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   }
 ]

@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**297 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 09:20 ET
+**296 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 13:53 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -306,4 +306,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | BorgWarner | Systems Integration Engineer Intern | Kokomo, IN |  |  | 2026-10-08 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/System-Integration-Intern_R2026-4042) |
 | Hewlett Packard Enterprise | ASIC Engineer Intern | Sunnyvale, CA |  |  | 2026-10-08 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555) |
 | Workday | Product Manager Intern | Pleasanton, CA |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) |
-| Peraton | Electrical Engineer Intern | Topeka, KS |  |  | 2026-10-08 | [Apply](https://peraton.jibeapply.com/jobs/172055?icims=1) |
