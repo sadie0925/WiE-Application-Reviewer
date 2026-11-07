@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**302 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 20:29 ET
+**301 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 02:39 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| TikTok | GEO Content Product Manager Intern | San Jose, CA |  |  | 2026-11-06 | [Apply](https://lifeattiktok.com/search/7696000178264361269) |
 | Enovation Controls | Manufacturing Engineering Test Intern | Tulsa, OK |  |  | 2026-11-06 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371) |
 | Texas Instruments | Validation/Characterization Engineering Intern | Santa Clara, CA |  |  | 2026-11-06 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016393) |
 | Honeywell | Product Management Intern - MBA | Atlanta, GA |  |  | 2026-11-06 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) |
@@ -126,10 +127,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Mayo Clinic | Graduate Engineer Intern - Electronics | Rochester, MN |  |  | 2026-10-27 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) |
 | AeroVironment | Test Engineer Intern - Space Technologies | Albuquerque, NM |  |  | 2026-10-26 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) |
 | Boston Dynamics | Electrical Engineer Co-op | Waltham, MA |  |  | 2026-10-26 | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315) |
-| JM Family | Sales Reporting & Analysis Intern | Deerfield Beach, FL |  |  | 2026-10-26 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Analysis-Intern_JR105145) |
 | Micron Technology | CMBU Product Management Intern | San Jose, CA |  |  | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) |
 | Micron Technology | NAND Storage Strategic Roadmap Planning Intern | Boise, ID |  |  | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) |
-| Micron Technology | Product Test Development Engineer Intern | Boise, ID |  |  | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115106) |
 | Nike | Product Line Management Intern - Apparel - Accessories | Beaverton, OR |  |  | 2026-10-26 | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479) |
 | RTX | Systems Engineering Co-op | St. Petersburg, FL |  |  | 2026-10-26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435) |
 | Emerson Electric | Sales and Operations Planning Intern | Austin, TX |  |  | 2026-10-26 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010170) |

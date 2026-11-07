@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**182 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 20:29 ET
+**181 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 02:39 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -22,7 +22,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Acumatica | Developer Intern | Montreal, QC, Canada |  |  | 2026-11-05 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799) |
 | DataVisor | Software Engineer Intern | Remote in Canada |  |  | 2026-11-04 | [Apply](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) |
 | Qualcomm | Machine Learning Engineering Intern | Markham, ON, Canada |  |  | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721969461) |
-| Bank of Montreal | Machine Learning Developer Intern Co-op | Toronto, ON, Canada |  |  | 2026-11-04 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) |
 | BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada |  |  | 2026-11-04 | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) |
 | BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada |  |  | 2026-11-04 | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456) |
 | Element Fleet Management | Forward Deployed Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-04 | [Apply](https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989) |
