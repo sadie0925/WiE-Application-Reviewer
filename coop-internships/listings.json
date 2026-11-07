@@ -1,5 +1,24 @@
 [
   {
+    "id": "60fd1301-4412-4891-b853-6eec26f242df",
+    "company_name": "Tesla",
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "title": "Software Engineer Intern - SI Reinforcement Learning",
+    "url": "https://www.tesla.com/careers/search/job/289241",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794049799,
+    "date_updated": 1794050015,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "680cbf01-1662-4204-9638-55b49e07da7c",
     "company_name": "Zoox",
     "company_url": "https://simplify.jobs/c/Zoox",
@@ -3283,25 +3302,6 @@
     "program": "other"
   },
   {
-    "id": "2f96e3d6-e7b7-4c8f-ac5d-832fdca16735",
-    "company_name": "Paccar",
-    "company_url": "https://simplify.jobs/c/Paccar",
-    "title": "Data Engineer Intern",
-    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
-    "locations": [
-      "Denton, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793805304,
-    "date_updated": 1793805536,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "04e80c03-2cb1-479e-9bf5-067d57f8bfd3",
     "company_name": "L3Harris Technologies",
     "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
@@ -3761,25 +3761,6 @@
     "program": "cs"
   },
   {
-    "id": "715edfbe-9e25-4d5c-b17b-230a7cd1efa2",
-    "company_name": "Northrop Grumman",
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "title": "Software Engineer Intern",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181",
-    "locations": [
-      "Roy, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793750400,
-    "date_updated": 1793805330,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "627ccd4d-bfee-4232-9b77-c75320e6631e",
     "company_name": "Parsons",
     "company_url": "https://simplify.jobs/c/Parsons",
@@ -3836,25 +3817,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "3bb515cc-bf19-4065-84f7-a2267d491859",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Electrical Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Electrical-Engineering-Intern--Summer-2027--Onsite-_01886131",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793750400,
-    "date_updated": 1793845487,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "4ae827c4-a7cf-4609-a5ef-c377bba8dbdf",
@@ -5302,25 +5264,6 @@
     "date_posted": 1793663364,
     "date_updated": 1793663461,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "0def15fc-cae9-402b-85fd-6b0139206423",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer Intern",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793663303,
-    "date_updated": 1793663484,
-    "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -9340,25 +9283,6 @@
     "program": "cs"
   },
   {
-    "id": "f82632d8-09d1-4568-bbaf-aa4a5ecb312a",
-    "company_name": "JM Family",
-    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
-    "title": "Software Engineer Intern",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793283484,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "e2a5cc10-9c89-4d98-a6f5-862cad47dd47",
     "company_name": "KLA",
     "company_url": "https://simplify.jobs/c/KLA",
@@ -10331,25 +10255,6 @@
     "source": "simplify",
     "date_posted": 1793145600,
     "date_updated": 1793225606,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "3338e211-5030-4319-9e46-aba103ce8cbd",
-    "company_name": "ASML",
-    "company_url": "https://simplify.jobs/c/ASML",
-    "title": "Data Engineer Co-op Intern",
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793145600,
-    "date_updated": 1793226640,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
@@ -12860,25 +12765,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "d1de8028-28e6-48cb-8e97-084b44da57ce",
-    "company_name": "Centerstone",
-    "company_url": "https://simplify.jobs/c/Centerstone",
-    "title": "Bachelor Level Intern",
-    "url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-033321",
-    "locations": [
-      "Bradenton, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793054347,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "972ed5d0-7a5e-452c-bb11-00d8fd074e6a",
@@ -18231,6 +18117,25 @@
     "program": "cs"
   },
   {
+    "id": "f53a894a-ab47-4376-99ff-d2e440e9c33d",
+    "company_name": "DriveWealth",
+    "company_url": "https://simplify.jobs/c/DriveWealth",
+    "title": "AI Consulting Associate Program Brokerage Intern",
+    "url": "https://boards.greenhouse.io/drivewealth/jobs/8039368003",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792536181,
+    "date_updated": 1792536335,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "7f0b6226-d723-4097-a060-879f717c121d",
     "company_name": "DriveWealth",
     "company_url": "https://simplify.jobs/c/DriveWealth",
@@ -18777,6 +18682,25 @@
     "source": "simplify",
     "date_posted": 1792454400,
     "date_updated": 1792506477,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
+    "id": "90ce8440-7b7f-4a23-9faf-98290634d956",
+    "company_name": "DriveWealth",
+    "company_url": "https://simplify.jobs/c/DriveWealth",
+    "title": "AI Consulting Associate Program Brokerage Intern",
+    "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792454400,
+    "date_updated": 1794046344,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
@@ -20516,25 +20440,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "f51bdd40-5f4d-429e-a22b-1e826726e2ad",
-    "company_name": "CenturyLink",
-    "company_url": "https://simplify.jobs/c/CenturyLink",
-    "title": "Data Internship - Analytics & Decision Science",
-    "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792190238,
-    "date_updated": 1792190501,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "c8e23a58-3dd6-4df5-8717-0a5d2b3ec7fa",
@@ -26823,138 +26728,5 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "a2005a82-4241-4a44-8cc5-31c415670ba9",
-    "company_name": "Rugged Robotics",
-    "company_url": "https://simplify.jobs/c/RuggedRobotics",
-    "title": "Electrical Engineer Intern Co-op",
-    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791469052,
-    "date_updated": 1791469311,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "06c059c8-97ea-4a18-89f3-647a18372e06",
-    "company_name": "Rugged Robotics",
-    "company_url": "https://simplify.jobs/c/RuggedRobotics",
-    "title": "Robotics Software Intern Co-op",
-    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791469052,
-    "date_updated": 1791469317,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "93c487ce-79a1-4da5-86f6-3cfebea198ed",
-    "company_name": "MSA Safety",
-    "company_url": "https://simplify.jobs/c/MSA-Safety",
-    "title": "Electrical Engineering Co-op",
-    "url": "https://careers.msasafety.com/jobs/10163?icims=1",
-    "locations": [
-      "Cranberry Township, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791468643,
-    "date_updated": 1791469171,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "7e68ac6d-e42d-4ba4-9cdf-eb5b44a8c6e4",
-    "company_name": "MSA Safety",
-    "company_url": "https://simplify.jobs/c/MSA-Safety",
-    "title": "Electrical Engineering Technology Co-op",
-    "url": "https://careers.msasafety.com/jobs/10162?icims=1",
-    "locations": [
-      "Cranberry Township, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791468643,
-    "date_updated": 1791469160,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "66fcf084-7f7c-43ed-8947-83179031963c",
-    "company_name": "DoorDash",
-    "company_url": "https://simplify.jobs/c/DoorDash",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791453827,
-    "date_updated": 1791455264,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "d47ce368-7364-4d14-a6e4-c65887552a1f",
-    "company_name": "Tenstorrent",
-    "company_url": "https://simplify.jobs/c/Tenstorrent",
-    "title": "AI Software Intern",
-    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791450939,
-    "date_updated": 1791451083,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "5b324f86-93db-4206-a6be-2406d36267e0",
-    "company_name": "TikTok",
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
-    "url": "https://lifeattiktok.com/search/7687630614472149301",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791450861,
-    "date_updated": 1791450902,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   }
 ]

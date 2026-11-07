@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**301 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 02:39 ET
+**297 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 09:20 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -53,7 +53,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Logiqal | Quantum Hardware Intern | Princeton, NJ |  |  | 2026-11-03 | [Apply](https://jobs.ashbyhq.com/logiqal/2734f991-1e21-4c77-bb41-211ffa88449d/application?embed=true) |
 | National Laboratory of the Rockies | Graduate Intern - Artificial Learning and Intelligence for Transportation Safety and Operations | Golden, CO |  |  | 2026-11-03 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern----Artificial-Learning-and-Intelligence-for-Transportation-Safety-and-Operations_R14590) |
 | Philips | Product Investigations Lab Intern | New Kensington, PA |  |  | 2026-11-03 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) |
-| RTX | Electrical Engineer Intern | Cedar Rapids, IA |  |  | 2026-11-03 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Electrical-Engineering-Intern--Summer-2027--Onsite-_01886131) |
 | Schweitzer Engineering Laboratories | Engineering Intern | Pullman, WA |  |  | 2026-11-03 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-24655) |
 | Pacific Northwest National Laboratory | Undergraduate Tech Intern - Electrical Engineering | Richland, WA |  |  | 2026-11-03 | [Apply](https://careers.pnnl.gov/jobs/13023?icims=1) |
 | Texas Instruments | Validation/Characterization Engineering Intern | Santa Clara, CA |  |  | 2026-11-03 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25012970) |
@@ -308,6 +307,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Hewlett Packard Enterprise | ASIC Engineer Intern | Sunnyvale, CA |  |  | 2026-10-08 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555) |
 | Workday | Product Manager Intern | Pleasanton, CA |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) |
 | Peraton | Electrical Engineer Intern | Topeka, KS |  |  | 2026-10-08 | [Apply](https://peraton.jibeapply.com/jobs/172055?icims=1) |
-| Rugged Robotics | Electrical Engineer Intern Co-op | Houston, TX |  |  | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005) |
-| MSA Safety | Electrical Engineering Co-op | Cranberry Township, PA |  |  | 2026-10-08 | [Apply](https://careers.msasafety.com/jobs/10163?icims=1) |
-| MSA Safety | Electrical Engineering Technology Co-op | Cranberry Township, PA |  |  | 2026-10-08 | [Apply](https://careers.msasafety.com/jobs/10162?icims=1) |

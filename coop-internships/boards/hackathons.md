@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. A row is removed as soon as its deadline passes. That deadline is the application close when the organizer publishes one. If they do not, the event start is used. This is separate from the 30-day job rule.
 
-**20 upcoming** · 3 Waterloo · 17 other Canada/US · Updated 2026-11-07 02:39 ET
+**14 upcoming** · 3 Waterloo · 11 other Canada/US · Updated 2026-11-07 09:20 ET
 
 [All boards](../README.md)
 
@@ -18,20 +18,14 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
-| BioHacks | Hamilton, Ontario | 2026-11-07 | 2026-11-07 event start | [Open](https://www.bioeng4youth.ca) |
-| HackUTD | Richardson, Texas | 2026-11-07 | 2026-11-07 event start | [Open](https://zeroday.hackutd.co) |
-| CommuniHacks | Kitchener, Ontario | 2026-11-07 | 2026-11-07 event start | [Open](https://www.communihacks.ca) |
-| Hack the Change | Calgary, Alberta | 2026-11-07 | 2026-11-07 event start | [Open](https://hackthechangeyyc.ca/) |
-| HACK.COMS | Rochester, New York | 2026-11-07 | 2026-11-07 event start | [Open](https://events.mlh.com/events/14418-hack-coms-2026) |
-| HackRPI 2026 | Troy, New York | 2026-11-07 | 2026-11-07 event start | [Open](https://hackrpi.com/) |
-| MakeCU | New York, New York | 2026-11-07 | 2026-11-07 event start | [Open](https://v0-curc-makecu.vercel.app/) |
-| Sheridan Datathon 2026 | Mississauga, Ontario | 2026-11-07 | 2026-11-07 event start | [Open](https://sheridandatathon.com/) |
 | HackCamp | Vancovuer, British Columbia | 2026-11-07 | 2026-11-07 event start | [Open](https://hackcamp.nwplus.io/) |
 | MakeUC | Cincinnati , Ohio | 2026-11-07 | 2026-11-07 event start | [Open](https://makeuc.io/) |
 | TAMU Datathon | College Station, Texas | 2026-11-07 | 2026-11-07 event start | [Open](https://tamudatathon.com/) |
 | UB Hacking | Buffalo, Northeast  | 2026-11-07 | 2026-11-07 event start | [Open](https://ubhacking.cse.buffalo.edu) |
 | GullHacks | Salisbury, MD | 2026-11-07 | 2026-11-07 event start | [Open](https://hub.salisbury.edu/hackathon/) |
+| CommuniHacks | Waterloo | 2026-11-07 | 2026-11-07 event start | [Open](https://www.hackathonradar.com/database/hackathon/communihacks-2026) |
 | Emory Hacks | Atlanta, GA | 2026-11-13 | 2026-11-13 event start | [Open](https://emoryhacks.com/) |
 | HackPrinceton Fall 2026 | Princeton, New Jersey | 2026-11-13 | 2026-11-13 event start | [Open](https://www.hackprinceton.com) |
 | NASA's Space Apps Challenge NYC |  Brooklyn, New York | 2026-11-13 | 2026-11-13 event start | [Open](https://www.spaceappschallenge.org/2026/local-events/new-york/) |
+| HackUMass | Amherst, MA | 2026-11-13 | 2026-11-13 event start | [Open](https://www.hackumass.com/) |
 | Hack Western 13 | SEI Building | Nov 20 - 22, 2026 | 2026-11-22 applications | [Open](https://hack-western-13.devpost.com/) |
