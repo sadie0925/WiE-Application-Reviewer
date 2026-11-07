@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**177 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 16:55 ET
+**182 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 20:29 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,13 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Hootsuite | Software Developer Co-op Intern | Toronto, ON, Canada, Vancouver, BC, Canada |  |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8360176) |
+| Brave | Software Engineer Intern | Remote in Canada |  |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/brave/jobs/8360001) |
+| Bank of Montreal | Technology Research Associate Co-op Intern | Toronto, ON, Canada |  |  | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) |
+| DataRobot | Software Design Engineer Intern | Boston, MA, Seattle, WA (+1) |  |  | 2026-11-05 | [Apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) |
+| OLG | Analytics Engineering & Measurement Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada |  |  | 2026-11-05 | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700) |
+| PETRONAS Canada | Student Intern - Operation Advancement | Calgary, AB, Canada |  |  | 2026-11-05 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Operation-Advancement_R0001881) |
+| PETRONAS Canada | Student Intern - Technical Assurance and Pipeline Engineering | Calgary, AB, Canada |  |  | 2026-11-05 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879) |
 | University of Ottawa | Research Assistant Intern - Data Analysis | Ottawa, ON, Canada |  |  | 2026-11-05 | [Apply](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) |
 | Qualcomm | Driver and Tools Developer Intern - Telemetry Firmware | Markham, ON, Canada |  |  | 2026-11-05 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721989047) |
 | Acumatica | Developer Intern | Montreal, QC, Canada |  |  | 2026-11-05 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799) |
@@ -185,5 +192,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Workday | Software Development Engineer Intern | Vancouver, BC, Canada |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807) |
 | Equitable Bank | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-08 | [Apply](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) |
 | Tenstorrent | AI Software Intern | Toronto, ON, Canada |  |  | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
-| Manulife Financial | Software Engineering Co-op | Waterloo, ON, Canada |  |  | 2026-10-07 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1) |
-| PSP Investments | GenAI and Digital Workplace Intern | Montreal, QC, Canada |  |  | 2026-10-07 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) |

@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**54 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 16:55 ET
+**55 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 20:29 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada |  |  | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |
 | Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada |  |  | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120) |
 | Rivian and Volkswagen Group Technologies | Mechatronics Lab Engineering Intern | Vancouver, BC, Canada |  |  | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application?embed=true) |
 | Qualcomm | Display IP FPGA Emulation Intern | Markham, ON, Canada |  |  | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361) |

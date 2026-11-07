@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**299 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 16:55 ET
+**302 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-06 20:29 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,8 +10,16 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Enovation Controls | Manufacturing Engineering Test Intern | Tulsa, OK |  |  | 2026-11-06 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371) |
+| Texas Instruments | Validation/Characterization Engineering Intern | Santa Clara, CA |  |  | 2026-11-06 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016393) |
+| Honeywell | Product Management Intern - MBA | Atlanta, GA |  |  | 2026-11-06 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) |
+| L3Harris Technologies | Electrical Engineering Intern | Salt Lake City, UT |  |  | 2026-11-06 | [Apply](https://jobs.l3harris.com/job/Salt-Lake-City-Electrical-Engineering-Intern-(Salt-Lake-City,-UT)-UT-84116/1448712800/?ats=successfactors) |
 | TikTok | POI Content Product Manager Intern | San Jose, CA |  |  | 2026-11-06 | [Apply](https://lifeattiktok.com/search/7696000179569854725) |
 | Zoox | Hardware Engineer Intern - Vehicle Systems | Foster City, CA |  |  | 2026-11-05 | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) |
+| Analog Devices | Design Evaluation Engineering Intern | San Jose, CA, United States |  |  | 2026-11-05 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineering-Intern_R267479) |
+| ASML | Computational Imaging and Metrology Engineer Intern | San Jose, CA |  |  | 2026-11-05 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102) |
+| GlobalFoundries | Device Engineer Intern - Silicon Photonics | Malta, NY |  |  | 2026-11-05 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604264) |
+| Moog | Electrical Engineering Intern | Torrance, CA |  |  | 2026-11-05 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19824) |
 | Spectrum Control | Engineering Co-op | Philadelphia, PA |  |  | 2026-11-05 | [Apply](https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101547) |
 | GM Financial | Operations Analyst Intern | Fort Worth, TX |  |  | 2026-11-05 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261259) |
 | DwyerOmega | Sensors Engineer Intern | Westerville, OH |  |  | 2026-11-05 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640964) |
@@ -145,7 +153,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | 2026-10-23 | [Apply](https://jobs.keysight.com/jobs/55152?icims=1) |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | 2026-10-23 | [Apply](https://jobs.keysight.com/jobs/55151?icims=1) |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | 2026-10-23 | [Apply](https://jobs.keysight.com/jobs/55150?icims=1) |
-| Keysight Technologies | R&D Hardware Engineering Intern | Santa Rosa, CA |  |  | 2026-10-23 | [Apply](https://jobs.keysight.com/jobs/55239?icims=1) |
 | Panasonic Holdings | Product Management Intern | Bridgeton, MO |  |  | 2026-10-23 | [Apply](https://careers.na.panasonic.com/jobs/51897?icims=1&lang=en-us) |
 | 1Password | Product Management Intern - End User Experience | Remote in USA, Remote in Canada |  |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) |
 | Amazon | ASIC Engineer Intern | Seattle, WA, Austin, TX (+1) |  |  | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) |
@@ -206,6 +213,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Rockwell Automation | Hardware Development Engineer Intern | Mayfield Heights, OH |  |  | 2026-10-19 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1) |
 | RTX | Electrical Components Engineer Intern | Tucson, AZ |  |  | 2026-10-19 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761) |
 | Skydio | Electrical Engineer Intern | San Mateo, CA |  |  | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4/application?embed=true) |
+| Zebra Technologies | Supplies & Sensors Product Manager Intern - US | Lincolnshire, IL |  |  | 2026-10-19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) |
 | Meta | Research Scientist Intern - Robotics Hardware | Redmond, WA |  |  | 2026-10-19 | [Apply](https://www.metacareers.com/jobs/2105411693413958) |
 | Garmin | Design Engineer Intern | Yarmouth, ME |  |  | 2026-10-19 | [Apply](https://careers.garmin.com/jobs/18994?icims=1) |
 | Keysight Technologies | R&D Hardware Engineer Intern | Santa Clara, CA |  |  | 2026-10-19 | [Apply](https://jobs.keysight.com/jobs/54804?icims=1) |
@@ -304,8 +312,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Rugged Robotics | Electrical Engineer Intern Co-op | Houston, TX |  |  | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005) |
 | MSA Safety | Electrical Engineering Co-op | Cranberry Township, PA |  |  | 2026-10-08 | [Apply](https://careers.msasafety.com/jobs/10163?icims=1) |
 | MSA Safety | Electrical Engineering Technology Co-op | Cranberry Township, PA |  |  | 2026-10-08 | [Apply](https://careers.msasafety.com/jobs/10162?icims=1) |
-| StudyFetch | Robotics Intern - Learning Kits & Curriculum | Beverly Hills, CA |  |  | 2026-10-07 | [Apply](https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5) |
-| Hewlett Packard Enterprise | ASIC Verification/Design Engineering Intern | Roseville, CA |  |  | 2026-10-07 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211) |
-| Vertex Pharmaceuticals | People Research and Analytics Co-op - People Research and Analytics - Human Resources | Boston, MA |  |  | 2026-10-07 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-op--People-Research-and-Analytics--Human-Resources_REQ-31103-1) |
-| Texas Instruments | Analog Design Engineer Intern | Dallas, TX |  |  | 2026-10-07 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924) |
-| Garmin | FPGA Engineer Intern | Olathe, KS |  |  | 2026-10-07 | [Apply](https://careers.garmin.com/jobs/19836?icims=1) |
