@@ -25757,24 +25757,5 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "dfba2a45-4bb5-4cc4-aee8-3ac8f4af97f6",
-    "company_name": "ProCogia",
-    "company_url": "https://simplify.jobs/c/ProCogia",
-    "title": "LLM Research Intern",
-    "url": "https://procogia.com/about-us/careers/?gh_jid=5448685008",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791556956,
-    "date_updated": 1793284385,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   }
 ]
