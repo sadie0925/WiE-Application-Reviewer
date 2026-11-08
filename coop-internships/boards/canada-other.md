@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**55 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 17:23 ET
+**54 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 20:34 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -64,4 +64,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Lumentum | Electrical Engineer Intern Co-op | Ottawa, ON, Canada |  |  | 2026-10-13 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433) |
 | Aptiv | Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704362) |
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361) |
-| Workday | Product Manager Intern | Vancouver, BC, Canada |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) |

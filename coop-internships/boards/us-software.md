@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**863 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 17:23 ET
+**840 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 20:34 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -850,26 +850,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Meta | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Burlingame, CA, Redmond, WA |  |  | 2026-10-09 | [Apply](https://www.metacareers.com/jobs/2211974449401350) |
 | Standard Aero | IT Analyst Intern | Cincinnati, OH |  |  | 2026-10-09 | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479) |
 | Standard Aero | IT Analyst Co-op | Cincinnati, OH |  |  | 2026-10-09 | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255) |
-| Aptiv | Compiler Intern - Compiler Team | Walnut Creek, CA |  |  | 2026-10-08 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385) |
-| Aptiv | Embedded Software Engineer Intern | Walnut Creek, CA |  |  | 2026-10-08 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386) |
-| Aptiv | Linux Software Development Intern | San Antonio, TX |  |  | 2026-10-08 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399) |
-| Aptiv | Software Engineer Intern | Walnut Creek, CA |  |  | 2026-10-08 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388) |
-| Aptiv | Software Engineer Intern | Walnut Creek, CA |  |  | 2026-10-08 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387) |
-| Danaher | Software Engineer Intern | Vista, CA |  |  | 2026-10-08 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Software-Engineering-Intern_R1315719) |
-| Elanco | Pet Health Sales Excellence Intern - AI Innovation & Enablement | Indianapolis, IN |  |  | 2026-10-08 | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467) |
-| FNBO | Banking Automation Engineer Intern | Omaha, NE |  |  | 2026-10-08 | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Banking-Automation-Engineer-Intern_R-20261800) |
-| GlobalFoundries | Software Engineer Intern | Austin, TX, Santa Clara, CA |  |  | 2026-10-08 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039) |
-| Micron Technology | IT Software Engineer Intern | Boise, ID |  |  | 2026-10-08 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941) |
-| Nissan Global | EA & Cloud Intern | Franklin, TN |  |  | 2026-10-08 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214) |
-| Papa John's | Data Science Intern | Atlanta, GA |  |  | 2026-10-08 | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) |
-| Papa John's | Digital Development Intern | Atlanta, GA |  |  | 2026-10-08 | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155) |
-| Parsons | Software Engineer Co-op | Centreville, VA |  |  | 2026-10-08 | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147) |
-| State of Wisconsin Investment Board | Systematic Multi-Strategy Intern | Madison, WI |  |  | 2026-10-08 | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Systematic-Multi-Strategy-Intern_R-001342) |
-| Wawa | Information Technology Development Intern | Media, PA |  |  | 2026-10-08 | [Apply](https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392) |
-| Workday | Machine Learning Engineer Intern | Pleasanton, CA |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) |
-| Workday | Software Application Development Engineer Intern | Pleasanton, CA |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811) |
-| Workday | Software Engineer Intern | Pleasanton, CA |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810) |
-| Waymo | Summer Intern - Multiple Teams | Mountain View, CA | Spring |  | 2026-10-08 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8265173) |
-| GuidePoint Security | AI & Data Science Intern - GPSU | Remote in USA |  |  | 2026-10-08 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004) |
-| Peraton | Software Development Intern | Topeka, KS |  |  | 2026-10-08 | [Apply](https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false) |
-| SoloPulse | Software Engineer Intern Co-op | Peachtree Corners, GA |  |  | 2026-10-08 | [Apply](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef/apply) |

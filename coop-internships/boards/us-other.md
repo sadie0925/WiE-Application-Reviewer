@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**295 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 17:23 ET
+**289 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 20:34 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -299,9 +299,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Harbinger Motors | Test Engineering Intern | Garden Grove, CA |  |  | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007) |
 | Vertiv | Energy Storage Product Management Intern | Delaware, OH |  |  | 2026-10-09 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) |
 | Werfen | R&D Systems Hardware Engineering Co-op | Bedford, MA |  |  | 2026-10-09 | [Apply](https://careers-werfen.icims.com/jobs/11153/job?mobile=true&needsRedirect=false) |
-| Texas Instruments | Analog IC Design Engineer Intern | Santa Clara, CA |  |  | 2026-10-08 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378) |
-| Applied Materials | Electrical Engineer Intern | Santa Clara, CA |  |  | 2026-10-08 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428) |
-| Applied Materials | Electrical Engineer Intern - Controls/PCB | Gloucester, MA |  |  | 2026-10-08 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658) |
-| BorgWarner | Systems Integration Engineer Intern | Kokomo, IN |  |  | 2026-10-08 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/System-Integration-Intern_R2026-4042) |
-| Hewlett Packard Enterprise | ASIC Engineer Intern | Sunnyvale, CA |  |  | 2026-10-08 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555) |
-| Workday | Product Manager Intern | Pleasanton, CA |  |  | 2026-10-08 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) |
