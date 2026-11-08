@@ -6184,25 +6184,6 @@
     "program": "cs"
   },
   {
-    "id": "09939e91-4c36-4e3b-ace2-9d0117e05b68",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Explore Program Engineering Intern",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793604875,
-    "date_updated": 1793604987,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0",
     "company_name": "Roku",
     "company_url": "https://simplify.jobs/c/Roku",
@@ -25791,83 +25772,6 @@
     "source": "simplify",
     "date_posted": 1791556956,
     "date_updated": 1793284385,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "e6808cfb-6fc0-41a3-aa2a-b27d76e71392",
-    "company_name": "ProCogia",
-    "company_url": "https://simplify.jobs/c/ProCogia",
-    "title": "AI Applied & Agentic AI Intern",
-    "url": "https://procogia.com/about-us/careers/?gh_jid=5448664008",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791555746,
-    "date_updated": 1793284422,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "d16d5776-a774-4531-951a-cf1dede1cc30",
-    "company_name": "Werfen",
-    "company_url": "https://simplify.jobs/c/Werfen",
-    "title": "R&D Systems Hardware Engineering Co-op",
-    "url": "https://careers-werfen.icims.com/jobs/11153/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Bedford, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791555615,
-    "date_updated": 1791555762,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
-    "id": "babf8103-ce88-446d-ae83-d600bf03ebdc",
-    "company_name": "Meta",
-    "company_url": "https://simplify.jobs/c/Meta",
-    "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
-    "url": "https://www.metacareers.com/jobs/2211974449401350",
-    "locations": [
-      "Burlingame, CA",
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791555240,
-    "date_updated": 1791555555,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "d6e1c8d2-0097-46cd-b28e-71210e3b79c8",
-    "company_name": "Standard Aero",
-    "company_url": "https://simplify.jobs/c/Standard-Aero",
-    "title": "IT Analyst Intern",
-    "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791537282,
-    "date_updated": 1791537552,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",

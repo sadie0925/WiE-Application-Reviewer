@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**839 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 02:54 ET
+**836 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 09:38 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -217,7 +217,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | NOV | Marketing and Data Analyst Intern | Houston, TX |  |  | 2026-11-02 | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45288) |
 | ParetoHealth | Software Engineer Intern | Philadelphia, PA |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) |
 | ParetoHealth | Analytics Intern | Philadelphia, PA |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006) |
-| Microsoft | Explore Program Engineering Intern | Redmond, WA |  |  | 2026-11-02 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556925823) |
 | Roku | Software Engineer Intern - AI Engineering | San Jose, CA |  |  | 2026-11-02 | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
 | 7-Eleven | Development Analyst Intern | Irving, TX |  |  | 2026-11-01 | [Apply](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Development-Analyst-Intern_R26_6319) |
 | Alaska Air Group | BI Analyst Intern | Renton, WA |  |  | 2026-11-01 | [Apply](https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false) |
@@ -847,5 +846,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Panasonic Holdings | Panasonic Transformation Group Intern | Sparks, NV |  |  | 2026-10-09 | [Apply](https://careers.na.panasonic.com/jobs/51652?icims=1) |
 | Panasonic Holdings | Panasonic Transformation Group Intern | Sparks, NV |  |  | 2026-10-09 | [Apply](https://careers.na.panasonic.com/jobs/51629?icims=1) |
 | Later | Data & Analytics Co-op | Boston, MA |  |  | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/later/jobs/8880737002) |
-| Meta | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Burlingame, CA, Redmond, WA |  |  | 2026-10-09 | [Apply](https://www.metacareers.com/jobs/2211974449401350) |
-| Standard Aero | IT Analyst Intern | Cincinnati, OH |  |  | 2026-10-09 | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479) |

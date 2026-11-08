@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**288 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 02:54 ET
+**287 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 09:38 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -297,4 +297,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Meta | ASIC Engineer Intern - Architecture | Austin, TX, Sunnyvale, CA |  |  | 2026-10-09 | [Apply](https://www.metacareers.com/jobs/1096213456288397) |
 | Harbinger Motors | Test Engineering Intern | Garden Grove, CA |  |  | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007) |
 | Vertiv | Energy Storage Product Management Intern | Delaware, OH |  |  | 2026-10-09 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) |
-| Werfen | R&D Systems Hardware Engineering Co-op | Bedford, MA |  |  | 2026-10-09 | [Apply](https://careers-werfen.icims.com/jobs/11153/job?mobile=true&needsRedirect=false) |

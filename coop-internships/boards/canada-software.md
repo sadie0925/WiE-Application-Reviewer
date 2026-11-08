@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**177 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 02:54 ET
+**176 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 09:38 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -186,4 +186,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Electronic Arts | Gameplay Software Engineer Co-op | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230) |
 | Electronic Arts | C++ Software Engineer Intern | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) |
 | ProCogia | LLM Research Intern | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://procogia.com/about-us/careers/?gh_jid=5448685008) |
-| ProCogia | AI Applied & Agentic AI Intern | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://procogia.com/about-us/careers/?gh_jid=5448664008) |
