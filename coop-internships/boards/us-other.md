@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**289 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 20:34 ET
+**288 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 02:54 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -246,7 +246,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | NVIDIA | Product Management MBA Intern | Santa Clara, CA |  |  | 2026-10-14 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
 | Q2 | Product Operations Intern - Product Operations | Austin, TX |  |  | 2026-10-14 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) |
 | ROCKWOOL Group | Associate Product Management Intern | Chicago, IL |  |  | 2026-10-14 | [Apply](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) |
-| Meta | ASIC Engineer Intern - Design Verification - Silicon Engineering | Sunnyvale, CA |  |  | 2026-10-14 | [Apply](https://www.metacareers.com/jobs/1079763448023260) |
 | Meta | Hardware Engineer Intern - Camera & Sensing Architecture | Redmond, WA, Sunnyvale, CA |  |  | 2026-10-14 | [Apply](https://www.metacareers.com/jobs/29216393121298039) |
 | Meta | Display Array Modeling Engineer Intern | Sunnyvale, CA |  |  | 2026-10-14 | [Apply](https://www.metacareers.com/jobs/2773227806411499) |
 | Quantinuum | Optics Engineer Intern | Broomfield, CO |  |  | 2026-10-14 | [Apply](https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71/apply) |

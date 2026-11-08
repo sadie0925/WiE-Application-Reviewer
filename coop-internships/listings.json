@@ -22286,25 +22286,6 @@
     "program": "cs"
   },
   {
-    "id": "89ca1b73-4bb7-4170-8435-a36bee214e34",
-    "company_name": "Meta",
-    "company_url": "https://simplify.jobs/c/Meta",
-    "title": "ASIC Engineer Intern - Design Verification - Silicon Engineering",
-    "url": "https://www.metacareers.com/jobs/1079763448023260",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792017027,
-    "date_updated": 1792017208,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "3660a701-8700-4d11-9572-98c2520bd81c",
     "company_name": "Meta",
     "company_url": "https://simplify.jobs/c/Meta",
@@ -23603,25 +23584,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "2da5da2b-d4bb-411a-9edc-521c81a36a7a",
-    "company_name": "Pebl",
-    "company_url": "https://simplify.jobs/c/Pebl",
-    "title": "Software Engineering Intern",
-    "url": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791929907,
-    "date_updated": 1791930488,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "4ec7c8e1-4b77-476f-aa6d-5a1c5bfb12ce",
@@ -25906,25 +25868,6 @@
     "source": "simplify",
     "date_posted": 1791537282,
     "date_updated": 1791537552,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "3319becb-4356-4fd1-9cf4-4ffab09647bf",
-    "company_name": "Standard Aero",
-    "company_url": "https://simplify.jobs/c/Standard-Aero",
-    "title": "IT Analyst Co-op",
-    "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791526523,
-    "date_updated": 1791526780,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",

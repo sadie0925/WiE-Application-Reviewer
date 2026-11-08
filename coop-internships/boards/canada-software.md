@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**178 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 20:34 ET
+**177 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 02:54 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -164,7 +164,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Astera Labs | Firmware Engineer Co-op Intern | Vancouver, BC, Canada |  |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) |
 | Manulife Financial | Software Engineer Intern | Waterloo, ON, Canada |  |  | 2026-10-13 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1) |
 | Manulife Financial | Software Engineer Intern - Software Engineering | Waterloo, ON, Canada |  |  | 2026-10-13 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) |
-| Pebl | Software Engineering Intern | Toronto, ON, Canada |  |  | 2026-10-13 | [Apply](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  | 2026-10-12 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) |
 | Databricks | Software Engineer Intern | Bellevue, WA, Mountain View, CA (+1) |  |  | 2026-10-12 | [Apply](https://boards.greenhouse.io/embed/job_app?token=6865687002) |
 | Aptiv | Cloud Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383) |

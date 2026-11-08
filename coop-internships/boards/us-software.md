@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**840 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-07 20:34 ET
+**839 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 02:54 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -849,4 +849,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Later | Data & Analytics Co-op | Boston, MA |  |  | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/later/jobs/8880737002) |
 | Meta | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Burlingame, CA, Redmond, WA |  |  | 2026-10-09 | [Apply](https://www.metacareers.com/jobs/2211974449401350) |
 | Standard Aero | IT Analyst Intern | Cincinnati, OH |  |  | 2026-10-09 | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479) |
-| Standard Aero | IT Analyst Co-op | Cincinnati, OH |  |  | 2026-10-09 | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255) |
