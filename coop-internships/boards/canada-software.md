@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**175 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 14:06 ET
+**171 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 17:48 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -181,7 +181,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Manulife Financial | Software Engineer Co-op | Toronto, ON, Canada |  |  | 2026-10-11 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1) |
 | Manulife Financial | Software Engineering Co-op | Toronto, ON, Canada |  |  | 2026-10-11 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1) |
 | Magnet Forensics | Software Developer Co-op | Ontario, Canada, Waterloo, ON, Canada (+1) |  |  | 2026-10-09 | [Apply](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply) |
-| Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225) |
-| Electronic Arts | Software Engineer Co-op | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231) |
-| Electronic Arts | Gameplay Software Engineer Co-op | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230) |
-| Electronic Arts | C++ Software Engineer Intern | Vancouver, BC, Canada |  |  | 2026-10-09 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) |

@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**836 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 14:06 ET
+**821 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 17:48 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -831,18 +831,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Valmont | Product Analyst Intern | Valley, NE |  |  | 2026-10-11 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Product-Analyst-Intern--Part-Time-_R29081) |
 | DocuSign | Software Engineer Intern | Seattle, WA |  |  | 2026-10-09 | [Apply](https://careers.docusign.com/jobs/30499?icims=1) |
 | Arizona State University | Student Web Developer & Content Specialist Intern | Tempe, AZ |  |  | 2026-10-09 | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546) |
-| GCM Grosvenor | Software Engineer Intern | Chicago, IL |  |  | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003) |
-| Tesla | Software Engineer Intern - Software Engineer - Infotainment Platforms Validation | Palo Alto, CA |  |  | 2026-10-09 | [Apply](https://www.tesla.com/careers/search/job/286261) |
-| DocuSign | Software Engineer Intern | Seattle, WA |  |  | 2026-10-09 | [Apply](https://careers.docusign.com/jobs/30513?icims=1) |
-| DocuSign | Software Engineer Intern | Chicago, IL |  |  | 2026-10-09 | [Apply](https://careers.docusign.com/jobs/30497?icims=1) |
-| Lennox International | Business Compliance Intern | Richardson, TX |  |  | 2026-10-09 | [Apply](https://uscareers-lennox.icims.com/jobs/55590/job?mobile=true&needsRedirect=false) |
-| Meta | Research Scientist Intern - Spatial Audio Capture and Reproduction | Redmond, WA |  |  | 2026-10-09 | [Apply](https://www.metacareers.com/jobs/1674394627579563) |
-| SageSure | Software Product Management Intern | Chicago, IL, Jersey City, NJ (+1) |  |  | 2026-10-09 | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006) |
-| SageSure | Data Scientist Intern | Jersey City, NJ, Cheshire, CT |  |  | 2026-10-09 | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006) |
-| SageSure | Data Operations Engineer Intern | Jersey City, NJ, Cheshire, CT |  |  | 2026-10-09 | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719517006) |
-| SageSure | Data Science Intern | Jersey City, NJ |  |  | 2026-10-09 | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006) |
-| SageSure | Software Engineer Intern | Chicago, IL, Jersey City, NJ (+1) |  |  | 2026-10-09 | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006) |
-| Panasonic Holdings | Panasonic Transformation Group Intern | Sparks, NV |  |  | 2026-10-09 | [Apply](https://careers.na.panasonic.com/jobs/51646?icims=1) |
-| Panasonic Holdings | Panasonic Transformation Group Intern | Sparks, NV |  |  | 2026-10-09 | [Apply](https://careers.na.panasonic.com/jobs/51652?icims=1) |
-| Panasonic Holdings | Panasonic Transformation Group Intern | Sparks, NV |  |  | 2026-10-09 | [Apply](https://careers.na.panasonic.com/jobs/51629?icims=1) |
-| Later | Data & Analytics Co-op | Boston, MA |  |  | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/later/jobs/8880737002) |
