@@ -26,19 +26,6 @@
     "source": "velocity"
   },
   {
-    "name": "CommuniHacks",
-    "location": "Waterloo",
-    "url": "https://www.hackathonradar.com/database/hackathon/communihacks-2026",
-    "starts_at": "2026-11-08T23:59:59-05:00",
-    "ends_at": "",
-    "deadline_at": "2026-11-08T23:59:59-05:00",
-    "deadline_kind": "event_start",
-    "when": "2026-11-08",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "hackathon-radar"
-  },
-  {
     "name": "Emory Hacks",
     "location": "Atlanta, GA",
     "url": "https://emoryhacks.com/",

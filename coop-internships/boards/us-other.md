@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**284 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 21:04 ET
+**283 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-09 04:38 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Hewlett Packard Enterprise | Electrical Hardware Engineer Intern | Sunnyvale, CA |  |  | 2026-11-07 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-Intern_1214992) |
 | TikTok | GEO Content Product Manager Intern | San Jose, CA |  |  | 2026-11-06 | [Apply](https://lifeattiktok.com/search/7696000178264361269) |
 | Enovation Controls | Manufacturing Engineering Test Intern | Tulsa, OK |  |  | 2026-11-06 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371) |
 | Texas Instruments | Validation/Characterization Engineering Intern | Santa Clara, CA |  |  | 2026-11-06 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016393) |
@@ -81,7 +82,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | GlobalFoundries | Design Verification Engineer Intern | Richardson, TX |  |  | 2026-11-01 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) |
 | NASA Jet Propulsion Laboratory | Electrical & Computer Engineering Intern - Flight Communications and Tracking Section - GNSS, Radiometric & Gravity Sensing Instruments Group | Pasadena, CA |  |  | 2026-11-01 | [Apply](https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Academic-Part-Time-Intern_R6220) |
 | Rambus | RTL Digital Design Intern | Johns Creek, GA |  |  | 2026-11-01 | [Apply](https://careers-rambus.icims.com/jobs/23113/job?mobile=true&needsRedirect=false) |
-| T-Mobile | Product Management Intern | Philadelphia, PA |  |  | 2026-11-01 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735) |
 | T-Mobile | Product Operations Manager Intern | Bellevue, WA |  |  | 2026-11-01 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888) |
 | The Federal Reserve System | Supervision & Regulation Intern - Business Relationship | Atlanta, GA |  |  | 2026-11-01 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) |
 | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC |  |  | 2026-10-30 | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
@@ -117,7 +117,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | RTX | Electrical Engineer Intern | El Segundo, CA |  |  | 2026-10-27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electrical-Engineering-Intern--Summer-2027-_01883292) |
 | RTX | Hardware Electrical Engineer Intern | Cambridge, MA |  |  | 2026-10-27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831) |
 | RTX | Hardware Electrical Engineering Co-op | Cambridge, MA |  |  | 2026-10-27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598) |
-| T-Mobile | Associate Technical Product Manager Intern | Frisco, TX |  |  | 2026-10-27 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) |
 | Uline | International Operations Analyst Intern | Pleasant Prairie, WI |  |  | 2026-10-27 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R268694) |
 | Viavi Solutions | Hardware Engineer Co-op Intern | Germantown, MD |  |  | 2026-10-27 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_260005108-1) |
 | ViaSat | Pointing and Tracking Engineer Intern | Duluth, GA |  |  | 2026-10-27 | [Apply](https://careers.viasat.com/jobs/6752?icims=1) |

@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**819 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 21:04 ET
+**808 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-09 04:38 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Samsung | ePro Business & Data Analyst Intern | Plano, TX |  |  | 2026-11-07 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) |
 | Tesla | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA |  |  | 2026-11-07 | [Apply](https://www.tesla.com/careers/search/job/289241) |
 | Zoox | Data Scientist Intern | Boston, MA, Foster City, CA |  |  | 2026-11-06 | [Apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) |
 | Tesla | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA |  |  | 2026-11-06 | [Apply](https://www.tesla.com/careers/search/job/289240) |
@@ -143,7 +144,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Parsons | AI/ML Engineer Intern | Centreville, VA, United States |  |  | 2026-11-03 | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194) |
 | RTX | Control/Diagnostic Software Intern | Jupiter, FL |  |  | 2026-11-03 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) |
 | Vizient | Pharmacy Aggregation Intern | Washington, DC, Centennial, CO (+6) |  |  | 2026-11-03 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) |
-| Zebra Technologies | Software Engineer Intern | Holtsville, NY |  |  | 2026-11-03 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657) |
 | Erie Insurance Group | Claims Systems & AI Intern 2 | Erie, PA |  |  | 2026-11-03 | [Apply](https://jobs.erieinsurance.com/job/Erie-Intern-II-(Claims-Systems-&-AI)-PA-16506/1447480500/?ats=successfactors) |
 | Microsoft | Software Engineer Intern | Redmond, WA |  |  | 2026-11-03 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557037859) |
 | Sherwin-Williams | R&D Data Visualization Intern | Brecksville, OH |  |  | 2026-11-03 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298) |
@@ -219,10 +219,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | ParetoHealth | Analytics Intern | Philadelphia, PA |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006) |
 | Roku | Software Engineer Intern - AI Engineering | San Jose, CA |  |  | 2026-11-02 | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
 | 7-Eleven | Development Analyst Intern | Irving, TX |  |  | 2026-11-01 | [Apply](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Development-Analyst-Intern_R26_6319) |
-| Alaska Air Group | BI Analyst Intern | Renton, WA |  |  | 2026-11-01 | [Apply](https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false) |
-| Alaska Air Group | Guest Products Analyst Intern | SeaTac, WA |  |  | 2026-11-01 | [Apply](https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false) |
-| Alaska Air Group | Software Engineer Intern | SeaTac, WA |  |  | 2026-11-01 | [Apply](https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false) |
-| Alaska Air Group | VR Development Intern | Renton, WA |  |  | 2026-11-01 | [Apply](https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false) |
 | Applied Materials | Software Engineer Intern | Santa Clara, CA |  |  | 2026-11-01 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003) |
 | Booz Allen | Summer Games Data Scientist Intern | Detroit, MI |  |  | 2026-11-01 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783) |
 | Cincinnati Children’s Hospital and Medical Center | Software Engineering Developer Intern | Remote in USA |  |  | 2026-11-01 | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743) |
@@ -243,7 +239,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | NVIDIA | AI Compiler and Kernel Intern | Austin, TX |  |  | 2026-11-01 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
 | NVIDIA | Math Libraries Intern | Canada, Santa Clara, CA (+1) |  |  | 2026-11-01 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) |
 | NXP Semiconductors | Hardware/Software System and Application Engineer Intern | Chandler, AZ |  |  | 2026-11-01 | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708) |
-| RTX | Program Fleet Intern | East Hartford, CT |  |  | 2026-11-01 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/PW1100G-JM-Program-Fleet-Intern--Summer-2027-_01878283) |
 | Shield AI | Embedded Firmware Intern | Dallas, TX |  |  | 2026-11-01 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/621d736b-5ae1-4d62-8f05-088753318d29/application?embed=true) |
 | Sierra Nevada Corporation | Data Science Intern - Summer 2027 | Sparks, NV | Spring 2027 |  | 2026-11-01 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257) |
 | Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC |  |  | 2026-11-01 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229) |
@@ -251,14 +246,12 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Signet Jewelers | Data Analytics Intern | Akron, OH |  |  | 2026-11-01 | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317) |
 | Signet Jewelers | Data Analytics Intern | Akron, OH |  |  | 2026-11-01 | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1) |
 | Sonos | Data Engineer Intern | Seattle, WA |  |  | 2026-11-01 | [Apply](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Data-Engineering-Intern--Seattle-_R2897-1) |
-| T-Mobile | Software Engineer Intern | Philadelphia, PA |  |  | 2026-11-01 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882) |
 | The Aerospace Corporation | Software Engineer Intern - Software Process and Architecture Department - Information Systems and Cyber Division | El Segundo, CA |  |  | 2026-11-01 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102) |
 | Valmont | Embedded Systems Engineer Intern | Valley, NE |  |  | 2026-11-01 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223) |
 | TRG | Full Stack Application Developer Intern | Dallas, TX |  |  | 2026-11-01 | [Apply](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) |
 | Firework | Data Engineer Intern | San Mateo, CA |  |  | 2026-10-30 | [Apply](https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply) |
 | Meta | Research Scientist Intern - Video Recsys | Menlo Park, CA |  |  | 2026-10-30 | [Apply](https://www.metacareers.com/jobs/1553890293163197) |
 | Molina Healthcare | Electronic Data Interchange Intern | Remote in USA |  |  | 2026-10-30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040156) |
-| Molina Healthcare | Customer Experience & Analytics Intern - Undergraduate | Remote in USA |  |  | 2026-10-30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169) |
 | Elucid | Software Engineer Intern | Boston, MA |  |  | 2026-10-30 | [Apply](https://elucid.applytojob.com/apply/6VSEqF73l9/Software-Engineering-Intern-Spring-2027) |
 | Divergent Technologies | Business Intelligence Intern | Torrance, CA |  |  | 2026-10-30 | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393519008) |
 | Strada Education Foundation | Clear Outcomes and Data Science Intern | Washington, DC |  |  | 2026-10-30 | [Apply](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply) |
@@ -318,7 +311,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Highmark Health | Clinical and Population Health Graduate Intern | Washington, DC |  |  | 2026-10-28 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011) |
 | HNTB | GIS Intern | Tampa, FL, Tallahassee, FL |  |  | 2026-10-28 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/GIS-Intern_R-32235-1) |
 | HNTB | GIS Intern | Tampa, FL, Tallahassee, FL |  |  | 2026-10-28 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tampa-FL/GIS-Intern_R-32235) |
-| JM Family | Customer Experience Data Analyst Intern | Deerfield Beach, FL |  |  | 2026-10-28 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125) |
 | KLA | Software Engineer Intern | Milpitas, CA |  |  | 2026-10-28 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721) |
 | KLA | Software Intern | Milpitas, CA |  |  | 2026-10-28 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1) |
 | KLA Corporation | Software Engineer Intern | Milpitas, CA |  |  | 2026-10-28 | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1) |
@@ -432,7 +424,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Pattern | Revenue Operations Data Analyst Intern | Lehi, UT |  |  | 2026-10-26 | [Apply](https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply) |
 | Qube Research & Technologies | Technology Intern | Chicago, IL |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) |
 | Vigil Labs | Software Engineer Intern | Palo Alto, CA |  |  | 2026-10-26 | [Apply](https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2) |
-| Applied Materials | Data Scientist Co-op | Gloucester, MA |  |  | 2026-10-25 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146) |
 | Arizona State University | Student Assistant Intern - Data Science | Scottsdale, AZ |  |  | 2026-10-25 | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1568) |
 | Atlassian | AI Researcher Intern | Seattle, WA |  |  | 2026-10-25 | [Apply](https://campus-americas.icims.com/jobs/26246/ai-researcher-%28phd%29%2c-2027-graduate-u.s./job) |
 | Booz Allen | 2027 Summer Games Data Scientist Intern | Lexington, MA |  |  | 2026-10-25 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) |
@@ -816,8 +807,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | CapTech Consulting | Data Analysis/Data Engineering Intern | Richmond, VA |  |  | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169) |
 | Cboe | Software Engineer Intern - C++ | Kansas City, MO |  |  | 2026-10-11 | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726) |
 | Hewlett Packard Enterprise | Firmware Engineer Intern | Sunnyvale, CA |  |  | 2026-10-11 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254) |
-| Johnson & Johnson | IDAR Summer Intern - C&SP | Spring House, PA, Raritan, NJ (+1) | Spring |  | 2026-10-11 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--C-SP-_R-103534) |
-| Johnson & Johnson | IDAR Summer Intern - Ease | Spring House, PA, Raritan, NJ | Spring |  | 2026-10-11 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328) |
 | Life Fitness | Android Software Engineer Intern | Schaumburg, IL |  |  | 2026-10-11 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277) |
 | Life Fitness | Embedded Software Engineer Intern | Schaumburg, IL |  |  | 2026-10-11 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276) |
 | Nissan Global | Data Science Intern | Franklin, TN |  |  | 2026-10-11 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250) |

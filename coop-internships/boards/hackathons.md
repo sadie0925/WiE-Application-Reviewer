@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. A row is removed as soon as its deadline passes. That deadline is the application close when the organizer publishes one. If they do not, the event start is used. This is separate from the 30-day job rule.
 
-**22 upcoming** · 2 Waterloo · 20 other Canada/US · Updated 2026-11-08 21:04 ET
+**21 upcoming** · 2 Waterloo · 19 other Canada/US · Updated 2026-11-09 04:38 ET
 
 [All boards](../README.md)
 
@@ -17,7 +17,6 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
-| CommuniHacks | Waterloo | 2026-11-08 | 2026-11-08 event start | [Open](https://www.hackathonradar.com/database/hackathon/communihacks-2026) |
 | Emory Hacks | Atlanta, GA | 2026-11-13 | 2026-11-13 event start | [Open](https://emoryhacks.com/) |
 | HackPrinceton Fall 2026 | Princeton, New Jersey | 2026-11-13 | 2026-11-13 event start | [Open](https://www.hackprinceton.com) |
 | NASA's Space Apps Challenge NYC |  Brooklyn, New York | 2026-11-13 | 2026-11-13 event start | [Open](https://www.spaceappschallenge.org/2026/local-events/new-york/) |

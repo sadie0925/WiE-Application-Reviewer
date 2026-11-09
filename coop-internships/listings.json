@@ -19,6 +19,44 @@
     "program": "cs"
   },
   {
+    "id": "2cdfed62-a249-4fe7-b45f-406da7879351",
+    "company_name": "Hewlett Packard Enterprise",
+    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+    "title": "Electrical Hardware Engineer Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-Intern_1214992",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794096000,
+    "date_updated": 1794207964,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "other"
+  },
+  {
+    "id": "63b0cc3b-2e81-4428-ab00-769c4524fcb3",
+    "company_name": "Samsung",
+    "company_url": "https://simplify.jobs/c/Samsung",
+    "title": "ePro Business & Data Analyst Intern",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
+    "locations": [
+      "Plano, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794096000,
+    "date_updated": 1794208951,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "track": "intern",
+    "program": "cs"
+  },
+  {
     "id": "60fd1301-4412-4891-b853-6eec26f242df",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -3883,25 +3921,6 @@
     "program": "cs"
   },
   {
-    "id": "d21074f9-91d2-4034-bdc6-343e4b7baf92",
-    "company_name": "Zebra Technologies",
-    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
-    "locations": [
-      "Holtsville, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793750400,
-    "date_updated": 1793845882,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "2586b9a7-c10d-47f4-a80e-d01413e93066",
     "company_name": "Erie Insurance Group",
     "company_url": "https://simplify.jobs/c/Erie-Insurance-Group",
@@ -6241,82 +6260,6 @@
     "program": "cs"
   },
   {
-    "id": "eb8a2e35-b9c4-4e33-89cf-b145e732f581",
-    "company_name": "Alaska Air Group",
-    "company_url": "https://simplify.jobs/c/Alaska-Air-Group",
-    "title": "BI Analyst Intern",
-    "url": "https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Renton, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793867095,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "cdb6fb97-891a-42fe-8c20-fc82c2234b21",
-    "company_name": "Alaska Air Group",
-    "company_url": "https://simplify.jobs/c/Alaska-Air-Group",
-    "title": "Guest Products Analyst Intern",
-    "url": "https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "SeaTac, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793867092,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "dac9ed6b-56bc-46cd-9df0-a15db5581717",
-    "company_name": "Alaska Air Group",
-    "company_url": "https://simplify.jobs/c/Alaska-Air-Group",
-    "title": "Software Engineer Intern",
-    "url": "https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "SeaTac, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793867091,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "2e1a5e1d-e688-49b9-9369-a2f5deb491a6",
-    "company_name": "Alaska Air Group",
-    "company_url": "https://simplify.jobs/c/Alaska-Air-Group",
-    "title": "VR Development Intern",
-    "url": "https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Renton, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793867093,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "5825f548-b298-42bd-b304-9e9b1834382f",
     "company_name": "Applied Materials",
     "company_url": "https://simplify.jobs/c/Applied-Materials",
@@ -6816,25 +6759,6 @@
     "program": "other"
   },
   {
-    "id": "48ffbc2e-df41-400b-8812-1097f69556c6",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Program Fleet Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/PW1100G-JM-Program-Fleet-Intern--Summer-2027-_01878283",
-    "locations": [
-      "East Hartford, CT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793661215,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "852bd1df-9c2a-4356-bd93-fde6c1c519b2",
     "company_name": "Semtech",
     "company_url": "https://simplify.jobs/c/Semtech",
@@ -7006,25 +6930,6 @@
     "program": "cs"
   },
   {
-    "id": "9d1b1bbe-f17b-45fa-9f6e-c944caa8f7eb",
-    "company_name": "T-Mobile",
-    "company_url": "https://simplify.jobs/c/T-Mobile",
-    "title": "Product Management Intern",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793661339,
-    "category": "Product",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
-  },
-  {
     "id": "16de67d3-8ae7-46cf-a448-30a53f7bf57d",
     "company_name": "T-Mobile",
     "company_url": "https://simplify.jobs/c/T-Mobile",
@@ -7042,25 +6947,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "76a9adb2-de1f-4c13-8134-c6ae9614a37d",
-    "company_name": "T-Mobile",
-    "company_url": "https://simplify.jobs/c/T-Mobile",
-    "title": "Software Engineer Intern",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793661340,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "5d700994-d5ab-41f3-9bb8-8b08d9f547fa",
@@ -7209,25 +7095,6 @@
     "source": "simplify",
     "date_posted": 1793400656,
     "date_updated": 1793960461,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "18803ec8-f589-4545-bb91-2d5378346d55",
-    "company_name": "Molina Healthcare",
-    "company_url": "https://simplify.jobs/c/Molina-Healthcare",
-    "title": "Customer Experience & Analytics Intern - Undergraduate",
-    "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793400655,
-    "date_updated": 1793400765,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
@@ -8021,25 +7888,6 @@
     "program": "cs"
   },
   {
-    "id": "ba489eda-1455-478f-a4f5-c3cfc0b0675e",
-    "company_name": "NAV CANADA",
-    "company_url": "https://simplify.jobs/c/NAV-CANADA",
-    "title": "Aviation Predictive Analytics Co-op",
-    "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793318400,
-    "date_updated": 1793398064,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "bf045bbb-19b5-4bf0-a8de-2d2a06103832",
     "company_name": "Nissan",
     "company_url": "https://simplify.jobs/c/Nissan",
@@ -8054,26 +7902,6 @@
     "date_posted": 1793318400,
     "date_updated": 1793371685,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "bc7d4376-6b3f-4e31-8e71-be0610594d48",
-    "company_name": "OLG",
-    "company_url": "https://simplify.jobs/c/OLG",
-    "title": "Front End Developer Student Intern",
-    "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Sault Ste. Marie, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793318400,
-    "date_updated": 1793400685,
-    "category": "Software",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -8919,44 +8747,6 @@
     "program": "other"
   },
   {
-    "id": "2b2e5210-8084-4fd3-b375-bdd043c7b676",
-    "company_name": "CIBC",
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "title": "AI Developer Co-op - Bilingual",
-    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793283843,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "05d25f11-31aa-465e-b08d-99af042a026f",
-    "company_name": "CIBC",
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "title": "Analyst Co-op",
-    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793283843,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "7b33b6fd-f6cc-443d-908d-c217c9767ef6",
     "company_name": "Ciena",
     "company_url": "https://simplify.jobs/c/Ciena",
@@ -9239,25 +9029,6 @@
     "source": "simplify",
     "date_posted": 1793232000,
     "date_updated": 1793314082,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "ffc6266f-4786-4043-b824-c50c2f564d80",
-    "company_name": "JM Family",
-    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
-    "title": "Customer Experience Data Analyst Intern",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793283484,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "track": "intern",
@@ -10724,25 +10495,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "d5003bb9-4e1d-41af-97fb-843e7f28ae5f",
-    "company_name": "T-Mobile",
-    "company_url": "https://simplify.jobs/c/T-Mobile",
-    "title": "Associate Technical Product Manager Intern",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499",
-    "locations": [
-      "Frisco, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793145600,
-    "date_updated": 1793225452,
-    "category": "Product",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "d7027afa-efad-4c6a-8b5a-853c11811670",
@@ -12461,25 +12213,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "8e8f5c62-75b7-4d21-9a7b-a56d2f2513cf",
-    "company_name": "Applied Materials",
-    "company_url": "https://simplify.jobs/c/Applied-Materials",
-    "title": "Data Scientist Co-op",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146",
-    "locations": [
-      "Gloucester, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793052544,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "5055f3a1-8816-4390-a4a1-437461953487",
@@ -24890,47 +24623,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "d66fb15d-3f14-497d-9099-9814aef7e5a3",
-    "company_name": "Johnson & Johnson",
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "title": "IDAR Summer Intern - C&SP",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--C-SP-_R-103534",
-    "locations": [
-      "Spring House, PA",
-      "Raritan, NJ",
-      "Hopewell Township, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791763200,
-    "date_updated": 1791844662,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "fdf4dfa7-1147-46dc-a5e5-0873db565d6f",
-    "company_name": "Johnson & Johnson",
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "title": "IDAR Summer Intern - Ease",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328",
-    "locations": [
-      "Spring House, PA",
-      "Raritan, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791763200,
-    "date_updated": 1791844662,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "e37213e4-b577-4fe8-8489-091b1ea2837b",

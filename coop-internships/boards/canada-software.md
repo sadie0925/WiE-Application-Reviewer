@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**170 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 21:04 ET
+**166 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-09 04:38 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -49,8 +49,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | AltaLink | Project Support Co-op | Calgary, AB, Canada |  |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) |
-| NAV CANADA | Aviation Predictive Analytics Co-op | Ottawa, ON, Canada |  |  | 2026-10-29 | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599) |
-| OLG | Front End Developer Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada |  |  | 2026-10-29 | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665) |
 | Revvity | Full-stack AI Developer Intern | Ontario, Canada |  |  | 2026-10-29 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792) |
 | Revvity | Full-stack AI Developer Intern | Ontario, Canada |  |  | 2026-10-29 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794) |
 | Revvity | Full-stack AI Developer Intern | Ontario, Canada |  |  | 2026-10-29 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793) |
@@ -62,8 +60,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Qualcomm | Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems | Markham, ON, Canada |  |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) |
 | Altera | Software Engineer Intern - Factory Apps | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384) |
 | Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) |
-| CIBC | AI Developer Co-op - Bilingual | Montreal, QC, Canada |  |  | 2026-10-28 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390) |
-| CIBC | Analyst Co-op | Montreal, QC, Canada |  |  | 2026-10-28 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369) |
 | Ciena | Embedded Software Engineer Co-op | Ottawa, ON, Canada |  |  | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005) |
 | Ryan | Software Engineer Intern | North York, ON, Canada |  |  | 2026-10-28 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1) |
 | Ryan | Software Engineer Intern | North York, ON, Canada |  |  | 2026-10-28 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1) |
