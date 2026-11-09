@@ -1,5 +1,24 @@
 [
   {
+    "id": "bead51fa-aa91-421e-9b22-bc3e451072b1",
+    "company_name": "Shield AI",
+    "company_url": "https://simplify.jobs/c/Shield-AI",
+    "title": "Engineer 2 New Grad - Multiple Teams",
+    "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794179354,
+    "date_updated": 1794179558,
+    "category": "Software",
+    "sponsorship": "Other",
+    "track": "new_grad",
+    "program": "cs"
+  },
+  {
     "id": "60fd1301-4412-4891-b853-6eec26f242df",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -25273,64 +25292,5 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "2119e688-2d27-422f-998b-c9ebd97413f3",
-    "company_name": "DocuSign",
-    "company_url": "https://simplify.jobs/c/DocuSign",
-    "title": "Software Engineer Intern",
-    "url": "https://careers.docusign.com/jobs/30499?icims=1",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791594665,
-    "date_updated": 1791594721,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "978157d4-2173-4f60-a1c7-5b7e4bab53ea",
-    "company_name": "Magnet Forensics",
-    "company_url": "https://simplify.jobs/c/Magnet-Forensics",
-    "title": "Software Developer Co-op",
-    "url": "https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply",
-    "locations": [
-      "Ontario, Canada",
-      "Waterloo, ON, Canada",
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791594595,
-    "date_updated": 1791594721,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "6f1a27e9-3515-4a43-a644-80dbddacc4bb",
-    "company_name": "Arizona State University",
-    "company_url": "https://simplify.jobs/c/Arizona-State-University",
-    "title": "Student Web Developer & Content Specialist Intern",
-    "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546",
-    "locations": [
-      "Tempe, AZ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791590400,
-    "date_updated": 1791623496,
-    "category": "Software",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   }
 ]

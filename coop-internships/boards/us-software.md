@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**821 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 17:48 ET
+**819 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-08 21:04 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -829,5 +829,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | RTX | Systems Engineer Co-op | Cedar Rapids, IA |  |  | 2026-10-11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432) |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID |  |  | 2026-10-11 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958) |
 | Valmont | Product Analyst Intern | Valley, NE |  |  | 2026-10-11 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Product-Analyst-Intern--Part-Time-_R29081) |
-| DocuSign | Software Engineer Intern | Seattle, WA |  |  | 2026-10-09 | [Apply](https://careers.docusign.com/jobs/30499?icims=1) |
-| Arizona State University | Student Web Developer & Content Specialist Intern | Tempe, AZ |  |  | 2026-10-09 | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546) |

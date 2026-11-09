@@ -219,5 +219,70 @@
     "status": "Upcoming",
     "tier": "major",
     "source": "mlh"
+  },
+  {
+    "name": "UofTHacks",
+    "location": "Toronto, Ontario",
+    "url": "https://uofthacks.com/",
+    "starts_at": "2027-01-15T01:11:11Z",
+    "ends_at": "2027-01-17T23:59:59Z",
+    "deadline_at": "2027-01-15T01:11:11Z",
+    "deadline_kind": "event_start",
+    "when": "JAN 15 - 17",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
+    "name": "uOttaHack 9",
+    "location": "Ottawa, Ontario ",
+    "url": "https://2027.uottahack.ca/",
+    "starts_at": "2027-01-15T01:11:11Z",
+    "ends_at": "2027-01-17T23:59:59Z",
+    "deadline_at": "2027-01-15T01:11:11Z",
+    "deadline_kind": "event_start",
+    "when": "JAN 15 - 17",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
+    "name": "QWER Hacks",
+    "location": "Los Angeles, CA",
+    "url": "https://www.qwerhacks.com/",
+    "starts_at": "2027-01-16T01:11:11Z",
+    "ends_at": "2027-01-17T23:59:59Z",
+    "deadline_at": "2027-01-16T01:11:11Z",
+    "deadline_kind": "event_start",
+    "when": "JAN 16 - 17",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
+    "name": "HackBI X",
+    "location": "Alexandria, Virginia",
+    "url": "https://hackbi.org/",
+    "starts_at": "2027-01-16T14:00:00Z",
+    "ends_at": "2027-01-17T16:30:00Z",
+    "deadline_at": "2027-01-16T14:00:00Z",
+    "deadline_kind": "event_start",
+    "when": "JAN 16 - 17",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
+    "name": "nwHacks",
+    "location": "Vancouver, British Columbia",
+    "url": "https://nwhacks.io/",
+    "starts_at": "2027-01-16T14:00:00Z",
+    "ends_at": "2027-01-17T23:00:00Z",
+    "deadline_at": "2027-01-16T14:00:00Z",
+    "deadline_kind": "event_start",
+    "when": "JAN 16 - 17",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
   }
 ]
