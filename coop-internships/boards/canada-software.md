@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**166 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-09 15:02 ET
+**168 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-09 21:39 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,7 +10,9 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Qualcomm | Firmware Engineering Intern | Toronto, ON, Canada |  |  | 2026-11-09 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722038614) |
 | Kensington | BI/Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-11-09 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) |
+| Blackberry | Marketing Data & AI Analyst Intern | Waterloo, ON, Canada |  |  | 2026-11-08 | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327) |
 | Hootsuite | Software Developer Co-op Intern | Toronto, ON, Canada, Vancouver, BC, Canada |  |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8360176) |
 | Brave | Software Engineer Intern | Remote in Canada |  |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/brave/jobs/8360001) |
 | Bank of Montreal | Technology Research Associate Co-op Intern | Toronto, ON, Canada |  |  | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) |
