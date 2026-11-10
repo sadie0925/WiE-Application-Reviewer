@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**168 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-09 21:39 ET
+**163 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 05:22 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -12,8 +12,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
 | Qualcomm | Firmware Engineering Intern | Toronto, ON, Canada |  |  | 2026-11-09 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722038614) |
 | Kensington | BI/Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-11-09 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) |
+| Altera | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-08 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) |
 | Blackberry | Marketing Data & AI Analyst Intern | Waterloo, ON, Canada |  |  | 2026-11-08 | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327) |
-| Hootsuite | Software Developer Co-op Intern | Toronto, ON, Canada, Vancouver, BC, Canada |  |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8360176) |
 | Brave | Software Engineer Intern | Remote in Canada |  |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/brave/jobs/8360001) |
 | Bank of Montreal | Technology Research Associate Co-op Intern | Toronto, ON, Canada |  |  | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) |
 | DataRobot | Software Design Engineer Intern | Boston, MA, Seattle, WA (+1) |  |  | 2026-11-05 | [Apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) |
@@ -173,8 +173,3 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Aptiv | HVP/Cert Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372) |
 | Aptiv | HVP/Certification Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377) |
 | Aptiv | Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1) |
-| Manulife Financial | AI Co-op | Toronto, ON, Canada |  |  | 2026-10-11 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1) |
-| Manulife Financial | Data Engineering Co-op | Toronto, ON, Canada |  |  | 2026-10-11 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1) |
-| Manulife Financial | Data Engineering Co-op | Waterloo, ON, Canada |  |  | 2026-10-11 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) |
-| Manulife Financial | Software Engineer Co-op | Toronto, ON, Canada |  |  | 2026-10-11 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1) |
-| Manulife Financial | Software Engineering Co-op | Toronto, ON, Canada |  |  | 2026-10-11 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1) |

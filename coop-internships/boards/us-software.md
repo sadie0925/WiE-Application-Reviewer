@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**837 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-09 21:39 ET
+**835 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 05:22 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Meta | Research Scientist Intern - AI Core Machine Learning | Menlo Park, CA, Sunnyvale, CA |  |  | 2026-11-10 | [Apply](https://www.metacareers.com/jobs/2432079507324778) |
 | General Dynamics Mission Systems | Ontology and Semantic Engineering Intern | Chantilly, VA, Pittsfield, MA (+1) |  |  | 2026-11-09 | [Apply](https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false) |
 | General Dynamics Mission Systems | Ontology Data Analysis and Validation Intern | Chantilly, VA, Pittsfield, MA (+1) |  |  | 2026-11-09 | [Apply](https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false) |
 | Pika | Applied AI Engineer Intern - Creative Experiences | Palo Alto, CA |  |  | 2026-11-09 | [Apply](https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true) |
@@ -37,6 +38,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | DreamWorks Animation | Digital Transformation AR/VR Intern | Universal City, LA |  |  | 2026-11-09 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160647460) |
 | DreamWorks Animation | Studio Operations – Data Analytics Intern | Universal City, LA |  |  | 2026-11-09 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109) |
 | Mettler Toledo | Embedded Software Engineering Intern | Oakland, CA |  |  | 2026-11-09 | [Apply](https://mt.avature.net/en_US/careers/JobDetail/23080) |
+| Trilogy Health Services | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY |  |  | 2026-11-09 | [Apply](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) |
 | Paccar | Data Analyst Intern | Chillicothe, OH |  |  | 2026-11-09 | [Apply](https://jobs.paccar.com/job/Chillicothe-Data-Analyst-Intern-OH-45601-8829/1455610233/?ats=successfactors) |
 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL |  |  | 2026-11-09 | [Apply](https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us) |
 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL |  |  | 2026-11-09 | [Apply](https://careers.haskell.com/jobs/7415?icims=1&lang=en-us) |
@@ -62,9 +64,11 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Radiance Technologies | Software Engineer Intern | Beavercreek, OH |  |  | 2026-11-08 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102562) |
 | Radiance Technologies | Software Engineer Intern | Beavercreek, OH |  |  | 2026-11-08 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563) |
 | RTX | Software Engineer Intern | Sterling, VA |  |  | 2026-11-08 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020) |
+| RTX | Systems Engineer Intern | Cedar Rapids, IA |  |  | 2026-11-08 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221) |
 | Ryan | Application Development Intern - Application Development | Burlington, VT |  |  | 2026-11-08 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810) |
 | Ryan | Application Development Intern - Application Development | Burlington, VT |  |  | 2026-11-08 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Burlington/Summer-2027-Intern--Application-Development_R0020810-1) |
 | Tonic | Forward Deployed Engineer Co-op - Data De-Identification | Remote in USA |  |  | 2026-11-08 | [Apply](https://jobs.ashbyhq.com/tonicai/e632d472-fbd2-475a-9878-536c0eacb5e9/application?embed=true) |
+| Trimble | Software Engineer Intern | Portland, OR |  |  | 2026-11-08 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171) |
 | Uhaul | Software Development Intern | Phoenix, AZ |  |  | 2026-11-08 | [Apply](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Spring-Internship_R259167) |
 | UiPath | Software Engineer Intern | Bellevue, WA |  |  | 2026-11-08 | [Apply](https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true) |
 | Vizient | Data Management Intern | Irving, TX |  |  | 2026-11-08 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Data-Management_36162R) |
@@ -88,6 +92,7 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Meta | Research Scientist Intern - Generative AI & 3D Generation | Burlingame, CA |  |  | 2026-11-06 | [Apply](https://www.metacareers.com/jobs/1406087328180524) |
 | Parspec | Applied AI Engineer Intern | San Mateo, CA |  |  | 2026-11-06 | [Apply](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application?embed=true) |
 | L3Harris Technologies | Data Architect Intern | Huntsville, AL |  |  | 2026-11-06 | [Apply](https://jobs.l3harris.com/job/Huntsville-Intern,-Data-Architect-AL-35806/1448613300/?ats=successfactors) |
+| Republic Finance | React Developer Intern | Plano, TX |  |  | 2026-11-06 | [Apply](https://jobs.republicfinance.com/jobs/15411?icims=1&lang=en-us) |
 | Deeplocal | Creative Technology Intern | Pittsburgh, PA |  |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) |
 | SharkNinja | Applied AI & Analytics Co-op | Miami, FL, Needham, MA |  |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006) |
 | Tinder | iOS Engineer Intern | Palo Alto, CA |  |  | 2026-11-06 | [Apply](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply) |
@@ -216,13 +221,13 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Spring Venture Group | Data Integrity Specialist Intern | Kansas City, MO |  |  | 2026-11-03 | [Apply](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159509589) |
 | USAFacts | AI Product Intern | Bellevue, WA |  |  | 2026-11-03 | [Apply](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) |
 | Keysight Technologies | R&D Software Engineer Intern | Colorado Springs, CO |  |  | 2026-11-03 | [Apply](https://jobs.keysight.com/jobs/56415?icims=1) |
+| FM Global | Data Visualization & Reporting Intern | Johnston, RI, Norwood, MA |  |  | 2026-11-03 | [Apply](https://careers.fm.com/jobs/3627?icims=1&lang=en-us) |
 | Hive Financial Systems | HFA Intern | Atlanta, GA |  |  | 2026-11-03 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5283228007) |
 | Nex | Software Engineer Intern - Sports & Fitness - Game Development | San Jose, CA |  |  | 2026-11-03 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) |
 | First Citizens BancShares | Applied AI Intern | Raleigh, NC |  |  | 2026-11-03 | [Apply](https://firstcitizens.jibeapply.com/jobs/36413?icims=1) |
 | American Express | Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services | Sunnyvale, CA | Spring |  | 2026-11-03 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722) |
 | Meta | Research Scientist Intern - FM Quality ML | Menlo Park, CA |  |  | 2026-11-03 | [Apply](https://www.metacareers.com/jobs/1125383989877928) |
 | Two Six Technologies | Research Intern | Arlington County, Arlington, VA |  |  | 2026-11-03 | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004) |
-| Arch Capital Group | Originations Portal IT Intern | Greensboro, NC |  |  | 2026-11-02 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) |
 | Arrowstreet Capital | Software Engineer Intern | Boston, MA |  |  | 2026-11-02 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) |
 | Bose | Software/DSP Research Engineer Co-op | Framingham, MA |  |  | 2026-11-02 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369) |
 | General Dynamics Mission Systems | Software Engineer Intern | Taunton, MA |  |  | 2026-11-02 | [Apply](https://careers-gdms.icims.com/jobs/75755/job?mobile=true&needsRedirect=false) |
@@ -238,8 +243,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Sun Life | Business Operations Software Engineer Co-op | Milwaukee, WI, Kansas City, MO (+3) |  |  | 2026-11-02 | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846) |
 | Sun Life | Business Operations Software Engineer Co-op | Milwaukee, WI, Kansas City, MO (+3) |  |  | 2026-11-02 | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Sun-Life-Wellesley/Business-Operations-Software-Engineer-2027-Co-op_JR00128863-3) |
 | Sun Life | Business Operations Software Engineer Co-op | Milwaukee, WI, Kansas City, MO (+3) |  |  | 2026-11-02 | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Sun-Life-Wellesley/Business-Operations-Software-Engineer-2027-Co-op_JR00128863) |
-| T-Mobile | Software Engineering Intern | Atlanta, GA |  |  | 2026-11-02 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652) |
-| T-Mobile | T-Ads Software Engineer Intern | Philadelphia, PA |  |  | 2026-11-02 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234) |
 | Trimble | AI Developer Intern | Dayton, OH |  |  | 2026-11-02 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195) |
 | Trimble | AI Developer Intern | Dayton, OH, Westminster, CO |  |  | 2026-11-02 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194) |
 | TruStage | Innovation & AI Technology Intern | Madison, WI |  |  | 2026-11-02 | [Apply](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293) |
@@ -270,8 +273,8 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | KEEN Footwear | Analytics Engineer Intern | Portland, OR |  |  | 2026-11-02 | [Apply](https://www.keenfootwear.com/careers-list.html?4748305005&gh_jid=4748305005) |
 | Toshiba Global Commerce Solutions | AI Data Science & Business Analytics Intern | Durham, NC |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007) |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007) |
-| ViaSat | Software Engineer Intern | Germantown, MD |  |  | 2026-11-02 | [Apply](https://careers.viasat.com/jobs/7757?icims=1) |
 | KEEN Footwear | Merchandising & Product Data Analytics Intern | Portland, OR |  |  | 2026-11-02 | [Apply](https://www.keenfootwear.com/careers-list.html?4748595005&gh_jid=4748595005) |
+| Auburn University | LabVIEW Research Support Assistant Intern | Auburn, AL |  |  | 2026-11-02 | [Apply](https://jobs.auburn.edu/jobs/10846?icims=1&lang=en-us) |
 | NOV | Marketing and Data Analyst Intern | Houston, TX |  |  | 2026-11-02 | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45288) |
 | ParetoHealth | Software Engineer Intern | Philadelphia, PA |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) |
 | ParetoHealth | Analytics Intern | Philadelphia, PA |  |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006) |
@@ -301,7 +304,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC |  |  | 2026-11-01 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230) |
 | Signet Jewelers | Data Analytics Intern | Akron, OH |  |  | 2026-11-01 | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317) |
 | Signet Jewelers | Data Analytics Intern | Akron, OH |  |  | 2026-11-01 | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1) |
-| The Aerospace Corporation | Software Engineer Intern - Software Process and Architecture Department - Information Systems and Cyber Division | El Segundo, CA |  |  | 2026-11-01 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102) |
 | Valmont | Embedded Systems Engineer Intern | Valley, NE |  |  | 2026-11-01 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223) |
 | TRG | Full Stack Application Developer Intern | Dallas, TX |  |  | 2026-11-01 | [Apply](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) |
 | Firework | Data Engineer Intern | San Mateo, CA |  |  | 2026-10-30 | [Apply](https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply) |
@@ -410,7 +412,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Pennsylvania State University | Research and Development Engineer Intern | State College, PA |  |  | 2026-10-27 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000083854-1) |
 | Regeneron Pharmaceuticals | AI/ML & Data Engineering Intern | Cambridge, MA, Armonk, NY (+3) |  |  | 2026-10-27 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1) |
 | Regeneron Pharmaceuticals | Data Analytics Intern - Dashboards & Business Process Automation | Armonk, NY, Warren, NJ (+1) |  |  | 2026-10-27 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1) |
-| Regeneron Pharmaceuticals | Data Science & Digital Innovation Intern - Industrial Operations and Product Supply | Rensselaer, NY |  |  | 2026-10-27 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1) |
 | Revantage Corporate Services | Insurance Technology & AI Analytics Intern | Dallas, TX, Chicago, IL |  |  | 2026-10-27 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539) |
 | Subtotal | Software Engineer Intern | Remote in USA |  |  | 2026-10-27 | [Apply](https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true) |
 | T-Mobile | Associate AI Engineer Intern | Frisco, TX, Overland Park, KS |  |  | 2026-10-27 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492) |
@@ -580,7 +581,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Citizens Energy Group | Data Analytics Intern | Indianapolis, IN |  |  | 2026-10-21 | [Apply](https://careers-citizensenergygroup.icims.com/jobs/3458/job?mobile=true&needsRedirect=false) |
 | CVS Health | Medicaid Data Analytics Intern | Hartford, CT |  |  | 2026-10-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342) |
 | CVS Health | Software Engineer Intern - Platform & Applications | Dallas, TX, Scottsdale, AZ (+2) |  |  | 2026-10-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193) |
-| General Dynamics Information Technology | Financial Data Analyst Intern | Falls Church, VA |  |  | 2026-10-21 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761) |
 | General Dynamics Mission Systems | Engineer Intern - Multiple Teams | United States |  |  | 2026-10-21 | [Apply](https://careers-gdms.icims.com/jobs/75636/job?mobile=true&needsRedirect=false) |
 | General Dynamics Mission Systems | Software Engineer Intern | Scottsdale, AZ |  |  | 2026-10-21 | [Apply](https://careers-gdms.icims.com/jobs/75775/job?mobile=true&needsRedirect=false) |
 | Insperity | Rotational AI Intern | Kingwood, Houston, TX |  |  | 2026-10-21 | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460) |
@@ -791,7 +791,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | GE Vernova | Power System Intern | Bellevue, WA |  |  | 2026-10-13 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2) |
 | General Dynamics Mission Systems | Software Engineer for Crypto & Cross Domain Solutions Intern | Scottsdale, AZ |  |  | 2026-10-13 | [Apply](https://careers-gdms.icims.com/jobs/75477/job?mobile=true&needsRedirect=false) |
 | General Motors | AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure | Sunnyvale, CA |  |  | 2026-10-13 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410) |
-| Humana | Technology Intern - Society of Women Engineers Conference | Louisville, KY |  |  | 2026-10-13 | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228) |
 | ICF International | AI Engineer Intern | Reston, VA |  |  | 2026-10-13 | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521) |
 | J.M. Smucker | Net Revenue Optimization Intern | Orrville, OH |  |  | 2026-10-13 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006) |
 | Nissan Global | Aftersales Business Planning Intern | Franklin, TN |  |  | 2026-10-13 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
@@ -843,7 +842,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Nissan Global | Financial AI Engineer Intern | Franklin, TN |  |  | 2026-10-11 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241) |
 | Nissan Global | Purchasing Aftersales Intern | Franklin, TN |  |  | 2026-10-11 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Aftersales-Intern---Summer-2027---Franklin--TN_R00214278) |
 | Prologis | IT Customer Experience Technologies Intern | Denver, CO |  |  | 2026-10-11 | [Apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/IT-Customer-Experience-Technologies-Intern_R6829) |
-| Realty Income | Technology Intern | San Diego, CA |  |  | 2026-10-11 | [Apply](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339) |
 | RTX | Systems Engineer Co-op | Cedar Rapids, IA |  |  | 2026-10-11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432) |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID |  |  | 2026-10-11 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958) |
 | Valmont | Product Analyst Intern | Valley, NE |  |  | 2026-10-11 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Product-Analyst-Intern--Part-Time-_R29081) |

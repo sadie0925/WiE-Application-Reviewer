@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**302 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-09 21:39 ET
+**304 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 05:22 ET
 
 Term is filled only when the title or description says Winter, Spring, Fall, or Summer. Summer is shown as Spring, which is Waterloo's May–August term. Work auth is filled only when the posting says it sponsors a work permit, or that it requires US citizenship, a US person, permanent residence, unrestricted work authorization, or a US clearance. Otherwise that cell is blank.
 
@@ -10,6 +10,9 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| GlobalFoundries | CPU IP Design & Verification Intern - RISC-V Processor Development | Austin, TX, Santa Clara, CA |  |  | 2026-11-09 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604040) |
+| GlobalFoundries | Design Verification Engineer Intern | Plano, TX |  |  | 2026-11-09 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604022) |
+| GlobalFoundries | Device Engineering Intern - Silicon Photonics | Malta, NY |  |  | 2026-11-09 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604261) |
 | Intuitive Surgical | Electrical Engineer Intern | Sunnyvale, CA |  |  | 2026-11-09 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160746789) |
 | Cirrus Logic | Layout Design Intern | Austin, TX |  |  | 2026-11-09 | [Apply](https://jobs.eu.lever.co/cirrus/92cc5842-b83a-4ab3-921d-27fbd8484290/apply) |
 | Pivotal Aero | Electrical Engineering Intern | Palo Alto, CA |  |  | 2026-11-09 | [Apply](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb/apply) |
@@ -291,7 +294,6 @@ Term is filled only when the title or description says Winter, Spring, Fall, or 
 | Rivian | Electronics Design Engineering Intern - Low Voltage Electronics | Champaign, IL |  |  | 2026-10-13 | [Apply](https://careers.rivian.com/jobs/34370?icims=1) |
 | Keysight Technologies | R&D Hardware Design Engineer Intern | Santa Rosa, CA |  |  | 2026-10-13 | [Apply](https://jobs.keysight.com/jobs/54389?icims=1) |
 | Astera Labs | Design Verification Engineer Intern | San Jose, CA |  |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743360005) |
-| Astera Labs | Digital RTL Design Engineer Intern | San Jose, CA |  |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005) |
 | Meta | Research Scientist Intern - Multiple Teams | Menlo Park, CA |  |  | 2026-10-13 | [Apply](https://www.metacareers.com/jobs/2192664358300823) |
 | Vertiv | UI/UX Design Intern | Delaware, OH, Fort Lauderdale, FL (+1) |  |  | 2026-10-13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) |
 | Draper | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA | Spring 2027 |  | 2026-10-12 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
