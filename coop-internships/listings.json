@@ -7512,25 +7512,6 @@
     "program": "cs"
   },
   {
-    "id": "571441ae-b617-4d6c-83c8-702a0626b69b",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Digital Support & Business Intelligence Intern - Computer Science",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1",
-    "locations": [
-      "Longueuil, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793662508,
-    "date_updated": 1793662575,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "b95bae38-a6a8-415c-9506-13422799369b",
     "company_name": "Resideo",
     "company_url": "https://simplify.jobs/c/Resideo",
@@ -8307,25 +8288,6 @@
     "date_posted": 1793577600,
     "date_updated": 1793662381,
     "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
-    "id": "5825f548-b298-42bd-b304-9e9b1834382f",
-    "company_name": "Applied Materials",
-    "company_url": "https://simplify.jobs/c/Applied-Materials",
-    "title": "Software Engineer Intern",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793663497,
-    "category": "Hardware",
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
@@ -12629,25 +12591,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "cs"
-  },
-  {
-    "id": "0d220c65-d483-4ced-b1bf-02c913e9a686",
-    "company_name": "ViaSat",
-    "company_url": "https://simplify.jobs/c/ViaSat",
-    "title": "Pointing and Tracking Engineer Intern",
-    "url": "https://careers.viasat.com/jobs/6752?icims=1",
-    "locations": [
-      "Duluth, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793134320,
-    "date_updated": 1793867041,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "other"
   },
   {
     "id": "515bc7ee-5cb6-4df0-904a-19e675ac3476",
@@ -17068,25 +17011,6 @@
     "program": "cs"
   },
   {
-    "id": "89ac0455-6002-4b33-8ebb-bdf6ef930199",
-    "company_name": "BC Pensions",
-    "company_url": "https://simplify.jobs/c/BC-Pensions",
-    "title": "Junior Information Management Analyst Co-op",
-    "url": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229",
-    "locations": [
-      "Victoria, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792707554,
-    "date_updated": 1792707662,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
-  },
-  {
     "id": "d1a66cfc-7c5a-48aa-a8a4-d6b7e8e0aac5",
     "company_name": "Skydio",
     "company_url": "https://simplify.jobs/c/Skydio",
@@ -18454,26 +18378,6 @@
     "sponsorship": "Other",
     "track": "intern",
     "program": "other"
-  },
-  {
-    "id": "b97c016f-9c98-43d8-b626-302f1ee28c77",
-    "company_name": "Meta",
-    "company_url": "https://simplify.jobs/c/Meta",
-    "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
-    "url": "https://www.metacareers.com/jobs/1075160338670575",
-    "locations": [
-      "Burlingame, CA",
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792620483,
-    "date_updated": 1792620761,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "track": "intern",
-    "program": "cs"
   },
   {
     "id": "aacdee8b-5d3f-4b0b-ba7e-f6f590ca5792",

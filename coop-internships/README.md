@@ -17,16 +17,16 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**1360 open listings** · newest first · Updated 2026-11-10 12:59 ET
+**1355 open listings** · newest first · Updated 2026-11-10 17:56 ET
 
 Same Simplify feed as before. A listing is removed when the application is closed, or when it was added more than **30 days** ago. Roles in both countries show up on both pages.
 
 | Board | Open |
 | ----- | ---- |
-| [Canada — Software internships](boards/canada-software.md) | 164 |
-| [United States — Software internships](boards/us-software.md) | 844 |
+| [Canada — Software internships](boards/canada-software.md) | 162 |
+| [United States — Software internships](boards/us-software.md) | 842 |
 | [Canada — Other internships](boards/canada-other.md) | 51 |
-| [United States — Other internships](boards/us-other.md) | 309 |
+| [United States — Other internships](boards/us-other.md) | 308 |
 | [Canada — Software new grad](boards/canada-new-grad.md) | 0 |
 | [United States — Software new grad](boards/us-new-grad.md) | 1 |
 | [Hackathons and innovation challenges](boards/hackathons.md) | 21 (2 Waterloo first) |
