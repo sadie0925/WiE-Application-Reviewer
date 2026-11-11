@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**146 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 12:28 ET
+**143 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 18:37 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,19 +10,17 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Amazon | Software Developer Engineer | Toronto, ON, Canada |  |  | 2026-11-11 | [Apply](https://amazon.jobs/en/jobs/10589122/software-dev-engineer) |
 | Sirion | Junior AI Agent Builder | Toronto, ON, Canada |  |  | 2026-11-11 | [Apply](https://job-boards.anz.greenhouse.io/sirionlabspteltd/jobs/4009600201) |
 | Nutanix | Member of Technical Staff 3 | Vancouver, BC, Canada |  |  | 2026-11-11 | [Apply](https://jobs.jobvite.com/nutanix/job/ob35AfwD?nl=1&nl=1&fr=false) |
-| Blackberry | Graduate Systems Software Developer - Sensor Framework | Ottawa, ON, Canada |  |  | 2026-11-10 | [Apply](https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300-3) |
 | Synopsys | R&D Engineering - Engineer | Sunnyvale, CA, Remote in Canada |  |  | 2026-11-10 | [Apply](https://synopsys.avature.net/careers/JobDetail/19637) |
 | Bank of Montreal | Software Developer New Grad | Toronto, ON, Canada |  |  | 2026-11-08 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581) |
 | Valsoft | AI Engineer 1 | Montreal, QC, Canada |  |  | 2026-11-06 | [Apply](https://apply.workable.com/valsoft-corp/j/D0C585CAB5/apply) |
 | Qualcomm | AI and DSP Applications Software Engineer - Machine Learning Engineering | Markham, ON, Canada |  |  | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722003218) |
 | Bank of Montreal | Personal & Business Banking New Grad | Toronto, ON, Canada |  |  | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068) |
 | Bank of Montreal | Personal & Business Banking New Grad | Toronto, ON, Canada |  |  | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1) |
-| Ciena | Embedded Security Software Developer New Grad | Ottawa, ON, Canada |  |  | 2026-11-05 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066) |
 | Vancouver Coastal Health | Junior Business Advisor - Data & Analytics | Vancouver, BC, Canada |  |  | 2026-11-05 | [Apply](https://careers-vch.icims.com/jobs/170647/job?mobile=true&needsRedirect=false) |
 | Vancouver Coastal Health | Junior Business Advisor - Data & Analytics | Vancouver, BC, Canada |  |  | 2026-11-05 | [Apply](https://careers-vch.icims.com/jobs/170905/job?mobile=true&needsRedirect=false) |
-| Ciena | Software Design/Engineer New Grad | Ottawa, ON, Canada |  |  | 2026-11-04 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059) |
 | General Dynamics | Junior Systems Engineer - ISTAR | Ottawa, ON, Canada |  |  | 2026-11-04 | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000159681119) |
 | Intel | Compiler Engineer for AI Tile-based DSL | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineer-for-AI-Tile-based-DSL_JR0288443) |
 | Raydar | Full-Stack Software Engineer | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/raydar/j/5CFE2097E4/apply) |
@@ -65,7 +63,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Quora | Machine Learning Engineer New Grad | Remote in USA, Remote in Canada |  |  | 2026-10-15 | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) |
 | Affirm | Software Engineer 1 - Fullstack - Search | Remote in Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017342003) |
 | 3M | Data Analyst | Brockville, ON, Canada |  |  | 2026-10-13 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/CA-Ontario-Brockville/Data-Analyst_R01169245) |
-| TobogganLabs | Junior Data Scientist | Québec City, QC, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/tobogganlabs/jobs/8014569003) |
 | Konrad Group | Mobile Developer Entry Level | Toronto, ON, Canada |  |  | 2026-10-05 | [Apply](https://boards.greenhouse.io/embed/job_app?token=7976082003) |
 | Motorola | Junior Software Engineer - AI Agent Platform | Remote in Canada |  |  | 2026-10-04 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300) |
 | Citco | Junior AI Engineer | Halifax Regional Municipality, NS, Canada |  |  | 2026-10-02 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20545) |

@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. A row is removed as soon as that application deadline passes, or once the event has started if no application deadline was published. This is separate from the 30-day job rule.
 
-**21 upcoming** · 2 Waterloo · 19 other Canada/US · Updated 2026-11-11 12:28 ET
+**21 upcoming** · 2 Waterloo · 19 other Canada/US · Updated 2026-11-11 18:37 ET
 
 [All boards](../README.md)
 
@@ -28,7 +28,7 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | Tech For Community 2026 | St. John's, Newfoundland and Labrador / Avalon Peninsula | 2026-11-21 |  | [Open](https://tecnurtur.org/hackathon) |
 | WHACK (Wellesley Hackathon) | Wellesley , Massachesetts | 2026-11-21 |  | [Open](https://www.wellesleyhacks.org/) |
 | BostonHacks | Boston, MA | 2026-11-21 |  | [Open](https://bostonhacks.org/) |
-| Hack Western 13 | SEI Building | Nov 20 - 22, 2026 | 2026-11-22 | [Open](https://hack-western-13.devpost.com/) |
+| Hack Western 13 | Ronald D. Schmeichel Building | Nov 20 - 22, 2026 | 2026-11-22 | [Open](https://hack-western-13.devpost.com/) |
 | Hack Cats | Manhattan, Kansas | 2026-12-04 |  | [Open](https://hackkstate.tech/) |
 | DeltaHacks | Hamilton, Ontario | 2027-01-09 |  | [Open](https://www.deltahacks.com/) |
 | UofTHacks | Toronto, Ontario | 2027-01-14 |  | [Open](https://uofthacks.com/) |
