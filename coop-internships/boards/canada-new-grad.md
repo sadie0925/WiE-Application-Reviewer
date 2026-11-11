@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**142 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 18:27 ET
+**144 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 21:28 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -23,6 +23,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | General Dynamics | Junior Systems Engineer - ISTAR | Ottawa, ON, Canada |  |  | 2026-11-04 | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000159681119) |
 | Intel | Compiler Engineer for AI Tile-based DSL | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineer-for-AI-Tile-based-DSL_JR0288443) |
 | Raydar | Full-Stack Software Engineer | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/raydar/j/5CFE2097E4/apply) |
+| Capgemini | Campus 1&D: Associate Application Consultant | Mississauga, ON, Canada |  |  | 2026-11-03 | [Apply](https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors) |
 | Google | Software Developer 2 – Early Career | Montreal, QC, Canada, Waterloo, ON, Canada |  |  | 2026-11-02 | [Apply](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) |
 | Unity | Software Developer New Grad - U-Accelerate: Software Developer | Montreal, QC, Canada |  |  | 2026-11-01 | [Apply](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768) |
 | Neutreeno | Carbon Analysis Engineer | Remote in UK |  |  | 2026-10-30 | [Apply](https://apply.workable.com/neutreeno-1/j/FD929624D0/apply) |
@@ -64,6 +65,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Accenture | Technology Apprentice - FNIM | Toronto, ON, Canada, Calgary, AB, Canada (+2) |  |  | 2026-10-12 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767) |
 | TobogganLabs | Junior Data Scientist | Québec City, QC, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/tobogganlabs/jobs/8014569003) |
 | Konrad Group | Mobile Developer Entry Level | Toronto, ON, Canada |  |  | 2026-10-05 | [Apply](https://boards.greenhouse.io/embed/job_app?token=7976082003) |
+| Motorola | Junior Software Engineer - AI Agent Platform | Remote in Canada |  |  | 2026-10-04 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300) |
 | Citco | Junior AI Engineer | Halifax Regional Municipality, NS, Canada |  |  | 2026-10-02 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20545) |
 | Financeit | Data Scientist - Risk Modeling & Analytics | Toronto, ON, Canada |  |  | 2026-10-02 | [Apply](https://apply.workable.com/financeit/j/D3CF97088A/apply) |
 | Fellow | Software Engineer New Grad | Ottawa, ON, Canada |  |  | 2026-10-01 | [Apply](https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true) |

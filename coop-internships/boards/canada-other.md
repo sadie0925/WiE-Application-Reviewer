@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**51 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 18:27 ET
+**53 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 21:28 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,10 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) |
+| Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) |
+| Ciena | Mixed Signal Designer Co-op | Ottawa, ON, Canada |  |  | 2026-11-09 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-Designer---coop_R032100) |
+| NVIDIA | Performance Engineering Intern - Platform Performance and Power | Canada, Santa Clara, CA (+1) | Spring 2027 |  | 2026-11-09 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541) |
 | Altera | FPGA Design Verification Intern | Toronto, ON, Canada |  |  | 2026-11-08 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440) |
 | NVIDIA | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA (+1) | Spring 2027 |  | 2026-11-08 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) |
 | Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada | Spring 2027 |  | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |
@@ -59,5 +63,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | SiTime | ASIC Digital Verification Engineer Intern | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009) |
 | Tenstorrent | Systems Intern - Multiple Teams | Toronto, ON, Canada, Vancouver, BC, Canada |  |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) |
 | Lumentum | Electrical Engineer Intern Co-op | Ottawa, ON, Canada | Winter 2027 |  | 2026-10-13 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433) |
-| Aptiv | Engineer Intern | Kanata, Ottawa, ON, Canada | Winter 2026 |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704362) |
-| Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | Winter 2026 |  | 2026-10-11 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361) |

@@ -2,7 +2,7 @@
 
 Software new-grad roles in the United States. Master's/PhD-only postings are left off.
 
-**1494 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 18:27 ET
+**1527 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 21:28 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,14 +10,38 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Citylogix | Field Data Collection Technician | Las Vegas, NV, Seattle, WA (+9) |  |  | 2026-11-10 | [Apply](https://ats.rippling.com/citylogix/jobs/9cddf245-08bd-4da4-8a10-d177f4445cf7) |
+| Cummins | Electronic Systems Engineer - Software | Columbus, IN |  |  | 2026-11-10 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433871) |
+| SAIC | Software Engineer | Huntsville, AL |  |  | 2026-11-10 | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618968) |
+| Mirantis | Software Development Engineer | Remote in USA |  |  | 2026-11-10 | [Apply](https://jobs.smartrecruiters.com/Mirantis/744000160982204) |
+| RTX | Software Engineer 1 | Cedar Rapids, IA |  |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081) |
+| Rheem | Product Data Analyst 1 | Lewisville, TX, Fort Smith, AR |  |  | 2026-11-10 | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4581) |
+| Goldman Sachs | Software Engineer - Software Engineering | Dallas, TX |  |  | 2026-11-10 | [Apply](https://higher.gs.com/roles/188640) |
+| Biointellisense | Android Engineer | Redwood City, CA, Golden, CO |  |  | 2026-11-10 | [Apply](https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28/apply) |
+| Johns Hopkins Applied Physics Laboratory | Algorithm Development Engineer | Laurel, MD |  |  | 2026-11-10 | [Apply](https://careers.jhuapl.edu/jobs/60916?icims=1&lang=en-us) |
+| Abacus Insights | Associate Data Engineer | Remote in USA |  |  | 2026-11-10 | [Apply](https://boards.greenhouse.io/abacusinsights/jobs/8917380002) |
+| Wise | Graduate Data Scientist | Austin, TX |  |  | 2026-11-10 | [Apply](https://jobs.smartrecruiters.com/Wise/744000160933600) |
+| Wellmark | Data Science Associate | Des Moines, IA |  |  | 2026-11-10 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000160931919) |
+| Promega | Software Integration Engineer | Madison, WI |  |  | 2026-11-10 | [Apply](https://careers.promega.com/jobs/4373?icims=1&lang=en-us) |
 | AECOM | Entry-Level GIS Specialist | Honolulu, HI |  |  | 2026-11-10 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160900745) |
+| Kimley-Horn | GIS Analyst | Fort Worth, TX |  |  | 2026-11-10 | [Apply](https://careers.kimley-horn.com/jobs/27674?icims=1&lang=en-us) |
 | Eagle Wireless | MES Software Engineer | Solon, OH |  |  | 2026-11-10 | [Apply](https://ats.rippling.com/eagle-wireless/jobs/98f304e6-3067-4d28-ba94-4c48d5c92434) |
 | Synopsys | R&D Engineering - Engineer | Sunnyvale, CA, Remote in Canada |  |  | 2026-11-10 | [Apply](https://synopsys.avature.net/careers/JobDetail/19637) |
 | Multi Media | Software Engineer 1/2 | Remote in USA |  |  | 2026-11-09 | [Apply](https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs) |
+| Amentum | Junior Software Developer | Dahlgren, VA |  |  | 2026-11-09 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040) |
 | Anysphere | Software Engineer New Grad | Palo Alto, CA |  |  | 2026-11-09 | [Apply](https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true) |
+| Autodesk | Software Engineer: AI & Fusion Engineering - Fusion Engineering | Novi, MI |  |  | 2026-11-09 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1) |
+| Cox Automotive | Software Engineer 1 | Atlanta, GA |  |  | 2026-11-09 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623) |
 | Eversource Energy | Associate Analyst - Transmission | Westwood, MA |  |  | 2026-11-09 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--Transmission--hybrid-schedule-_R-032522) |
 | Fidelity National Information Services | Mainframe Software Engineer 1 | Columbus, GA |  |  | 2026-11-09 | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1) |
+| KLA Corporation | Business Intelligence Analyst | Ann Arbor, MI |  |  | 2026-11-09 | [Apply](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Business-Intelligence-Analyst_2642995-2) |
+| KLA Corporation | Business Intelligence Analyst | Ann Arbor, MI |  |  | 2026-11-09 | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Business-Intelligence-Analyst_2642995) |
+| RTX | Software Engineer 1 | St. Petersburg, FL |  |  | 2026-11-09 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812) |
+| Salesforce | AI Labs Rotational Fellow | Seattle, WA |  |  | 2026-11-09 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1) |
+| Salesforce | AI Labs Rotational Fellow | Seattle, WA |  |  | 2026-11-09 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643) |
+| The Home Depot | Analyst – Fulfillment | Atlanta, GA |  |  | 2026-11-09 | [Apply](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Analyst--Fulfillment_Req198786-1) |
 | Vizient | Associate Software Engineer | Irving, TX |  |  | 2026-11-09 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R) |
+| W.R. Berkley | AI Developer | Manassas, VA |  |  | 2026-11-09 | [Apply](https://careers-berkley.icims.com/jobs/14593/job?mobile=true&needsRedirect=false) |
 | WSP | Environmental Data Analytics Specialist | Seattle, WA, Redmond, WA (+1) |  |  | 2026-11-09 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98898) |
 | CWILL | Order Tracking R&D Trainee - Multiple Teams | Cary, NC |  |  | 2026-11-09 | [Apply](https://apply.workable.com/cwill-us/j/F8335216DC/apply) |
 | Microsoft | Software Engineer | Redmond, WA |  |  | 2026-11-09 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557053863) |
@@ -137,6 +161,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Wash U | Neuroimaging Engineer - Psychiatry | St. Louis, MO |  |  | 2026-11-03 | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Psychiatry_JR98464) |
 | Deloitte | Tax Technology Services Consultant | Atlanta, GA |  |  | 2026-11-03 | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Technology-Services-Consultant-Summer-2027-Winter-2028/374101) |
 | Amazon | Software Development Engineer – Early Career - Embedded Systems | Seattle, WA, Cupertino, CA (+1) |  |  | 2026-11-03 | [Apply](https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us) |
+| L3Harris Technologies | Associate Software Engineering | Palm Bay, FL |  |  | 2026-11-03 | [Apply](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1447244000/?ats=successfactors) |
 | ServiceNow | Software Engineer - Agent Eval Platform | Mountain View, CA |  |  | 2026-11-03 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000159509479) |
 | SambaNova Systems | Machine Learning Engineer New Grad | Austin, TX, San Jose, CA |  |  | 2026-11-03 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) |
 | Alarm.com | Software Rotation Program Associate | Tysons, VA |  |  | 2026-11-03 | [Apply](https://job-boards.greenhouse.io/alarmcom/jobs/8923631002) |
@@ -429,6 +454,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Visa | Software Engineer | Austin, TX |  |  | 2026-10-12 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF089187W) |
 | Datacor | Software Engineer | Remote in USA |  |  | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5257433007) |
 | Brillio | Full Stack AI Engineer | Coppell, TX |  |  | 2026-10-12 | [Apply](https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2/apply) |
+| Microsoft | Software Engineering | Redmond, WA |  |  | 2026-10-12 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556999878) |
 | STR | Associate Embedded Systems Emulation Engineer | Woburn, MA |  |  | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4721162006) |
 | Shield AI | Software Engineer 1 New Grad - Software - Factory Team | Washington, DC |  |  | 2026-10-11 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true) |
 | Shield AI | Software Engineer 1 - Factory Team | Washington, DC |  |  | 2026-10-10 | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply) |
@@ -481,6 +507,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Axos Bank | Junior AI Engineer | San Diego, CA |  |  | 2026-10-06 | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526) |
 | CACI | Entry Level C# Software Engineer | Virginia Beach, VA |  |  | 2026-10-06 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249) |
 | CACI | Web Application Developer – Early Career | Chantilly, VA, Reston, VA |  |  | 2026-10-06 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158) |
+| CVS Health | Associate Software Development Engineer - Conversion | Alpharetta, GA |  |  | 2026-10-06 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Alpharetta/Associate-Software-Development-Engineer--Conversion-_R1055768) |
 | RTX | Embedded Software Developer 1 | El Segundo, CA |  |  | 2026-10-06 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909) |
 | RTX | Systems Engineer 1 - Integration & Test | Tewksbury, MA |  |  | 2026-10-06 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I---Integration---Test--Onsite_01880788) |
 | Shield AI | Simulation Framework Engineer - Simulation Framework | Washington, DC |  |  | 2026-10-06 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true) |
@@ -564,6 +591,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Laminar | Junior Machine Learning Engineer - ML - Developer | Somerville, MA |  |  | 2026-09-29 | [Apply](https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply) |
 | Panasonic Holdings | MTS 1 – Software Engineer - Embedded Systems & Linux | Irvine, CA |  |  | 2026-09-29 | [Apply](https://careers.na.panasonic.com/jobs/50895?icims=1) |
 | EquipmentShare | Master Data Management Parts Specialist | Columbia, MO |  |  | 2026-09-29 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8211757) |
+| Anduril | Data Analyst - Quality | Ashville, OH |  |  | 2026-09-29 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5251234007) |
 | OneImaging | Associate Data Engineer | Miami, FL |  |  | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/oneimaging/jobs/4423646009) |
 | OneImaging | Full Stack Associate Software Engineer | Miami, FL |  |  | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/oneimaging/jobs/4423640009) |
 | SpaceX | Software Engineer New Grad - Software - Starfall | Hawthorne, CA |  |  | 2026-09-28 | [Apply](https://boards.greenhouse.io/spacex/jobs/8854394002) |
@@ -613,6 +641,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | ZS | Business Technology Solutions Associate | Chicago, IL, Princeton, NJ |  |  | 2026-09-22 | [Apply](https://jobs.zs.com/jobs/67648?icims=1) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, CA |  |  | 2026-09-22 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007) |
 | Kearney and Co. | Data Analyst | Alexandria, VA |  |  | 2026-09-22 | [Apply](https://careers.kearneyco.com/jobs/5227?icims=1&lang=en-us) |
+| L3Harris Technologies | Image Processing Engineer - Senior Associate | Tulsa, OK |  |  | 2026-09-22 | [Apply](https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Image-Science-Engineer-OK-74115/1432376600/?ats=successfactors) |
 | Peraton | Artificial Intelligence/Machine Learning Engineer 1 | Laurel, MD |  |  | 2026-09-22 | [Apply](https://peraton.jibeapply.com/jobs/171011?icims=1) |
 | Gentex | Systems Engineer 1 - Sensing | Zeeland, MI |  |  | 2026-09-21 | [Apply](https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Systems-Engineer---Sensing_REQ026687) |
 | KLA | Software Engineer 2 | Ann Arbor, MI |  |  | 2026-09-21 | [Apply](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-2_2640144) |
@@ -764,6 +793,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | DraftKings | Data Science Engineer | Boston, MA |  |  | 2026-09-07 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959) |
 | Newrez | Software Engineering TRAIL Operations Specialist | Coppell, TX |  |  | 2026-09-07 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Software-Engineering_R10389) |
 | Pentair | 2027 Engineering Leadership Development Program - Computer Science / Computer Engineering | Apex, NC, Delavan, WI (+1) |  |  | 2026-09-07 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/XMLNAME-2027-Engineering-Leadership-Development-Program---Computer-Science---Computer-Engineering_R23949) |
+| RTX | Software Engineer 1 | Cedar Rapids, IA |  |  | 2026-09-07 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684) |
 | Castelion | Flight Software Engineer | Torrance, CA |  |  | 2026-09-07 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4386832009) |
 | BarkleyOKRP | Analyst – Reporting | Chicago, IL, Kansas City, MO (+1) |  |  | 2026-09-07 | [Apply](https://job-boards.greenhouse.io/barkleyokrp/jobs/6184401004) |
 | Ernst & Young | Assurance Analyst - Data and Intelligence Delivery | Salt Lake City, UT, Indianapolis, IN (+10) |  |  | 2026-09-07 | [Apply](https://eyglobal.yello.co/jobs/AZkeE_LpYYLfvoE0TkyIJw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
@@ -797,8 +827,10 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | The Home Depot | Associate Data Scientist - Generative BI | Atlanta, GA |  |  | 2026-09-02 | [Apply](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Generative-BI_Req192214) |
 | Walmart | Economist | Hoboken, NJ |  |  | 2026-09-02 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-121-HOBOKEN-NJ-HOBOKEN-Home-Office/XMLNAME-2027-FT-Manager--Economist_R-2630120) |
 | Bluehawk | Exploitation Specialist - Data Scientist | Springfield, VA |  |  | 2026-09-02 | [Apply](https://careers-bluehawk.icims.com/jobs/2898/job?mobile=true&needsRedirect=false) |
+| Textron | Software Engineer 1 - Weapons | Wilmington, MA |  |  | 2026-09-01 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818) |
 | Amentum | Component Lab Computer Engineer | Crane, IN |  |  | 2026-09-01 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Component-Lab-Computer-Engineer_R0169438) |
 | Apple | Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems | Sunnyvale, CA |  |  | 2026-09-01 | [Apply](https://jobs.apple.com/en-us/details/200681316) |
+| MSA Safety | Data Analyst | Cranberry Township, PA |  |  | 2026-09-01 | [Apply](https://careers.msasafety.com/jobs/9987?icims=1) |
 | InterSystems | Software Engineer Rotational Program - Early Career | Boston, MA |  |  | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/intersystems/jobs/7827894003) |
 | Synack | Graduate Software Engineer - AI | Remote in UK |  |  | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/synack/jobs/8165010) |
 | General Dynamics Mission Systems | Software Engineer | Pittsfield, MA |  |  | 2026-09-01 | [Apply](https://careers-gdms.icims.com/jobs/74682/job?mobile=true&needsRedirect=false) |
@@ -856,6 +888,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Iberdrola Group | Technology Rotational Program - Digital & Analytics | Boston, MA, Rochester, NY (+5) |  |  | 2026-08-27 | [Apply](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Local-Graduate-Rotational-Program--Technology--Digital---Analytics_R-33041) |
 | IMC Trading | Performance Engineer | Chicago, IL |  |  | 2026-08-27 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) |
 | Apple | CAD Automation and Mixed-Signal Simulation Engineer | Sunnyvale, CA |  |  | 2026-08-27 | [Apply](https://jobs.apple.com/en-us/details/200680375) |
+| Textron | Software Engineer | Wilmington, MA |  |  | 2026-08-27 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344719) |
 | think-cell | C++ Developer | Remote in UK |  |  | 2026-08-27 | [Apply](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) |
 | Global Lending Services | Data Scientist - December 2026 | Greenville, SC |  |  | 2026-08-27 | [Apply](https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07/apply) |
 | Johns Hopkins Applied Physics Laboratory | Graduate - Data Science - System Performance Evaluation | Laurel, MD |  |  | 2026-08-27 | [Apply](https://careers.jhuapl.edu/jobs/59799?icims=1) |
