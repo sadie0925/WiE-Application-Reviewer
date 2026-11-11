@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**323 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 04:44 ET
+**327 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 12:28 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,10 +10,14 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| APEX Analytix | Product Management Intern | Greensboro, NC | Spring 2027 |  | 2026-11-11 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) |
 | Bask Health | Merchant Experience Product Intern | Remote in USA |  |  | 2026-11-10 | [Apply](https://apply.workable.com/bask-health-1/j/62A0C615A5/apply) |
 | Bask Health | Patient Experience Product Intern | Remote in USA |  |  | 2026-11-10 | [Apply](https://apply.workable.com/bask-health-1/j/90535FE8AA/apply) |
 | Bask Health | Product Management Intern | Remote in USA |  |  | 2026-11-10 | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) |
 | Bask Health | Product Operations Intern | Remote in USA |  |  | 2026-11-10 | [Apply](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) |
+| Entrust | Electrical Engineer Co-op | Shakopee, MN |  |  | 2026-11-10 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413) |
+| Hitachi | Component Engineering Intern | Pittsburgh, PA | Spring 2027 |  | 2026-11-10 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Component-Engineering_R0149585) |
+| RTX | Electrical Components Engineer Intern | Tucson, AZ | Spring 2027 |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027---Onsite-_01888885) |
 | Allen Lund Company | Customer Service Systems and Process Audit Intern | Orlando, FL |  |  | 2026-11-10 | [Apply](https://allenlundcompany.applytojob.com/apply/At334EGZh0/Customer-Service-Systems-Intern) |
 | Blue Cross Blue Shield of Michigan | Digital Product Intern | Detroit, MI | Spring 2027 |  | 2026-11-10 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) |
 | Altice USA | Product Management B2B Broadband Services Intern | Bethpage, NY | Winter 2027, Spring 2027 |  | 2026-11-10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) |
@@ -129,13 +133,13 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Texas Instruments | Layout Design Intern | Dallas, TX |  |  | 2026-11-02 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019249) |
 | Tria Federal | Growth Operations Intern | Arlington County, Arlington, VA | Spring 2027 |  | 2026-11-02 | [Apply](https://triafed.com/jobs/?gh_jid=5470246008) |
 | ViaSat | Digital and Programmable Logic Engineer Intern | Tempe, AZ | Spring 2027 |  | 2026-11-02 | [Apply](https://careers.viasat.com/jobs/7088?icims=1) |
+| Trilogy Health Services | Value Based Care Finance Intern | Louisville, KY | Spring 2027 |  | 2026-11-02 | [Apply](https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us) |
 | AXA | Operations Metrics and Reporting Intern | Scottsdale, AZ | Spring 2027 |  | 2026-11-02 | [Apply](https://careers.axa.com/jobs/25497?icims=1) |
 | ParetoHealth | Product Manager Intern | Philadelphia, PA | Spring 2027 |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) |
 | ASML | Electrical Engineer Co-op Intern | Wilton, CT |  |  | 2026-11-01 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208) |
 | Axos Bank | Product Intern | San Diego, CA | Spring 2026 |  | 2026-11-01 | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Product-Intern_JR5662) |
 | Envoy Air | Airport Operations Administrative Analyst Intern | Chicago, IL | Spring 2026 |  | 2026-11-01 | [Apply](https://us-envoyair.icims.com/jobs/13100/job?mobile=true&needsRedirect=false) |
 | Envoy Air | College Intern - Airport Operations & Planning Analyst | Dallas, TX | Spring 2026 |  | 2026-11-01 | [Apply](https://us-envoyair.icims.com/jobs/13094/job?mobile=true&needsRedirect=false) |
-| Envoy Air | Operational Performance Analyst Intern - System Operations Control - SOC | Irving, TX | Spring 2026 |  | 2026-11-01 | [Apply](https://us-envoyair.icims.com/jobs/13099/job?mobile=true&needsRedirect=false) |
 | GlobalFoundries | Design Verification Engineer Intern | Richardson, TX | Spring 2027 |  | 2026-11-01 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) |
 | NASA Jet Propulsion Laboratory | Electrical & Computer Engineering Intern - Flight Communications and Tracking Section - GNSS, Radiometric & Gravity Sensing Instruments Group | Pasadena, CA |  |  | 2026-11-01 | [Apply](https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Academic-Part-Time-Intern_R6220) |
 | Rambus | RTL Digital Design Intern | Johns Creek, GA |  |  | 2026-11-01 | [Apply](https://careers-rambus.icims.com/jobs/23113/job?mobile=true&needsRedirect=false) |

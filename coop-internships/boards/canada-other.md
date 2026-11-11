@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**53 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 04:44 ET
+**52 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 12:28 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -53,7 +53,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Spring 2027 |  | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) |
 | Kensington | Marketing Analytics Intern | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007) |
 | Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | Spring 2027 |  | 2026-10-22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) |
-| CIBC | Product Analyst Co-op | Toronto, ON, Canada | Winter 2027 |  | 2026-10-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) |
 | Semtech | PCB Layout Intern | Burlington, ON, Canada |  |  | 2026-10-19 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632) |
 | Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | Spring 2027 |  | 2026-10-19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) |
 | FanDuel | Product Co-op | Toronto, ON, Canada | Spring 2027 |  | 2026-10-19 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) |

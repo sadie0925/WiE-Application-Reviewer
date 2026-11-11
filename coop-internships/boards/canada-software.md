@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**157 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 04:44 ET
+**157 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 12:28 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| exacare ai | Data and Analytics Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) |
 | Amgen | Computer Engineering Co-op - Large Molecule Discovery - Technology | Burnaby, BC, Canada | Winter 2027 |  | 2026-11-09 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920) |
 | Bank of Montreal | Data Analyst Co-op Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973) |
 | Investissement Québec | Automation and Artificial Intelligence Intern | Montreal, QC, Canada |  |  | 2026-11-09 | [Apply](https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656) |
@@ -152,7 +153,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, Pittsburgh, PA | Spring 2027 |  | 2026-10-16 | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
 | Kepler Communications | Software Engineer Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-10-16 | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | Spring 2027 |  | 2026-10-16 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) |
-| Electronic Arts | Analytics Intern | Vancouver, BC, Canada | Spring 2027 |  | 2026-10-16 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) |
 | Tower Research Capital | Machine Learning Intern | Montreal, QC, Canada |  |  | 2026-10-15 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
 | TechInsights | Software Development Co-op Student | Ottawa, ON, Canada | Winter 2026 |  | 2026-10-15 | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada | Winter 2027 |  | 2026-10-15 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) |
