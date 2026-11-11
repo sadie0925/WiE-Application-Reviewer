@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**144 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-10 21:28 ET
+**144 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 04:44 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Nutanix | Member of Technical Staff 3 | Vancouver, BC, Canada |  |  | 2026-11-11 | [Apply](https://jobs.jobvite.com/nutanix/job/ob35AfwD?nl=1&nl=1&fr=false) |
 | Synopsys | R&D Engineering - Engineer | Sunnyvale, CA, Remote in Canada |  |  | 2026-11-10 | [Apply](https://synopsys.avature.net/careers/JobDetail/19637) |
 | Bank of Montreal | Software Developer New Grad | Toronto, ON, Canada |  |  | 2026-11-08 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581) |
 | Valsoft | AI Engineer 1 | Montreal, QC, Canada |  |  | 2026-11-06 | [Apply](https://apply.workable.com/valsoft-corp/j/D0C585CAB5/apply) |
@@ -62,7 +63,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Quora | Machine Learning Engineer New Grad | Remote in USA, Remote in Canada |  |  | 2026-10-15 | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) |
 | Affirm | Software Engineer 1 - Fullstack - Search | Remote in Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017342003) |
 | 3M | Data Analyst | Brockville, ON, Canada |  |  | 2026-10-13 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/CA-Ontario-Brockville/Data-Analyst_R01169245) |
-| Accenture | Technology Apprentice - FNIM | Toronto, ON, Canada, Calgary, AB, Canada (+2) |  |  | 2026-10-12 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767) |
 | TobogganLabs | Junior Data Scientist | Québec City, QC, Canada |  |  | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/tobogganlabs/jobs/8014569003) |
 | Konrad Group | Mobile Developer Entry Level | Toronto, ON, Canada |  |  | 2026-10-05 | [Apply](https://boards.greenhouse.io/embed/job_app?token=7976082003) |
 | Motorola | Junior Software Engineer - AI Agent Platform | Remote in Canada |  |  | 2026-10-04 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300) |
