@@ -109,6 +109,8 @@ Thumbs.db
 !coop-internships/listings.json
 !coop-internships/companies.json
 !coop-internships/config.json
+!coop-internships/hackathons.json
+!coop-internships/programs.json
 
 # Application data files
 server/data.json

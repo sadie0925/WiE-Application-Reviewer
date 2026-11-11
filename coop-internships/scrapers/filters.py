@@ -23,7 +23,23 @@ EXCLUDE_PATTERN = re.compile(
 )
 
 NEW_GRAD_TITLE_PATTERN = re.compile(
-    r"\b(new\s*grad(?:uate)?|new-grad|university\s+grad(?:uate)?)\b",
+    r"\b("
+    r"new\s*grad(?:uate)?|new-grad|"
+    r"university\s+grad(?:uate)?|"
+    r"entry[\s-]?level|"
+    r"junior\s+(?:software|swe|sde|engineer|developer|firmware)"
+    r")\b",
+    re.IGNORECASE,
+)
+
+GRAD_ONLY_TITLE = re.compile(
+    r"\b("
+    r"ph\.?d\.?(?:\s+only)?|"
+    r"doctorate|"
+    r"post[\s-]?doc|"
+    r"master'?s(?:\s+only)?|"
+    r"ms[\s/]+phd|phd[\s/]+ms"
+    r")\b",
     re.IGNORECASE,
 )
 
@@ -82,14 +98,21 @@ def is_intern_title(title: str) -> bool:
 
 
 def is_undergrad_degrees(degrees: list | None) -> bool:
+    """True when undergrads can apply. Master's/PhD-only rows are False."""
     if not degrees:
         return True
 
     lower = [str(d).lower() for d in degrees]
-    if any("phd" in d or "doctorate" in d for d in lower):
-        if not any("bachelor" in d for d in lower):
-            return False
-    if any("master" in d for d in lower) and not any("bachelor" in d for d in lower):
+    has_bachelor = any("bachelor" in d or "associate" in d for d in lower)
+    only_grad = all(
+        ("master" in d) or ("phd" in d) or ("doctorate" in d) or ("graduate" in d)
+        for d in lower
+    )
+    if only_grad and not has_bachelor:
+        return False
+    if any("phd" in d or "doctorate" in d for d in lower) and not has_bachelor:
+        return False
+    if any("master" in d for d in lower) and not has_bachelor:
         return False
     return True
 
@@ -114,13 +137,26 @@ def classify_program(listing: dict) -> str:
 
 
 def passes_new_grad_filters(listing: dict) -> bool:
-    """Software new-grad roles from the same feed. Internships stay on the intern path."""
+    """Software new-grad roles. Master's/PhD-only titles and degree lists are dropped."""
     if not listing.get("active") or listing.get("is_visible") is False:
         return False
     title = listing.get("title") or ""
-    if not NEW_GRAD_TITLE_PATTERN.search(title):
+    if INCLUDE_PATTERN.search(title):
         return False
-    if EXCLUDE_PATTERN.search(title) or INCLUDE_PATTERN.search(title):
+    if GRAD_ONLY_TITLE.search(title) and not NEW_GRAD_TITLE_PATTERN.search(title):
+        # "PhD Software Engineer" stays out; "New Grad" wins when both appear.
+        if re.search(r"\bph\.?d\b|\bmaster", title, re.IGNORECASE):
+            return False
+    if GRAD_ONLY_TITLE.search(title) and not re.search(
+        r"\b(bachelor|undergrad|new\s*grad|entry[\s-]?level|junior)\b",
+        title,
+        re.IGNORECASE,
+    ):
+        if re.search(r"\b(ph\.?d|doctorate|post[\s-]?doc)\b", title, re.IGNORECASE):
+            return False
+        if re.search(r"\bmaster'?s\s+only\b", title, re.IGNORECASE):
+            return False
+    if not is_undergrad_degrees(listing.get("degrees")):
         return False
     if not any(is_us_or_canada_location(loc) for loc in listing.get("locations") or []):
         return False
@@ -146,9 +182,13 @@ def purge_listings(
     max_age_days: int = 30,
     now: float | None = None,
 ) -> tuple[list[dict], dict]:
-    """Drop closed applications and anything added more than max_age_days ago."""
+    """Drop closed applications. Internships also expire after max_age_days.
+
+    Active software new-grad rows stay until the feed marks them closed.
+    Master's/PhD-only new-grad rows are removed.
+    """
     current = time.time() if now is None else now
-    max_age_seconds = max_age_days * 24 * 60 * 60
+    intern_age = max_age_days * 24 * 60 * 60
     kept: list[dict] = []
     stats = {"closed": 0, "expired": 0, "kept": 0}
     for listing in listings:
@@ -158,8 +198,14 @@ def purge_listings(
         if listing.get("track") == "new_grad" and listing.get("program") != "cs":
             stats["closed"] += 1
             continue
+        if listing.get("track") == "new_grad" and not is_undergrad_degrees(listing.get("degrees")):
+            stats["closed"] += 1
+            continue
+        if listing.get("track") == "new_grad":
+            kept.append(listing)
+            continue
         added = listing_added_at(listing)
-        if added <= 0 or (current - added) > max_age_seconds:
+        if added <= 0 or (current - added) > intern_age:
             stats["expired"] += 1
             continue
         kept.append(listing)
@@ -188,11 +234,7 @@ def passes_listing_filters(listing: dict, *, require_active: bool = True) -> boo
 
 
 def normalize_filtered_listing(listing: dict, source: str, track: str = "intern") -> dict:
-    """Return listing with US/CA locations only and consistent fields.
-
-    Terms are intentionally omitted: Simplify often stamps a season that is not
-    stated in the job title, and fetching every job description would be too costly.
-    """
+    """Return listing with US/CA locations only and consistent fields."""
     us_ca_locs = filter_us_ca_locations(listing.get("locations", []))
     normalized = {
         "id": listing.get("id", ""),
@@ -208,20 +250,21 @@ def normalize_filtered_listing(listing: dict, source: str, track: str = "intern"
         "date_updated": listing.get("date_updated", 0),
         "category": listing.get("category", ""),
         "sponsorship": listing.get("sponsorship", ""),
+        "degrees": list(listing.get("degrees") or []),
         "track": track,
     }
     description = (listing.get("description") or "").strip()
     if description:
         normalized["description"] = description
+    # Keep season labels from the feed only as a fallback signal for the board.
+    terms = listing.get("terms")
+    if isinstance(terms, list) and terms:
+        normalized["terms"] = [str(item) for item in terms if item]
     normalized["program"] = classify_program(normalized)
     return normalized
 
 
 # Waterloo's spring term is May–August. US postings call that summer.
-_SEASON_WORD = re.compile(
-    r"\b(winter|spring|fall|autumn|summer)\b(?:\s+(20\d{2}))?",
-    re.IGNORECASE,
-)
 _SEASON_LABEL = {
     "winter": "Winter",
     "spring": "Spring",
@@ -230,29 +273,103 @@ _SEASON_LABEL = {
     "summer": "Spring",
 }
 _SEASON_ORDER = {"Winter": 0, "Spring": 1, "Fall": 2}
+_SEASON_WORD = re.compile(
+    r"\b(winter|spring|fall|autumn|summer)\b(?:\s+(20\d{2}))?",
+    re.IGNORECASE,
+)
 
+# Feed sponsorship enum → board label. Checked in O(1).
 _SPONSORSHIP_LABELS = {
     "Offers Sponsorship": "Sponsors",
     "Does Not Offer Sponsorship": "No sponsorship",
     "U.S. Citizenship is Required": "US citizenship",
 }
-_RESTRICTION_PATTERNS = (
-    (re.compile(r"\b(ts/?\s*sci|top\s+secret|secret\s+clearance|security\s+clearance|(?:u\.?s\.?|us)\s+clearance)\b", re.I), "US clearance"),
-    (re.compile(r"\bu\.?s\.?\s+persons?\b", re.I), "US person"),
-    (re.compile(r"\b(u\.?s\.?\s+citizens?|us\s+citizens?|citizenship(?:\s+is)?\s+required|must\s+be\s+a\s+citizen)\b", re.I), "US citizenship"),
-    (re.compile(r"\b(?:u\.?s\.?\s+)?permanent\s+residents?\b", re.I), "PR only"),
-    (re.compile(r"\b(authorized\s+to\s+work|work\s+authorization|without\s+restriction|legally\s+authorized\s+to\s+work)\b", re.I), "Work auth required"),
-    (re.compile(r"\b(no\s+sponsorship|does\s+not\s+sponsor|not\s+offer\s+sponsorship|will\s+not\s+sponsor|unable\s+to\s+sponsor)\b", re.I), "No sponsorship"),
-    (re.compile(r"\b(offers?\s+sponsorship|visa\s+sponsorship|will\s+sponsor|sponsorship\s+available)\b", re.I), "Sponsors"),
+
+# Phrase → label. Longer phrases first. One lowercase scan of the posting text.
+# These mark US-person / no-visa / clearance barriers for UW students.
+_AUTH_PHRASES: tuple[tuple[str, str], ...] = tuple(
+    sorted(
+        (
+            ("ts/sci", "US clearance"),
+            ("ts sci", "US clearance"),
+            ("top secret", "US clearance"),
+            ("secret clearance", "US clearance"),
+            ("security clearance", "US clearance"),
+            ("us clearance", "US clearance"),
+            ("u.s. clearance", "US clearance"),
+            ("u.s. person", "US person"),
+            ("u.s. persons", "US person"),
+            ("us person", "US person"),
+            ("us persons", "US person"),
+            ("u.s. citizenship is required", "US citizenship"),
+            ("us citizenship is required", "US citizenship"),
+            ("u.s. citizen", "US citizenship"),
+            ("u.s. citizens", "US citizenship"),
+            ("us citizen", "US citizenship"),
+            ("us citizens", "US citizenship"),
+            ("citizenship required", "US citizenship"),
+            ("must be a citizen", "US citizenship"),
+            ("must be a u.s. citizen", "US citizenship"),
+            ("must be a us citizen", "US citizenship"),
+            ("permanent resident", "PR only"),
+            ("permanent residents", "PR only"),
+            ("u.s. permanent resident", "PR only"),
+            ("us permanent resident", "PR only"),
+            ("green card", "PR only"),
+            ("authorized to work", "Work auth required"),
+            ("legally authorized to work", "Work auth required"),
+            ("work authorization", "Work auth required"),
+            ("without restriction", "Work auth required"),
+            ("without sponsorship", "No sponsorship"),
+            ("no sponsorship", "No sponsorship"),
+            ("does not sponsor", "No sponsorship"),
+            ("do not sponsor", "No sponsorship"),
+            ("will not sponsor", "No sponsorship"),
+            ("unable to sponsor", "No sponsorship"),
+            ("not offer sponsorship", "No sponsorship"),
+            ("does not offer sponsorship", "No sponsorship"),
+            ("not provide visa", "No sponsorship"),
+            ("no visa sponsorship", "No sponsorship"),
+            ("visa not provided", "No sponsorship"),
+            ("cannot sponsor", "No sponsorship"),
+            ("won't sponsor", "No sponsorship"),
+            ("offers sponsorship", "Sponsors"),
+            ("offer sponsorship", "Sponsors"),
+            ("visa sponsorship", "Sponsors"),
+            ("will sponsor", "Sponsors"),
+            ("sponsorship available", "Sponsors"),
+        ),
+        key=lambda item: -len(item[0]),
+    )
 )
+
+
+def _listing_text(listing: dict) -> str:
+    parts = [
+        listing.get("title") or "",
+        listing.get("description") or "",
+        listing.get("sponsorship") or "",
+    ]
+    return "\n".join(parts)
 
 
 def work_term_label(listing: dict) -> str:
     """Waterloo term from the title or description. Blank when neither says one.
 
     Summer is reported as Spring. "Summer Games" is a program name, not a term.
+    Feed `terms` is only used when the title/description is silent.
     """
-    text = f"{listing.get('title') or ''}\n{listing.get('description') or ''}"
+    primary = f"{listing.get('title') or ''}\n{listing.get('description') or ''}"
+    found = _terms_from_text(primary)
+    if found:
+        return found
+    terms = listing.get("terms") or []
+    if not terms:
+        return ""
+    return _terms_from_text(" ".join(str(item) for item in terms))
+
+
+def _terms_from_text(text: str) -> str:
     found = []
     seen = set()
     for match in _SEASON_WORD.finditer(text):
@@ -263,7 +380,7 @@ def work_term_label(listing: dict) -> str:
         if word == "summer":
             window = text[max(0, match.start() - 40): match.end() + 40]
             seasonal = match.group(2) or re.search(
-                r"\b(intern|internship|co-?op|term|student|analyst)\b",
+                r"\b(intern|internship|co-?op|term|student|analyst|new\s*grad|engineer)\b",
                 window,
                 re.IGNORECASE,
             )
@@ -280,14 +397,41 @@ def work_term_label(listing: dict) -> str:
     return ", ".join(item[2] for item in found)
 
 
+_RESTRICTIVE_AUTH = {
+    "No sponsorship",
+    "US citizenship",
+    "US person",
+    "PR only",
+    "US clearance",
+    "Work auth required",
+}
+
+
 def work_auth_label(listing: dict) -> str:
-    """Sponsorship or a restriction that blocks many UW students. Blank if unstated."""
-    labels = []
+    """US-only / no-visa / clearance signals that block many UW students.
+
+    Uses the feed sponsorship enum first, then a single lowercase scan of a
+    fixed phrase map so each posting is O(text length), not a stack of regexes.
+    """
+    labels: list[str] = []
+    seen: set[str] = set()
+
     sponsorship = (listing.get("sponsorship") or "").strip()
-    if sponsorship in _SPONSORSHIP_LABELS:
-        labels.append(_SPONSORSHIP_LABELS[sponsorship])
-    text = f"{listing.get('title') or ''}\n{listing.get('description') or ''}"
-    for pattern, label in _RESTRICTION_PATTERNS:
-        if pattern.search(text) and label not in labels:
+    mapped = _SPONSORSHIP_LABELS.get(sponsorship)
+    if mapped:
+        labels.append(mapped)
+        seen.add(mapped)
+
+    haystack = _listing_text(listing).lower().replace("\u00a0", " ")
+    for phrase, label in _AUTH_PHRASES:
+        if label in seen:
+            continue
+        # Do not mark "Sponsors" when a restriction phrase already matched.
+        if label == "Sponsors" and (seen & _RESTRICTIVE_AUTH):
+            continue
+        if phrase in haystack:
             labels.append(label)
+            seen.add(label)
+    if "Sponsors" in seen and (seen & _RESTRICTIVE_AUTH):
+        labels = [item for item in labels if item != "Sponsors"]
     return ", ".join(labels)

@@ -109,7 +109,8 @@ DEVPOST_SEARCHES = (
 def _get(url: str, **kwargs) -> requests.Response:
     headers = {"User-Agent": USER_AGENT, "Accept": "application/json"}
     headers.update(kwargs.pop("headers", {}))
-    response = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, **kwargs)
+    timeout = kwargs.pop("timeout", REQUEST_TIMEOUT)
+    response = requests.get(url, headers=headers, timeout=timeout, **kwargs)
     response.raise_for_status()
     return response
 
@@ -175,24 +176,36 @@ def parse_application_deadline(page_text: str, default_year: int) -> datetime | 
     return parse_loose_date(match.group(1), default_year)
 
 
+def application_deadline_of(event: dict) -> datetime | None:
+    """Only the application/registration close date. Never the event start."""
+    if event.get("deadline_kind") != "application":
+        return None
+    return _parse_iso(event.get("deadline_at"))
+
+
 def deadline_of(event: dict) -> datetime | None:
-    return _parse_iso(event.get("deadline_at")) or _parse_iso(event.get("starts_at"))
+    """Back-compat: application deadline when known."""
+    return application_deadline_of(event)
 
 
 def drop_past_deadlines(events: list[dict], now: datetime | None = None) -> list[dict]:
-    """Remove a hackathon as soon as its deadline has passed.
+    """Remove a row as soon as its application deadline has passed.
 
-    This is separate from the 30-day job rule. Application close is used when
-    we have it. Otherwise the event start is the deadline.
+    This is separate from the 30-day job rule. The Deadline column is only the
+    application close. If the organizer never publishes one, the row stays
+    until the event has started (or ended), then it is removed.
     """
     current = now or datetime.now(timezone.utc)
     kept = []
     for event in events:
-        deadline = deadline_of(event)
-        if deadline is not None and deadline < current:
+        app_deadline = application_deadline_of(event)
+        if app_deadline is not None and app_deadline < current:
             continue
         ends = _parse_iso(event.get("ends_at"))
         if ends is not None and ends < current:
+            continue
+        starts = _parse_iso(event.get("starts_at"))
+        if app_deadline is None and starts is not None and starts < current:
             continue
         kept.append(event)
     return kept
@@ -235,7 +248,6 @@ def fetch_mlh_events(now: datetime | None = None) -> list[dict]:
                 continue
             ends = _parse_iso(item.get("endsAt"))
             starts = _parse_iso(item.get("startsAt"))
-            # MLH does not publish application close. The row leaves when the event starts.
             if starts is not None and starts < current:
                 continue
             if ends is not None and ends < current:
@@ -244,22 +256,25 @@ def fetch_mlh_events(now: datetime | None = None) -> list[dict]:
             if key in seen:
                 continue
             seen.add(key)
+            site = url or "https://mlh.io" + (item.get("url") or "")
+            # MLH does not publish application close dates. Deadline stays blank;
+            # the row is removed once the event starts.
             events.append(
                 {
                     "name": name.strip(),
                     "location": location or "—",
-                    "url": url or "https://mlh.io" + (item.get("url") or ""),
+                    "url": site,
                     "starts_at": item.get("startsAt") or "",
                     "ends_at": item.get("endsAt") or "",
-                    "deadline_at": item.get("startsAt") or "",
-                    "deadline_kind": "event_start",
+                    "deadline_at": "",
+                    "deadline_kind": "",
                     "when": item.get("dateRange") or "",
                     "status": "Upcoming",
                     "tier": tier,
                     "source": "mlh",
                 }
             )
-    return events
+    return drop_past_deadlines(events, current)
 
 
 def fetch_devpost_events(now: datetime | None = None) -> list[dict]:
@@ -288,6 +303,9 @@ def fetch_devpost_events(now: datetime | None = None) -> list[dict]:
                 continue
             period = item.get("submission_period_dates") or ""
             deadline = _submission_period_end(period, current.year)
+            # Devpost's submission window end is the application/submission close.
+            if deadline is None or deadline < current:
+                continue
             events.append(
                 {
                     "name": name.strip(),
@@ -295,8 +313,8 @@ def fetch_devpost_events(now: datetime | None = None) -> list[dict]:
                     "url": url,
                     "starts_at": "",
                     "ends_at": "",
-                    "deadline_at": deadline.isoformat() if deadline else "",
-                    "deadline_kind": "application" if deadline else "unknown",
+                    "deadline_at": deadline.isoformat(),
+                    "deadline_kind": "application",
                     "when": period,
                     "status": "Open" if state == "open" else "Upcoming",
                     "tier": tier,
@@ -345,19 +363,15 @@ def fetch_uw_events(now: datetime | None = None) -> list[dict]:
             seen.add(key)
             start_match = re.search(r'datetime="([^"]+)"', description)
             starts = _parse_iso(start_match.group(1)) if start_match else None
+            if starts is not None and starts < current:
+                continue
             deadline = None
-            deadline_kind = "event_start"
             try:
                 page = _get(link, headers={"Accept": "text/html"})
                 default_year = starts.year if starts else current.year
-                found = parse_application_deadline(page.text, default_year)
-                if found:
-                    deadline = found
-                    deadline_kind = "application"
+                deadline = parse_application_deadline(page.text, default_year)
             except requests.RequestException:
                 pass
-            if deadline is None and starts is not None:
-                deadline = starts
             events.append(
                 {
                     "name": title,
@@ -366,9 +380,9 @@ def fetch_uw_events(now: datetime | None = None) -> list[dict]:
                     "starts_at": starts.isoformat() if starts else "",
                     "ends_at": "",
                     "deadline_at": deadline.isoformat() if deadline else "",
-                    "deadline_kind": deadline_kind,
+                    "deadline_kind": "application" if deadline else "",
                     "when": starts.astimezone(TORONTO).strftime("%Y-%m-%d") if starts else "",
-                    "status": "Open" if deadline_kind == "application" else "Upcoming",
+                    "status": "Open" if deadline else "Upcoming",
                     "tier": "uw",
                     "source": "uwaterloo",
                 }
@@ -427,24 +441,21 @@ def _dated_phrase(text: str, default_year: int) -> datetime | None:
 
 def _challenge_event(name: str, location: str, url: str, page: str, source: str, now: datetime) -> dict | None:
     start = _dated_phrase(_plain(page), now.year)
-    deadline = parse_application_deadline(page, start.year if start else now.year)
-    if deadline is not None:
-        deadline_kind = "application"
-    elif start is not None:
-        deadline = start
-        deadline_kind = "event_start"
-    else:
+    if start is None:
         return None
+    if start < now:
+        return None
+    deadline = parse_application_deadline(page, start.year if start else now.year)
     return {
         "name": name,
         "location": location,
         "url": url,
-        "starts_at": start.isoformat() if start else "",
+        "starts_at": start.isoformat(),
         "ends_at": "",
-        "deadline_at": deadline.isoformat(),
-        "deadline_kind": deadline_kind,
-        "when": start.astimezone(TORONTO).strftime("%Y-%m-%d") if start else "",
-        "status": "Open" if deadline_kind == "application" else "Upcoming",
+        "deadline_at": deadline.isoformat() if deadline else "",
+        "deadline_kind": "application" if deadline else "",
+        "when": start.astimezone(TORONTO).strftime("%Y-%m-%d"),
+        "status": "Open" if deadline else "Upcoming",
         "tier": "uw",
         "source": source,
     }
@@ -532,9 +543,10 @@ def fetch_hackathon_radar(now: datetime | None = None) -> list[dict]:
             if not name or key in seen:
                 continue
             seen.add(key)
+            if starts is not None and starts < current:
+                continue
             url = "https://www.hackathonradar.com" + card.group(1)
             tier = _tier(name, "Waterloo", url) or "major"
-            deadline = starts
             events.append(
                 {
                     "name": name,
@@ -542,8 +554,8 @@ def fetch_hackathon_radar(now: datetime | None = None) -> list[dict]:
                     "url": url,
                     "starts_at": starts.isoformat() if starts else "",
                     "ends_at": "",
-                    "deadline_at": deadline.isoformat() if deadline else "",
-                    "deadline_kind": "event_start",
+                    "deadline_at": "",
+                    "deadline_kind": "",
                     "when": starts.astimezone(TORONTO).strftime("%Y-%m-%d") if starts else "",
                     "status": "Upcoming",
                     "tier": tier,
@@ -573,9 +585,10 @@ def fetch_socratica_events(now: datetime | None = None) -> list[dict]:
             if key in seen:
                 continue
             seen.add(key)
+            if starts is not None and starts < current:
+                continue
             href = card.group(1)
             url = href if href.startswith("http") else "https://wygo.world" + href
-            deadline = starts
             events.append(
                 {
                     "name": name,
@@ -583,8 +596,8 @@ def fetch_socratica_events(now: datetime | None = None) -> list[dict]:
                     "url": url,
                     "starts_at": starts.isoformat() if starts else "",
                     "ends_at": "",
-                    "deadline_at": deadline.isoformat() if deadline else "",
-                    "deadline_kind": "event_start",
+                    "deadline_at": "",
+                    "deadline_kind": "",
                     "when": starts.astimezone(TORONTO).strftime("%Y-%m-%d") if starts else "",
                     "status": "Upcoming",
                     "tier": "uw",
@@ -629,6 +642,8 @@ def fetch_communitech_events(now: datetime | None = None) -> list[dict]:
         if href:
             raw = html.unescape(href.group(1))
             url = raw if raw.startswith("http") else requests.compat.urljoin(COMMUNITECH_EVENTS, raw)
+        if starts < current:
+            continue
         events.append(
             {
                 "name": name,
@@ -636,8 +651,8 @@ def fetch_communitech_events(now: datetime | None = None) -> list[dict]:
                 "url": url,
                 "starts_at": starts.isoformat(),
                 "ends_at": "",
-                "deadline_at": starts.isoformat(),
-                "deadline_kind": "event_start",
+                "deadline_at": "",
+                "deadline_kind": "",
                 "when": starts.astimezone(TORONTO).strftime("%Y-%m-%d"),
                 "status": "Upcoming",
                 "tier": "uw",

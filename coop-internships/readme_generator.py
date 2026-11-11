@@ -52,7 +52,7 @@ BOARDS = (
     {
         "filename": "canada-new-grad.md",
         "title": "Canada — Software new grad",
-        "blurb": "Software new-grad roles in Canada from the same feed.",
+        "blurb": "Software new-grad roles in Canada. Master's/PhD-only postings are left off.",
         "country": "Canada",
         "program": "cs",
         "track": "new_grad",
@@ -60,7 +60,7 @@ BOARDS = (
     {
         "filename": "us-new-grad.md",
         "title": "United States — Software new grad",
-        "blurb": "Software new-grad roles in the United States from the same feed.",
+        "blurb": "Software new-grad roles in the United States. Master's/PhD-only postings are left off.",
         "country": "United States",
         "program": "cs",
         "track": "new_grad",
@@ -147,11 +147,11 @@ def _render_board(board: dict, listings: list[dict], now: str, max_age_days: int
         f"removed when the application closes or after {max_age_days} days · "
         f"Updated {now}",
         "",
-        "Term is filled only when the title or description says Winter, Spring, Fall, or Summer. "
-        "Summer is shown as Spring, which is Waterloo's May–August term. "
-        "Work auth is filled only when the posting says it sponsors a work permit, "
-        "or that it requires US citizenship, a US person, permanent residence, "
-        "unrestricted work authorization, or a US clearance. Otherwise that cell is blank.",
+        "Term is filled when the title or description names Winter, Spring, Fall, or Summer "
+        "(Summer is shown as Spring for Waterloo). "
+        "Work auth is filled when the posting or feed marks US citizenship, a US person, "
+        "permanent residence / green card, clearance, no visa sponsorship, or required work authorization. "
+        "Otherwise that cell is blank.",
         "",
         "[All boards](../README.md)",
         "",
@@ -165,19 +165,17 @@ def _render_board(board: dict, listings: list[dict], now: str, max_age_days: int
 
 
 def _format_deadline(event: dict) -> str:
+    """Show only application/registration close. Blank when the organizer did not publish one."""
+    if event.get("deadline_kind") != "application":
+        return ""
     raw = event.get("deadline_at") or ""
     if not raw:
-        return "—"
+        return ""
     try:
         parsed = datetime.fromisoformat(raw.replace("Z", "+00:00"))
-        label = parsed.astimezone(TORONTO).strftime("%Y-%m-%d")
+        return parsed.astimezone(TORONTO).strftime("%Y-%m-%d")
     except ValueError:
         return raw
-    if event.get("deadline_kind") == "application":
-        return f"{label} applications"
-    if event.get("deadline_kind") == "event_start":
-        return f"{label} event start"
-    return label
 
 
 def _format_when(event: dict) -> str:
@@ -202,9 +200,11 @@ def _render_hackathon_board(events: list[dict], now: str) -> str:
         "Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, "
         "MLH, and Devpost. "
         "Other Canada and US hackathons follow. "
-        "A row is removed as soon as its deadline passes. "
-        "That deadline is the application close when the organizer publishes one. "
-        "If they do not, the event start is used. This is separate from the 30-day job rule.",
+        "The Deadline column is the application close only. "
+        "It stays blank when the organizer does not publish one. "
+        "A row is removed as soon as that application deadline passes, "
+        "or once the event has started if no application deadline was published. "
+        "This is separate from the 30-day job rule.",
         "",
         f"**{len(events)} upcoming** · {len(uw)} Waterloo · {len(major)} other Canada/US · Updated {now}",
         "",
@@ -238,8 +238,48 @@ def _hackathon_table(events: list[dict]) -> list[str]:
     return lines
 
 
-def _load_hackathons(readme_path: Path) -> list[dict]:
-    path = readme_path.parent / "hackathons.json"
+def _render_programs_board(programs: list[dict], now: str) -> str:
+    lines = [
+        "# Early undergrad programs",
+        "",
+        "Fellowships, insight programs, and early-year programs for software undergraduates. "
+        "These are separate from the internship boards. "
+        "Each row is read from the company's own careers page. "
+        "A row is removed as soon as its application deadline passes. "
+        "If the page does not publish an application deadline, the row is removed once the program has started. "
+        "Master's-only and PhD-only programs are left off. "
+        "Pay, term, and who it is for stay blank when the page does not say.",
+        "",
+        f"**{len(programs)} open** · soonest deadline first · Updated {now}",
+        "",
+        "[All boards](../README.md)",
+        "",
+    ]
+    if not programs:
+        lines.extend(["No open programs on this board right now.", ""])
+        return "\n".join(lines)
+    lines.extend([
+        "| Company | Program | Location | Term | Deadline | Pay | Who | Link |",
+        "| ------- | ------- | -------- | ---- | -------- | --- | --- | ---- |",
+    ])
+    for program in programs:
+        company = _escape_md(program.get("company") or "—")
+        name = _escape_md(program.get("name") or "—")
+        location = _escape_md(program.get("location") or "")
+        term = _escape_md(program.get("term") or "")
+        deadline = _escape_md(_format_deadline(program))
+        pay = _escape_md(program.get("pay") or "")
+        audience = _escape_md(program.get("audience") or "")
+        url = program.get("url") or ""
+        link = f"[Open]({url})" if url else "—"
+        lines.append(
+            f"| {company} | {name} | {location} | {term} | {deadline} | {pay} | {audience} | {link} |"
+        )
+    lines.append("")
+    return "\n".join(lines)
+
+
+def _load_json_list(path: Path) -> list[dict]:
     if not path.exists():
         return []
     try:
@@ -249,7 +289,20 @@ def _load_hackathons(readme_path: Path) -> list[dict]:
     return data if isinstance(data, list) else []
 
 
-def update_readme(readme_path, listings: list[dict], hackathons: list[dict] | None = None) -> None:
+def _load_hackathons(readme_path: Path) -> list[dict]:
+    return _load_json_list(readme_path.parent / "hackathons.json")
+
+
+def _load_programs(readme_path: Path) -> list[dict]:
+    return _load_json_list(readme_path.parent / "programs.json")
+
+
+def update_readme(
+    readme_path,
+    listings: list[dict],
+    hackathons: list[dict] | None = None,
+    programs: list[dict] | None = None,
+) -> None:
     readme_path = Path(readme_path)
     boards_dir = readme_path.parent / "boards"
     boards_dir.mkdir(exist_ok=True)
@@ -263,6 +316,11 @@ def update_readme(readme_path, listings: list[dict], hackathons: list[dict] | No
     hackathons = drop_past_deadlines(hackathons)
     hackathon_page = _render_hackathon_board(hackathons, now)
     (boards_dir / "hackathons.md").write_text(hackathon_page, encoding="utf-8")
+
+    if programs is None:
+        programs = _load_programs(readme_path)
+    programs = drop_past_deadlines(programs)
+    (boards_dir / "programs.md").write_text(_render_programs_board(programs, now), encoding="utf-8")
 
     counts = []
     for board in BOARDS:
@@ -278,9 +336,10 @@ def update_readme(readme_path, listings: list[dict], hackathons: list[dict] | No
         "",
         f"**{len(active)} open listings** · newest first · Updated {now}",
         "",
-        f"Same Simplify feed as before. A listing is removed when the application is closed, "
-        f"or when it was added more than **{max_age_days} days** ago. "
-        "Roles in both countries show up on both pages.",
+        "Internships come from the Simplify Summer feed. Software new-grad roles come from "
+        "Simplify's New-Grad Positions feed. Internships are removed when closed or after "
+        f"**{max_age_days} days**. Active new-grad rows stay until the feed marks them closed. "
+        "Master's/PhD-only new-grad rows are left off. Roles in both countries show up on both pages.",
         "",
         "| Board | Open |",
         "| ----- | ---- |",
@@ -291,6 +350,9 @@ def update_readme(readme_path, listings: list[dict], hackathons: list[dict] | No
     lines.append(
         f"| [Hackathons and innovation challenges](boards/hackathons.md) | {len(hackathons)} "
         f"({uw_count} Waterloo first) |"
+    )
+    lines.append(
+        f"| [Early undergrad programs](boards/programs.md) | {len(programs)} |"
     )
     lines.extend(["", MARKER_END])
     section = "\n".join(lines)

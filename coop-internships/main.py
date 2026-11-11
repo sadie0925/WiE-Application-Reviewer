@@ -10,6 +10,7 @@ import time
 from pathlib import Path
 
 from hackathons import fetch_hackathons
+from programs import fetch_programs
 from readme_generator import update_readme
 from scrapers import scrape_company
 from scrapers.filters import NEW_GRAD_TITLE_PATTERN, classify_program, purge_listings
@@ -26,6 +27,7 @@ COMPANIES_PATH = ROOT / "companies.json"
 HASH_PATH = ROOT / ".listings-hash"
 README_PATH = ROOT / "README.md"
 HACKATHONS_PATH = ROOT / "hackathons.json"
+PROGRAMS_PATH = ROOT / "programs.json"
 
 
 def load_json(path: Path) -> list | dict:
@@ -60,8 +62,6 @@ def annotate_programs(listings: list[dict]) -> list[dict]:
             listing["track"] = (
                 "new_grad" if NEW_GRAD_TITLE_PATTERN.search(title) else "intern"
             )
-        # Drop unreliable season metadata from feed
-        listing.pop("terms", None)
     return listings
 
 
@@ -91,8 +91,12 @@ def save_hackathons(events: list[dict]) -> None:
     save_json(HACKATHONS_PATH, events)
 
 
-def regenerate_readme(listings: list[dict], hackathons: list[dict] | None = None) -> None:
-    update_readme(README_PATH, listings, hackathons)
+def regenerate_readme(
+    listings: list[dict],
+    hackathons: list[dict] | None = None,
+    programs: list[dict] | None = None,
+) -> None:
+    update_readme(README_PATH, listings, hackathons, programs)
     print(f"Updated listings section in {README_PATH}")
 
 
@@ -118,15 +122,36 @@ def cmd_sync(args) -> int:
     uw_count = sum(1 for item in hackathon_events if item.get("tier") == "uw")
     print(f"  Hackathons: {len(hackathon_events)} ({uw_count} Waterloo clubs/committees first)")
 
+    print("Fetching early undergrad programs from company career pages...")
+    try:
+        program_rows = fetch_programs()
+    except Exception as exc:
+        print(f"  Program fetch failed: {exc}", file=sys.stderr)
+        program_rows = []
+        if PROGRAMS_PATH.exists():
+            saved = load_json(PROGRAMS_PATH)
+            program_rows = saved if isinstance(saved, list) else []
+    print(f"  Early programs still open: {len(program_rows)}")
+
     new_hash = listings_fingerprint(merged) + "|" + json.dumps(
-        [(item.get("name"), item.get("url"), item.get("tier"), item.get("deadline_at"), item.get("deadline_kind")) for item in hackathon_events],
+        {
+            "hackathons": [
+                (item.get("name"), item.get("url"), item.get("tier"), item.get("deadline_at"), item.get("deadline_kind"))
+                for item in hackathon_events
+            ],
+            "programs": [
+                (item.get("company"), item.get("name"), item.get("url"), item.get("deadline_at"), item.get("pay"), item.get("audience"))
+                for item in program_rows
+            ],
+        },
         sort_keys=True,
     )
     old_hash = load_hash()
 
     print(
         f"  Raw: {stats['raw_count']} → Filtered: {stats['filtered_count']} "
-        f"from the existing Simplify feed ({stats['elapsed_seconds']}s)"
+        f"({stats.get('intern_count', '?')} intern, {stats.get('new_grad_count', '?')} new-grad) "
+        f"in {stats['elapsed_seconds']}s"
     )
     print(
         f"  Removed {purge_stats['closed']} closed, {purge_stats['expired']} older than "
@@ -137,8 +162,9 @@ def cmd_sync(args) -> int:
     if new_hash != old_hash or args.force:
         save_json(LISTINGS_PATH, merged)
         save_hackathons(hackathon_events)
+        save_json(PROGRAMS_PATH, program_rows)
         save_hash(new_hash)
-        regenerate_readme(merged, hackathon_events)
+        regenerate_readme(merged, hackathon_events, program_rows)
         print("listings.json and boards updated.")
     else:
         print("No listing changes — left the boards as they are.")
@@ -188,7 +214,6 @@ def cmd_scrape(args) -> int:
             listing["track"] = (
                 "new_grad" if NEW_GRAD_TITLE_PATTERN.search(listing.get("title") or "") else "intern"
             )
-            listing.pop("terms", None)
             by_url[url] = listing
 
     merged, _purge_stats = finalize_listings(list(by_url.values()))

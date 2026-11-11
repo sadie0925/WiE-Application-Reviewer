@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Anthropic",
+    "name": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "term": "Winter 2027",
+    "pay": "Weekly 3,850 USD / 2,310 GBP / 4,300 CAD",
+    "audience": "",
+    "starts_at": "2027-01-01T23:59:59-05:00",
+    "ends_at": "",
+    "deadline_at": "",
+    "deadline_kind": "",
+    "source": "official"
+  },
+  {
+    "company": "Jane Street",
+    "name": "FOCUS",
+    "url": "https://www.janestreet.com/apply-focus-nyc/",
+    "location": "New York",
+    "term": "Winter 2027",
+    "pay": "Travel, meals, housing",
+    "audience": "First-year",
+    "starts_at": "2027-01-11T23:59:59-05:00",
+    "ends_at": "",
+    "deadline_at": "",
+    "deadline_kind": "",
+    "source": "official"
+  },
+  {
+    "company": "Jane Street",
+    "name": "FTTP",
+    "url": "https://www.janestreet.com/apply-fttp-nyc/",
+    "location": "New York",
+    "term": "Winter 2027",
+    "pay": "Travel, meals, housing",
+    "audience": "First-year",
+    "starts_at": "2027-03-21T23:59:59-04:00",
+    "ends_at": "",
+    "deadline_at": "",
+    "deadline_kind": "",
+    "source": "official"
+  }
+]
