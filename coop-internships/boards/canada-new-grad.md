@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**148 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 07:38 ET
+**151 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 15:25 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -21,6 +21,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Qualcomm | AI and DSP Applications Software Engineer - Machine Learning Engineering | Markham, ON, Canada |  |  | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722003218) |
 | Bank of Montreal | Personal & Business Banking New Grad | Toronto, ON, Canada |  |  | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068) |
 | Bank of Montreal | Personal & Business Banking New Grad | Toronto, ON, Canada |  |  | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1) |
+| Lumentum | Process Automation Software Engineer - MEMS | Ottawa, ON, Canada |  |  | 2026-11-05 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527) |
 | Vancouver Coastal Health | Junior Business Advisor - Data & Analytics | Vancouver, BC, Canada |  |  | 2026-11-05 | [Apply](https://careers-vch.icims.com/jobs/170647/job?mobile=true&needsRedirect=false) |
 | Vancouver Coastal Health | Junior Business Advisor - Data & Analytics | Vancouver, BC, Canada |  |  | 2026-11-05 | [Apply](https://careers-vch.icims.com/jobs/170905/job?mobile=true&needsRedirect=false) |
 | General Dynamics | Junior Systems Engineer - ISTAR | Ottawa, ON, Canada |  |  | 2026-11-04 | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000159681119) |
@@ -73,6 +74,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Financeit | Data Scientist - Risk Modeling & Analytics | Toronto, ON, Canada |  |  | 2026-10-02 | [Apply](https://apply.workable.com/financeit/j/D3CF97088A/apply) |
 | Fellow | Software Engineer New Grad | Ottawa, ON, Canada |  |  | 2026-10-01 | [Apply](https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true) |
 | Periodic Labs | Research Scientist - Scaling RL | Montreal, QC, Canada, Menlo Park, CA |  |  | 2026-09-30 | [Apply](https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0/application?embed=true) |
+| Primoris Services | Application Developer | Acheson, AB, Canada |  |  | 2026-09-29 | [Apply](https://prim.wd108.myworkdayjobs.com/Primoris/job/Edmonton-AB/Application-Developer_JR102635) |
 | Motorola | Junior Software Engineer - Emergency Call Handling | Gatineau, QC, Canada, Ottawa, ON, Canada |  |  | 2026-09-28 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731) |
 | Harbor | Junior Developer - Finance Systems | Remote in UK, Remote in Canada |  |  | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/harborglobal/jobs/5238900007) |
 | AMD | RTL/Firmware Design Engineer | Markham, ON, Canada |  |  | 2026-09-28 | [Apply](https://careers.amd.com/jobs/90713?icims=1) |
@@ -124,6 +126,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Genetec | .NET Software Developer - Multiple Teams | Montreal, QC, Canada |  |  | 2026-08-04 | [Apply](https://apply.workable.com/genetec-inc/j/145492924C/apply) |
 | Promise Robotics | Robotics Software Developer | Calgary, AB, Canada, Edmonton, AB, Canada |  |  | 2026-07-29 | [Apply](https://jobs.lever.co/promiserobotics/120b526a-2491-4df5-a77a-6ca0ccb7e35a/apply) |
 | DataVisor | Software Engineer | Vancouver, BC, Canada |  |  | 2026-07-28 | [Apply](https://apply.workable.com/datavisor-jobs/j/95134ABE3C/apply) |
+| Primoris Services | Application Developer | Edmonton, AB, Canada |  |  | 2026-07-26 | [Apply](https://prim.wd108.myworkdayjobs.com/Primoris/job/PSC-Canada-Corporate-Office/Application-Developer_JR100778) |
 | Cerebras | Kernel Engineer New Grad | Canada, United States |  |  | 2026-07-23 | [Apply](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) |
 | Nutanix | Member of Technical Staff 2 - Service Provider | Vancouver, BC, Canada |  |  | 2026-07-21 | [Apply](https://jobs.jobvite.com/nutanix/job/o5HuAfwA?nl=1&nl=1&fr=false) |
 | Feathery | Full Stack Engineer | Toronto, ON, Canada |  |  | 2026-07-20 | [Apply](https://jobs.ashbyhq.com/feathery/0814d62d-2742-454a-b8f4-7e302fdf5a24/application?embed=true) |
