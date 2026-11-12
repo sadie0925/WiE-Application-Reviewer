@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**147 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 23:10 ET
+**148 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 07:38 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -80,6 +80,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA, Remote in Canada |  |  | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) |
 | Nutanix | Software Engineer New Grad - Master’s - Bachelor’s + 2 | Vancouver, BC, Canada |  |  | 2026-09-25 | [Apply](https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false) |
 | Nutanix | Staff Engineer - DataHub | Vancouver, BC, Canada |  |  | 2026-09-25 | [Apply](https://jobs.jobvite.com/nutanix/job/omPOAfwj?nl=1&nl=1&fr=false) |
+| exacare ai | Data Analyst New Grad | Toronto, ON, Canada |  |  | 2026-09-24 | [Apply](https://ats.rippling.com/exacare-inc/jobs/d720fe3e-7a3d-48bb-8fa0-37ef5acdb80e) |
 | Fortinet | Embedded Software Developer | Burnaby, BC, Canada |  |  | 2026-09-22 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24441) |
 | Stripe | Software Engineer | Toronto, ON, Canada |  |  | 2026-09-17 | [Apply](https://stripe.com/jobs/search?gh_jid=8212517) |
 | Aptiv | Associate Cloud Engineer | Kanata, Ottawa, ON, Canada |  |  | 2026-09-17 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Cloud-Engineer_J000703943) |

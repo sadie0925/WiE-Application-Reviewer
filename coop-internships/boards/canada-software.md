@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**146 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 23:10 ET
+**145 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 07:38 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -68,9 +68,9 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | TMX Group | Analyst – Market Insights Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-10-28 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) |
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Spring 2027 |  | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |
 | Certa | Frontend Engineer Intern | Remote in India |  |  | 2026-10-28 | [Apply](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) |
-| Cenovus Energy | Student Risk Analytics Intern | Calgary, AB, Canada | Spring 2027 |  | 2026-10-27 | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263) |
 | Uber | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-27 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) |
 | Lumerate | Data Associate Intern | Canada, Remote in Canada | Winter 2027 |  | 2026-10-27 | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) |
+| Nasdaq | Back End Software Developer Co-op Intern | Toronto, ON, Canada |  |  | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/nasdaq/jobs/4453620009) |
 | CIBC | Data Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-co-op_2622122) |
 | CIBC | Data Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1) |
 | CIBC | Junior Insights & Analytics Co-op | Toronto, ON, Canada |  |  | 2026-10-26 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) |
@@ -140,7 +140,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | CIBC | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | Winter 2027 |  | 2026-10-18 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1) |
 | CIBC | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | Winter 2027 |  | 2026-10-18 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523) |
 | Ciena | Services Business Intelligence & Analytics Intern | Montreal, QC, Canada, Ottawa, ON, Canada | Winter 2027 |  | 2026-10-18 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
-| Manulife Financial | AI Intern - AI | Toronto, ON, Canada | Spring 2027 |  | 2026-10-18 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) |
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, Pittsburgh, PA | Spring 2027 |  | 2026-10-16 | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
 | Kepler Communications | Software Engineer Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-10-16 | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | Spring 2027 |  | 2026-10-16 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) |

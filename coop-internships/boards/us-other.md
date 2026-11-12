@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**324 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 23:10 ET
+**319 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 07:38 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -32,7 +32,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | RTX | Electrical Engineer Intern - FCS Hardware | Cedar Rapids, IA | Spring 2027 |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) |
 | RTX | Electrical Engineer Intern - Test Solutions | Tewksbury, MA |  |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01887669) |
 | Vanderlande Industries | Supply Chain Data & Analytics Intern | Remote in USA, Marietta, GA |  |  | 2026-11-10 | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) |
-| Allen Lund Company | Customer Service Systems and Process Audit Intern | Orlando, FL |  |  | 2026-11-10 | [Apply](https://allenlundcompany.applytojob.com/apply/At334EGZh0/Customer-Service-Systems-Intern) |
 | Blue Cross Blue Shield of Michigan | Digital Product Intern | Detroit, MI | Spring 2027 |  | 2026-11-10 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) |
 | Altice USA | Product Management B2B Broadband Services Intern | Bethpage, NY | Winter 2027, Spring 2027 |  | 2026-11-10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) |
 | Altice USA | Product Management Customer Management App Intern | Bethpage, NY | Winter 2027, Spring 2027 |  | 2026-11-10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) |
@@ -105,7 +104,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Texas Instruments | Analog Design Verification Engineer Intern | Santa Clara, CA |  |  | 2026-11-04 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019663) |
 | Texas Instruments | Analog IC Design Engineer Intern | Santa Clara, CA |  |  | 2026-11-04 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019660) |
 | Meta | Hardware Systems Architecture Intern - Performance & Workload Analysis | Redmond, WA |  |  | 2026-11-04 | [Apply](https://www.metacareers.com/jobs/1296272445973940) |
-| DwyerOmega | Electrical Engineer Intern | Westerville, OH | Spring 2027 |  | 2026-11-04 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640810) |
 | Applied Materials | Metrology Engineer Co-op Intern | Tempe, AZ | Winter 2027, Spring 2027 |  | 2026-11-04 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419) |
 | Eversource Energy | Electric Operations Intern | Dorchester, Boston, MA | Spring 2027 |  | 2026-11-04 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Electric-Operations-Intern--MA-_R-032507) |
 | Invesco | Digital Product Management Intern | Atlanta, GA | Spring 2027 |  | 2026-11-04 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) |
@@ -152,7 +150,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Envoy Air | College Intern - Airport Operations & Planning Analyst | Dallas, TX | Spring 2026 |  | 2026-11-01 | [Apply](https://us-envoyair.icims.com/jobs/13094/job?mobile=true&needsRedirect=false) |
 | GlobalFoundries | Design Verification Engineer Intern | Richardson, TX | Spring 2027 |  | 2026-11-01 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) |
 | NASA Jet Propulsion Laboratory | Electrical & Computer Engineering Intern - Flight Communications and Tracking Section - GNSS, Radiometric & Gravity Sensing Instruments Group | Pasadena, CA |  |  | 2026-11-01 | [Apply](https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Academic-Part-Time-Intern_R6220) |
-| Rambus | RTL Digital Design Intern | Johns Creek, GA |  |  | 2026-11-01 | [Apply](https://careers-rambus.icims.com/jobs/23113/job?mobile=true&needsRedirect=false) |
 | The Federal Reserve System | Supervision & Regulation Intern - Business Relationship | Atlanta, GA | Spring 2027 |  | 2026-11-01 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) |
 | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC | Spring 2027 |  | 2026-10-30 | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
 | TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA | Winter 2027 |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701480558070597893) |
@@ -201,7 +198,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Emerson Electric | Sales and Operations Planning Intern | Austin, TX |  |  | 2026-10-26 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010170) |
 | Meta | Battery Engineering Intern | Sunnyvale, CA |  |  | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/938682979075854) |
 | Texas Instruments | Analog Design Engineer Intern | Santa Clara, CA |  |  | 2026-10-26 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682) |
-| Paccar | Product Planning Intern | Kirkland, WA | Spring 2027 |  | 2026-10-26 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors) |
 | Hive Financial Systems | Product & Program Management Intern | Atlanta, GA | Spring 2027 |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
 | ABB | Product Management Intern | New Berlin, WI | Spring 2027 |  | 2026-10-25 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) |
 | Analog Devices | Embedded Systems Co-op | Boston, MA |  |  | 2026-10-25 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) |
@@ -213,7 +209,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA | Spring 2027 |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1) |
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA | Spring 2027 |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858) |
 | National Indemnity Company | Marketing Data Intern | Omaha, NE |  |  | 2026-10-25 | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) |
-| RTX | Systems Engineering Co-op | Woburn, MA |  |  | 2026-10-25 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039) |
 | Teledyne | Engineering Intern - Technical | Woodridge, IL |  |  | 2026-10-25 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728) |
 | Zebra Technologies | Product Management Intern | Lincolnshire, IL | Spring 2027 |  | 2026-10-25 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
 | Intercontinental Exchange | Audit Analytics Intern | Atlanta, GA | Spring 2027 |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14069?icims=1) |
