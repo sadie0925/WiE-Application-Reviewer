@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**52 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 18:37 ET
+**53 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 23:10 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Ciena | Layout Design Co-op | Ottawa, ON, Canada | Winter 2027 |  | 2026-11-10 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) |
 | Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) |
 | Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) |
 | Ciena | Mixed Signal Designer Co-op | Ottawa, ON, Canada |  |  | 2026-11-09 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-Designer---coop_R032100) |

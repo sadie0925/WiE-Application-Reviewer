@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**147 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 18:37 ET
+**146 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 23:10 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -156,4 +156,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Astera Labs | Firmware Engineer Co-op Intern | Vancouver, BC, Canada | Spring 2027 |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) |
 | Manulife Financial | Software Engineer Intern | Waterloo, ON, Canada | Spring 2027 |  | 2026-10-13 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1) |
 | Manulife Financial | Software Engineer Intern - Software Engineering | Waterloo, ON, Canada | Spring 2027 |  | 2026-10-13 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) |
-| SOTI | Software Developer Intern | Mississauga, ON, Canada | Winter 2027 |  | 2026-10-12 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) |

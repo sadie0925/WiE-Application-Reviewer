@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**329 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 18:37 ET
+**324 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 23:10 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,8 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| AMAX | R&D Engineer Intern | Fremont, CA |  |  | 2026-11-11 | [Apply](https://apply.workable.com/amax-1/j/19B39953E1/apply) |
+| Lightmatter | Package Layout Automation Intern | Mountain View, CA | Spring 2027 |  | 2026-11-11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473740008) |
 | McDonald's | Global Tech Infrastructure & Operations Intern | Chicago, IL | Spring 2027 |  | 2026-11-11 | [Apply](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) |
 | Exelon | Forestry/Vegetation Management Intern | Oakbrook Terrace, IL | Spring 2026 |  | 2026-11-11 | [Apply](https://careers.comed.com/jobs/33847?icims=1&lang=en-us) |
 | MSA Safety | Electrical Engineering Technology Intern Co-op | Cranberry Township, PA | Spring 2027 |  | 2026-11-11 | [Apply](https://careers.msasafety.com/jobs/10392?icims=1&lang=en-us) |
@@ -24,6 +26,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Gordon Food Service | Digital Product Management Intern | Wyoming, MI |  |  | 2026-11-10 | [Apply](https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336-2) |
 | Hitachi | Component Engineering Intern | Pittsburgh, PA | Spring 2027 |  | 2026-11-10 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Component-Engineering_R0149585) |
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Spring 2026 |  | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-2) |
+| KLA | Electrical Engineer Intern | Ann Arbor, MI | Spring 2026 |  | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-1) |
 | KLA Corporation | Electrical Engineer Intern | Ann Arbor, MI | Spring 2026 |  | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897) |
 | RTX | Electrical Components Engineer Intern | Tucson, AZ | Spring 2027 |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027---Onsite-_01888885) |
 | RTX | Electrical Engineer Intern - FCS Hardware | Cedar Rapids, IA | Spring 2027 |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) |
@@ -115,7 +118,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Keysight Technologies | R&D DSP/FPGA Design Automation Intern | Santa Rosa, CA |  |  | 2026-11-04 | [Apply](https://jobs.keysight.com/jobs/55153?icims=1) |
 | Bosch Home Comfort | Project Management / Test Engineer Intern | Plymouth, MI |  |  | 2026-11-04 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159649749) |
 | Tesla | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 |  | 2026-11-03 | [Apply](https://www.tesla.com/careers/search/job/288805) |
-| Nokia | Optoelectronics Test Mech Development Intern | Allentown, PA | Spring 2027 |  | 2026-11-03 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41694) |
 | Constellation Brands | Marketing Technology & Digital Product Intern | Rochester, NY, Chicago, IL |  |  | 2026-11-03 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Marketing-Technology---Digital-Product_R-41658) |
 | Draper | Optics-Physics Sensor Engineer Intern | Cambridge, MA | Spring 2027 |  | 2026-11-03 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
 | Logiqal | Quantum Hardware Intern | Princeton, NJ |  |  | 2026-11-03 | [Apply](https://jobs.ashbyhq.com/logiqal/2734f991-1e21-4c77-bb41-211ffa88449d/application?embed=true) |
@@ -261,7 +263,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Minerals Technologies | Finance Intern - Data Analysis | Bethlehem, PA |  |  | 2026-10-20 | [Apply](https://careers-mineralstech.icims.com/jobs/4896/job?mobile=true&needsRedirect=false) |
 | Travelers | Decision Science – Marketing & Communications Intern | Hartford, CT | Spring 2026 |  | 2026-10-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Decision-Science---Marketing---Communications-Intern_R-53354) |
 | Uline | Operations Analyst Intern | Pleasant Prairie, WI | Spring 2027 |  | 2026-10-20 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) |
-| SK hynix | ASIC Design Intern | San Jose, CA | Fall 2026 |  | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009) |
 | Paccar | Engineering Operations Intern | Kirkland, WA | Spring 2027 |  | 2026-10-20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) |
 | Keysight Technologies | Hardware Engineering Intern | Santa Rosa, CA |  |  | 2026-10-20 | [Apply](https://jobs.keysight.com/jobs/55112?icims=1) |
 | Skydio | Wireless Hardware Engineer Intern | San Mateo, CA | Spring 2027 |  | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true) |
@@ -333,9 +334,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Astera Labs | Digital RTL Design Engineer Intern | San Jose, CA |  |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005) |
 | Meta | Research Scientist Intern - Multiple Teams | Menlo Park, CA |  |  | 2026-10-13 | [Apply](https://www.metacareers.com/jobs/2192664358300823) |
 | Vertiv | UI/UX Design Intern | Delaware, OH, Fort Lauderdale, FL (+1) | Spring 2027 |  | 2026-10-13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) |
-| Draper | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA | Spring 2027 |  | 2026-10-12 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
-| KLA | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI | Spring 2027 |  | 2026-10-12 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2) |
-| KLA | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI | Spring 2027 |  | 2026-10-12 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033) |
-| KLA Corporation | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI | Spring 2027 |  | 2026-10-12 | [Apply](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1) |
-| Motorola | Electrical Engineer / PCB Designer Intern | Plantation, FL | Spring 2027 |  | 2026-10-12 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679) |
-| The Toro Company | IT Business Analyst Intern | Perry, OK | Spring 2027 |  | 2026-10-12 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) |

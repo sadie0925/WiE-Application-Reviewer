@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**143 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 18:37 ET
+**147 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-11 23:10 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,9 +10,11 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Valsoft | AI Software Developer - Research & Development | Montreal, QC, Canada |  |  | 2026-11-11 | [Apply](https://apply.workable.com/valsoft-corp/j/EE42775BE3/apply) |
 | Amazon | Software Developer Engineer | Toronto, ON, Canada |  |  | 2026-11-11 | [Apply](https://amazon.jobs/en/jobs/10589122/software-dev-engineer) |
 | Sirion | Junior AI Agent Builder | Toronto, ON, Canada |  |  | 2026-11-11 | [Apply](https://job-boards.anz.greenhouse.io/sirionlabspteltd/jobs/4009600201) |
 | Nutanix | Member of Technical Staff 3 | Vancouver, BC, Canada |  |  | 2026-11-11 | [Apply](https://jobs.jobvite.com/nutanix/job/ob35AfwD?nl=1&nl=1&fr=false) |
+| Ciena | Embedded Software Engineer New Grad | Ottawa, ON, Canada |  |  | 2026-11-10 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1) |
 | Synopsys | R&D Engineering - Engineer | Sunnyvale, CA, Remote in Canada |  |  | 2026-11-10 | [Apply](https://synopsys.avature.net/careers/JobDetail/19637) |
 | Bank of Montreal | Software Developer New Grad | Toronto, ON, Canada |  |  | 2026-11-08 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581) |
 | Valsoft | AI Engineer 1 | Montreal, QC, Canada |  |  | 2026-11-06 | [Apply](https://apply.workable.com/valsoft-corp/j/D0C585CAB5/apply) |
@@ -48,6 +50,8 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | xAI | AI Tutor – Uzbek | Remote in USA, Remote in UK (+2) |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5270905007) |
 | xAI | AI Tutor – Estonian | Remote in USA, Remote in UK (+2) |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5270902007) |
 | xAI | AI Tutor – Amharic | Remote in USA, Remote in UK (+2) |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5270906007) |
+| xAI | AI Tutor – Irish | Remote in USA, Remote in UK (+2) |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5292792007) |
+| xAI | AI Tutor – Maltese | Remote in USA, Remote in UK (+2) |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5292793007) |
 | Atlassian | AI Researcher | Canada |  |  | 2026-10-25 | [Apply](https://campus-americas.icims.com/jobs/26074/ai-researcher-%28phd%29%2c-2027-graduate-canada/job) |
 | Amazon | Data Engineer Early Career | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can) |
 | Amazon | Software Development Engineer – Early Career | Vancouver, BC, Canada |  |  | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can) |
