@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**151 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 11:13 ET
+**150 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 16:58 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -160,4 +160,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | National Bank of Canada | Artificial Intelligence Scientist Intern | Canada |  |  | 2026-10-14 | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36110) |
 | National Bank of Canada | Artificial Intelligence Developer Intern | Canada |  |  | 2026-10-14 | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36120) |
 | Later | Data Science Co-op | Vancouver, BC, Canada | Winter 2027 |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/later/jobs/8889650002) |
-| Huawei | Researcher Intern | Montreal, QC, Canada, Ottawa, ON, Canada |  |  | 2026-10-14 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-5) |

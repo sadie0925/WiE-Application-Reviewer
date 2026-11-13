@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**302 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 11:13 ET
+**298 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 16:58 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -14,14 +14,12 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Entegris | Associate Product Manager Intern | Chaska, MN | Spring 2027 |  | 2026-11-12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) |
 | The Toro Company | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | Spring 2027 |  | 2026-11-12 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) |
 | Toyota Research Institute | Robotics Intern - Prototyping and Research Operations | Cambridge, MA |  |  | 2026-11-12 | [Apply](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) |
-| Shield AI | Hardware Test Engineer Co-op | Dallas, TX | Spring 2027 |  | 2026-11-12 | [Apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply) |
 | ServiceNow | Senior Inbound Product Manager Intern | San Diego, CA | Spring 2028 |  | 2026-11-12 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161364609) |
 | ServiceNow | Senior Outbound Product Manager Intern | San Diego, CA | Spring 2028 |  | 2026-11-12 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161362293) |
 | AMAX | R&D Engineer Intern | Fremont, CA |  |  | 2026-11-11 | [Apply](https://apply.workable.com/amax-1/j/19B39953E1/apply) |
 | Lightmatter | Package Layout Automation Intern | Mountain View, CA | Spring 2027 |  | 2026-11-11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473740008) |
 | CareSource | Clinical Operations Business Analyst Intern | Remote in USA | Spring 2027 |  | 2026-11-11 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353) |
 | Entegris | Product Management Intern | Colorado Springs, CO | Spring 2027 |  | 2026-11-11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) |
-| KLA Corporation | Electrical Design Engineer Intern | Ann Arbor, MI | Spring 2026 |  | 2026-11-11 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641709) |
 | Northrop Grumman | Engineering Technician – Electrical Ground Support Equipment Intern | Chandler, AZ |  |  | 2026-11-11 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399) |
 | Shield AI | Hardware Test Engineering Co-op | Dallas, TX | Spring 2027 |  | 2026-11-11 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) |
 | Shield AI | Hardware Test Engineering Co-op | Dallas, TX | Spring 2027 |  | 2026-11-11 | [Apply](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) |
@@ -148,7 +146,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | LexisNexis Risk Solutions | Product Manager Intern - Government | Alpharetta, GA | Spring 2027 |  | 2026-11-02 | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) |
 | Corning | Haptic Metrology & Stylus Tablet Development Intern | Corning, NY | Spring 2027 |  | 2026-11-02 | [Apply](https://corningjobs.corning.com/job/Corning-Intern,-Haptic-Metrology-&-Stylus-Tablet-Development-Summer-2027-NY-14831/1446860600/?ats=successfactors) |
 | Texas Instruments | Layout Design Intern | Dallas, TX |  |  | 2026-11-02 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019249) |
-| ViaSat | Digital and Programmable Logic Engineer Intern | Tempe, AZ | Spring 2027 |  | 2026-11-02 | [Apply](https://careers.viasat.com/jobs/7088?icims=1) |
 | Trilogy Health Services | Value Based Care Finance Intern | Louisville, KY | Spring 2027 |  | 2026-11-02 | [Apply](https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us) |
 | AXA | Operations Metrics and Reporting Intern | Scottsdale, AZ | Spring 2027 |  | 2026-11-02 | [Apply](https://careers.axa.com/jobs/25497?icims=1) |
 | ParetoHealth | Product Manager Intern | Philadelphia, PA | Spring 2027 |  | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) |
@@ -311,4 +308,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Meta | Display Array Modeling Engineer Intern | Sunnyvale, CA |  |  | 2026-10-14 | [Apply](https://www.metacareers.com/jobs/2773227806411499) |
 | Formlabs | Hardware Systems Integration Intern | Somerville, MA | Spring 2027 |  | 2026-10-14 | [Apply](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) |
 | Texas Instruments | Validation/Characterization Engineer Intern | Santa Clara, CA |  |  | 2026-10-14 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623) |
-| Indie | Design Verification Engineer Intern | Aliso Viejo, CA |  |  | 2026-10-14 | [Apply](https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265698007) |

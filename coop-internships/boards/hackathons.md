@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. A row is removed as soon as that application deadline passes, or once the event has started if no application deadline was published. This is separate from the 30-day job rule.
 
-**20 upcoming** · 1 Waterloo · 19 other Canada/US · Updated 2026-11-13 11:13 ET
+**17 upcoming** · 1 Waterloo · 16 other Canada/US · Updated 2026-11-13 16:58 ET
 
 [All boards](../README.md)
 
@@ -16,9 +16,6 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
-| Emory Hacks | Atlanta, GA | 2026-11-13 |  | [Open](https://emoryhacks.com/) |
-| HackPrinceton Fall 2026 | Princeton, New Jersey | 2026-11-13 |  | [Open](https://www.hackprinceton.com) |
-| NASA's Space Apps Challenge NYC |  Brooklyn, New York | 2026-11-13 |  | [Open](https://www.spaceappschallenge.org/2026/local-events/new-york/) |
 | HackUMass | Amherst, MA | 2026-11-13 |  | [Open](https://www.hackumass.com/) |
 | Hack The Nest | Ypsilanti, Michigan | 2026-11-14 |  | [Open](https://hackthenest.tech/) |
 | HackUTA | Arlington, Texas | 2026-11-14 |  | [Open](https://hackuta.com/) |
