@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**53 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 03:06 ET
+**52 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 11:13 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -62,4 +62,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Moment Energy | Test Engineering Co-op | Surrey, BC, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) |
 | SiTime | ASIC Digital Verification Engineer Co-op | Ottawa, ON, Canada | Winter 2027 |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4452852009) |
 | SiTime | ASIC Digital Verification Engineer Intern | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009) |
-| Tenstorrent | Systems Intern - Multiple Teams | Toronto, ON, Canada, Vancouver, BC, Canada |  |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) |

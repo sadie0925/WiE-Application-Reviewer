@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**150 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 03:06 ET
+**151 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 11:13 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Bank of Montreal | Personal & Business Banking Development Program New Grad | Toronto, ON, Canada |  |  | 2026-11-12 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3) |
 | Affirm | Software Engineer 1 - Backend - Continuous Delivery | Remote in Canada |  |  | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181185003) |
 | Valsoft | AI Software Developer - Research & Development | Montreal, QC, Canada |  |  | 2026-11-11 | [Apply](https://apply.workable.com/valsoft-corp/j/EE42775BE3/apply) |
 | J.D. Power | Automotive Data Analyst | Remote in Canada |  |  | 2026-11-11 | [Apply](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/Remote-Canada/Automotive-Data-Analyst_R-100570) |
