@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**313 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 15:25 ET
+**301 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 20:17 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,8 +10,17 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Toyota Research Institute | Robotics Intern - Prototyping and Research Operations | Cambridge, MA |  |  | 2026-11-12 | [Apply](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) |
+| Shield AI | Hardware Test Engineer Co-op | Dallas, TX | Spring 2027 |  | 2026-11-12 | [Apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply) |
+| ServiceNow | Senior Inbound Product Manager Intern | San Diego, CA | Spring 2028 |  | 2026-11-12 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161364609) |
+| ServiceNow | Senior Outbound Product Manager Intern | San Diego, CA | Spring 2028 |  | 2026-11-12 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161362293) |
 | AMAX | R&D Engineer Intern | Fremont, CA |  |  | 2026-11-11 | [Apply](https://apply.workable.com/amax-1/j/19B39953E1/apply) |
 | Lightmatter | Package Layout Automation Intern | Mountain View, CA | Spring 2027 |  | 2026-11-11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473740008) |
+| CareSource | Clinical Operations Business Analyst Intern | Remote in USA | Spring 2027 |  | 2026-11-11 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353) |
+| Entegris | Product Management Intern | Colorado Springs, CO | Spring 2027 |  | 2026-11-11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) |
+| KLA Corporation | Electrical Design Engineer Intern | Ann Arbor, MI | Spring 2026 |  | 2026-11-11 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641709) |
+| Northrop Grumman | Engineering Technician – Electrical Ground Support Equipment Intern | Chandler, AZ |  |  | 2026-11-11 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399) |
+| T-Mobile | Data Product Intern | Bellevue, WA | Spring 2027 |  | 2026-11-11 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212) |
 | Vishay Intertechnology | R&D Engineer Intern | Yankton, SD |  |  | 2026-11-11 | [Apply](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-21904) |
 | Vizient | Contract Operations Intern - Analytics | Irving, TX | Spring 2027 |  | 2026-11-11 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
 | Exelon | Forestry/Vegetation Management Intern | Oakbrook Terrace, IL | Spring 2026 |  | 2026-11-11 | [Apply](https://careers.comed.com/jobs/33847?icims=1&lang=en-us) |
@@ -202,7 +211,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Boston Dynamics | Systems Test Engineer Co-op | Waltham, MA |  |  | 2026-10-25 | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312) |
 | General Dynamics Mission Systems | Systems Engineering Intern - Sonar | Manassas, VA |  |  | 2026-10-25 | [Apply](https://careers-gdms.icims.com/jobs/75796/job?mobile=true&needsRedirect=false) |
 | Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA |  |  | 2026-10-25 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067) |
-| Jabil | Validation Engineer Intern | Austin, TX | Spring 2027 |  | 2026-10-25 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310) |
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA | Spring 2027 |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1) |
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA | Spring 2027 |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858) |
 | National Indemnity Company | Marketing Data Intern | Omaha, NE |  |  | 2026-10-25 | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) |
@@ -303,23 +311,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Texas Instruments | Validation/Characterization Engineer Intern | Santa Clara, CA |  |  | 2026-10-14 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623) |
 | Indie | Design Verification Engineer Intern | Aliso Viejo, CA |  |  | 2026-10-14 | [Apply](https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265698007) |
 | Meta | Optical Engineer Intern - Camera, Depth & Cover Window Optics | Sunnyvale, CA |  |  | 2026-10-14 | [Apply](https://www.metacareers.com/jobs/2271558583687956) |
-| Groma | Finance Systems Co-op | Boston, MA | Spring 2027 |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/groma/jobs/4743496005) |
-| Nokia | Optoelectronics Test Development Co-op | Allentown, PA | Spring 2027 |  | 2026-10-13 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41124) |
-| Amazon | Hardware Development Engineer Intern | North Reading, MA, Hawthorne, CA (+1) | Winter 2027, Spring 2027, Fall 2027 |  | 2026-10-13 | [Apply](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
-| Nordson | Electrical Engineer Intern | Clinton, SC |  |  | 2026-10-13 | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---South-Carolina---Clinton/Electrical-Engineering-Intern_REQ53355) |
-| Philadelphia Gas Works | Field Operations Revenue Protection Unit Intern | Philadelphia, PA |  |  | 2026-10-13 | [Apply](https://careers-pgworks.icims.com/jobs/1990/job?in_iframe=1&mobile=true&needsRedirect=false) |
-| Rockwell Automation | Electrical Engineer Co-op | Chelmsford, MA | Spring 2027, Fall 2027 |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1) |
-| Rockwell Automation | Electrical Engineer Co-op | Chelmsford, MA | Spring 2027, Fall 2027 |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706) |
-| Rockwell Automation | Hardware Development Engineer Co-op | Mayfield Heights, OH | Winter 2027, Spring 2027 |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1) |
-| Rockwell Automation | Hardware Development Engineer Co-op | Mayfield Heights, OH | Spring 2027, Fall 2027 |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1) |
-| Rockwell Automation | Hardware Development Engineer Co-op | Mayfield Heights, OH | Winter 2027, Spring 2027 |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638) |
-| Rockwell Automation | Hardware Development Engineer Co-op | Mayfield Heights, OH | Spring 2027, Fall 2027 |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891) |
-| Rockwell Automation | Test Engineering Intern | Milwaukee, WI |  |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1) |
-| Rockwell Automation | Test Engineering Intern | Milwaukee, WI |  |  | 2026-10-13 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553) |
-| SRI International | Electrical Engineering Co-op | Princeton, NJ | Spring 2027 |  | 2026-10-13 | [Apply](https://careers-sri.icims.com/jobs/6526/job?mobile=true&needsRedirect=false) |
-| Amazon | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MA, Westborough, MA | Winter 2027, Spring 2027, Fall 2027 |  | 2026-10-13 | [Apply](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
-| Rivian | Electronics Design Engineering Intern - Low Voltage Electronics | Champaign, IL | Spring 2027 |  | 2026-10-13 | [Apply](https://careers.rivian.com/jobs/34370?icims=1) |
-| Keysight Technologies | R&D Hardware Design Engineer Intern | Santa Rosa, CA | Spring 2027 |  | 2026-10-13 | [Apply](https://jobs.keysight.com/jobs/54389?icims=1) |
-| Astera Labs | Design Verification Engineer Intern | San Jose, CA |  |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743360005) |
-| Astera Labs | Digital RTL Design Engineer Intern | San Jose, CA |  |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005) |
-| Meta | Research Scientist Intern - Multiple Teams | Menlo Park, CA |  |  | 2026-10-13 | [Apply](https://www.metacareers.com/jobs/2192664358300823) |

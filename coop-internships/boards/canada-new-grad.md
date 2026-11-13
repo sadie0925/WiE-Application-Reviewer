@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**151 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 15:25 ET
+**151 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 20:17 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,7 +10,10 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Affirm | Software Engineer 1 - Backend - Continuous Delivery | Remote in Canada |  |  | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181185003) |
 | Valsoft | AI Software Developer - Research & Development | Montreal, QC, Canada |  |  | 2026-11-11 | [Apply](https://apply.workable.com/valsoft-corp/j/EE42775BE3/apply) |
+| J.D. Power | Automotive Data Analyst | Remote in Canada |  |  | 2026-11-11 | [Apply](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/Remote-Canada/Automotive-Data-Analyst_R-100570) |
+| Pragmatike | Research Engineer - Synthetic Data | Remote in USA, Remote in Singapore |  |  | 2026-11-11 | [Apply](https://jobs.ashbyhq.com/pragmatike/e51d910a-a3e6-459d-b3b5-ffa1d300c256/application?embed=true) |
 | Amazon | Software Developer Engineer | Toronto, ON, Canada |  |  | 2026-11-11 | [Apply](https://amazon.jobs/en/jobs/10589122/software-dev-engineer) |
 | Sirion | Junior AI Agent Builder | Toronto, ON, Canada |  |  | 2026-11-11 | [Apply](https://job-boards.anz.greenhouse.io/sirionlabspteltd/jobs/4009600201) |
 | Nutanix | Member of Technical Staff 3 | Vancouver, BC, Canada |  |  | 2026-11-11 | [Apply](https://jobs.jobvite.com/nutanix/job/ob35AfwD?nl=1&nl=1&fr=false) |
@@ -87,7 +90,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Stripe | Software Engineer | Toronto, ON, Canada |  |  | 2026-09-17 | [Apply](https://stripe.com/jobs/search?gh_jid=8212517) |
 | Aptiv | Associate Cloud Engineer | Kanata, Ottawa, ON, Canada |  |  | 2026-09-17 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Cloud-Engineer_J000703943) |
 | Aptiv | Associate Cloud Engineer | Kanata, Ottawa, ON, Canada |  |  | 2026-09-17 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Cloud-Engineer_J000703944) |
-| Advantage Solutions | Client Dedicated Coordinator | Toronto, ON, Canada |  |  | 2026-09-17 | [Apply](https://canadacareers-asm.icims.com/jobs/441050/job?mobile=true&needsRedirect=false) |
 | think-cell | C++ Developer | Remote in UK |  |  | 2026-09-17 | [Apply](https://job-boards.eu.greenhouse.io/think-cell/jobs/4844701101) |
 | Prolific | AI Trainer - Fluent Nepali Speakers | Remote in UK |  |  | 2026-09-17 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4978732101) |
 | Prolific | Gujarati Speaker | Remote in UK |  |  | 2026-09-17 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891088101) |
@@ -98,7 +100,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Cerebras | Software Engineer - Kernel Reliability | Canada, United States |  |  | 2026-09-15 | [Apply](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true) |
 | Tower Research Capital | C++ Software Developer New Grad - Rotational Program | Montreal, QC, Canada |  |  | 2026-09-15 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8126667) |
 | Capital de Recherche Tower | C++ Software Developer New Grad | Montreal, QC, Canada |  |  | 2026-09-15 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8126668) |
-| Nexthop.ai | Software Engineer New Grad | Burnaby, BC, Canada |  |  | 2026-09-14 | [Apply](https://nexthopai.bamboohr.com/careers/62/) |
 | Nokia | Firmware Engineer | Canada |  |  | 2026-09-11 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40460) |
 | Motorola Solutions | Back End Developer | Remote in UK |  |  | 2026-09-09 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software-Engineer---Temporary-from-01-01-2027-for-12-months_R67751) |
 | WSP | Junior Geoscientist / Geochemist / Data Scientist | Calgary, AB, Canada, Edmonton, AB, Canada (+2) |  |  | 2026-09-09 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94867) |
@@ -115,7 +116,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | NewRocket | AI Engineer New Grad | Remote in Finland, Remote in Poland (+49) |  |  | 2026-08-26 | [Apply](https://www.newrocket.com/careers/job?gh_jid=6164687004&gh_jid=6164687004) |
 | Ciena | Embedded Software Engineer New Grad | Ottawa, ON, Canada |  |  | 2026-08-23 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571) |
 | CCLIM - Quantitative Equity | Software Development Engineer | Vancouver, BC, Canada |  |  | 2026-08-17 | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4373010009) |
-| Amazon | Software Development Engineer - Early Career | Vancouver, BC, Canada |  |  | 2026-08-15 | [Apply](https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026) |
 | Canonical | Software Engineer - Secure Container Images | Remote in Christmas Island, Remote in Mali (+246) |  |  | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/canonical/jobs/8130859) |
 | Stantec | Junior Environmental Data Analyst | Calgary, AB, Canada, Waterloo, ON, Canada |  |  | 2026-08-13 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007138) |
 | Genetec | Software Developer - Physical Access Control - SaaS | Montreal, QC, Canada |  |  | 2026-08-11 | [Apply](https://apply.workable.com/genetec-inc/j/46C9414CC4/apply) |

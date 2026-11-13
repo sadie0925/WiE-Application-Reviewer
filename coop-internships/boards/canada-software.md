@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**148 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 15:25 ET
+**149 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 20:17 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,10 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Bank of Montreal | AI Developer Co-op Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-11 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) |
+| Capital Power | Student Intern - Data Science | Edmonton, AB, Canada | Spring 2027 |  | 2026-11-11 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) |
+| Capital Power | Summer Student Intern - Data Analytics | Calgary, AB, Canada | Spring |  | 2026-11-11 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222) |
+| TMX Group | AI Engineer Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-11 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680) |
 | exacare ai | Data and Analytics Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) |
 | Amgen | Computer Engineering Co-op - Large Molecule Discovery - Technology | Burnaby, BC, Canada | Winter 2027 |  | 2026-11-09 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920) |
 | Bank of Montreal | Data Analyst Co-op Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973) |
@@ -155,6 +159,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | National Bank of Canada | Artificial Intelligence Scientist Intern | Canada |  |  | 2026-10-14 | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36110) |
 | National Bank of Canada | Artificial Intelligence Developer Intern | Canada |  |  | 2026-10-14 | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36120) |
 | Later | Data Science Co-op | Vancouver, BC, Canada | Winter 2027 |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/later/jobs/8889650002) |
-| Astera Labs | Firmware Engineer Co-op Intern | Vancouver, BC, Canada | Spring 2027 |  | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) |
-| Manulife Financial | Software Engineer Intern | Waterloo, ON, Canada | Spring 2027 |  | 2026-10-13 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1) |
-| Manulife Financial | Software Engineer Intern - Software Engineering | Waterloo, ON, Canada | Spring 2027 |  | 2026-10-13 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) |
