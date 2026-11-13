@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**151 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 20:17 ET
+**150 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 03:06 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -134,7 +134,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Welo Global | Maps Personalization Relevance Rater - English | Remote in Canada |  |  | 2026-07-09 | [Apply](https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply) |
 | Cerebras | Software Engineer New Grad | Toronto, ON, Canada, Sunnyvale, CA |  |  | 2026-07-07 | [Apply](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) |
 | Cerebras | Software Integration Engineer - AI Inference Core | Toronto, ON, Canada, Sunnyvale, CA |  |  | 2026-07-07 | [Apply](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true) |
-| Applied Systems, Inc. | Associate Software Engineer | Toronto, ON, Canada, Dallas, TX (+1) |  |  | 2026-07-06 | [Apply](https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false) |
 | Lilt | AI Training Contributor - French | Remote in Canada, Québec City, QC, Canada |  |  | 2026-07-06 | [Apply](https://jobs.ashbyhq.com/lilt-production/1819d958-1eb4-4f5c-b5f2-eba8c1a9da55/application?embed=true) |
 | Welo Global | Search Quality Rater - Simplified Chinese | Remote in Canada |  |  | 2026-07-04 | [Apply](https://jobs.lever.co/weloglobal/5f0be8bd-00a7-462a-b339-d28ecc292813/apply) |
 | Innodata | Generative AI Associate | Remote in Canada |  |  | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/innodatainc/jobs/4224824009) |

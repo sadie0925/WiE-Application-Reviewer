@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**149 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 20:17 ET
+**152 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 03:06 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Huawei | Researcher Intern - Embodied AI | Edmonton, AB, Canada |  |  | 2026-11-12 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) |
 | Bank of Montreal | AI Developer Co-op Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-11 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) |
 | Capital Power | Student Intern - Data Science | Edmonton, AB, Canada | Spring 2027 |  | 2026-11-11 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) |
 | Capital Power | Summer Student Intern - Data Analytics | Calgary, AB, Canada | Spring |  | 2026-11-11 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222) |
@@ -45,6 +46,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada | Winter 2027 |  | 2026-11-03 | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) |
 | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada | Winter 2027 |  | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) |
 | Global Relay | Java Developer Co-op | Vancouver, BC, Canada | Winter 2027 |  | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241593004) |
+| Huawei | Researcher Computer Vision Intern | Markham, ON, Canada |  |  | 2026-11-03 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3) |
 | Botpress Technologies | Software Developer Intern | Montreal, QC, Canada | Winter 2027 |  | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
 | Botpress Technologies | Software Development Intern | Montreal, QC, Canada | Winter 2027 |  | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/apply) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada |  |  | 2026-11-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) |
@@ -59,13 +61,13 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Entrust | AI Developer Intern | Remote in Germany, Shakopee, MN |  |  | 2026-11-01 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) |
 | NVIDIA | Math Libraries Intern | Canada, Santa Clara, CA (+1) | Spring 2027 |  | 2026-11-01 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada | Fall 2027 |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
-| CIBC | Project Analyst Co-op | Toronto, ON, Canada | Winter 2027 |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada | Winter 2027 |  | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) |
 | Ontario Securities Commission | Economic Co-op - Market & Analysis | Toronto, ON, Canada | Winter 2027 |  | 2026-10-29 | [Apply](https://osc.wd3.myworkdayjobs.com/OSCCareers/job/CA-ON-Toronto/Economic--Market---Analysis-Co-op-Student_JR100976) |
 | Waterworth | Computer Science Co-op | Victoria, BC, Canada | Winter 2027 |  | 2026-10-29 | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) |
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
 | Qualcomm | AI Software Systems Co-op Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | Qualcomm | Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems | Markham, ON, Canada | Spring 2027 |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) |
+| Huawei | Intern Researcher - AI Agents | Montreal, QC, Canada |  |  | 2026-10-29 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1) |
 | Altera | Software Engineer Intern - Factory Apps | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384) |
 | Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, ON, Canada | Spring 2027 |  | 2026-10-28 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) |
 | Ciena | Embedded Software Engineer Co-op | Ottawa, ON, Canada | Winter 2027 |  | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005) |
@@ -159,3 +161,4 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | National Bank of Canada | Artificial Intelligence Scientist Intern | Canada |  |  | 2026-10-14 | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36110) |
 | National Bank of Canada | Artificial Intelligence Developer Intern | Canada |  |  | 2026-10-14 | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36120) |
 | Later | Data Science Co-op | Vancouver, BC, Canada | Winter 2027 |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/later/jobs/8889650002) |
+| Huawei | Researcher Intern | Montreal, QC, Canada, Ottawa, ON, Canada |  |  | 2026-10-14 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-5) |

@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**301 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-12 20:17 ET
+**304 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 03:06 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,8 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Lightmatter | Quality & Reliability Intern | Mountain View, CA | Spring 2027 |  | 2026-11-12 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474812008) |
+| The Toro Company | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | Spring 2027 |  | 2026-11-12 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) |
 | Toyota Research Institute | Robotics Intern - Prototyping and Research Operations | Cambridge, MA |  |  | 2026-11-12 | [Apply](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) |
 | Shield AI | Hardware Test Engineer Co-op | Dallas, TX | Spring 2027 |  | 2026-11-12 | [Apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply) |
 | ServiceNow | Senior Inbound Product Manager Intern | San Diego, CA | Spring 2028 |  | 2026-11-12 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161364609) |
@@ -20,6 +22,8 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Entegris | Product Management Intern | Colorado Springs, CO | Spring 2027 |  | 2026-11-11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) |
 | KLA Corporation | Electrical Design Engineer Intern | Ann Arbor, MI | Spring 2026 |  | 2026-11-11 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641709) |
 | Northrop Grumman | Engineering Technician – Electrical Ground Support Equipment Intern | Chandler, AZ |  |  | 2026-11-11 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399) |
+| Shield AI | Hardware Test Engineering Co-op | Dallas, TX | Spring 2027 |  | 2026-11-11 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) |
+| Shield AI | Hardware Test Engineering Co-op | Dallas, TX | Spring 2027 |  | 2026-11-11 | [Apply](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) |
 | T-Mobile | Data Product Intern | Bellevue, WA | Spring 2027 |  | 2026-11-11 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212) |
 | Vishay Intertechnology | R&D Engineer Intern | Yankton, SD |  |  | 2026-11-11 | [Apply](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-21904) |
 | Vizient | Contract Operations Intern - Analytics | Irving, TX | Spring 2027 |  | 2026-11-11 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
@@ -48,7 +52,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Altice USA | Product Management Intern - Video CPE | Bethpage, NY | Winter 2027 |  | 2026-11-10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Video-CPE-NY-11714/1449511700/?ats=successfactors) |
 | Texas Instruments | Product Marketing Engineer Intern - Marketing | Dallas, TX |  |  | 2026-11-10 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019924) |
 | Meta | Research Scientist Intern - Audio Systems | Sunnyvale, CA |  |  | 2026-11-10 | [Apply](https://www.metacareers.com/jobs/1100150399514897) |
-| Renesas Electronics | Applications Engineer Intern | Morrisville, NC | Spring 2027 |  | 2026-11-10 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701) |
 | Schneider Electric | Offer Management Intern | Florham Park, NJ | Spring 2027 |  | 2026-11-10 | [Apply](https://se.jibeapply.com/jobs/141359?icims=1&lang=en-us) |
 | SharkNinja | Product Test Engineering Co-op | Needham, MA | Spring 2027 |  | 2026-11-10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006) |
 | Legrand | Product Management Intern | Syracuse, NY | Spring 2027 |  | 2026-11-10 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) |
@@ -209,6 +212,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Analog Devices | Embedded Systems Co-op | Boston, MA |  |  | 2026-10-25 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) |
 | Axos Bank | Product Intern | San Diego, CA | Spring 2026 |  | 2026-10-25 | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/Los-Angeles-CA/Product-Intern_JR5661) |
 | Boston Dynamics | Systems Test Engineer Co-op | Waltham, MA |  |  | 2026-10-25 | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312) |
+| Federal Home Loan Bank of Dallas | Accounting Tech Solutions Intern | Irving, TX | Spring 2027 |  | 2026-10-25 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444) |
 | General Dynamics Mission Systems | Systems Engineering Intern - Sonar | Manassas, VA |  |  | 2026-10-25 | [Apply](https://careers-gdms.icims.com/jobs/75796/job?mobile=true&needsRedirect=false) |
 | Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA |  |  | 2026-10-25 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067) |
 | Marvell | Signal and Power Integrity Intern | Santa Clara, CA | Spring 2027 |  | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1) |
@@ -255,7 +259,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | OneEthos | Product Management Intern | Remote in USA | Fall 2026, Spring 2027 |  | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) |
 | GlobalFoundries | Failure Analysis Engineering Intern | Malta, NY | Spring 2027 |  | 2026-10-20 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Failure-Analysis-Engineering-Intern--Summer-2027-_JR-2604574) |
 | IDeaS | Marketing Analytics Intern | Bloomington, MN |  |  | 2026-10-20 | [Apply](https://ideas-sas.icims.com/jobs/44176/job?mobile=true&needsRedirect=false) |
-| KeyBank | Marketing Analytics Intern | Brooklyn, OH | Spring 2027 |  | 2026-10-20 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822) |
 | Marvell | Silicon Validation Intern | Santa Clara, CA | Spring 2027 |  | 2026-10-20 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1) |
 | Marvell | Silicon Validation Intern | Santa Clara, CA | Spring 2027 |  | 2026-10-20 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850) |
 | Minerals Technologies | Finance Intern - Data Analysis | Bethlehem, PA |  |  | 2026-10-20 | [Apply](https://careers-mineralstech.icims.com/jobs/4896/job?mobile=true&needsRedirect=false) |
