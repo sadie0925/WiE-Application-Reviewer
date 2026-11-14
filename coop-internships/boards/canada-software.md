@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**148 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 20:59 ET
+**145 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 03:42 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,7 +10,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
-| W.W. Grainger | Customer Experience Intern | Thornhill, Vaughan, ON, Canada | Spring 2027 |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) |
 | Seaspan | Data Engineering Intern | North Vancouver, BC, Canada | Winter 2027 |  | 2026-11-13 | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) |
 | Helcim | Data Intern | Calgary, AB, Canada | Spring 2026 |  | 2026-11-13 | [Apply](https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a) |
 | Canadian Tire | Programmer Analyst Intern | Mississauga, ON, Canada | Winter 2027 |  | 2026-11-12 | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) |
@@ -23,7 +22,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | exacare ai | Data and Analytics Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) |
 | Amgen | Computer Engineering Co-op - Large Molecule Discovery - Technology | Burnaby, BC, Canada | Winter 2027 |  | 2026-11-09 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920) |
 | Bank of Montreal | Data Analyst Co-op Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973) |
-| Investissement Québec | Automation and Artificial Intelligence Intern | Montreal, QC, Canada |  |  | 2026-11-09 | [Apply](https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Spring 2027 |  | 2026-11-09 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) |
 | Qualcomm | Firmware Engineering Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-09 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722038614) |
 | Kensington | BI/Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-11-09 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) |
@@ -64,7 +62,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Entrust | AI Developer Intern | Remote in Germany, Shakopee, MN |  |  | 2026-11-01 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) |
 | NVIDIA | Math Libraries Intern | Canada, Santa Clara, CA (+1) | Spring 2027 |  | 2026-11-01 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada | Fall 2027 |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
-| Ontario Securities Commission | Economic Co-op - Market & Analysis | Toronto, ON, Canada | Winter 2027 |  | 2026-10-29 | [Apply](https://osc.wd3.myworkdayjobs.com/OSCCareers/job/CA-ON-Toronto/Economic--Market---Analysis-Co-op-Student_JR100976) |
 | Waterworth | Computer Science Co-op | Victoria, BC, Canada | Winter 2027 |  | 2026-10-29 | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) |
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
 | Qualcomm | AI Software Systems Co-op Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |

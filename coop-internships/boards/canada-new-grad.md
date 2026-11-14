@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**153 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 20:59 ET
+**154 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 03:42 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -33,6 +33,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | General Dynamics | Junior Systems Engineer - ISTAR | Ottawa, ON, Canada |  |  | 2026-11-04 | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000159681119) |
 | Intel | Compiler Engineer for AI Tile-based DSL | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineer-for-AI-Tile-based-DSL_JR0288443) |
 | Raydar | Full-Stack Software Engineer | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/raydar/j/5CFE2097E4/apply) |
+| Capgemini | Campus 1&D: Associate Application Consultant | Mississauga, ON, Canada |  |  | 2026-11-03 | [Apply](https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors) |
 | Google | Software Developer 2 – Early Career | Montreal, QC, Canada, Waterloo, ON, Canada |  |  | 2026-11-02 | [Apply](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) |
 | Unity | Software Developer New Grad - U-Accelerate: Software Developer | Montreal, QC, Canada |  |  | 2026-11-01 | [Apply](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768) |
 | Neutreeno | Carbon Analysis Engineer | Remote in UK |  |  | 2026-10-30 | [Apply](https://apply.workable.com/neutreeno-1/j/FD929624D0/apply) |
@@ -68,6 +69,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | DraftKings | Software Engineer | Remote in Canada |  |  | 2026-10-22 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324) |
 | Nokia | Firmware Engineer | Canada |  |  | 2026-10-22 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41408) |
 | Aptiv | Associate Cloud Engineer | Kanata, Ottawa, ON, Canada |  |  | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000701887) |
+| Zurich Insurance | Machine Learning Engineer | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors) |
 | Quora | Full Stack Software Engineer New Grad | Remote in USA, Remote in Canada |  |  | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
 | Wonderbrands | Fullstack Software Developer New Grad | Etobicoke, ON, Canada |  |  | 2026-10-18 | [Apply](https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false) |
 | Qualcomm | DSP System Engineer | Markham, ON, Canada |  |  | 2026-10-15 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721595845) |
@@ -162,4 +164,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Canonical | Web Frontend Engineer - Multiple Teams | Remote in UK |  |  | 2026-03-26 | [Apply](https://job-boards.greenhouse.io/canonical/jobs/5150422) |
 | Parker | Data Analyst 1 | Remote in Finland, Remote in Poland (+49) |  |  | 2026-03-26 | [Apply](https://jobs.ashbyhq.com/parker/72eb6232-71b2-430f-969a-82d0ac35b631/application?embed=true) |
 | WTW | Investment Analyst | Toronto, ON, Canada |  |  | 2026-03-20 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601653) |
-| Canonical | Software Engineer - Python - Container Images | Remote in Mali, Remote in Cyprus (+128) |  |  | 2026-03-19 | [Apply](https://job-boards.greenhouse.io/canonical/jobs/6222476) |

@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**53 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 20:59 ET
+**50 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 03:42 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,8 +10,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
-| W.W. Grainger | GCAN Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Spring 2027 |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) |
-| W.W. Grainger | Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Spring 2025 |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors) |
 | Marvell | Analog Layout Engineer Intern Co-op | Toronto, ON, Canada |  |  | 2026-11-12 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789) |
 | Analog Devices | Analog Design Intern | Ottawa, ON, Canada |  |  | 2026-11-11 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) |
 | Analog Devices | Product Engineer Intern - Product Development | Ottawa, ON, Canada | Spring 2027 |  | 2026-11-11 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) |
@@ -31,7 +29,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Arlo Technologies | Hardware Engineer Co-op | Richmond, BC, Canada |  |  | 2026-11-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446) |
 | Ciena | Hardware Engineering Co-op | Ottawa, ON, Canada | Winter 2027 |  | 2026-11-02 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054) |
 | TechInsights | Teardown Lab Co-op | Ottawa, ON, Canada | Winter 2027 |  | 2026-11-02 | [Apply](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) |
-| WSP | Environmental Innovation Intern | Sherbrooke, QC, Canada |  |  | 2026-11-02 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98500) |
 | Qualcomm | SoC Engineering Intern | Markham, ON, Canada | Spring 2027 |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721914045) |
 | Qualcomm | Verification Engineer Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
 | Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) |
