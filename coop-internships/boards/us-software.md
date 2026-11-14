@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**823 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 10:21 ET
+**826 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 14:58 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| SAS | Software Developer Intern - Go/Golang Experience | Cary, NC | Spring 2027 |  | 2026-11-13 | [Apply](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) |
 | NextEra Energy | Software Engineering Intern - Technical | St Paul, MN | Spring 2027 |  | 2026-11-13 | [Apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) |
 | Hiebing | AI Agent Developer Intern | Madison, WI | Spring 2026 |  | 2026-11-13 | [Apply](https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern) |
 | FieldPulse | AI Intern | Dallas, TX |  |  | 2026-11-13 | [Apply](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) |
@@ -21,10 +22,14 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Samsung | Compiler Engineer Intern | San Jose, CA |  |  | 2026-11-13 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) |
 | TikTok | Machine Learning Engineer Intern | San Jose, CA | Spring 2027 |  | 2026-11-12 | [Apply](https://lifeattiktok.com/search/7698822572474583301) |
 | ASML | EUV Data Science and Analytics Intern | Austin, TX |  |  | 2026-11-12 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717) |
+| Camping World | Software Engineer Intern | Chicago, IL | Spring 2027 |  | 2026-11-12 | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080) |
 | Capital Group | Global Technology Summer Associate Intern | Irvine, CA | Spring |  | 2026-11-12 | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) |
 | Carnegie Mellon University | Cyber AI Engineer Intern | Pittsburgh, PA | Spring 2027 |  | 2026-11-12 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) |
+| Daimler Truck | IT Developer Analyst Intern | Mt Holly, NC | Spring 2026 |  | 2026-11-12 | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1) |
 | Horizon3.ai | Research Intern - Adversarial Intelligence | Chicago, IL, West Lafayette, IN | Spring 2027 |  | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true) |
 | Manulife Financial | Software Engineering Co-op Intern | Boston, MA | Spring 2027 |  | 2026-11-12 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405) |
+| Martin Marietta | Data Scientist Intern | Raleigh, NC |  |  | 2026-11-12 | [Apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1) |
+| Martin Marietta | Software Data Integration Engineer Intern | Raleigh, NC |  |  | 2026-11-12 | [Apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146) |
 | Nexus Cognitive Technologies | Data Engineer Intern | Atlanta, GA | Spring 2027 |  | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true) |
 | Pennsylvania State University | Energy Savings Program Intern | University Park, State College, PA | Spring 2027 |  | 2026-11-12 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1) |
 | Piedmont Airlines | Safety Data Analytics Intern | Charlotte, NC |  |  | 2026-11-12 | [Apply](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590) |
@@ -558,7 +563,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Great American Insurance Company | Data Engineer Intern | Cincinnati, OH | Spring 2027 |  | 2026-10-26 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794) |
 | Great American Insurance Company | Emerging Technology Intern | Cincinnati, OH | Spring 2027 |  | 2026-10-26 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801) |
 | Greystone | Full Stack Engineer Intern | Warrenton, VA | Spring 2027 |  | 2026-10-26 | [Apply](https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145) |
-| Micron Technology | HBM Data Scientist Intern | Richardson, TX |  |  | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127) |
 | Micron Technology | Product Yield Enhancement Software Engineer Intern | Boise, ID |  |  | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864) |
 | Nissan | AI Intern | Dallas, TX, Franklin, TN | Spring 2027 |  | 2026-10-26 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219) |
 | Nissan Global | Physical AI Manufacturing Intern | Smyrna, TN | Spring 2027 |  | 2026-10-26 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) |
@@ -824,7 +828,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Ryan | Software Development Intern | Plano, TX | Spring 2027 |  | 2026-10-15 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822) |
 | Ryan | Software Development Intern | Plano, TX | Spring 2027 |  | 2026-10-15 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1) |
 | Ryan | Software Engineer Intern | Plano, TX | Spring 2027 |  | 2026-10-15 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1) |
-| Ryan | Software Engineer Intern | Plano, TX | Spring 2027 |  | 2026-10-15 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843) |
 | University of Texas at Austin | Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science | Austin, TX | Fall 2026 |  | 2026-10-15 | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490) |
 | Zoetis Services | Chemistry Data Science Intern - Digital CMC Workflows | Kalamazoo, MI | Spring 2026 |  | 2026-10-15 | [Apply](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2) |
 | Royal Caribbean Group | Guest Travel Services Intern | Miramar, FL | Spring 2027 |  | 2026-10-15 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern,-Guest-Travel-Services-(Summer-2027)-FL-33132/1440504600/?ats=successfactors) |

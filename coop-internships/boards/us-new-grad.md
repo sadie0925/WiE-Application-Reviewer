@@ -2,7 +2,7 @@
 
 Software new-grad roles in the United States. Master's/PhD-only postings are left off.
 
-**1532 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 10:21 ET
+**1537 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 14:58 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -35,6 +35,9 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Booz Allen | Systems Engineer | Beavercreek, OH |  |  | 2026-11-12 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Systems-Engineer_R0253553) |
 | Booz Allen | Systems Engineer | Beavercreek, OH |  |  | 2026-11-12 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Systems-Engineer_R0253552) |
 | Chatham Financial | Associate – Controls & Data Integrity | Kennett Square, PA |  |  | 2026-11-12 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/Associate--Controls---Data-Integrity_R-100357) |
+| Everest | Information Technology Rotational Development Program | Warren, NJ |  |  | 2026-11-12 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2026-Underwriting-Rotational-Development-Program_R6900) |
+| Fort Bend County | Web Developer - Web Development - Information Technology | Richmond, TX |  |  | 2026-11-12 | [Apply](https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers/job/Richmond-TX/Temporary-Position---Web-Development---Information-Technology_JR1694-11-26) |
+| Memorial Hermann | Application Programmer/Analyst | United States |  |  | 2026-11-12 | [Apply](https://memorialhermann.wd5.myworkdayjobs.com/external/job/Medical-Plaza-North/Application-Programmer-Analyst_100189268) |
 | Northrop Grumman | Associate Software Engineer | McClellan Park, CA |  |  | 2026-11-12 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423) |
 | Peraton | Full Stack Engineer | Columbus, OH |  |  | 2026-11-12 | [Apply](https://careers-peraton.icims.com/jobs/173596/job?mobile=true&needsRedirect=false) |
 | Q2 | Software Engineer | Austin, TX |  |  | 2026-11-12 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953) |
@@ -61,6 +64,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Boeing | Entry Flight Software Engineer - Vehicle Management Systems | El Segundo, CA |  |  | 2026-11-11 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Flight-Software-Engineer---Vehicle-Management-Systems_JR2026527015-1) |
 | Booz Allen | Junior C++ Software Engineer | Beavercreek, OH |  |  | 2026-11-11 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425) |
 | CDK Global | Associate Database Engineer | Austin, TX |  |  | 2026-11-11 | [Apply](https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Database-Engineer_JR9386) |
+| CDPHP | Software Engineer - ETL | Rochester, NY, De Witt, NY (+4) |  |  | 2026-11-11 | [Apply](https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/Software-Engineer---ETL_JR104172) |
 | City of New Braunfels | GIS Technician 1/2/3 | New Braunfels, TX |  |  | 2026-11-11 | [Apply](https://newbraunfels.wd12.myworkdayjobs.com/CONB/job/New-Braunfels-TX/GIS-Technician-I-II-III_R456) |
 | Freddie Mac | Servicing Efficiency and Transformation Associate | McLean, VA |  |  | 2026-11-11 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Servicing--Efficiency-and-Transformation--SET--Associate_JR17559) |
 | General Dynamics Mission Systems | Platform Services Software Engineer Entry Level | Scottsdale, AZ |  |  | 2026-11-11 | [Apply](https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false) |
@@ -104,6 +108,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Boeing | Entry-Level Missions Systems Software Engineer - Embedded | Berkeley, MO |  |  | 2026-11-10 | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineer---Embedded_JR2026529463) |
 | Boeing | Entry-Level Missions Systems Software Engineer - Embedded | Berkeley, MO |  |  | 2026-11-10 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineer---Embedded_JR2026529463-1) |
 | CDK Global | Associate Software Engineer | Austin, TX |  |  | 2026-11-10 | [Apply](https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1) |
+| CDPHP | AI Engineer | Rochester, NY, De Witt, NY (+4) |  |  | 2026-11-10 | [Apply](https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/AI-Engineer-I-II_JR103556) |
 | Clearwater Analytics | Marketing Data Analyst | Boise, ID |  |  | 2026-11-10 | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Marketing-Data-Analyst_R12559) |
 | GlobalFoundries | AI Processor Hardware/Software Integration Engineer New Grad | Richardson, TX |  |  | 2026-11-10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093) |
 | Liquid AI | Member of Technical Staff - Research Engineer - Omni | Boston, MA |  |  | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/liquid-ai/d3522c8d-a2ec-498e-b8d7-02fdf5211f2c/application?embed=true) |
@@ -123,7 +128,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Cummins | Electronic Systems Engineer - Software | Columbus, IN |  |  | 2026-11-10 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433871) |
 | RTX | Software Engineer 1 | Cedar Rapids, IA |  |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081) |
 | Rheem | Product Data Analyst 1 | Lewisville, TX, Fort Smith, AR |  |  | 2026-11-10 | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4581) |
-| Goldman Sachs | Software Engineer - Software Engineering | Dallas, TX |  |  | 2026-11-10 | [Apply](https://higher.gs.com/roles/188640) |
 | Biointellisense | Android Engineer | Redwood City, CA, Golden, CO |  |  | 2026-11-10 | [Apply](https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28/apply) |
 | Johns Hopkins Applied Physics Laboratory | Algorithm Development Engineer | Laurel, MD |  |  | 2026-11-10 | [Apply](https://careers.jhuapl.edu/jobs/60916?icims=1&lang=en-us) |
 | Wise | Graduate Data Scientist | Austin, TX |  |  | 2026-11-10 | [Apply](https://jobs.smartrecruiters.com/Wise/744000160933600) |
@@ -499,6 +503,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Axtria | AI & Data Associate | Berkeley Heights, NJ |  |  | 2026-10-13 | [Apply](https://axtriainc.applytojob.com/apply/WvWFVnBuU0/Campus-2027-AI-Data) |
 | TikTok | Research Scientist Graduate | Seattle, WA |  |  | 2026-10-12 | [Apply](https://lifeattiktok.com/search/7695929967028750645) |
 | Collectors | Data Annotation Specialist | Santa Ana, CA |  |  | 2026-10-12 | [Apply](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Data-Annotation-Specialist--PSA_JR107013) |
+| ICF International | Junior Data Scientist | Remote in USA |  |  | 2026-10-12 | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453) |
 | KLA | Software Engineer 1 | Ann Arbor, MI |  |  | 2026-10-12 | [Apply](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057) |
 | NVIDIA | SoC Software Engineer New Grad | Santa Clara, CA |  |  | 2026-10-12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) |
 | Sierra Space | Software Engineer 1 - Flight Software | Centennial, CO, Louisville, CO |  |  | 2026-10-12 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Software-Engineer-I---Flight-Software_R26390-1) |

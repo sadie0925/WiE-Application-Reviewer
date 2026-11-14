@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**296 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 10:21 ET
+**295 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 14:58 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -29,6 +29,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Reliable Robotics | Hardware Test Engineer Intern | Mountain View, CA | Spring 2027 |  | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e/application?embed=true) |
 | TC Energy | Intelligent Operations Technology Intern | Spokane, WA | Spring 2027 |  | 2026-11-12 | [Apply](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919) |
 | The Toro Company | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | Spring 2027 |  | 2026-11-12 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) |
+| Watts Water | Product Management Co-op | Menomonee Falls, WI | Winter 2027, Spring 2027 |  | 2026-11-12 | [Apply](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) |
 | Toyota Research Institute | Robotics Intern - Prototyping and Research Operations | Cambridge, MA |  |  | 2026-11-12 | [Apply](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) |
 | AMAX | R&D Engineer Intern | Fremont, CA |  |  | 2026-11-11 | [Apply](https://apply.workable.com/amax-1/j/19B39953E1/apply) |
 | Lightmatter | Package Layout Automation Intern | Mountain View, CA | Spring 2027 |  | 2026-11-11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473740008) |
@@ -54,7 +55,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Spring 2026 |  | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-2) |
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Spring 2026 |  | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-1) |
 | KLA Corporation | Electrical Engineer Intern | Ann Arbor, MI | Spring 2026 |  | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897) |
-| RTX | Electrical Components Engineer Intern | Tucson, AZ | Spring 2027 |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027---Onsite-_01888885) |
 | RTX | Electrical Engineer Intern - FCS Hardware | Cedar Rapids, IA | Spring 2027 |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) |
 | RTX | Electrical Engineer Intern - Test Solutions | Tewksbury, MA |  |  | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01887669) |
 | Vanderlande Industries | Supply Chain Data & Analytics Intern | Remote in USA, Marietta, GA |  |  | 2026-11-10 | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) |
@@ -167,7 +167,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Envoy Air | College Intern - Airport Operations & Planning Analyst | Dallas, TX | Spring 2026 |  | 2026-11-01 | [Apply](https://us-envoyair.icims.com/jobs/13094/job?mobile=true&needsRedirect=false) |
 | GlobalFoundries | Design Verification Engineer Intern | Richardson, TX | Spring 2027 |  | 2026-11-01 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) |
 | NASA Jet Propulsion Laboratory | Electrical & Computer Engineering Intern - Flight Communications and Tracking Section - GNSS, Radiometric & Gravity Sensing Instruments Group | Pasadena, CA |  |  | 2026-11-01 | [Apply](https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Academic-Part-Time-Intern_R6220) |
-| The Federal Reserve System | Supervision & Regulation Intern - Business Relationship | Atlanta, GA | Spring 2027 |  | 2026-11-01 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) |
 | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC | Spring 2027 |  | 2026-10-30 | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
 | TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA | Winter 2027 |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701480558070597893) |
 | TikTok | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA | Winter 2027 |  | 2026-10-30 | [Apply](https://lifeattiktok.com/search/7701486873210390837) |

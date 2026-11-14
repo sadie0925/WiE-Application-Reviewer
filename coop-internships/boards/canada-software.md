@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**146 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 10:21 ET
+**146 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 14:58 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -14,6 +14,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Seaspan | Data Engineering Intern | North Vancouver, BC, Canada | Winter 2027 |  | 2026-11-13 | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) |
 | Helcim | Data Intern | Calgary, AB, Canada | Spring 2026 |  | 2026-11-13 | [Apply](https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a) |
 | Canadian Tire | Programmer Analyst Intern | Mississauga, ON, Canada | Winter 2027 |  | 2026-11-12 | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) |
+| Ciena | Technical Solution Engineer Intern - SE&I | Montreal, QC, Canada, Ottawa, ON, Canada | Winter 2027 |  | 2026-11-12 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) |
 | Fonds de solidarité FTQ | Business Intelligence and M365 Solutions Intern | Montreal, QC, Canada |  |  | 2026-11-12 | [Apply](https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874) |
 | Huawei | Researcher Intern - Embodied AI | Edmonton, AB, Canada |  |  | 2026-11-12 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) |
 | Bank of Montreal | AI Developer Co-op Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-11 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) |
@@ -155,4 +156,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Tower Research Capital | Machine Learning Intern | Montreal, QC, Canada |  |  | 2026-10-15 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
 | TechInsights | Software Development Co-op Student | Ottawa, ON, Canada | Winter 2026 |  | 2026-10-15 | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada | Winter 2027 |  | 2026-10-15 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) |
-| Capital de Recherche Tower | Machine Learning Intern | Montreal, QC, Canada |  |  | 2026-10-15 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8286965) |
