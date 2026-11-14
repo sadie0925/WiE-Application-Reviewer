@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**295 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 14:58 ET
+**290 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 18:41 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -11,6 +11,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
 | Tesla | Electrical Engineer Intern - High Speed Hardware Design | Palo Alto, CA | Spring 2027 |  | 2026-11-14 | [Apply](https://www.tesla.com/careers/search/job/289951) |
+| General Dynamics Mission Systems | Engineer Intern | Pittsfield, MA |  |  | 2026-11-13 | [Apply](https://careers-gdms.icims.com/jobs/75487/job?mobile=true&needsRedirect=false) |
 | Meta | Research Scientist Intern - Diffractive Optics | Redmond, WA |  |  | 2026-11-13 | [Apply](https://www.metacareers.com/jobs/1158829233342350) |
 | Meta | Research Scientist Intern - Materials Architecture & Device Integration | Redmond, WA |  |  | 2026-11-13 | [Apply](https://www.metacareers.com/jobs/1674297360998408) |
 | Koch Industries | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | Spring 2027 |  | 2026-11-13 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) |
@@ -71,7 +72,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | GlobalFoundries | CPU IP Design & Verification Intern - RISC-V Processor Development | Austin, TX, Santa Clara, CA | Spring 2027 |  | 2026-11-09 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604040) |
 | HP Inc. | Performance Engineering Co-op | Fort Collins, CO | Spring 2027 |  | 2026-11-09 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-1) |
 | HP Inc. | Performance Engineering Co-op | Fort Collins, CO | Spring 2027 |  | 2026-11-09 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-2) |
-| Northrop Grumman | Optics/Photonic Engineering Intern | Apopka, FL | Spring 2027 |  | 2026-11-09 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049) |
 | NVIDIA | Performance Engineering Intern - Platform Performance and Power | Canada, Santa Clara, CA (+1) | Spring 2027 |  | 2026-11-09 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541) |
 | Rambus | CAD Engineer Intern | San Jose, CA |  |  | 2026-11-09 | [Apply](https://careers-rambus.icims.com/jobs/23121/job?mobile=true&needsRedirect=false) |
 | Intuitive Surgical | Electrical Engineer Intern | Sunnyvale, CA | Spring 2026 |  | 2026-11-09 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160746789) |
@@ -300,8 +300,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Publicis Groupe | Product Intern | Irving, TX | Spring 2026 |  | 2026-10-16 | [Apply](https://careers.publicisgroupe.com/jobs/172715?icims=1) |
 | SiTime | Validation Engineer Intern | Tempe, AZ |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4452953009) |
 | GlobalFoundries | Foundation IP Design Verification Intern | Santa Clara, CA | Spring 2027 |  | 2026-10-15 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356) |
-| Meta | Quality and Reliability Engineer Intern | Sunnyvale, CA |  |  | 2026-10-15 | [Apply](https://www.metacareers.com/jobs/1624891432439039) |
-| Duolingo | Product Manager MBA Intern | Pittsburgh, PA |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888266002) |
-| Laminar | Sensor Characterization Co-op | Somerville, MA |  |  | 2026-10-15 | [Apply](https://jobs.lever.co/runlaminar/7e573316-8d6b-455a-834b-b278bfadded3/apply) |
-| onsemi | Device Characterization Engineer Intern | Hopewell Junction, NY | Spring 2027 |  | 2026-10-15 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506970) |
-| Duolingo | Product Manager MBA Intern | Pittsburgh, PA |  |  | 2026-10-15 | [Apply](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) |

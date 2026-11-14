@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**146 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 14:58 ET
+**143 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 18:41 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -153,6 +153,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, Pittsburgh, PA | Spring 2027 |  | 2026-10-16 | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
 | Kepler Communications | Software Engineer Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-10-16 | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | Spring 2027 |  | 2026-10-16 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) |
-| Tower Research Capital | Machine Learning Intern | Montreal, QC, Canada |  |  | 2026-10-15 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
-| TechInsights | Software Development Co-op Student | Ottawa, ON, Canada | Winter 2026 |  | 2026-10-15 | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) |
-| Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada | Winter 2027 |  | 2026-10-15 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) |
