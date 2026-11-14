@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**150 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 16:58 ET
+**148 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 20:59 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,10 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| W.W. Grainger | Customer Experience Intern | Thornhill, Vaughan, ON, Canada | Spring 2027 |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) |
+| Seaspan | Data Engineering Intern | North Vancouver, BC, Canada | Winter 2027 |  | 2026-11-13 | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) |
+| Helcim | Data Intern | Calgary, AB, Canada | Spring 2026 |  | 2026-11-13 | [Apply](https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a) |
+| Canadian Tire | Programmer Analyst Intern | Mississauga, ON, Canada | Winter 2027 |  | 2026-11-12 | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) |
 | Fonds de solidarité FTQ | Business Intelligence and M365 Solutions Intern | Montreal, QC, Canada |  |  | 2026-11-12 | [Apply](https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874) |
 | Huawei | Researcher Intern - Embodied AI | Edmonton, AB, Canada |  |  | 2026-11-12 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) |
 | Bank of Montreal | AI Developer Co-op Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-11 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) |
@@ -24,7 +28,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Qualcomm | Firmware Engineering Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-11-09 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722038614) |
 | Kensington | BI/Data Analyst Intern | Toronto, ON, Canada |  |  | 2026-11-09 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) |
 | Altera | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-11-08 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) |
-| Hootsuite | Software Developer Co-op Intern | Toronto, ON, Canada, Vancouver, BC, Canada | Winter 2027 |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8360176) |
 | Brave | Software Engineer Intern | Remote in Canada | Fall 2026 |  | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/brave/jobs/8360001) |
 | DataRobot | Software Design Engineer Intern | Boston, MA, Seattle, WA (+1) |  |  | 2026-11-05 | [Apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) |
 | OLG | Analytics Engineering & Measurement Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | Winter 2027 |  | 2026-11-05 | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700) |
@@ -155,8 +158,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | TechInsights | Software Development Co-op Student | Ottawa, ON, Canada | Winter 2026 |  | 2026-10-15 | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada | Winter 2027 |  | 2026-10-15 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) |
 | Capital de Recherche Tower | Machine Learning Intern | Montreal, QC, Canada |  |  | 2026-10-15 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8286965) |
-| Intel | Compiler Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-14 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) |
-| Kensington | Analytics Intern | Toronto, ON, Canada |  |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) |
-| National Bank of Canada | Artificial Intelligence Scientist Intern | Canada |  |  | 2026-10-14 | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36110) |
-| National Bank of Canada | Artificial Intelligence Developer Intern | Canada |  |  | 2026-10-14 | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36120) |
-| Later | Data Science Co-op | Vancouver, BC, Canada | Winter 2027 |  | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/later/jobs/8889650002) |

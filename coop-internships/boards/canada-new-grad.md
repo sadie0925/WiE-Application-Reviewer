@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**151 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 16:58 ET
+**153 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 20:59 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,8 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Fidus Systems | Embedded Software Designer - AI Agents and Tooling | Kitchener, ON, Canada |  |  | 2026-11-13 | [Apply](https://apply.workable.com/fidus/j/530C9AAB54/apply) |
+| Fidus Systems | Embedded Software Designer - AI Knowledge and Data | Kitchener, ON, Canada |  |  | 2026-11-13 | [Apply](https://apply.workable.com/fidus/j/B945E3C44D/apply) |
 | Bank of Montreal | Personal & Business Banking Development Program New Grad | Toronto, ON, Canada |  |  | 2026-11-12 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3) |
 | Affirm | Software Engineer 1 - Backend - Continuous Delivery | Remote in Canada |  |  | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181185003) |
 | Valsoft | AI Software Developer - Research & Development | Montreal, QC, Canada |  |  | 2026-11-11 | [Apply](https://apply.workable.com/valsoft-corp/j/EE42775BE3/apply) |
@@ -31,7 +33,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | General Dynamics | Junior Systems Engineer - ISTAR | Ottawa, ON, Canada |  |  | 2026-11-04 | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000159681119) |
 | Intel | Compiler Engineer for AI Tile-based DSL | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineer-for-AI-Tile-based-DSL_JR0288443) |
 | Raydar | Full-Stack Software Engineer | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/raydar/j/5CFE2097E4/apply) |
-| Capgemini | Campus 1&D: Associate Application Consultant | Mississauga, ON, Canada |  |  | 2026-11-03 | [Apply](https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors) |
 | Google | Software Developer 2 – Early Career | Montreal, QC, Canada, Waterloo, ON, Canada |  |  | 2026-11-02 | [Apply](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) |
 | Unity | Software Developer New Grad - U-Accelerate: Software Developer | Montreal, QC, Canada |  |  | 2026-11-01 | [Apply](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768) |
 | Neutreeno | Carbon Analysis Engineer | Remote in UK |  |  | 2026-10-30 | [Apply](https://apply.workable.com/neutreeno-1/j/FD929624D0/apply) |
@@ -41,6 +42,8 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | DraftKings | Software Engineer | Remote in Canada |  |  | 2026-10-29 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324-1) |
 | Mitel Networks | Junior Full Stack Web Developer | Ottawa, ON, Canada |  |  | 2026-10-29 | [Apply](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211) |
 | Raydar | AI Product Engineer / Forward Deployed Engineer | Austin, TX, Remote in USA (+1) |  |  | 2026-10-29 | [Apply](https://apply.workable.com/raydar/j/31364F00E3/apply) |
+| Thoughtworks | Associate Developer | Toronto, ON, Canada |  |  | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333236) |
+| Thoughtworks | Graduate Developer | Toronto, ON, Canada |  |  | 2026-10-28 | [Apply](https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/b6bcff88-eb9a-4df1-8695-bc4e7dc1dbc7/application?embed=true) |
 | Ciena | Routing/IP Software Engineer New Grad | Ottawa, ON, Canada |  |  | 2026-10-27 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006) |
 | Intuit | Software Developer 1 | Toronto, ON, Canada |  |  | 2026-10-27 | [Apply](https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744) |
 | Intuit | Software Developer 1 - API Management Platform | Toronto, ON, Canada |  |  | 2026-10-27 | [Apply](https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064) |
@@ -65,7 +68,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | DraftKings | Software Engineer | Remote in Canada |  |  | 2026-10-22 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324) |
 | Nokia | Firmware Engineer | Canada |  |  | 2026-10-22 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41408) |
 | Aptiv | Associate Cloud Engineer | Kanata, Ottawa, ON, Canada |  |  | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000701887) |
-| Zurich Insurance | Machine Learning Engineer | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors) |
 | Quora | Full Stack Software Engineer New Grad | Remote in USA, Remote in Canada |  |  | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
 | Wonderbrands | Fullstack Software Developer New Grad | Etobicoke, ON, Canada |  |  | 2026-10-18 | [Apply](https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false) |
 | Qualcomm | DSP System Engineer | Markham, ON, Canada |  |  | 2026-10-15 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721595845) |

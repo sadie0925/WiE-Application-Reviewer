@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**52 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 16:58 ET
+**53 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-13 20:59 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,9 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| W.W. Grainger | GCAN Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Spring 2027 |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) |
+| W.W. Grainger | Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Spring 2025 |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors) |
+| Marvell | Analog Layout Engineer Intern Co-op | Toronto, ON, Canada |  |  | 2026-11-12 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789) |
 | Analog Devices | Analog Design Intern | Ottawa, ON, Canada |  |  | 2026-11-11 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) |
 | Analog Devices | Product Engineer Intern - Product Development | Ottawa, ON, Canada | Spring 2027 |  | 2026-11-11 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) |
 | Ciena | Layout Design Co-op | Ottawa, ON, Canada | Winter 2027 |  | 2026-11-10 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) |
@@ -20,7 +23,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | NVIDIA | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA (+1) | Spring 2027 |  | 2026-11-08 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) |
 | Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada | Spring 2027 |  | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |
 | Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada | Spring 2027 |  | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120) |
-| Rivian and Volkswagen Group Technologies | Mechatronics Lab Engineering Intern | Vancouver, BC, Canada | Winter 2027, Spring 2027 |  | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application?embed=true) |
 | Qualcomm | Display IP FPGA Emulation Intern | Markham, ON, Canada | Spring 2027 |  | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361) |
 | Boston Scientific | R&D Product Development Intern | Montreal, QC, Canada | Winter 2027 |  | 2026-11-04 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813850819) |
 | Equitable Bank | Product Management Intern - Digital Banking | Toronto, ON, Canada | Winter 2027 |  | 2026-11-04 | [Apply](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) |
@@ -48,7 +50,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Trimble | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada |  |  | 2026-10-26 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052) |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada |  |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) |
-| 1Password | Product Management Intern - End User Experience | Remote in USA, Remote in Canada | Winter 2027 |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) |
 | Altera | Intellectual Property Design Intern | Toronto, ON, Canada |  |  | 2026-10-22 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Spring 2027 |  | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Spring 2027 |  | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) |
