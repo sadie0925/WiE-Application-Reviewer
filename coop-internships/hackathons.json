@@ -13,58 +13,6 @@
     "source": "velocity"
   },
   {
-    "name": "Hack The Nest",
-    "location": "Ypsilanti, Michigan",
-    "url": "https://hackthenest.tech/",
-    "starts_at": "2026-11-14T14:00:00Z",
-    "ends_at": "2026-11-15T21:00:00Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "NOV 14 - 15",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
-    "name": "HackUTA",
-    "location": "Arlington, Texas",
-    "url": "https://hackuta.com/",
-    "starts_at": "2026-11-14T14:00:00Z",
-    "ends_at": "2026-11-15T22:30:00Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "NOV 14 - 15",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
-    "name": "SanD Hacks",
-    "location": "La Jolla, CA",
-    "url": "https://hackathon.csesatucsd.com/",
-    "starts_at": "2026-11-14T14:00:00Z",
-    "ends_at": "2026-11-15T20:00:00Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "NOV 14 - 15",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
-    "name": "sunhacks",
-    "location": "Tempe, Arizona",
-    "url": "https://2026.sunhacks.io/",
-    "starts_at": "2026-11-14T15:00:00Z",
-    "ends_at": "2026-11-15T20:00:00Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "NOV 14 - 15",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
     "name": "Tech For Community 2026",
     "location": "St. John's, Newfoundland and Labrador / Avalon Peninsula",
     "url": "https://tecnurtur.org/hackathon",

@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. A row is removed as soon as that application deadline passes, or once the event has started if no application deadline was published. This is separate from the 30-day job rule.
 
-**16 upcoming** · 1 Waterloo · 15 other Canada/US · Updated 2026-11-14 03:42 ET
+**12 upcoming** · 1 Waterloo · 11 other Canada/US · Updated 2026-11-14 10:21 ET
 
 [All boards](../README.md)
 
@@ -16,10 +16,6 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
-| Hack The Nest | Ypsilanti, Michigan | 2026-11-14 |  | [Open](https://hackthenest.tech/) |
-| HackUTA | Arlington, Texas | 2026-11-14 |  | [Open](https://hackuta.com/) |
-| SanD Hacks | La Jolla, CA | 2026-11-14 |  | [Open](https://hackathon.csesatucsd.com/) |
-| sunhacks | Tempe, Arizona | 2026-11-14 |  | [Open](https://2026.sunhacks.io/) |
 | Tech For Community 2026 | St. John's, Newfoundland and Labrador / Avalon Peninsula | 2026-11-21 |  | [Open](https://tecnurtur.org/hackathon) |
 | WHACK (Wellesley Hackathon) | Wellesley , Massachesetts | 2026-11-21 |  | [Open](https://www.wellesleyhacks.org/) |
 | BostonHacks | Boston, MA | 2026-11-21 |  | [Open](https://bostonhacks.org/) |
