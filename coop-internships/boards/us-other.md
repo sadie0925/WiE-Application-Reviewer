@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**290 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 18:41 ET
+**288 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 22:05 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -298,5 +298,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Publicis Groupe | Product Intern | Chicago, IL | Spring 2026 |  | 2026-10-16 | [Apply](https://careers.publicisgroupe.com/jobs/172716?icims=1) |
 | Publicis Groupe | Product Intern | Irving, TX | Spring 2026 |  | 2026-10-16 | [Apply](https://publicisgroupe.jibeapply.com/jobs/172715?icims=1) |
 | Publicis Groupe | Product Intern | Irving, TX | Spring 2026 |  | 2026-10-16 | [Apply](https://careers.publicisgroupe.com/jobs/172715?icims=1) |
-| SiTime | Validation Engineer Intern | Tempe, AZ |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4452953009) |
-| GlobalFoundries | Foundation IP Design Verification Intern | Santa Clara, CA | Spring 2027 |  | 2026-10-15 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356) |

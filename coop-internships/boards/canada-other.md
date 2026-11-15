@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**52 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 18:41 ET
+**49 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 22:05 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -59,6 +59,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | Spring 2027 |  | 2026-10-19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) |
 | FanDuel | Product Co-op | Toronto, ON, Canada | Spring 2027 |  | 2026-10-19 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) |
 | NVIDIA | ASIC Verification Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-10-18 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
-| Moment Energy | Test Engineering Co-op | Surrey, BC, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) |
-| SiTime | ASIC Digital Verification Engineer Co-op | Ottawa, ON, Canada | Winter 2027 |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4452852009) |
-| SiTime | ASIC Digital Verification Engineer Intern | Ottawa, ON, Canada |  |  | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009) |

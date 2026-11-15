@@ -2,7 +2,7 @@
 
 Software new-grad roles in the United States. Master's/PhD-only postings are left off.
 
-**1529 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 18:41 ET
+**1534 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 22:05 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -12,6 +12,8 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
 | Microsoft | Software Engineer - Microsoft Business Operations | Redmond, WA |  |  | 2026-11-13 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557073410) |
 | Integrated Biosciences | Software Engineer - Robotics | Redwood City, CA |  |  | 2026-11-13 | [Apply](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009) |
+| NVIDIA | Deep Learning Framework Communications Engineer New Grad | United States |  |  | 2026-11-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) |
+| Uhaul | Road Count Taker | Louisville, KY |  |  | 2026-11-13 | [Apply](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Louisville-Kentucky/Road-Count-Taker_R259638) |
 | Cone Health | Analytic Developer | Greensboro, NC |  |  | 2026-11-13 | [Apply](https://careers.conehealth.com/us/en/job/JR155338) |
 | UTHealth Houston | Clinical Business Intelligence Analyst | San Antonio, TX |  |  | 2026-11-13 | [Apply](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8331) |
 | Microsoft | Software Engineer | Redmond, WA |  |  | 2026-11-13 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557072925) |
@@ -127,6 +129,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Citylogix | Field Data Collection Technician | Las Vegas, NV, Seattle, WA (+9) |  |  | 2026-11-10 | [Apply](https://ats.rippling.com/citylogix/jobs/9cddf245-08bd-4da4-8a10-d177f4445cf7) |
 | Cummins | Electronic Systems Engineer - Software | Columbus, IN |  |  | 2026-11-10 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433871) |
 | Rheem | Product Data Analyst 1 | Lewisville, TX, Fort Smith, AR |  |  | 2026-11-10 | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4581) |
+| Goldman Sachs | Software Engineer - Software Engineering | Dallas, TX |  |  | 2026-11-10 | [Apply](https://higher.gs.com/roles/188640) |
 | Biointellisense | Android Engineer | Redwood City, CA, Golden, CO |  |  | 2026-11-10 | [Apply](https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28/apply) |
 | Johns Hopkins Applied Physics Laboratory | Algorithm Development Engineer | Laurel, MD |  |  | 2026-11-10 | [Apply](https://careers.jhuapl.edu/jobs/60916?icims=1&lang=en-us) |
 | Wise | Graduate Data Scientist | Austin, TX |  |  | 2026-11-10 | [Apply](https://jobs.smartrecruiters.com/Wise/744000160933600) |
@@ -217,6 +220,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Horizon3.ai | Research Staff - Adversarial Intelligence | Remote in USA |  |  | 2026-11-04 | [Apply](https://jobs.ashbyhq.com/horizon3ai/6134d6f9-4b78-47e9-a57a-93636bc4b666/application?embed=true) |
 | Osaic | Quantitative Analyst 2 | Scottsdale, AZ |  |  | 2026-11-04 | [Apply](https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site/job/Scottsdale-AZ/Quantitative-Analyst-II_R0005358) |
 | Ring Power | Condition Monitor Analyst - Heavy Equipment | Riverview, FL |  |  | 2026-11-04 | [Apply](https://careers-ringpower.icims.com/jobs/15628/job?mobile=true&needsRedirect=false) |
+| RTX | Systems Engineer 1 - Open Systems Solutions | Cedar Rapids, IA |  |  | 2026-11-04 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Systems-Engineer-I--Onsite-_01887270) |
 | Twitch | Software Development Engineer 1 - Security Platform | Seattle, WA, Irvine, CA |  |  | 2026-11-04 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931345002) |
 | Twitch | Software Development Engineer 1 - Security Platform | Seattle, WA |  |  | 2026-11-04 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931343002) |
 | Empower Pharmacy | Associate Software Engineer - Full Stack | Houston, TX |  |  | 2026-11-04 | [Apply](https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009) |
@@ -361,6 +365,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | HNTB | Software Engineer 1 New Grad | Tampa, FL, Tallahassee, FL |  |  | 2026-10-25 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175) |
 | HNTB | Software Engineer 1 New Grad | Tampa, FL, Tallahassee, FL |  |  | 2026-10-25 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175-1) |
 | RTX | Systems Engineer 1 - Datalinks | Cedar Rapids, IA |  |  | 2026-10-25 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Datalinks---Onsite_01881112) |
+| T-Mobile | Associate Software Engineer: Billing Platform | Frisco, TX, Atlanta, GA (+1) |  |  | 2026-10-25 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1) |
 | Star Mountain Capital | Financial Systems Engineer | Tampa, FL |  |  | 2026-10-24 | [Apply](https://job-boards.greenhouse.io/starmountaincapital/jobs/4466686009) |
 | Fortinet | AI Automation Engineer | Sunnyvale, CA |  |  | 2026-10-23 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24771) |
 | Carvana | Software Engineering | Tempe, AZ |  |  | 2026-10-23 | [Apply](https://www.carvana.com/careers/apply?gh_jid=7542940) |
