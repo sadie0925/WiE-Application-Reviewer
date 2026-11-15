@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**791 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 05:42 ET
+**793 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 12:24 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -26,6 +26,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Camping World | Software Engineer Intern | Chicago, IL | Spring 2027 |  | 2026-11-12 | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080) |
 | Capital Group | Global Technology Summer Associate Intern | Irvine, CA | Spring |  | 2026-11-12 | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) |
 | Carnegie Mellon University | Cyber AI Engineer Intern | Pittsburgh, PA | Spring 2027 |  | 2026-11-12 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) |
+| Carnegie Mellon University | Cyber AI Engineering Intern | Pittsburgh, PA | Spring 2027 |  | 2026-11-12 | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1) |
 | Cigna Group | Healthcare Analytics Intern | Morris Plains, NJ | Spring 2027 |  | 2026-11-12 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857) |
 | Daimler Truck | IT Developer Analyst Intern | Mt Holly, NC | Spring 2026 |  | 2026-11-12 | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1) |
 | Horizon3.ai | Research Intern - Adversarial Intelligence | Chicago, IL, West Lafayette, IN | Spring 2027 |  | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true) |
@@ -431,8 +432,11 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Newmont | Resource Modeling Intern | Denver, CO | Spring 2027 |  | 2026-10-30 | [Apply](https://jobs.newmont.com/us/en/job/45053) |
 | Stratolaunch | Manufacturing Systems & Data Intern - Systems | Mojave, CA | Spring 2027 |  | 2026-10-30 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) |
 | Carnegie Mellon University | Agentic Development Intern | Pittsburgh, PA | Fall 2026 |  | 2026-10-29 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1) |
+| Carnegie Mellon University | Agentic Development Intern | Pittsburgh, PA | Fall 2026 |  | 2026-10-29 | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Agentic-Development-Intern_2025292) |
 | Carnegie Mellon University | Enabling Mission Capability at Scale Intern | Pittsburgh, PA | Spring 2027 |  | 2026-10-29 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1) |
+| Carnegie Mellon University | Enabling Mission Capability at Scale Intern | Pittsburgh, PA | Spring 2027 |  | 2026-10-29 | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300) |
 | Carnegie Mellon University | Full-Stack Software Development Intern | Pittsburgh, PA | Fall 2026 |  | 2026-10-29 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2) |
+| Carnegie Mellon University | Full-Stack Software Development Intern | Pittsburgh, PA | Fall 2026, Spring 2027 |  | 2026-10-29 | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1) |
 | Itron | Systems Engineer Intern | West Union, SC | Spring 2027 |  | 2026-10-29 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1) |
 | Itron | Systems Engineer Intern | West Union, SC | Spring 2027 |  | 2026-10-29 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-2) |
 | John D. and Catherine T. MacArthur Foundation | Evaluation & Learning Intern | Chicago, IL | Spring 2027 |  | 2026-10-29 | [Apply](https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Evaluation---Learning-Intern---Summer-2027_REQ-000362) |
@@ -799,5 +803,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Wellmark | Software Engineer Intern - Technology Health Plan | Des Moines, IA | Spring 2027 |  | 2026-10-16 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218) |
 | John Deere | Process Automation Student Intern - Process Automation - Data and Analytics | Greeneville, TN |  |  | 2026-10-16 | [Apply](https://johndeere.eightfold.ai/careers/job/137483907415) |
 | Keysight Technologies | R&D Software Engineer Intern | Austin, TX |  |  | 2026-10-16 | [Apply](https://jobs.keysight.com/jobs/54848?icims=1) |
-| Schneider Electric | AI Quality & Continuous Improvement Intern | Foxborough, MA | Spring 2027 |  | 2026-10-16 | [Apply](https://se.jibeapply.com/jobs/136783?icims=1) |
-| 84 Lumber | Business Intelligence Intern - Business Intelligence | Eighty Four, PA |  |  | 2026-10-16 | [Apply](https://careers.84lumber.com/jobs/26178?icims=1) |

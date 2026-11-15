@@ -17,18 +17,18 @@ python3 main.py readme    # regenerate README only
 
 <!-- LISTINGS:START -->
 
-**2908 open listings** · newest first · Updated 2026-11-15 05:42 ET
+**2911 open listings** · newest first · Updated 2026-11-15 12:24 ET
 
 Internships come from the Simplify Summer feed. Software new-grad roles come from Simplify's New-Grad Positions feed. Internships are removed when closed or after **30 days**. Active new-grad rows stay until the feed marks them closed. Master's/PhD-only new-grad rows are left off. Roles in both countries show up on both pages.
 
 | Board | Open |
 | ----- | ---- |
 | [Canada — Software internships](boards/canada-software.md) | 141 |
-| [United States — Software internships](boards/us-software.md) | 791 |
+| [United States — Software internships](boards/us-software.md) | 793 |
 | [Canada — Other internships](boards/canada-other.md) | 49 |
-| [United States — Other internships](boards/us-other.md) | 289 |
+| [United States — Other internships](boards/us-other.md) | 292 |
 | [Canada — Software new grad](boards/canada-new-grad.md) | 151 |
-| [United States — Software new grad](boards/us-new-grad.md) | 1532 |
+| [United States — Software new grad](boards/us-new-grad.md) | 1530 |
 | [Hackathons and innovation challenges](boards/hackathons.md) | 12 (1 Waterloo first) |
 | [Early undergrad programs](boards/programs.md) | 3 |
 

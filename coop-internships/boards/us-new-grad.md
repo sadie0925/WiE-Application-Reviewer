@@ -2,7 +2,7 @@
 
 Software new-grad roles in the United States. Master's/PhD-only postings are left off.
 
-**1532 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 05:42 ET
+**1530 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 12:24 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -122,8 +122,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Salesforce | Software Engineering AMTS New Grad | Palo Alto, CA, Seattle, WA (+3) |  |  | 2026-11-10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) |
 | Shield AI | Engineer 2 New Grad - Software - Autonomous Pilot Integration | Washington, DC |  |  | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true) |
 | Shield AI | Engineer 2 New Grad - Software - Autonomous Pilot Integration | Washington, DC |  |  | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true) |
-| Shield AI | Engineer 2 New Grad - Software - Perception | United States |  |  | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) |
-| Shield AI | Engineer 2 New Grad - Software - Perception | United States |  |  | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) |
 | ZT Systems | Test Software Developer | Secaucus, NJ |  |  | 2026-11-10 | [Apply](https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Test-Software-Developer_R-105519-1) |
 | Citylogix | Field Data Collection Technician | Las Vegas, NV, Seattle, WA (+9) |  |  | 2026-11-10 | [Apply](https://ats.rippling.com/citylogix/jobs/9cddf245-08bd-4da4-8a10-d177f4445cf7) |
 | Cummins | Electronic Systems Engineer - Software | Columbus, IN |  |  | 2026-11-10 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433871) |
@@ -177,8 +175,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Shield AI | Engineer 1 New Grad - Software - Perception | Washington, DC |  |  | 2026-11-07 | [Apply](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) |
 | Shield AI | Engineer 2 New Grad - Multiple Teams | Washington, DC |  |  | 2026-11-07 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true) |
 | Shield AI | Engineer 2 New Grad - Multiple Teams | Washington, DC |  |  | 2026-11-07 | [Apply](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true) |
-| Shield AI | Software Engineer 1 New Grad - Software - Autonomy Capabilities | United States |  |  | 2026-11-07 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) |
-| Shield AI | Software Engineer 1 New Grad - Software - Autonomy Capabilities | United States |  |  | 2026-11-07 | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) |
 | Perplexity AI | Member of Technical Staff - Software Engineer - AI Policy and Strategic Initiatives | Washington, DC |  |  | 2026-11-06 | [Apply](https://jobs.ashbyhq.com/perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9/application?embed=true) |
 | Shield AI | Software Engineer 1 New Grad - Internal Tools | Seattle, WA |  |  | 2026-11-06 | [Apply](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) |
 | Amazon | Systems Development Engineer - AWS Commerce Platform-ADC | Denver, CO |  |  | 2026-11-06 | [Apply](https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc) |
@@ -249,6 +245,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Brillio | Data Acquisition Analyst | Frisco, TX |  |  | 2026-11-03 | [Apply](https://jobs.lever.co/brillio-2/0663c1d8-d32a-4f52-a0ce-71fb6b5f0966/apply) |
 | AMAX | Junior System Engineer | Fremont, CA |  |  | 2026-11-02 | [Apply](https://apply.workable.com/amax-1/j/C8FD3B365F/apply) |
 | Amentum | Software Tools Developer | Huntsville, AL |  |  | 2026-11-02 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727) |
+| Carnegie Mellon University | Research Assistant - Kenneth C. Griffin School of Computer Science - S3D | Pittsburgh, PA |  |  | 2026-11-02 | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---S3D_2025318) |
 | LexisNexis Risk Solutions | Software Engineer 1 New Grad - Software Engineer I | Alpharetta, GA |  |  | 2026-11-02 | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836) |
 | M&T Bank | Technology Development Program - Software Engineering - Consumer & Marketing Application Development | Buffalo, NY |  |  | 2026-11-02 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Consumer---Marketing-Application-Development-_R91881) |
 | M&T Bank | Technology Development Program - Software Engineering - Data Engineering | Buffalo, NY |  |  | 2026-11-02 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882) |
@@ -401,6 +398,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | N1 Health | Associate Data Ops Engineer | Boston, MA |  |  | 2026-10-22 | [Apply](https://jobs.lever.co/algorex/cf93bbb8-6b46-430b-8554-6fab5aa8e719/apply) |
 | McMaster-Carr | Technology Developer - Development - Design | Elmhurst, IL |  |  | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009) |
 | Amazon | Robotics Embedded Software Development Engineer | North Reading, MA, Westborough, MA |  |  | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer) |
+| Beacon Mobility | AI Innovation & Automation Analyst | Beacon, NY |  |  | 2026-10-21 | [Apply](https://gobeacon.wd1.myworkdayjobs.com/beaconmobilitycareers/job/Beacon/AI-Innovation---Automation-Analyst--Fleet_REQ-2026-4555) |
 | Booz Allen | Data Scientist | Honolulu, HI, Annapolis Junction, MD (+9) |  |  | 2026-10-21 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0252282) |
 | Booz Allen | Software Developer | Honolulu, HI, Annapolis Junction, MD (+9) |  |  | 2026-10-21 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280) |
 | Booz Allen | Systems Engineer | Honolulu, HI, Annapolis Junction, MD (+9) |  |  | 2026-10-21 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284) |

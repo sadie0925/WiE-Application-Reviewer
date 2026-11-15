@@ -1,5 +1,55 @@
 [
   {
+    "id": "f7c4221f-6c64-4799-8157-8a32799d7e85",
+    "company_name": "Fanatics",
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "title": "Product Management Intern",
+    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794747931,
+    "date_updated": 1794758243,
+    "category": "Product",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other"
+  },
+  {
+    "id": "7dcaed62-38da-41f4-9f67-549f034babfe",
+    "company_name": "Fanatics",
+    "company_url": "https://simplify.jobs/c/Fanatics",
+    "title": "Product Intern - Physical Trading Cards",
+    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009",
+    "locations": [
+      "Coppell, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794747918,
+    "date_updated": 1794758249,
+    "category": "Product",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other"
+  },
+  {
     "id": "c1425ae2-392c-49bf-85ed-ed6b1a855c66",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -1477,6 +1527,31 @@
     "source": "simplify",
     "date_posted": 1794528000,
     "date_updated": 1794642850,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Spring 2027"
+    ],
+    "program": "cs"
+  },
+  {
+    "id": "aabe0127-a865-419b-ad95-ec112ec672e9",
+    "company_name": "Carnegie Mellon University",
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "title": "Cyber AI Engineering Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794528000,
+    "date_updated": 1794757504,
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "degrees": [
@@ -7371,54 +7446,6 @@
     "program": "cs"
   },
   {
-    "id": "8317de49-cf07-44e3-9ff1-0de4a824662a",
-    "company_name": "Shield AI",
-    "company_url": "https://simplify.jobs/c/Shield-AI",
-    "title": "Engineer 2 New Grad - Software - Perception",
-    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794450258,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "new_grad",
-    "program": "cs"
-  },
-  {
-    "id": "735965af-ac15-473a-a2ef-8a15ab46f590",
-    "company_name": "Shield AI",
-    "company_url": "https://simplify.jobs/c/Shield-AI",
-    "title": "Engineer 2 New Grad - Software - Perception",
-    "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794452054,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "new_grad",
-    "program": "cs"
-  },
-  {
     "id": "6148ec5d-dd2a-47df-9649-33d31c25173a",
     "company_name": "State of Wisconsin Investment Board",
     "company_url": "https://simplify.jobs/c/State-Of-Wisconsin-Investment-Board",
@@ -10987,6 +11014,29 @@
     "program": "other"
   },
   {
+    "id": "35416ed2-2faf-40be-9ca1-397122e83cce",
+    "company_name": "Carnegie Mellon University",
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "title": "Advanced Computing Lab Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794182400,
+    "date_updated": 1794757504,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other"
+  },
+  {
     "id": "4be2bded-53a1-49b3-b60a-2ea92469249a",
     "company_name": "Constellation Brands",
     "company_url": "https://simplify.jobs/c/Constellation-Brands",
@@ -12178,54 +12228,6 @@
     "source": "simplify",
     "date_posted": 1794096000,
     "date_updated": 1794362892,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "new_grad",
-    "program": "cs"
-  },
-  {
-    "id": "cb9057c1-ead7-42d2-8535-e6ee376a8005",
-    "company_name": "Shield AI",
-    "company_url": "https://simplify.jobs/c/Shield-AI",
-    "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794096000,
-    "date_updated": 1794180471,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "new_grad",
-    "program": "cs"
-  },
-  {
-    "id": "b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
-    "company_name": "Shield AI",
-    "company_url": "https://simplify.jobs/c/Shield-AI",
-    "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-    "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794096000,
-    "date_updated": 1794362905,
     "category": "Software",
     "sponsorship": "Other",
     "degrees": [
@@ -19075,6 +19077,28 @@
     "program": "cs"
   },
   {
+    "id": "0e9dcc61-445c-45de-ab79-e854c16a9da2",
+    "company_name": "Carnegie Mellon University",
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "title": "Research Assistant - Kenneth C. Griffin School of Computer Science - S3D",
+    "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---S3D_2025318",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793664000,
+    "date_updated": 1794757504,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs"
+  },
+  {
     "id": "d72dce77-ec3e-4046-b385-66b478ca3a5f",
     "company_name": "Ciena",
     "company_url": "https://simplify.jobs/c/Ciena",
@@ -23221,6 +23245,29 @@
     "program": "cs"
   },
   {
+    "id": "c406a7dc-dae4-4817-8a80-a41e0c686cfc",
+    "company_name": "Carnegie Mellon University",
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "title": "Agentic Development Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Agentic-Development-Intern_2025292",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793318400,
+    "date_updated": 1794757504,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Fall 2026"
+    ],
+    "program": "cs"
+  },
+  {
     "id": "02e22e65-de2c-4f9c-961a-087373b3ff41",
     "company_name": "Carnegie Mellon University",
     "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
@@ -23237,6 +23284,31 @@
     "category": "Software",
     "sponsorship": "Other",
     "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs"
+  },
+  {
+    "id": "3f22e9be-4b77-4b37-99ef-b1b1e7470c90",
+    "company_name": "Carnegie Mellon University",
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "title": "Enabling Mission Capability at Scale Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793318400,
+    "date_updated": 1794757504,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Incomplete"
+    ],
     "track": "intern",
     "terms": [
       "Summer 2027"
@@ -23263,6 +23335,30 @@
     "track": "intern",
     "terms": [
       "Fall 2026"
+    ],
+    "program": "cs"
+  },
+  {
+    "id": "b415eac7-ec25-4ef5-81f2-d6d982e79b2a",
+    "company_name": "Carnegie Mellon University",
+    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+    "title": "Full-Stack Software Development Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793318400,
+    "date_updated": 1794757504,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Fall 2026",
+      "Spring 2027"
     ],
     "program": "cs"
   },
@@ -36426,6 +36522,28 @@
     "program": "other"
   },
   {
+    "id": "95e3d3ae-bbc6-4105-8ec0-dc66cc12a47e",
+    "company_name": "Beacon Mobility",
+    "company_url": "https://simplify.jobs/c/Beacon-Mobility",
+    "title": "AI Innovation & Automation Analyst",
+    "url": "https://gobeacon.wd1.myworkdayjobs.com/beaconmobilitycareers/job/Beacon/AI-Innovation---Automation-Analyst--Fleet_REQ-2026-4555",
+    "locations": [
+      "Beacon, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792627200,
+    "date_updated": 1794741505,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs"
+  },
+  {
     "id": "5b0e9d21-c3ae-4d90-942f-5d0d6ac9c90b",
     "company_name": "Booz Allen",
     "company_url": "https://simplify.jobs/c/Booz-Allen",
@@ -42640,56 +42758,6 @@
       "Summer 2026"
     ],
     "program": "other"
-  },
-  {
-    "id": "585157cb-2a25-4e5d-8dbb-321781e13898",
-    "company_name": "Schneider Electric",
-    "company_url": "https://simplify.jobs/c/Schneider-Electric",
-    "title": "AI Quality & Continuous Improvement Intern",
-    "url": "https://se.jibeapply.com/jobs/136783?icims=1",
-    "locations": [
-      "Foxborough, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792155840,
-    "date_updated": 1793427213,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
-    ],
-    "program": "cs"
-  },
-  {
-    "id": "c050f43b-0c5e-4e3f-b914-f3eeaa7c3e71",
-    "company_name": "84 Lumber",
-    "company_url": "https://simplify.jobs/c/84-Lumber",
-    "title": "Business Intelligence Intern - Business Intelligence",
-    "url": "https://careers.84lumber.com/jobs/26178?icims=1",
-    "locations": [
-      "Eighty Four, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792152240,
-    "date_updated": 1793862833,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs"
   },
   {
     "id": "24187aee-3574-4cb9-8ac2-4a5b4d2b12d5",

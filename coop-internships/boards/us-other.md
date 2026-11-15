@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**289 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 05:42 ET
+**292 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 12:24 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,8 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Fanatics | Product Management Intern | Seattle, WA | Spring 2027 |  | 2026-11-15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) |
+| Fanatics | Product Intern - Physical Trading Cards | Coppell, TX | Spring 2027 |  | 2026-11-15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) |
 | Tesla | Electrical Engineer Intern - High Speed Hardware Design | Palo Alto, CA | Spring 2027 |  | 2026-11-14 | [Apply](https://www.tesla.com/careers/search/job/289951) |
 | General Dynamics Mission Systems | Engineer Intern | Pittsfield, MA |  |  | 2026-11-13 | [Apply](https://careers-gdms.icims.com/jobs/75487/job?mobile=true&needsRedirect=false) |
 | Meta | Research Scientist Intern - Diffractive Optics | Redmond, WA |  |  | 2026-11-13 | [Apply](https://www.metacareers.com/jobs/1158829233342350) |
@@ -86,6 +88,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Pyrotek | Product Management Intern | Spokane, WA | Spring 2027 |  | 2026-11-09 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000160635163) |
 | Badger Meter | Product Management Intern | Milwaukee, WI | Spring 2027 |  | 2026-11-08 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) |
 | Carnegie Mellon University | Advanced Computing Lab Intern | Pittsburgh, PA | Spring 2027 |  | 2026-11-08 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1) |
+| Carnegie Mellon University | Advanced Computing Lab Intern | Pittsburgh, PA | Spring 2027 |  | 2026-11-08 | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336) |
 | Constellation Brands | IT Intern - Marketing Technology Product Management | Rochester, NY, Chicago, IL |  |  | 2026-11-08 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678) |
 | General Dynamics Mission Systems | FPGA Engineer Intern | Scottsdale, AZ |  |  | 2026-11-08 | [Apply](https://careers-gdms.icims.com/jobs/78722/job?mobile=true&needsRedirect=false) |
 | Hewlett Packard Enterprise | Wireless Hardware Engineer Intern | San Jose, CA |  |  | 2026-11-08 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) |
