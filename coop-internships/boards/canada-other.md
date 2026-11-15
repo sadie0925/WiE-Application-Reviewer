@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**49 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 12:24 ET
+**49 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 16:56 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 

@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. A row is removed as soon as that application deadline passes, or once the event has started if no application deadline was published. This is separate from the 30-day job rule.
 
-**12 upcoming** · 1 Waterloo · 11 other Canada/US · Updated 2026-11-15 12:24 ET
+**19 upcoming** · 1 Waterloo · 18 other Canada/US · Updated 2026-11-15 16:56 ET
 
 [All boards](../README.md)
 
@@ -27,3 +27,10 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | QWER Hacks | Los Angeles, CA | 2027-01-15 |  | [Open](https://www.qwerhacks.com/) |
 | HackBI X | Alexandria, Virginia | 2027-01-16 |  | [Open](https://hackbi.org/) |
 | nwHacks | Vancouver, British Columbia | 2027-01-16 |  | [Open](https://nwhacks.io/) |
+| Hoya Hacks | Washington, DC | 2027-01-22 |  | [Open](https://www.hoyahacks.com/) |
+| Hackville 2027 | Missisauga, Ontario | 2027-01-22 |  | [Open](https://hackville.io/) |
+| ElleHacks | Toronto, Ontario | 2027-01-28 |  | [Open](https://ellehacks.com/) |
+| Hack@Brown 2027 | Providence, RI | 2027-02-04 |  | [Open](https://hackatbrown.org/) |
+| UGAHacks | Athens , Georgia | 2027-02-05 |  | [Open](https://12.ugahacks.com/) |
+| InnovateHer | West Lafayette, Indiana | 2027-02-05 |  | [Open](https://innovateherhacks.org/) |
+| SpartaHack | East Lansing, Michigan | 2027-02-05 |  | [Open](https://www.spartahack.com/) |

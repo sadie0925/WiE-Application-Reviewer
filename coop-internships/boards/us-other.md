@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**292 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 12:24 ET
+**288 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 16:56 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -298,7 +298,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Pattern | Operations Intern | Lehi, UT |  |  | 2026-10-16 | [Apply](https://jobs.lever.co/pattern/13695e3e-92b7-40f7-8805-ea39b9c324e7/apply) |
 | Meta | Signal Integrity Intern | Menlo Park, CA |  |  | 2026-10-16 | [Apply](https://www.metacareers.com/jobs/1950497786328676) |
 | ADT | Hardware Engineering & Connected Devices Intern | Boca Raton, FL | Spring 2027 |  | 2026-10-16 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475) |
-| Publicis Groupe | Product Intern | Chicago, IL | Spring 2026 |  | 2026-10-16 | [Apply](https://publicisgroupe.jibeapply.com/jobs/172716?icims=1) |
-| Publicis Groupe | Product Intern | Chicago, IL | Spring 2026 |  | 2026-10-16 | [Apply](https://careers.publicisgroupe.com/jobs/172716?icims=1) |
-| Publicis Groupe | Product Intern | Irving, TX | Spring 2026 |  | 2026-10-16 | [Apply](https://publicisgroupe.jibeapply.com/jobs/172715?icims=1) |
-| Publicis Groupe | Product Intern | Irving, TX | Spring 2026 |  | 2026-10-16 | [Apply](https://careers.publicisgroupe.com/jobs/172715?icims=1) |
