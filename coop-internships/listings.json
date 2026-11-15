@@ -72,33 +72,6 @@
     "program": "cs"
   },
   {
-    "id": "44a81cc5-de8a-4ff8-83e7-fa7552050e4c",
-    "company_name": "Eight Sleep",
-    "company_url": "https://simplify.jobs/c/Eight-Sleep",
-    "title": "Firmware Intern",
-    "url": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b/application?embed=true",
-    "locations": [
-      "Washington, DC",
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794614400,
-    "date_updated": 1794699919,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs"
-  },
-  {
     "id": "1d492c0a-bc47-4f2a-8c32-70e6c7ad909d",
     "company_name": "General Dynamics Mission Systems",
     "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
@@ -1278,6 +1251,32 @@
     "program": "cs"
   },
   {
+    "id": "a66d16d8-304f-49d6-ae57-3f9db2d9042c",
+    "company_name": "Blizzard Entertainment",
+    "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+    "title": "Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794528000,
+    "date_updated": 1794729275,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs"
+  },
+  {
     "id": "e269fc40-0943-4e09-bb96-e5d7ecdffddc",
     "company_name": "Boeing",
     "company_url": "https://simplify.jobs/c/Boeing",
@@ -1898,30 +1897,6 @@
     "terms": [
       "Summer 2027"
     ],
-    "program": "cs"
-  },
-  {
-    "id": "13e19999-69ce-4245-a0f6-9b5b7fd62382",
-    "company_name": "Northrop Grumman",
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "title": "Associate Software Engineer",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423",
-    "locations": [
-      "McClellan Park, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794528000,
-    "date_updated": 1794582613,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "new_grad",
     "program": "cs"
   },
   {
@@ -7996,29 +7971,6 @@
     "program": "cs"
   },
   {
-    "id": "2e6be3d8-f031-4b8c-9007-39d09012e826",
-    "company_name": "Rheem",
-    "company_url": "https://simplify.jobs/c/Rheem",
-    "title": "Product Data Analyst 1",
-    "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4581",
-    "locations": [
-      "Lewisville, TX",
-      "Fort Smith, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794352031,
-    "date_updated": 1794352242,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs"
-  },
-  {
     "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
     "company_name": "Goldman Sachs",
     "company_url": "https://simplify.jobs/c/Goldman-Sachs",
@@ -8537,31 +8489,6 @@
     "track": "intern",
     "terms": [
       "Winter 2027"
-    ],
-    "program": "cs"
-  },
-  {
-    "id": "02780f68-02f8-4700-b1ab-46a3a5711c4e",
-    "company_name": "Applied Materials",
-    "company_url": "https://simplify.jobs/c/Applied-Materials",
-    "title": "Software Engineer Co-op",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540",
-    "locations": [
-      "Billerica, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794268800,
-    "date_updated": 1794354161,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
     ],
     "program": "cs"
   },
@@ -13465,50 +13392,6 @@
     "program": "other"
   },
   {
-    "id": "b6863ca3-d3e2-4e91-83fd-6416642b015c",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Personal & Business Banking New Grad",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793923200,
-    "date_updated": 1793977987,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs"
-  },
-  {
-    "id": "32cd20b5-fc75-40fb-86a8-f311c1c186fb",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Personal & Business Banking New Grad",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793923200,
-    "date_updated": 1793977773,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs"
-  },
-  {
     "id": "6674b1fc-940a-48c7-86a8-2b55cab6a36d",
     "company_name": "CACI",
     "company_url": "https://simplify.jobs/c/CACI",
@@ -16333,108 +16216,6 @@
     "program": "other"
   },
   {
-    "id": "d51fae92-efd8-41b6-b50e-1552f35e9dfc",
-    "company_name": "JM Family",
-    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
-    "title": "Analytics Intern",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793836800,
-    "date_updated": 1793893861,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs"
-  },
-  {
-    "id": "fcda4098-94ad-4409-96fc-32ee92289e01",
-    "company_name": "JM Family",
-    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
-    "title": "Data Engineer Intern",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793836800,
-    "date_updated": 1793920705,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs"
-  },
-  {
-    "id": "972e59fe-5d7f-418d-8180-1595a1b7c989",
-    "company_name": "JM Family",
-    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
-    "title": "Software Analyst Intern",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793836800,
-    "date_updated": 1793893861,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs"
-  },
-  {
-    "id": "b9ce969b-feac-4712-867d-4dc584234d94",
-    "company_name": "JM Family",
-    "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
-    "title": "Software Engineer Intern",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793836800,
-    "date_updated": 1793893861,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs"
-  },
-  {
     "id": "cfc01a26-bc31-4944-802c-370b51b0e573",
     "company_name": "Little Caesars Enterprises",
     "company_url": "https://simplify.jobs/c/Little-Caesars",
@@ -16716,6 +16497,28 @@
       "Spring 2027"
     ],
     "program": "other"
+  },
+  {
+    "id": "7463c975-1f0c-43b9-92f0-f87b30bc0650",
+    "company_name": "Russell Investments",
+    "company_url": "https://simplify.jobs/c/Russell-Investments",
+    "title": "Quantitative Performance Analyst",
+    "url": "https://russell.wd5.myworkdayjobs.com/russellinvestments/job/Seattle/Quantitative-Performance-Analyst_R-04179",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793836800,
+    "date_updated": 1794727088,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs"
   },
   {
     "id": "5e01c887-e95d-4785-9a00-436d4da36038",
@@ -20013,6 +19816,28 @@
     "program": "cs"
   },
   {
+    "id": "b7e26578-8425-42c2-9cef-eeb79757cbe2",
+    "company_name": "Vantive",
+    "company_url": "https://simplify.jobs/c/Vantive",
+    "title": "Embedded Software Engineer",
+    "url": "https://vantive.wd108.myworkdayjobs.com/Vantive/job/Plymouth-Minnesota/Embedded-Software-Engineer--hybrid-_JR-198138-1",
+    "locations": [
+      "Plymouth, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793664000,
+    "date_updated": 1794727626,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs"
+  },
+  {
     "id": "4d500daf-f215-4098-89bd-65f0f3d60ffe",
     "company_name": "Vizient",
     "company_url": "https://simplify.jobs/c/Vizient",
@@ -20423,31 +20248,6 @@
     "program": "cs"
   },
   {
-    "id": "969fad49-3d84-4fbc-9700-8d9045078201",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "UX/UI Designer Co-op Intern",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793661493,
-    "date_updated": 1793661670,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs"
-  },
-  {
     "id": "b2d11e7f-5df2-478b-bced-42cf9f6b3b8f",
     "company_name": "Corning",
     "company_url": "https://simplify.jobs/c/Corning",
@@ -20520,31 +20320,6 @@
       "N/A"
     ],
     "program": "other"
-  },
-  {
-    "id": "c20bef46-45b5-497e-883d-4745f23e27b0",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "UX/UI Designer Co-op Intern",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793660826,
-    "date_updated": 1793661047,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs"
   },
   {
     "id": "16ffdc52-e025-48ae-87f2-6935ed5dd2e2",
@@ -22234,28 +22009,6 @@
     "program": "cs"
   },
   {
-    "id": "77e778db-2c7d-4cdb-b477-75b1206e18ba",
-    "company_name": "Unity",
-    "company_url": "https://simplify.jobs/c/Unity",
-    "title": "Software Developer New Grad - U-Accelerate: Software Developer",
-    "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793662420,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs"
-  },
-  {
     "id": "abb438b3-abf6-4919-bac8-060f8260ed22",
     "company_name": "Valmont",
     "company_url": "https://simplify.jobs/c/Valmont",
@@ -23376,26 +23129,6 @@
       "Summer 2027"
     ],
     "program": "other"
-  },
-  {
-    "id": "9f7c0bf3-6702-4114-abaa-76a18944ee5b",
-    "company_name": "Allied Universal",
-    "company_url": "https://simplify.jobs/c/Allied-Universal",
-    "title": "Global Security Mapping Specialist",
-    "url": "https://securitycareers-aus.icims.com/jobs/1730709/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793318400,
-    "date_updated": 1794391958,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "new_grad",
-    "program": "cs"
   },
   {
     "id": "c6cac530-3934-498d-9f3d-5af062252215",
@@ -30013,6 +29746,29 @@
       "Summer 2027"
     ],
     "program": "cs"
+  },
+  {
+    "id": "a95e645b-d4e1-4e7a-ad25-7ec0e7b7f610",
+    "company_name": "Oregon State University",
+    "company_url": "https://simplify.jobs/c/Oregon-State-University",
+    "title": "Technical Student Assistant Intern - OPEnS Lab",
+    "url": "https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Technical-Student-Assistant---OPEnS-Lab_JR0001736",
+    "locations": [
+      "Corvallis, OR"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793059200,
+    "date_updated": 1794728723,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Fall 2026"
+    ],
+    "program": "other"
   },
   {
     "id": "459640c9-5c1f-4230-970e-3acd1ff8a147",
@@ -67352,28 +67108,6 @@
     "date_posted": 1779890996,
     "date_updated": 1779892381,
     "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs"
-  },
-  {
-    "id": "5749bed6-a909-4bdf-ade4-36b8d7d97922",
-    "company_name": "Ohio State University",
-    "company_url": "https://simplify.jobs/c/Ohio-State-University",
-    "title": "Data Management Analyst 1",
-    "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Health-System-Shared-Services/Data-Management-Analyst-1_R150689-1",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1779833098,
-    "date_updated": 1779835502,
-    "category": "AI/ML/Data",
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"

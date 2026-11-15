@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**288 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 22:05 ET
+**289 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 05:42 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -209,6 +209,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Micron Technology | CMBU Product Management Intern | San Jose, CA |  |  | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) |
 | Micron Technology | NAND Storage Strategic Roadmap Planning Intern | Boise, ID |  |  | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) |
 | Nike | Product Line Management Intern - Apparel - Accessories | Beaverton, OR | Spring 2026 |  | 2026-10-26 | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479) |
+| Oregon State University | Technical Student Assistant Intern - OPEnS Lab | Corvallis, OR | Fall 2026 |  | 2026-10-26 | [Apply](https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Technical-Student-Assistant---OPEnS-Lab_JR0001736) |
 | RTX | Systems Engineering Co-op | St. Petersburg, FL |  |  | 2026-10-26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435) |
 | Emerson Electric | Sales and Operations Planning Intern | Austin, TX |  |  | 2026-10-26 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010170) |
 | Meta | Battery Engineering Intern | Sunnyvale, CA |  |  | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/938682979075854) |

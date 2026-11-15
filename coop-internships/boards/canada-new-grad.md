@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**154 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 22:05 ET
+**151 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 05:42 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -25,8 +25,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Bank of Montreal | Software Developer New Grad | Toronto, ON, Canada |  |  | 2026-11-08 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581) |
 | Valsoft | AI Engineer 1 | Montreal, QC, Canada |  |  | 2026-11-06 | [Apply](https://apply.workable.com/valsoft-corp/j/D0C585CAB5/apply) |
 | Qualcomm | AI and DSP Applications Software Engineer - Machine Learning Engineering | Markham, ON, Canada |  |  | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722003218) |
-| Bank of Montreal | Personal & Business Banking New Grad | Toronto, ON, Canada |  |  | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068) |
-| Bank of Montreal | Personal & Business Banking New Grad | Toronto, ON, Canada |  |  | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1) |
 | Lumentum | Process Automation Software Engineer - MEMS | Ottawa, ON, Canada |  |  | 2026-11-05 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527) |
 | Vancouver Coastal Health | Junior Business Advisor - Data & Analytics | Vancouver, BC, Canada |  |  | 2026-11-05 | [Apply](https://careers-vch.icims.com/jobs/170647/job?mobile=true&needsRedirect=false) |
 | Vancouver Coastal Health | Junior Business Advisor - Data & Analytics | Vancouver, BC, Canada |  |  | 2026-11-05 | [Apply](https://careers-vch.icims.com/jobs/170905/job?mobile=true&needsRedirect=false) |
@@ -35,7 +33,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Raydar | Full-Stack Software Engineer | Toronto, ON, Canada |  |  | 2026-11-03 | [Apply](https://apply.workable.com/raydar/j/5CFE2097E4/apply) |
 | Capgemini | Campus 1&D: Associate Application Consultant | Mississauga, ON, Canada |  |  | 2026-11-03 | [Apply](https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors) |
 | Google | Software Developer 2 – Early Career | Montreal, QC, Canada, Waterloo, ON, Canada |  |  | 2026-11-02 | [Apply](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) |
-| Unity | Software Developer New Grad - U-Accelerate: Software Developer | Montreal, QC, Canada |  |  | 2026-11-01 | [Apply](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768) |
 | Neutreeno | Carbon Analysis Engineer | Remote in UK |  |  | 2026-10-30 | [Apply](https://apply.workable.com/neutreeno-1/j/FD929624D0/apply) |
 | Publicis Groupe | Martech & Data Intelligence Coordinator | Toronto, ON, Canada |  |  | 2026-10-30 | [Apply](https://publicisgroupe.jibeapply.com/jobs/180527?icims=1) |
 | Publicis Groupe | Martech & Data Intelligence Coordinator | Toronto, ON, Canada |  |  | 2026-10-30 | [Apply](https://careers.publicisgroupe.com/jobs/180527?icims=1) |

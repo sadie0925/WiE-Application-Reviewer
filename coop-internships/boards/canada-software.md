@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**143 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 22:05 ET
+**141 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 05:42 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -58,8 +58,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Meta | Research Scientist Intern - FAIR - World Model Foundations | Montreal, QC, Canada |  |  | 2026-11-02 | [Apply](https://www.metacareers.com/jobs/1406585275871250) |
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada | Spring 2027 |  | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
 | Zimmer Biomet Holdings | Software Developer Co-op | Montreal, QC, Canada | Spring 2027 |  | 2026-11-02 | [Apply](https://careers.zimmerbiomet.com/us/en/job/13309) |
-| Bank of Montreal | UX/UI Designer Co-op Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) |
-| Bank of Montreal | UX/UI Designer Co-op Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-11-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | Winter 2027 |  | 2026-11-02 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) |
 | Entrust | AI Developer Intern | Remote in Germany, Shakopee, MN |  |  | 2026-11-01 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) |
 | NVIDIA | Math Libraries Intern | Canada, Santa Clara, CA (+1) | Spring 2027 |  | 2026-11-01 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) |

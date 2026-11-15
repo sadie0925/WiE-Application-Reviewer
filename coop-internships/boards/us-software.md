@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**796 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-14 22:05 ET
+**791 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 05:42 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,7 +10,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
-| Eight Sleep | Firmware Intern | Washington, DC, Austin, TX |  |  | 2026-11-13 | [Apply](https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b/application?embed=true) |
 | SAS | Software Developer Intern - Go/Golang Experience | Cary, NC | Spring 2027 |  | 2026-11-13 | [Apply](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) |
 | NextEra Energy | Software Engineering Intern - Technical | St Paul, MN | Spring 2027 |  | 2026-11-13 | [Apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) |
 | Hiebing | AI Agent Developer Intern | Madison, WI | Spring 2026 |  | 2026-11-13 | [Apply](https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern) |
@@ -23,6 +22,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Samsung | Compiler Engineer Intern | San Jose, CA |  |  | 2026-11-13 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) |
 | TikTok | Machine Learning Engineer Intern | San Jose, CA | Spring 2027 |  | 2026-11-12 | [Apply](https://lifeattiktok.com/search/7698822572474583301) |
 | ASML | EUV Data Science and Analytics Intern | Austin, TX |  |  | 2026-11-12 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717) |
+| Blizzard Entertainment | Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering | Irvine, CA | Spring 2027 |  | 2026-11-12 | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) |
 | Camping World | Software Engineer Intern | Chicago, IL | Spring 2027 |  | 2026-11-12 | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080) |
 | Capital Group | Global Technology Summer Associate Intern | Irvine, CA | Spring |  | 2026-11-12 | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) |
 | Carnegie Mellon University | Cyber AI Engineer Intern | Pittsburgh, PA | Spring 2027 |  | 2026-11-12 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) |
@@ -149,7 +149,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Veolia | Manufacturing Software Engineer Intern | Boulder, CO |  |  | 2026-11-10 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184) |
 | Tesla | Mobile Application Developer Intern | Palo Alto, CA | Winter 2027, Spring 2027 |  | 2026-11-10 | [Apply](https://www.tesla.com/careers/search/job/289480) |
 | Meta | Research Scientist Intern - AI Core Machine Learning | Menlo Park, CA, Sunnyvale, CA |  |  | 2026-11-10 | [Apply](https://www.metacareers.com/jobs/2432079507324778) |
-| Applied Materials | Software Engineer Co-op | Billerica, MA | Spring 2027 |  | 2026-11-09 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540) |
 | Booz Allen | Data Scientist Intern | McLean, VA | Spring 2027 |  | 2026-11-09 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0253332) |
 | Entegris | Filtration Portfolio Automation Intern | Billerica, MA | Spring 2027 |  | 2026-11-09 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840) |
 | Eversource Energy | GIS Intern | Manchester, NH | Spring 2027 |  | 2026-11-09 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537) |
@@ -298,10 +297,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | AstraZeneca | Manufacturing Digital and AI Intern | Gaithersburg, MD | Spring 2027 |  | 2026-11-04 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) |
 | CrowdStrike | Intelligence Intern | Arlington County, Arlington, VA | Spring 2027 |  | 2026-11-04 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605) |
 | CrowdStrike | Sales Data Analytics Intern | Arlington County, Arlington, VA, Sunnyvale, CA | Spring 2027 |  | 2026-11-04 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801) |
-| JM Family | Analytics Intern | Deerfield Beach, FL | Spring 2027 |  | 2026-11-04 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200) |
-| JM Family | Data Engineer Intern | Deerfield Beach, FL | Spring 2027 |  | 2026-11-04 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086) |
-| JM Family | Software Analyst Intern | Deerfield Beach, FL |  |  | 2026-11-04 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187) |
-| JM Family | Software Engineer Intern | Deerfield Beach, FL | Spring 2027 |  | 2026-11-04 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) |
 | Little Caesars Enterprises | AI IT Intern | Detroit, MI | Spring 2026 |  | 2026-11-04 | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675) |
 | Little Caesars Enterprises | Data IT Intern | Detroit, MI | Spring 2026 |  | 2026-11-04 | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Data-IT_R9676) |
 | Little Caesars Enterprises | Developer IT Intern | Detroit, MI | Spring 2026 |  | 2026-11-04 | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677) |
