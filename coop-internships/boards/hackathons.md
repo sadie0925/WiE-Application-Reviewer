@@ -1,8 +1,8 @@
 # Hackathons and innovation challenges
 
-Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. A row is removed as soon as that application deadline passes, or once the event has started if no application deadline was published. This is separate from the 30-day job rule.
+Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. Every hackathon is cleared when its application deadline has passed, or when the event has already started — even if a submission window still looks open. This is separate from the 30-day job rule.
 
-**22 upcoming** · 1 Waterloo · 21 other Canada/US · Updated 2026-11-15 20:31 ET
+**22 upcoming** · 1 Waterloo · 21 other Canada/US · Updated 2026-11-15 21:07 ET
 
 [All boards](../README.md)
 
@@ -19,7 +19,7 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | Tech For Community 2026 | St. John's, Newfoundland and Labrador / Avalon Peninsula | 2026-11-21 |  | [Open](https://tecnurtur.org/hackathon) |
 | WHACK (Wellesley Hackathon) | Wellesley , Massachesetts | 2026-11-21 |  | [Open](https://www.wellesleyhacks.org/) |
 | BostonHacks | Boston, MA | 2026-11-21 |  | [Open](https://bostonhacks.org/) |
-| Hack Western 13 | Ronald D. Schmeichel Building | Nov 20 - 22, 2026 | 2026-11-22 | [Open](https://hack-western-13.devpost.com/) |
+| Hack Western 13 | Ronald D. Schmeichel Building | 2026-11-20 | 2026-11-22 | [Open](https://hack-western-13.devpost.com/) |
 | Hack Cats | Manhattan, Kansas | 2026-12-04 |  | [Open](https://hackkstate.tech/) |
 | DeltaHacks | Hamilton, Ontario | 2027-01-09 |  | [Open](https://www.deltahacks.com/) |
 | UofTHacks | Toronto, Ontario | 2027-01-14 |  | [Open](https://uofthacks.com/) |
