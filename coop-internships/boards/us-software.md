@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**793 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 16:56 ET
+**779 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 20:31 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -68,7 +68,6 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Castleton Commodities International | Commodities Trading Summer Analyst Intern | Houston, TX, Stamford, CT | Spring |  | 2026-11-11 | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2028-Internship-_R1417) |
 | Compassion International | Creation Care GIS Analyst Intern | United States | Winter 2027 |  | 2026-11-11 | [Apply](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/GIS-Geospatial-Analyst-Intern_R8713-2) |
 | CoStar Group | Vision & Learning Intern | Sunnyvale, CA | Spring 2027 |  | 2026-11-11 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196) |
-| E2 Consulting Engineers | Data Analyst Intern | San Diego, CA |  |  | 2026-11-11 | [Apply](https://careers-e2.icims.com/jobs/6496/job?mobile=true&needsRedirect=false) |
 | Entegris | Data Engineering Intern | Aurora, IL | Spring 2027 |  | 2026-11-11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839) |
 | Entegris | Embedded Software Engineer Intern | Bloomington, MN | Spring 2027 |  | 2026-11-11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870) |
 | Environmental Defense Fund | Consumer Energy Analytics Intern | Remote in USA, St. Petersburg, FL | Spring 2027 |  | 2026-11-11 | [Apply](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752) |
@@ -561,6 +560,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Great American Insurance Company | Data Engineer Intern | Cincinnati, OH | Spring 2027 |  | 2026-10-26 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794) |
 | Great American Insurance Company | Emerging Technology Intern | Cincinnati, OH | Spring 2027 |  | 2026-10-26 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801) |
 | Greystone | Full Stack Engineer Intern | Warrenton, VA | Spring 2027 |  | 2026-10-26 | [Apply](https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145) |
+| Inspire Brands | Digital Experience Performance Intern | Atlanta, GA | Spring 2027 |  | 2026-10-26 | [Apply](https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers/job/Atlanta-Support-Center/Digital-Experience-Performance-Intern---Summer-2027_JR42022) |
 | Micron Technology | Product Yield Enhancement Software Engineer Intern | Boise, ID |  |  | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864) |
 | Nissan | AI Intern | Dallas, TX, Franklin, TN | Spring 2027 |  | 2026-10-26 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219) |
 | Nissan Global | Physical AI Manufacturing Intern | Smyrna, TN | Spring 2027 |  | 2026-10-26 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) |
@@ -789,17 +789,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Tesla | Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure | Austin, TX | Spring 2027 |  | 2026-10-18 | [Apply](https://www.tesla.com/careers/search/job/287024) |
 | Tesla | Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027 | Fremont, CA | Winter, Spring 2027 |  | 2026-10-18 | [Apply](https://www.tesla.com/careers/search/job/286986) |
 | Ascension | Managed Care Analytics Intern | St. Louis, MO | Spring 2026 |  | 2026-10-17 | [Apply](https://jobs.ascension.org/us/en/job/15636) |
-| Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, Pittsburgh, PA | Spring 2027 |  | 2026-10-16 | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
-| AGCO | Embedded Software Engineer Intern | Hesston, KS, Jackson, MN | Spring 2027 |  | 2026-10-16 | [Apply](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors) |
-| Impulse Space | Enterprise Software Engineer Intern | Redondo Beach, CA | Spring 2027 |  | 2026-10-16 | [Apply](https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq) |
-| CenturyLink | AI & Automation Builders Internship | Remote in USA | Spring 2027 |  | 2026-10-16 | [Apply](https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors) |
-| CenturyLink | AI Product & Business Innovation Intern | Remote in USA | Spring 2027 |  | 2026-10-16 | [Apply](https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors) |
-| CenturyLink | Data Internship - Analytics & Decision Science | Remote in USA | Spring 2027 |  | 2026-10-16 | [Apply](https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors) |
-| Veeam Software | Data & Analytics Engineering Intern | Alpharetta, GA | Spring 2027 |  | 2026-10-16 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) |
-| Linea Energy | GIS Intern | Austin, TX | Fall 2026 |  | 2026-10-16 | [Apply](https://ats.rippling.com/linea-energy/jobs/1247c5f0-eedf-4f15-9f81-065445d89d01) |
-| AgZen | Software Engineer Co-op | Somerville, MA | Winter 2027 |  | 2026-10-16 | [Apply](https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?embed=true) |
-| Meta | Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science | Redmond, WA |  |  | 2026-10-16 | [Apply](https://www.metacareers.com/jobs/1141752241867684) |
-| Meta | Production Systems Engineer Intern | Menlo Park, CA |  |  | 2026-10-16 | [Apply](https://www.metacareers.com/jobs/4536253699919879) |
-| Wellmark | Software Engineer Intern - Technology Health Plan | Des Moines, IA | Spring 2027 |  | 2026-10-16 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218) |
-| John Deere | Process Automation Student Intern - Process Automation - Data and Analytics | Greeneville, TN |  |  | 2026-10-16 | [Apply](https://johndeere.eightfold.ai/careers/job/137483907415) |
-| Keysight Technologies | R&D Software Engineer Intern | Austin, TX |  |  | 2026-10-16 | [Apply](https://jobs.keysight.com/jobs/54848?icims=1) |

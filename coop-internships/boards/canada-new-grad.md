@@ -2,7 +2,7 @@
 
 Software new-grad roles in Canada. Master's/PhD-only postings are left off.
 
-**151 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 16:56 ET
+**150 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 20:31 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -160,4 +160,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Fortinet | Software Developer | Burnaby, BC, Canada |  |  | 2026-04-08 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22633) |
 | Canonical | Web Frontend Engineer - Multiple Teams | Remote in UK |  |  | 2026-03-26 | [Apply](https://job-boards.greenhouse.io/canonical/jobs/5150422) |
 | Parker | Data Analyst 1 | Remote in Finland, Remote in Poland (+49) |  |  | 2026-03-26 | [Apply](https://jobs.ashbyhq.com/parker/72eb6232-71b2-430f-969a-82d0ac35b631/application?embed=true) |
-| WTW | Investment Analyst | Toronto, ON, Canada |  |  | 2026-03-20 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601653) |

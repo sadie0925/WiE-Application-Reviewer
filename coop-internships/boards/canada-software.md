@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**141 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 16:56 ET
+**139 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 20:31 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -136,6 +136,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | CIBC | Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1) |
 | NVIDIA | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada, Santa Clara, CA (+1) | Spring 2027 |  | 2026-10-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
 | Picton Mahoney Asset Management | Data Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-20 | [Apply](https://pictonmahoney.bamboohr.com/careers/387/) |
+| Steel | Software Engineer Intern | Toronto, ON, Canada | Spring 2027 |  | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
 | GeoSpectrum Technologies | Software Developer Co-op | Dartmouth, NS, Canada |  |  | 2026-10-20 | [Apply](https://geospectrum.bamboohr.com/careers/286/) |
 | Hitachi | AI Intern Supply Chain | Toronto, ON, Canada | Winter 2027 |  | 2026-10-19 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) |
 | Citco | Software Engineer Intern | Toronto, ON, Canada |  |  | 2026-10-19 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) |
@@ -148,6 +149,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | CIBC | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | Winter 2027 |  | 2026-10-18 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1) |
 | CIBC | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | Winter 2027 |  | 2026-10-18 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523) |
 | Ciena | Services Business Intelligence & Analytics Intern | Montreal, QC, Canada, Ottawa, ON, Canada | Winter 2027 |  | 2026-10-18 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
-| Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, Pittsburgh, PA | Spring 2027 |  | 2026-10-16 | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
-| Kepler Communications | Software Engineer Intern | Toronto, ON, Canada | Winter 2027 |  | 2026-10-16 | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) |
-| Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | Spring 2027 |  | 2026-10-16 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) |

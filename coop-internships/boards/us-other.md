@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**288 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 16:56 ET
+**283 open** · newest first · removed when the application closes or after 30 days · Updated 2026-11-15 20:31 ET
 
 Term is filled when the title or description names Winter, Spring, Fall, or Summer (Summer is shown as Spring for Waterloo). Work auth is filled when the posting or feed marks US citizenship, a US person, permanent residence / green card, clearance, no visa sponsorship, or required work authorization. Otherwise that cell is blank.
 
@@ -10,6 +10,7 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 
 | Company | Role | Location | Term | Work auth | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | ----- | ----- |
+| Southern States, LLC | Electrical Engineer Intern | Hampton, GA | Spring 2027 |  | 2026-11-15 | [Apply](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1) |
 | Fanatics | Product Management Intern | Seattle, WA | Spring 2027 |  | 2026-11-15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) |
 | Fanatics | Product Intern - Physical Trading Cards | Coppell, TX | Spring 2027 |  | 2026-11-15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) |
 | Tesla | Electrical Engineer Intern - High Speed Hardware Design | Palo Alto, CA | Spring 2027 |  | 2026-11-14 | [Apply](https://www.tesla.com/careers/search/job/289951) |
@@ -292,9 +293,3 @@ Term is filled when the title or description names Winter, Spring, Fall, or Summ
 | Micron Technology | HBM Design Engineer Intern - HBM | Richardson, TX |  |  | 2026-10-18 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545) |
 | Zurn Elkay Water Solutions | Product Management Intern | Downers Grove, IL | Spring 2027 |  | 2026-10-18 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) |
 | TikTok | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Spring 2026 |  | 2026-10-16 | [Apply](https://lifeattiktok.com/search/7697105572165519621) |
-| onsemi | Applications Intern | Scottsdale, AZ | Spring 2027 |  | 2026-10-16 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972) |
-| QuEra Computing | QPU Build Co-op - Optics & Data Analysis | Boston, MA |  |  | 2026-10-16 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5455950008) |
-| Westinghouse Electric Company | System Test Engineering Intern | Warrendale, PA | Spring 2027 |  | 2026-10-16 | [Apply](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-System-Test-Engineering-OR/1433673100/?ats=successfactors) |
-| Pattern | Operations Intern | Lehi, UT |  |  | 2026-10-16 | [Apply](https://jobs.lever.co/pattern/13695e3e-92b7-40f7-8805-ea39b9c324e7/apply) |
-| Meta | Signal Integrity Intern | Menlo Park, CA |  |  | 2026-10-16 | [Apply](https://www.metacareers.com/jobs/1950497786328676) |
-| ADT | Hardware Engineering & Connected Devices Intern | Boca Raton, FL | Spring 2027 |  | 2026-10-16 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475) |
