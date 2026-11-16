@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**778 open** · newest first · removed when closed or after 30 days · Updated 2026-11-15 21:52 ET
+**775 open** · newest first · removed when closed or after 30 days · Updated 2026-11-16 03:31 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Viavi Solutions | Software Engineering Co-op | Germantown, MD |  |  | $19–$35/hr | 2026-11-14 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1) |
 | SAS | Software Developer Intern - Go/Golang Experience | Cary, NC | Summer 2027 | No sponsorship, US work auth | $15–$49/hr | 2026-11-13 | [Apply](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) |
 | NextEra Energy | Software Engineering Intern - Technical | St Paul, MN | Summer 2027 |  |  | 2026-11-13 | [Apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) |
 | Hiebing | AI Agent Developer Intern | Madison, WI | Summer 2026 |  | $15/hr | 2026-11-13 | [Apply](https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern) |
@@ -30,7 +31,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Cigna Group | Healthcare Analytics Intern | Morris Plains, NJ | Summer 2027 | No sponsorship, US work auth | $26–$28/hr | 2026-11-12 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857) |
 | Daimler Truck | IT Developer Analyst Intern | Mt Holly, NC | Summer 2026 | No sponsorship, US work auth | $21–$29/hr | 2026-11-12 | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1) |
 | Horizon3.ai | Research Intern - Adversarial Intelligence | Chicago, IL, West Lafayette, IN | Summer 2027 |  | $40–$50/hr | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true) |
-| Manulife Financial | Software Engineering Co-op Intern | Boston, MA | Winter/Spring 2027 | US clearance |  | 2026-11-12 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405) |
 | Martin Marietta | Data Scientist Intern | Raleigh, NC |  |  |  | 2026-11-12 | [Apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1) |
 | Martin Marietta | Software Data Integration Engineer Intern | Raleigh, NC |  |  |  | 2026-11-12 | [Apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146) |
 | Nexus Cognitive Technologies | Data Engineer Intern | Atlanta, GA | Summer 2027 |  |  | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true) |
@@ -128,7 +128,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Rockwell Automation | Software Developer/Engineering Intern | Mequon, WI |  | No sponsorship, US work auth | $20–$32/hr | 2026-11-10 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2) |
 | Rockwell Automation | Software Developer/Engineering Intern | Mequon, WI |  | No sponsorship, US work auth | $20–$32/hr | 2026-11-10 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-1) |
 | RTX | Electrical Engineer Intern - Firmware | Fort Wayne, IN | Summer 2027 | US clearance, US citizenship, No sponsorship | $18–$39/hr | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) |
-| RTX | Software Engineer Intern | Sterling, VA |  | US clearance, US citizenship, No sponsorship | $20–$42/hr | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) |
 | RTX | Software Engineer Intern | Cedar Rapids, IA | Summer 2027 | US clearance, US citizenship, No sponsorship | $18–$39/hr | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055) |
 | RTX | Software Engineering Intern | Cedar Rapids, IA | Summer 2027 | US clearance, US citizenship, No sponsorship | $18–$39/hr | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01888146) |
 | State of Wisconsin Investment Board | Data Analytics Engineering Intern | Madison, WI | Summer 2027 |  |  | 2026-11-10 | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) |
@@ -675,7 +674,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | L3Harris Technologies | Image Processing Engineer Intern | Tulsa, OK |  |  |  | 2026-10-22 | [Apply](https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors) |
 | Constellation Energy | Data & Digital Transformation Intern - Geysers | Middletown, CA | Summer 2027 |  |  | 2026-10-22 | [Apply](https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us) |
 | OpenArt AI | Early Adopter & Product Builder Intern - Creative AI | San Carlos, CA |  | Sponsors | $40–$50/hr | 2026-10-21 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) |
-| ABB | Sales Excellence Data Analytics Intern | Cary, NC | Summer 2027 | No sponsorship, US work auth | $20–$34/hr | 2026-10-21 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987) |
 | American Family Insurance Group | Business Intelligence Enablement Intern | Madison, WI, Boston, MA | Summer 2027 | No sponsorship | $25–$39/hr | 2026-10-21 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531) |
 | Aptiv | Software Development Intern | Troy, MI |  |  |  | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861) |
 | Booz Allen | Enterprise Cybersecurity Data and Business Intelligence Analyst Intern | McLean, VA | Winter/Spring 2027 | US citizenship, No sponsorship | $25.48–$51.92/hr | 2026-10-21 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250) |
@@ -787,4 +785,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | The Toro Company | Cloud Software Developer Intern | Frederick, CO | Summer 2027 | No sponsorship, US work auth | $20–$24/hr | 2026-10-18 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) |
 | Tesla | Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure | Austin, TX | Winter/Spring 2027 |  |  | 2026-10-18 | [Apply](https://www.tesla.com/careers/search/job/287024) |
 | Tesla | Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027 | Fremont, CA | Winter/Spring 2027 |  |  | 2026-10-18 | [Apply](https://www.tesla.com/careers/search/job/286986) |
-| Ascension | Managed Care Analytics Intern | St. Louis, MO | Summer 2026 |  |  | 2026-10-17 | [Apply](https://jobs.ascension.org/us/en/job/15636) |

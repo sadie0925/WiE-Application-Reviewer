@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**49 open** · newest first · removed when closed or after 30 days · Updated 2026-11-15 21:52 ET
+**47 open** · newest first · removed when closed or after 30 days · Updated 2026-11-16 03:31 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -24,7 +24,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |
 | Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120) |
 | Qualcomm | Display IP FPGA Emulation Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361) |
-| Boston Scientific | R&D Product Development Intern | Montreal, QC, Canada | Winter/Spring 2027 |  | CA$16–CA$28/hr | 2026-11-04 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813850819) |
 | Equitable Bank | Product Management Intern - Digital Banking | Toronto, ON, Canada | Winter/Spring 2027 |  |  | 2026-11-04 | [Apply](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) |
 | Kabam | Operations Product Manager Co-op | Vancouver, BC, Canada | Winter/Spring 2027 |  | CA$20–CA$25/hr | 2026-11-03 | [Apply](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) |
 | Xanadu | Photonics Test Engineer Intern | Toronto, ON, Canada |  |  | CA$40–CA$45/hr | 2026-11-03 | [Apply](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) |
@@ -48,7 +47,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Ciena | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) |
 | Trimble | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada |  |  |  | 2026-10-26 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada |  | Canada work auth |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052) |
-| CIBC | Business Analyst Co-op | Toronto, ON, Canada |  | Canada work auth |  | 2026-10-25 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) |
 | Altera | Intellectual Property Design Intern | Toronto, ON, Canada |  | Canada work auth | CA$43–CA$48/hr | 2026-10-22 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Summer 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Winter/Spring 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) |
