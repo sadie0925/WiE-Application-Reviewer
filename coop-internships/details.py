@@ -17,7 +17,7 @@ from pathlib import Path
 
 import requests
 
-from scrapers.filters import auth_labels_from_text, terms_from_description, _WAGE_RE
+from scrapers.filters import auth_labels_from_text, terms_from_description
 
 ROOT = Path(__file__).parent
 CACHE_PATH = ROOT / "details-cache.json"
@@ -26,7 +26,7 @@ HEADERS = {"User-Agent": "WiE-Coop-Listings/1.0 (github; educational)"}
 TIMEOUT = 20
 WORKERS = 8
 RETRY_FAILED_AFTER = 6 * 60 * 60
-CACHE_VERSION = 1
+CACHE_VERSION = 2
 
 # Simplify enums (checked against posting text).
 _SEASONS = {1: "Winter", 2: "Spring", 3: "Summer", 4: "Fall"}
@@ -40,14 +40,6 @@ _REQUIREMENTS = {
 }
 _CURRENCY_PREFIX = {"USD": "$", "CAD": "CA$"}
 
-_YEARLY_RE = re.compile(
-    r"\$\s*(\d{2,3}(?:,\d{3})+|\d{2,3}\s*[kK])(?:\.\d{2})?"
-    r"(?:\s*(?:-|–|—|to)\s*\$?\s*(\d{2,3}(?:,\d{3})+|\d{2,3}\s*[kK])(?:\.\d{2})?)?"
-    r"(?:\s*(?:USD|CAD))?\s*(?:/\s*|per\s+|a\s+|an\s+)?(?:year|yr|annual(?:ly)?|annum)",
-    re.IGNORECASE,
-)
-
-
 def _plain_text(raw: str | None) -> str:
     text = raw or ""
     for _ in range(2):  # some ATS double-escape (&amp;#xa;)
@@ -56,12 +48,81 @@ def _plain_text(raw: str | None) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def _money(value: float, period: str, prefix: str) -> str:
-    if period == "yr" and value >= 1000:
-        return f"{prefix}{round(value / 1000)}k"
-    if float(value).is_integer():
-        return f"{prefix}{int(value):,}"
-    return f"{prefix}{value:,.2f}"
+# Hourly conversion: 40 h/week, 52 weeks/year.
+_HOURS = {"hr": 1.0, "wk": 40.0, "mo": 2080.0 / 12, "yr": 2080.0}
+
+_AMOUNT = r"(?:CA)?\$\s?(\d[\d,]*(?:\.\d+)?)\s*([kK](?![a-z]))?"
+_MONEY_RANGE_RE = re.compile(
+    _AMOUNT
+    + r"(?:\s*(?:USD|CAD))?(?:\s*(?:-|–|—|to)\s*" + _AMOUNT.replace("\\$", "\\$?") + r")?"
+    + r"(?:\s*(?:USD|CAD))?(?P<after>[^$]{0,30})",
+    re.IGNORECASE,
+)
+_PERIOD_WORDS = (
+    (re.compile(r"^\W{0,3}(?:/\s*|per\s+|an?\s+|each\s+)?(?:hour|hr)\b|^\W{0,3}hourly", re.I), "hr"),
+    (re.compile(r"^\W{0,3}(?:/\s*|per\s+|a\s+)?(?:week|wk)\b|^\W{0,3}weekly", re.I), "wk"),
+    (re.compile(r"^\W{0,3}(?:/\s*|per\s+|a\s+)?(?:month|mo)\b|^\W{0,3}monthly", re.I), "mo"),
+    (re.compile(r"^\W{0,3}(?:/\s*|per\s+|an?\s+)?(?:year|yr|annum)\b|^\W{0,3}annual(?:ly)?", re.I), "yr"),
+)
+# An unlabeled range ("Expected Compensation $20.00 - $50.00 + benefits") only counts near a pay word.
+_PAY_CONTEXT = re.compile(
+    r"\b(pay|compensation|salary|wage|rate|stipend|earn|base|range|hourly|annual)\b", re.IGNORECASE
+)
+
+
+def _amount(number: str, k: str | None) -> float:
+    value = float(number.replace(",", ""))
+    return value * 1000 if k else value
+
+
+def _guess_period(low: float, high: float) -> str:
+    if high <= 300:
+        return "hr"
+    if low >= 15000:
+        return "yr"
+    return ""
+
+
+def _hourly_label(low: float, high: float, period: str, prefix: str) -> str:
+    """Every pay shown as $/hr; yearly / monthly / weekly salaries are converted."""
+    hours = _HOURS[period]
+    low, high = low / hours, high / hours
+    if low > high:
+        low, high = high, low
+
+    def fmt(value: float) -> str:
+        if period != "hr":
+            return f"{prefix}{round(value):,}"  # converted: whole dollars
+        if abs(value - round(value)) < 0.005:
+            return f"{prefix}{round(value):,}"
+        return f"{prefix}{value:,.2f}"
+
+    if abs(high - low) < 0.005 or fmt(low) == fmt(high):
+        return f"{fmt(low)}/hr"
+    return f"{fmt(low)}–{fmt(high)}/hr"
+
+
+def _pay_from_text(text: str, prefix: str) -> str:
+    for match in _MONEY_RANGE_RE.finditer(text):
+        low = _amount(match.group(1), match.group(2))
+        high = _amount(match.group(3), match.group(4)) if match.group(3) else low
+        if low <= 0 or high <= 0:  # "$0.00 - $0.00" placeholders
+            continue
+        after = match.group("after") or ""
+        period = next((p for regex, p in _PERIOD_WORDS if regex.search(after)), "")
+        if not period:
+            before = text[max(0, match.start() - 80): match.start()]
+            if not _PAY_CONTEXT.search(before):
+                continue
+            period = _guess_period(low, high)
+            if not period:
+                continue
+        # Sanity: skip things like "$5 billion" or a bonus line.
+        hourly_high = high / _HOURS[period]
+        if not (7 <= hourly_high <= 400):
+            continue
+        return _hourly_label(low, high, period, prefix)
+    return ""
 
 
 def _pay_label(posting: dict, text: str) -> str:
@@ -69,41 +130,13 @@ def _pay_label(posting: dict, text: str) -> str:
     high = posting.get("max_salary")
     currency = posting.get("currency_type") or "USD"
     prefix = _CURRENCY_PREFIX.get(currency, f"{currency} ")
-    if low or high:
+    if (low or high) and float(low or high or 0) > 0:
         low = float(low or high)
         high = float(high or low)
-        period = _PERIODS.get(posting.get("salary_period"))
-        if not period:
-            if high <= 300:
-                period = "hr"
-            elif low >= 15000:
-                period = "yr"
-            else:
-                period = ""
+        period = _PERIODS.get(posting.get("salary_period")) or _guess_period(low, high)
         if period:
-            if abs(high - low) < 0.005:
-                return f"{_money(low, period, prefix)}/{period}"
-            return f"{_money(low, period, prefix)}–{_money(high, period, prefix)}/{period}"
-
-    match = _WAGE_RE.search(text)
-    if match:
-        a = (match.group(1) or match.group(3) or "").replace(",", "")
-        b = (match.group(2) or match.group(4) or "").replace(",", "")
-        if a:
-            return f"{prefix}{a}–{prefix}{b}/hr" if b else f"{prefix}{a}/hr"
-
-    match = _YEARLY_RE.search(text)
-    if match:
-        def _num(s: str) -> float:
-            s = s.replace(",", "").replace(" ", "")
-            return float(s[:-1]) * 1000 if s.lower().endswith("k") else float(s)
-        a = _num(match.group(1))
-        b = _num(match.group(2)) if match.group(2) else None
-        if a >= 15000:
-            if b and b > a:
-                return f"{_money(a, 'yr', prefix)}–{_money(b, 'yr', prefix)}/yr"
-            return f"{_money(a, 'yr', prefix)}/yr"
-    return ""
+            return _hourly_label(low, high, period, prefix)
+    return _pay_from_text(text, prefix)
 
 
 def extract(posting: dict) -> dict:
@@ -197,13 +230,34 @@ def fetch_missing(listings: list[dict], cache: dict, budget: int = 600) -> int:
     return len(todo)
 
 
+OVERRIDES_PATH = ROOT / "pay-overrides.json"
+
+
+def load_pay_overrides() -> dict[str, str]:
+    """Manual pay for postings whose pay Simplify's copy leaves out.
+
+    Keys are apply URLs; values are the pay text from the posting,
+    e.g. "$20.00 - $50.00". Converted to $/hr like everything else.
+    """
+    try:
+        data = json.loads(OVERRIDES_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    return {k: v for k, v in data.items() if isinstance(v, str) and not k.startswith("_")}
+
+
 def apply_details(listings: list[dict], cache: dict) -> None:
     """Copy cached detail fields onto listings (no network)."""
+    overrides = load_pay_overrides()
     for listing in listings:
+        override = overrides.get(listing.get("url") or "")
+        if override:
+            listing["detail_pay"] = _pay_from_text("pay " + override, "$")
         entry = cache.get(listing.get("id") or "")
         if not entry or entry.get("error") or entry.get("missing"):
             continue
-        listing["detail_pay"] = entry.get("pay") or ""
+        if not override:
+            listing["detail_pay"] = entry.get("pay") or ""
         listing["detail_auth"] = list(entry.get("auth") or [])
         listing["detail_h1b"] = entry.get("sponsors_h1b")
         listing["detail_seasons"] = list(entry.get("seasons") or [])

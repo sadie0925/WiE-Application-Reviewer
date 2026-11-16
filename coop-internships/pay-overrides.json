@@ -1,0 +1,4 @@
+{
+  "_note": "Pay for postings where Simplify's copy of the description leaves out the pay section (for example Tesla). Key = Apply URL, value = pay text from the posting. Shown on the boards as $/hr.",
+  "https://www.tesla.com/careers/search/job/289796": "$20.00 - $50.00"
+}

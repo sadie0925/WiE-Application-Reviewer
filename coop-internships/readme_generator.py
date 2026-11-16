@@ -158,7 +158,7 @@ def _render_board(board: dict, listings: list[dict], now: str, max_age_days: int
            if board.get("track") == "new_grad" else "")
         + ". Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), "
         "citizen/PR only, no visa sponsorship, or required US / Canada work authorization. "
-        "Pay is the posted hourly or yearly range. "
+        "Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). "
         "A blank cell means the posting does not say.",
         "",
         "[All boards](../README.md)",

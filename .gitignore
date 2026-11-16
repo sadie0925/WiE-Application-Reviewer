@@ -112,6 +112,7 @@ Thumbs.db
 !coop-internships/hackathons.json
 !coop-internships/programs.json
 !coop-internships/details-cache.json
+!coop-internships/pay-overrides.json
 
 # Application data files
 server/data.json
