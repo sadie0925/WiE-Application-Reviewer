@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**448 open** · newest first · removed when closed or after 60 days · Updated 2026-11-15 21:07 ET
+**447 open** · newest first · removed when closed or after 60 days · Updated 2026-11-15 21:37 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is the posted hourly or yearly range. A blank cell means the posting does not say.
 
@@ -90,7 +90,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Shield AI | Engineer 2 New Grad - Software - Autonomous Pilot Integration | Washington, DC |  | US clearance |  | 2026-11-10 | [Apply](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true) |
 | ZT Systems | Test Software Developer | Secaucus, NJ |  | US citizenship | $82k–$110k/yr | 2026-11-10 | [Apply](https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Test-Software-Developer_R-105519-1) |
 | Cummins | Electronic Systems Engineer - Software | Columbus, IN |  | US work auth | $78k–$101k/yr | 2026-11-10 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433871) |
-| Goldman Sachs | Software Engineer - Software Engineering | Dallas, TX |  |  |  | 2026-11-10 | [Apply](https://higher.gs.com/roles/188640) |
 | Biointellisense | Android Engineer | Redwood City, CA, Golden, CO |  |  | $60k–$80k/yr | 2026-11-10 | [Apply](https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28/apply) |
 | Promega | Software Integration Engineer | Madison, WI |  |  |  | 2026-11-10 | [Apply](https://careers.promega.com/jobs/4373?icims=1&lang=en-us) |
 | Eagle Wireless | MES Software Engineer | Solon, OH |  |  |  | 2026-11-10 | [Apply](https://ats.rippling.com/eagle-wireless/jobs/98f304e6-3067-4d28-ba94-4c48d5c92434) |

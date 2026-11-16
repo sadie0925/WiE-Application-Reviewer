@@ -10407,38 +10407,6 @@
     ]
   },
   {
-    "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
-    "company_name": "Goldman Sachs",
-    "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-    "title": "Software Engineer - Software Engineering",
-    "url": "https://higher.gs.com/roles/188640",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794351889,
-    "date_updated": 1794353978,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "afd2e61c-f545-47bc-a2cc-cd9956d7fa62",
     "company_name": "Biointellisense",
     "company_url": "https://simplify.jobs/c/BioIntelliSense",

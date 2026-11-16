@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**778 open** · newest first · removed when closed or after 30 days · Updated 2026-11-15 21:07 ET
+**778 open** · newest first · removed when closed or after 30 days · Updated 2026-11-15 21:37 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is the posted hourly or yearly range. A blank cell means the posting does not say.
 
