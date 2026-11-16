@@ -188,12 +188,24 @@ def deadline_of(event: dict) -> datetime | None:
     return application_deadline_of(event)
 
 
-def drop_past_deadlines(events: list[dict], now: datetime | None = None) -> list[dict]:
-    """Remove a row as soon as its application deadline has passed.
+def _start_from_when(when: str, default_year: int) -> datetime | None:
+    """Parse the first date in ranges like 'Nov 06 - 13, 2026'."""
+    if not when:
+        return None
+    year_match = re.search(r"(20\d{2})", when)
+    year = int(year_match.group(1)) if year_match else default_year
+    return parse_loose_date(when, year)
 
-    This is separate from the 30-day job rule. The Deadline column is only the
-    application close. If the organizer never publishes one, the row stays
-    until the event has started (or ended), then it is removed.
+
+def drop_past_deadlines(events: list[dict], now: datetime | None = None) -> list[dict]:
+    """Clear EVERY hackathon/program row that is no longer apply-able.
+
+    Applies to all sources (MLH, Devpost, Velocity, Radar, etc.), not one event:
+    - application deadline passed → drop
+    - event already started (starts_at or parsed `when`) → drop
+    - event already ended → drop
+
+    The Deadline column still shows application close only.
     """
     current = now or datetime.now(timezone.utc)
     kept = []
@@ -205,7 +217,9 @@ def drop_past_deadlines(events: list[dict], now: datetime | None = None) -> list
         if ends is not None and ends < current:
             continue
         starts = _parse_iso(event.get("starts_at"))
-        if app_deadline is None and starts is not None and starts < current:
+        if starts is None:
+            starts = _start_from_when(event.get("when") or "", current.year)
+        if starts is not None and starts < current:
             continue
         kept.append(event)
     return kept
@@ -303,25 +317,27 @@ def fetch_devpost_events(now: datetime | None = None) -> list[dict]:
                 continue
             period = item.get("submission_period_dates") or ""
             deadline = _submission_period_end(period, current.year)
-            # Devpost's submission window end is the application/submission close.
-            if deadline is None or deadline < current:
+            starts = _start_from_when(period, current.year)
+            # Keep rows so merge can carry a real start date onto Radar/MLH clones.
+            # drop_past_deadlines removes anything already started or past deadline.
+            if deadline is None and starts is None:
                 continue
             events.append(
                 {
                     "name": name.strip(),
                     "location": location or "—",
                     "url": url,
-                    "starts_at": "",
+                    "starts_at": starts.isoformat() if starts else "",
                     "ends_at": "",
-                    "deadline_at": deadline.isoformat(),
-                    "deadline_kind": "application",
+                    "deadline_at": deadline.isoformat() if deadline else "",
+                    "deadline_kind": "application" if deadline else "",
                     "when": period,
-                    "status": "Open" if state == "open" else "Upcoming",
+                    "status": "Open" if deadline else "Upcoming",
                     "tier": tier,
                     "source": "devpost",
                 }
             )
-    return drop_past_deadlines(events, current)
+    return events
 
 
 def _submission_period_end(text: str, default_year: int) -> datetime | None:
@@ -662,17 +678,51 @@ def fetch_communitech_events(now: datetime | None = None) -> list[dict]:
     return drop_past_deadlines(events, current)
 
 
+def _event_start(event: dict) -> datetime | None:
+    return _parse_iso(event.get("starts_at")) or _start_from_when(
+        event.get("when") or "", datetime.now(timezone.utc).year
+    )
+
+
+def _merge_event(current: dict, incoming: dict) -> dict:
+    """Prefer Waterloo sources, keep application deadlines, use the earliest start."""
+    candidate_local = incoming.get("source") in LOCAL_SOURCES
+    current_local = current.get("source") in LOCAL_SOURCES
+    if candidate_local and not current_local:
+        base, other = dict(incoming), current
+    else:
+        base, other = dict(current), incoming
+
+    starts = [item for item in (_event_start(base), _event_start(other)) if item is not None]
+    if starts:
+        earliest = min(starts)
+        base["starts_at"] = earliest.isoformat()
+        if not base.get("when"):
+            base["when"] = earliest.astimezone(TORONTO).strftime("%Y-%m-%d")
+
+    if other.get("deadline_kind") == "application" and other.get("deadline_at"):
+        if base.get("deadline_kind") != "application" or not base.get("deadline_at"):
+            base["deadline_at"] = other["deadline_at"]
+            base["deadline_kind"] = "application"
+        else:
+            a = _parse_iso(base.get("deadline_at"))
+            b = _parse_iso(other.get("deadline_at"))
+            if a and b and b < a:
+                base["deadline_at"] = other["deadline_at"]
+
+    if base.get("tier") != "uw" and other.get("tier") == "uw":
+        base["tier"] = "uw"
+    return base
+
+
 def merge_hackathons(*groups: list[dict]) -> list[dict]:
-    """Waterloo site rows win over a feed row with the same name."""
+    """Waterloo site rows win; earliest start date wins so started events clear."""
     by_name: dict[str, dict] = {}
     for group in groups:
         for item in group:
             key = item["name"].strip().lower()
             current = by_name.get(key)
-            candidate_local = item.get("source") in LOCAL_SOURCES
-            current_local = current is not None and current.get("source") in LOCAL_SOURCES
-            if current is None or (candidate_local and not current_local):
-                by_name[key] = item
+            by_name[key] = item if current is None else _merge_event(current, item)
     merged = drop_past_deadlines(list(by_name.values()))
     merged.sort(
         key=lambda item: (

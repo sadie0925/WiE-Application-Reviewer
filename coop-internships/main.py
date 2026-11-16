@@ -9,11 +9,18 @@ import sys
 import time
 from pathlib import Path
 
+from details import apply_details, fetch_missing, load_cache, save_cache
 from hackathons import fetch_hackathons
 from programs import fetch_programs
 from readme_generator import update_readme
 from scrapers import scrape_company
-from scrapers.filters import NEW_GRAD_TITLE_PATTERN, classify_program, purge_listings
+from scrapers.filters import (
+    NEW_GRAD_TITLE_PATTERN,
+    classify_program,
+    is_software_new_grad,
+    listing_added_at,
+    purge_listings,
+)
 from scrapers.location import filter_us_ca_locations
 from sync_simplify import (
     listings_fingerprint,
@@ -56,26 +63,74 @@ def save_hash(value: str) -> None:
 def annotate_programs(listings: list[dict]) -> list[dict]:
     """Ensure every listing has a cs/other program tag and intern vs new-grad track."""
     for listing in listings:
-        listing["program"] = classify_program(listing)
         title = listing.get("title") or ""
         if listing.get("track") not in {"intern", "new_grad"}:
             listing["track"] = (
                 "new_grad" if NEW_GRAD_TITLE_PATTERN.search(title) else "intern"
             )
+        if listing["track"] == "new_grad":
+            # New-grad boards are software engineering only; the rest is purged.
+            listing["program"] = "cs" if is_software_new_grad(listing) else "other"
+        else:
+            listing["program"] = classify_program(listing)
     return listings
+
+
+def _load_limits() -> tuple[int, int]:
+    config_path = ROOT / "config.json"
+    try:
+        cfg = json.loads(config_path.read_text(encoding="utf-8"))
+        return int(cfg.get("max_age_days", 30)), int(cfg.get("new_grad_max_age_days", 60))
+    except (OSError, ValueError, TypeError, json.JSONDecodeError):
+        return 30, 60
+
+
+def enrich_with_details(listings: list[dict], *, fetch: bool) -> None:
+    """Attach pay / work auth / term / job function from each Simplify posting page.
+
+    The GitHub feeds have none of this, so without it those columns stay blank.
+    Only postings not already in details-cache.json are fetched.
+    """
+    cache = load_cache()
+    if fetch:
+        intern_days, new_grad_days = _load_limits()
+        now = time.time()
+        live = []
+        for item in listings:
+            if item.get("active") is False or item.get("is_visible") is False:
+                continue
+            days = new_grad_days if item.get("track") == "new_grad" else intern_days
+            if now - listing_added_at(item) <= days * 86400:
+                live.append(item)
+        try:
+            fetched = fetch_missing(live, cache)
+            print(f"  Fetched posting details for {fetched} new listings")
+        except Exception as exc:  # never block the board update on this
+            print(f"  Posting detail fetch failed: {exc}", file=sys.stderr)
+        save_cache(cache, {item.get("id") for item in live if item.get("id")})
+    apply_details(listings, cache)
 
 
 def finalize_listings(listings: list[dict]) -> tuple[list[dict], dict]:
     """Tag listings, then drop closed ones and anything older than max_age_days."""
     config_path = ROOT / "config.json"
     max_age_days = 30
+    new_grad_max_age_days = 60
     if config_path.exists():
         try:
-            max_age_days = int(json.loads(config_path.read_text(encoding="utf-8")).get("max_age_days", 30))
+            cfg = json.loads(config_path.read_text(encoding="utf-8"))
+            max_age_days = int(cfg.get("max_age_days", 30))
+            new_grad_max_age_days = int(cfg.get("new_grad_max_age_days", 60))
         except (ValueError, TypeError, json.JSONDecodeError):
             max_age_days = 30
+            new_grad_max_age_days = 60
+    enrich_with_details(listings, fetch=False)
     prepared = annotate_programs(listings)
-    kept, stats = purge_listings(prepared, max_age_days=max_age_days)
+    kept, stats = purge_listings(
+        prepared,
+        max_age_days=max_age_days,
+        new_grad_max_age_days=new_grad_max_age_days,
+    )
     kept.sort(
         key=lambda item: (
             -(int(item.get("date_posted") or 0)),
@@ -109,7 +164,10 @@ def cmd_sync(args) -> int:
     print("Fetching Simplify community feed (1 HTTP request)...")
     simplify_listings, stats = sync()
 
-    merged, purge_stats = finalize_listings(merge_with_community(simplify_listings, existing))
+    combined = merge_with_community(simplify_listings, existing)
+    print("Fetching pay / work auth / term from posting pages (new listings only)...")
+    enrich_with_details(combined, fetch=True)
+    merged, purge_stats = finalize_listings(combined)
     print("Fetching hackathons (MLH, Devpost, and Waterloo sources)...")
     try:
         hackathon_events = fetch_hackathons()

@@ -8,7 +8,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from hackathons import drop_past_deadlines
-from scrapers.filters import classify_program, work_auth_label, work_term_label
+from scrapers.filters import classify_program, hourly_wage_label, work_auth_label, work_term_label
 from scrapers.location import listing_countries
 
 MARKER_START = "<!-- LISTINGS:START -->"
@@ -52,7 +52,7 @@ BOARDS = (
     {
         "filename": "canada-new-grad.md",
         "title": "Canada — Software new grad",
-        "blurb": "Software new-grad roles in Canada. Master's/PhD-only postings are left off.",
+        "blurb": "Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.",
         "country": "Canada",
         "program": "cs",
         "track": "new_grad",
@@ -60,7 +60,7 @@ BOARDS = (
     {
         "filename": "us-new-grad.md",
         "title": "United States — Software new grad",
-        "blurb": "Software new-grad roles in the United States. Master's/PhD-only postings are left off.",
+        "blurb": "Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.",
         "country": "United States",
         "program": "cs",
         "track": "new_grad",
@@ -118,8 +118,8 @@ def _matches(listing: dict, board: dict) -> bool:
 
 def _table(listings: list[dict]) -> list[str]:
     lines = [
-        "| Company | Role | Location | Term | Work auth | Added | Apply |",
-        "| ------- | ---- | -------- | ---- | --------- | ----- | ----- |",
+        "| Company | Role | Location | Term | Work auth | Pay | Added | Apply |",
+        "| ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |",
     ]
     for listing in sorted(listings, key=_sort_key):
         company = _escape_md(listing.get("company_name", "—"))
@@ -127,31 +127,39 @@ def _table(listings: list[dict]) -> list[str]:
         location = _format_locations(listing)
         term = _escape_md(work_term_label(listing))
         auth = _escape_md(work_auth_label(listing))
+        pay = _escape_md(hourly_wage_label(listing))
         added = format_date(int(listing.get("date_posted") or 0))
         url = listing.get("url", "")
         apply_link = f"[Apply]({url})" if url else "—"
         lines.append(
-            f"| {company} | {title} | {location} | {term} | {auth} | {added} | {apply_link} |"
+            f"| {company} | {title} | {location} | {term} | {auth} | {pay} | {added} | {apply_link} |"
         )
     return lines
 
 
 def _render_board(board: dict, listings: list[dict], now: str, max_age_days: int) -> str:
     rows = [item for item in listings if _matches(item, board)]
+    age_note = (
+        f"removed when closed or after {max_age_days} days"
+        if board.get("track") == "intern"
+        else "removed when closed or after 60 days"
+    )
     lines = [
         f"# {board['title']}",
         "",
         board["blurb"],
         "",
-        f"**{len(rows)} open** · newest first · "
-        f"removed when the application closes or after {max_age_days} days · "
-        f"Updated {now}",
+        f"**{len(rows)} open** · newest first · {age_note} · Updated {now}",
         "",
-        "Term is filled when the title or description names Winter, Spring, Fall, or Summer "
-        "(Summer is shown as Spring for Waterloo). "
-        "Work auth is filled when the posting or feed marks US citizenship, a US person, "
-        "permanent residence / green card, clearance, no visa sponsorship, or required work authorization. "
-        "Otherwise that cell is blank.",
+        "Term, Work auth, and Pay are read from each posting's page on Simplify "
+        "(salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. "
+        "Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer"
+        + (". New-grad roles are full time, so Term is only filled when the posting states a start season"
+           if board.get("track") == "new_grad" else "")
+        + ". Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), "
+        "citizen/PR only, no visa sponsorship, or required US / Canada work authorization. "
+        "Pay is the posted hourly or yearly range. "
+        "A blank cell means the posting does not say.",
         "",
         "[All boards](../README.md)",
         "",
@@ -202,8 +210,8 @@ def _render_hackathon_board(events: list[dict], now: str) -> str:
         "Other Canada and US hackathons follow. "
         "The Deadline column is the application close only. "
         "It stays blank when the organizer does not publish one. "
-        "A row is removed as soon as that application deadline passes, "
-        "or once the event has started if no application deadline was published. "
+        "Every hackathon is cleared when its application deadline has passed, "
+        "or when the event has already started — even if a submission window still looks open. "
         "This is separate from the 30-day job rule.",
         "",
         f"**{len(events)} upcoming** · {len(uw)} Waterloo · {len(major)} other Canada/US · Updated {now}",
@@ -336,10 +344,12 @@ def update_readme(
         "",
         f"**{len(active)} open listings** · newest first · Updated {now}",
         "",
-        "Internships come from the Simplify Summer feed. Software new-grad roles come from "
-        "Simplify's New-Grad Positions feed. Internships are removed when closed or after "
-        f"**{max_age_days} days**. Active new-grad rows stay until the feed marks them closed. "
-        "Master's/PhD-only new-grad rows are left off. Roles in both countries show up on both pages.",
+        "Internships come from the Simplify Summer feed. Software new-grad / entry-level / "
+        "early-career roles come from Simplify's New-Grad Positions feed. "
+        f"Internships are removed when closed or after **{max_age_days} days**. "
+        "New grads are removed when closed or after **60 days**. "
+        "Master's/PhD-only and senior new-grad rows are left off. "
+        "Roles in both countries show up on both pages.",
         "",
         "| Board | Open |",
         "| ----- | ---- |",

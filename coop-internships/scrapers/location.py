@@ -19,6 +19,11 @@ CA_CITIES = (
 )
 
 REMOTE_PATTERN = re.compile(r"\bremote\b", re.IGNORECASE)
+# "Remote in UK", "Remote in Germany" — remote, but not in the US or Canada.
+_REMOTE_ELSEWHERE = re.compile(
+    r"\bremote\s+(?:in|-|–|—|\()\s*(?!usa\b|us\b|u\.s|united\s+states|canada|north\s+america)[a-z]",
+    re.IGNORECASE,
+)
 
 
 def _region_code(location: str) -> str | None:
@@ -37,7 +42,7 @@ def is_us_or_canada_location(location: str) -> bool:
     lower = loc.lower()
 
     if REMOTE_PATTERN.search(lower):
-        return True
+        return not _REMOTE_ELSEWHERE.search(lower)
     if "canada" in lower or "united states" in lower or ", usa" in lower:
         return True
 

@@ -3,6 +3,7 @@
   "simplify_new_grad_url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
   "sync_interval_minutes": 5,
   "max_age_days": 30,
+  "new_grad_max_age_days": 60,
   "regions": ["United States", "Canada"],
   "scrape_batch_size": 5,
   "scrape_delay_seconds": 2,

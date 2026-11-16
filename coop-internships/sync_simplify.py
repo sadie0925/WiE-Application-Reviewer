@@ -15,6 +15,7 @@ import requests
 
 from scrapers.filters import (
     NEW_GRAD_TITLE_PATTERN,
+    may_be_software_new_grad,
     normalize_filtered_listing,
     passes_listing_filters,
     passes_new_grad_filters,
@@ -73,9 +74,11 @@ def filter_new_grad_listings(raw: list[dict]) -> list[dict]:
             continue
         if not passes_new_grad_filters(item):
             continue
-        normalized = normalize_filtered_listing(item, SOURCE_TAG, "new_grad")
-        if normalized.get("program") != "cs":
+        # Software engineering only. Generic titles ("Engineer 1") stay for now and
+        # are decided later from the posting's job function (see is_software_new_grad).
+        if not may_be_software_new_grad(item):
             continue
+        normalized = normalize_filtered_listing(item, SOURCE_TAG, "new_grad")
         seen_urls.add(url)
         results.append(normalized)
     return results
@@ -94,9 +97,9 @@ def filter_simplify_listings(raw: list[dict]) -> list[dict]:
             continue
         if not passes_new_grad_filters(item):
             continue
-        normalized = normalize_filtered_listing(item, SOURCE_TAG, "new_grad")
-        if normalized.get("program") != "cs":
+        if not may_be_software_new_grad(item):
             continue
+        normalized = normalize_filtered_listing(item, SOURCE_TAG, "new_grad")
         seen.add(url)
         results.append(normalized)
     return results
@@ -104,6 +107,8 @@ def filter_simplify_listings(raw: list[dict]) -> list[dict]:
 
 def listings_fingerprint(listings: list[dict]) -> str:
     """Stable hash to detect real changes and skip unnecessary commits."""
+    from scrapers.filters import hourly_wage_label, work_auth_label, work_term_label
+
     payload = json.dumps(
         [
             {
@@ -113,6 +118,10 @@ def listings_fingerprint(listings: list[dict]) -> str:
                 "locations": l.get("locations"),
                 "sponsorship": l.get("sponsorship"),
                 "track": l.get("track"),
+                "program": l.get("program"),
+                "term": work_term_label(l),
+                "auth": work_auth_label(l),
+                "pay": hourly_wage_label(l),
             }
             for l in sorted(listings, key=lambda x: x.get("url", ""))
         ],
