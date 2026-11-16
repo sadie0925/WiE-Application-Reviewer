@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**281 open** · newest first · removed when closed or after 30 days · Updated 2026-11-16 03:31 ET
+**278 open** · newest first · removed when closed or after 30 days · Updated 2026-11-16 13:50 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -59,9 +59,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Summer 2026 |  | $27–$48/hr | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-2) |
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Summer 2026 |  | $27–$48/hr | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-1) |
 | KLA Corporation | Electrical Engineer Intern | Ann Arbor, MI | Summer 2026 |  | $27–$48/hr | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897) |
-| RTX | Electrical Engineer Intern - FCS Hardware | Cedar Rapids, IA | Summer 2027 | US clearance, US citizenship | $18–$39/hr | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) |
 | RTX | Electrical Engineer Intern - Test Solutions | Tewksbury, MA |  | US clearance, US citizenship, No sponsorship | $18–$39/hr | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01887669) |
-| Vanderlande Industries | Supply Chain Data & Analytics Intern | Remote in USA, Marietta, GA |  |  |  | 2026-11-10 | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) |
 | Blue Cross Blue Shield of Michigan | Digital Product Intern | Detroit, MI | Summer 2027 |  |  | 2026-11-10 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) |
 | Altice USA | Product Management B2B Broadband Services Intern | Bethpage, NY | Winter/Spring 2027, Summer 2027 | No sponsorship | $25/hr | 2026-11-10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) |
 | Altice USA | Product Management Customer Management App Intern | Bethpage, NY | Winter/Spring 2027, Summer 2027 | No sponsorship | $25/hr | 2026-11-10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) |
@@ -86,7 +84,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Lutron Electronics | Electronics Technician Work Study Intern | Coopersburg, PA |  | No sponsorship, US work auth |  | 2026-11-09 | [Apply](https://careers.lutron.com/jobs/5653?icims=1&lang=en-us) |
 | Lutron Electronics | Electronics Technician Work Study Intern | Boston, MA |  | No sponsorship, US work auth | $24–$25/hr | 2026-11-09 | [Apply](https://careers.lutron.com/jobs/5650?icims=1&lang=en-us) |
 | Lutron Electronics | Electronics Technician Work Study Intern | Austin, TX |  | No sponsorship, US work auth |  | 2026-11-09 | [Apply](https://careers.lutron.com/jobs/5648?icims=1&lang=en-us) |
-| Pyrotek | Product Management Intern | Spokane, WA | Summer 2027 |  | $22/hr | 2026-11-09 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000160635163) |
 | Badger Meter | Product Management Intern | Milwaukee, WI | Summer 2027 |  |  | 2026-11-08 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) |
 | Carnegie Mellon University | Advanced Computing Lab Intern | Pittsburgh, PA | Summer 2027 | No sponsorship, US work auth |  | 2026-11-08 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1) |
 | Carnegie Mellon University | Advanced Computing Lab Intern | Pittsburgh, PA | Summer 2027 | No sponsorship, US work auth |  | 2026-11-08 | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336) |

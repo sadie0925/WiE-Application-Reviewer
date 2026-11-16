@@ -1,5 +1,310 @@
 [
   {
+    "id": "d48bdf87-b0ff-4edc-a9a5-5f5ecca2154c",
+    "company_name": "Boston Scientific",
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "title": "AI Acceleration Intern",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794844280,
+    "date_updated": 1794844441,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$21–$36/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "AI Application Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "9505b5cc-26f0-4893-93fe-d10cabec7014",
+    "company_name": "Boston Scientific",
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "title": "Product Data Analyst Intern",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813864319",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794844279,
+    "date_updated": 1794844441,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2026"
+    ],
+    "program": "cs",
+    "detail_pay": "$21–$36/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2026"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Management",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "ba118afe-7991-4a5a-87c7-f68325d9f99d",
+    "company_name": "Boston Scientific",
+    "company_url": "https://simplify.jobs/c/Boston-Scientific",
+    "title": "AI Engineer Intern - Generative & Agentic AI",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+    "locations": [
+      "Marlborough, MA",
+      "Maple Grove, MN",
+      "Arden Hills, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794844278,
+    "date_updated": 1794844460,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$21–$36/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "93a09d2c-4c6c-48b4-b6d9-ab0a27a3951d",
+    "company_name": "Altice USA",
+    "company_url": "https://simplify.jobs/c/Altice-USA",
+    "title": "Software Developer Intern",
+    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors",
+    "locations": [
+      "Bethpage, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794843283,
+    "date_updated": 1794843392,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$25/hr",
+    "detail_auth": [],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "755894c6-bbb7-4372-812b-80685f05ca63",
+    "company_name": "Shopify",
+    "company_url": "https://simplify.jobs/c/Shopify",
+    "title": "Applied Machine Learning Engineer Intern",
+    "url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794843089,
+    "date_updated": 1794843205,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "CA$42.31–CA$46.15/hr",
+    "detail_auth": [
+      "Canada work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Applied Machine Learning",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "c8718487-1c23-48cb-9c04-3d4d44bc977b",
+    "company_name": "Shopify",
+    "company_url": "https://simplify.jobs/c/Shopify",
+    "title": "Data Intern",
+    "url": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794843089,
+    "date_updated": 1794843218,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "CA$32.98–CA$40.96/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Data Science",
+      "Data Engineering",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "2308660d-6e87-4b5c-9008-376f4a467804",
+    "company_name": "Shopify",
+    "company_url": "https://simplify.jobs/c/Shopify",
+    "title": "Software Engineer Intern",
+    "url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794843089,
+    "date_updated": 1794843215,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "CA$36.92–CA$40.72/hr",
+    "detail_auth": [
+      "Canada work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "1f5243e7-418c-45e0-a517-5603c9d3eae6",
+    "company_name": "American Express",
+    "company_url": "https://simplify.jobs/c/American-Express",
+    "title": "Campus Undergraduate Full-Time Engineer - Software Engineer 1",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794841980,
+    "date_updated": 1794842101,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$36–$60/hr",
+    "detail_auth": [
+      "Canada work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "35fdfd06-a580-4ffd-b7d3-38c04cc8da72",
     "company_name": "Southern States, LLC",
     "company_url": "https://simplify.jobs/c/Southern-States-LLC",
@@ -2895,40 +3200,6 @@
     ]
   },
   {
-    "id": "2b041c35-8b41-4e11-ab87-232b37636213",
-    "company_name": "Rocket Mortgage",
-    "company_url": "https://simplify.jobs/c/Rocket-Mortgage",
-    "title": "Customer Correspondence Analyst Intern",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794528000,
-    "date_updated": 1794584546,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "4e1d3eca-60ed-4189-856e-6f7c6a717741",
     "company_name": "Rocket Mortgage",
     "company_url": "https://simplify.jobs/c/Rocket-Mortgage",
@@ -4394,45 +4665,6 @@
       "Data Science",
       "Data Engineering",
       "Data & Analytics"
-    ]
-  },
-  {
-    "id": "1f3952cc-171c-4509-9532-4e1449ff14f2",
-    "company_name": "Atalanta",
-    "company_url": "https://simplify.jobs/c/Atalanta",
-    "title": "Forward Deployed Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/atalanta/732425ff-3461-49e6-9022-5b0cd732e6c1/application?embed=true",
-    "locations": [
-      "Washington, DC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794441600,
-    "date_updated": 1794527462,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$48.08–$72.12/hr",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -7301,42 +7533,6 @@
     ]
   },
   {
-    "id": "cbb8fff5-3af6-42f9-811f-8fe3676649f6",
-    "company_name": "exacare ai",
-    "company_url": "https://simplify.jobs/c/Exacare-Ai",
-    "title": "Data and Analytics Intern",
-    "url": "https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794409740,
-    "date_updated": 1794409857,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data & Analytics",
-      "Business Intelligence"
-    ]
-  },
-  {
     "id": "1712cac2-b710-4c41-a381-3eb6e3155972",
     "company_name": "SharkNinja",
     "company_url": "https://simplify.jobs/c/SharkNinja",
@@ -8006,76 +8202,6 @@
     ],
     "detail_desc_terms": "",
     "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "81315681-6dd1-4be6-b44a-b38bc073ce53",
-    "company_name": "Boeing",
-    "company_url": "https://simplify.jobs/c/Boeing",
-    "title": "Embedded Software Engineer",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Long-Beach-CA/Embedded-Software-Engineer_JR2026529493",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794440526,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$40–$54/hr",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "7a70565e-fba7-4c57-8804-0551949e8742",
-    "company_name": "Boeing",
-    "company_url": "https://simplify.jobs/c/Boeing",
-    "title": "Embedded Software Engineer",
-    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Embedded-Software-Engineer_JR2026529493-1",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794440346,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$40–$54/hr",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Embedded Engineering",
       "Software Engineering"
     ]
   },
@@ -8857,42 +8983,6 @@
     ]
   },
   {
-    "id": "a0856c0c-9c02-41ee-9b12-8f018fd3326e",
-    "company_name": "Panera Bread",
-    "company_url": "https://simplify.jobs/c/Panera-Bread",
-    "title": "Data Science & AI Analytics Intern",
-    "url": "https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082",
-    "locations": [
-      "Newton, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794440381,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Data Science",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "f865a3d4-ed0b-49c0-89c5-e6ce47db6f5a",
     "company_name": "PTC",
     "company_url": "https://simplify.jobs/c/PTC",
@@ -8998,45 +9088,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Robotics & Autonomous Systems",
-      "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "1d01d27b-150d-4d65-b8f7-8790841f3d77",
-    "company_name": "Ribbon",
-    "company_url": "https://simplify.jobs/c/Ribbon",
-    "title": "AI Engineer Co-op",
-    "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083",
-    "locations": [
-      "Westford, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794411934,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$29.81–$39.90/hr",
-    "detail_auth": [
-      "US work auth",
-      "US citizenship"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Applied Machine Learning",
       "AI & Machine Learning"
     ]
   },
@@ -9149,47 +9200,6 @@
     ]
   },
   {
-    "id": "30730f1c-6d40-450b-a9f3-2e2447dd6e71",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Electrical Engineer Intern - FCS Hardware",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794439482,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$18–$39/hr",
-    "detail_auth": [
-      "US work auth",
-      "US clearance",
-      "US citizenship"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering"
-    ]
-  },
-  {
     "id": "dffa340a-d2cf-43a7-9548-3c716a9ac19d",
     "company_name": "RTX",
     "company_url": "https://simplify.jobs/c/RTX",
@@ -9294,45 +9304,6 @@
     ],
     "detail_h1b": false,
     "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "d337ad61-4c1c-4053-bb47-f4ad059d81c8",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794439483,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$18–$39/hr",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
@@ -9543,41 +9514,6 @@
     "functions": [
       "Data Management",
       "Data & Analytics"
-    ]
-  },
-  {
-    "id": "ad8ba622-f60f-4be2-a7df-744def610f7d",
-    "company_name": "Vanderlande Industries",
-    "company_url": "https://simplify.jobs/c/Vanderlande-Industries",
-    "title": "Supply Chain Data & Analytics Intern",
-    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708",
-    "locations": [
-      "Remote in USA",
-      "Marietta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794438362,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data & Analytics",
-      "Business Intelligence"
     ]
   },
   {
@@ -9895,6 +9831,40 @@
     ]
   },
   {
+    "id": "f60a9ca0-d42f-48f5-9643-b10749754e9e",
+    "company_name": "Altice USA",
+    "company_url": "https://simplify.jobs/c/Altice-USA",
+    "title": "Software Development Intern",
+    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Development-NY-11714/1449514200/?ats=successfactors",
+    "locations": [
+      "Bethpage, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794353015,
+    "date_updated": 1794353130,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$25/hr",
+    "detail_auth": [],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "93f840b3-e735-4ee5-8cbb-e007eafb977f",
     "company_name": "Altice USA",
     "company_url": "https://simplify.jobs/c/Altice-USA",
@@ -9947,6 +9917,42 @@
     "category": "AI/ML/Data",
     "sponsorship": "Other",
     "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$25/hr",
+    "detail_auth": [],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
+    "id": "c21653b5-2191-4e66-bb66-536b6e452425",
+    "company_name": "Altice USA",
+    "company_url": "https://simplify.jobs/c/Altice-USA",
+    "title": "Product Analytics Intern",
+    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Analytics-NY-11714/1449510900/?ats=successfactors",
+    "locations": [
+      "Bethpage, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794353014,
+    "date_updated": 1794353128,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
     "track": "intern",
     "terms": [
       "Winter 2027"
@@ -10983,45 +10989,6 @@
     ]
   },
   {
-    "id": "181b3902-c0ab-469a-a0ab-8bd09146efa7",
-    "company_name": "Booz Allen",
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "title": "Data Scientist Intern",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0253332",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794268800,
-    "date_updated": 1794353483,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$29.81–$67.79/hr",
-    "detail_auth": [
-      "US clearance"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Spring 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Science",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "9ff0c472-dd4d-4201-9660-d99b20c9212c",
     "company_name": "Constellation Brands",
     "company_url": "https://simplify.jobs/c/Constellation-Brands",
@@ -11504,76 +11471,6 @@
     "functions": [
       "Hardware Validation & Testing",
       "Hardware Engineering"
-    ]
-  },
-  {
-    "id": "fd3db4d2-9c46-4138-9d5e-f0e0ab109e89",
-    "company_name": "JBT Marel",
-    "company_url": "https://simplify.jobs/c/JBT-Marel",
-    "title": "Software Engineer",
-    "url": "https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/US---Redmond-WA/Software-Engineer_25394",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794268800,
-    "date_updated": 1794495973,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "dcbb1c0f-1df1-42a7-ba0e-89b77ba03af9",
-    "company_name": "JMP Statistical Discovery",
-    "company_url": "https://simplify.jobs/c/JMP-Statistical-Discovery",
-    "title": "C++ Software Development Intern",
-    "url": "https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Cary, NC"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794268800,
-    "date_updated": 1794354152,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$15–$49/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Frontend Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -13649,42 +13546,6 @@
     "functions": [
       "Data Analysis",
       "Data & Analytics"
-    ]
-  },
-  {
-    "id": "536e2f43-f2f0-47fd-aa1e-41a34bff5823",
-    "company_name": "Pyrotek",
-    "company_url": "https://simplify.jobs/c/Pyrotek",
-    "title": "Product Management Intern",
-    "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000160635163",
-    "locations": [
-      "Spokane, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794236499,
-    "date_updated": 1794239201,
-    "category": "Product",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$22/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Product Management",
-      "Product"
     ]
   },
   {
@@ -17845,43 +17706,6 @@
     "functions": [
       "Robotics & Autonomous Systems",
       "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "475cf53f-d514-46b8-af05-8cced2ee2caf",
-    "company_name": "PETRONAS Canada",
-    "company_url": "https://simplify.jobs/c/PETRONAS-Canada",
-    "title": "Student Intern - Operation Advancement",
-    "url": "https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Operation-Advancement_R0001881",
-    "locations": [
-      "Calgary, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793923200,
-    "date_updated": 1794006539,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics",
-      "Business Intelligence"
     ]
   },
   {
@@ -31906,37 +31730,6 @@
     ]
   },
   {
-    "id": "7cf02321-1109-4b76-b4f0-46ea301199c1",
-    "company_name": "Thoughtworks",
-    "company_url": "https://simplify.jobs/c/Thoughtworks",
-    "title": "Software Developer New Grad",
-    "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333235",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793270498,
-    "date_updated": 1793313958,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "92028585-06ce-429a-8702-8cc1d5ce13f5",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -33719,37 +33512,6 @@
     "detail_seasons": [
       "Summer 2027"
     ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "c467ce94-cbcc-46f7-9a47-5673ae132895",
-    "company_name": "Thoughtworks",
-    "company_url": "https://simplify.jobs/c/Thoughtworks",
-    "title": "Graduate Developer",
-    "url": "https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/aff64320-4e2f-41b5-bbdf-7aed82751dd0/application?embed=true",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1794582766,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
@@ -37284,48 +37046,6 @@
     ]
   },
   {
-    "id": "1def6b3e-6143-4509-9f6c-ca677a3669ec",
-    "company_name": "Sherwin-Williams",
-    "company_url": "https://simplify.jobs/c/Sherwin-Williams",
-    "title": "R&D Product Systems Intern",
-    "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417",
-    "locations": [
-      "Cleveland, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793081249,
-    "date_updated": 1793081402,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$21–$26.50/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship",
-      "Work auth required"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Science",
-      "Data & Analytics",
-      "Business Intelligence"
-    ]
-  },
-  {
     "id": "ae277909-103c-4d44-9947-224d2c430997",
     "company_name": "Meta",
     "company_url": "https://simplify.jobs/c/Meta",
@@ -37643,42 +37363,6 @@
     "functions": [
       "Full-Stack Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "e069b3ec-da07-4fca-9b7f-8c5ebda67df8",
-    "company_name": "CIBC",
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "title": "Junior Insights & Analytics Co-op",
-    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793059200,
-    "date_updated": 1793112304,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "Canada work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
     ]
   },
   {
@@ -40002,40 +39686,6 @@
     ]
   },
   {
-    "id": "a07fa1be-c821-4b5c-a91e-d1e14b83a970",
-    "company_name": "CIBC",
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "title": "Business Analyst Co-op",
-    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793053139,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "",
-    "detail_auth": [
-      "Canada work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "b3b5266a-b857-4999-8c6f-daa45fa2c9e6",
     "company_name": "Cohesity",
     "company_url": "https://simplify.jobs/c/Cohesity",
@@ -40787,218 +40437,6 @@
     ]
   },
   {
-    "id": "c09d9dac-bcf2-4ef4-a5a3-6349a5905e91",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Engineer Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793023860,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "883dffb0-d441-4366-84c2-251689ff5b5a",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Engineer Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793025780,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD",
-      "Associate's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "b3ebed87-0e45-49d3-b790-ba44271e93c5",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Engineer Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2",
-    "locations": [
-      "Calgary, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793053521,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "0fc49c44-851b-47a8-b7cb-547458b4ec29",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Data Engineer Intern - Amplify 2027",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793025781,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD",
-      "Associate's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "b8178344-d11e-4dee-a05e-320016075d4b",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Developer Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793023853,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "6836e7fe-76f9-498a-b178-4bf481fd5b3e",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Developer Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793025784,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "f2891e20-53eb-4249-80fc-1561322b7a7b",
     "company_name": "Royal Bank of Canada",
     "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
@@ -41046,39 +40484,6 @@
     "source": "simplify",
     "date_posted": 1792972800,
     "date_updated": 1793025782,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "fee5d640-3f86-40b6-a00c-83b3c8c65d00",
-    "company_name": "Royal Bank of Canada",
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "title": "Developer Intern",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202",
-    "locations": [
-      "Calgary, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792972800,
-    "date_updated": 1793053520,
     "category": "Software",
     "sponsorship": "Other",
     "degrees": [],
@@ -44698,40 +44103,6 @@
     ]
   },
   {
-    "id": "7f00e922-21dd-49f4-9250-786d6343af77",
-    "company_name": "KLA Corporation",
-    "company_url": "https://simplify.jobs/c/KLA-Corporation",
-    "title": "Software Engineer Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2642189",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792713600,
-    "date_updated": 1792793353,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2026"
-    ],
-    "program": "cs",
-    "detail_pay": "$37–$49/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2026"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "4eaa723e-570b-4a9d-88de-a5f01e273d96",
     "company_name": "KLA Corporation",
     "company_url": "https://simplify.jobs/c/KLA-Corporation",
@@ -46924,74 +46295,6 @@
     "functions": [
       "Full-Stack Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "e69dceb5-6c8d-4ad8-8e89-fdcdde38b605",
-    "company_name": "CIBC",
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "title": "Machine Learning Engineer Co-op",
-    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792627200,
-    "date_updated": 1792679404,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "Canada work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Applied Machine Learning",
-      "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "fda1652b-309e-430c-af6e-32e1a4c5d107",
-    "company_name": "CIBC",
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "title": "Machine Learning Engineer Co-op",
-    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792627200,
-    "date_updated": 1792709112,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "Canada work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Applied Machine Learning",
-      "AI & Machine Learning"
     ]
   },
   {
@@ -53361,42 +52664,6 @@
     ]
   },
   {
-    "id": "f50e23e9-04ff-4bc6-a337-9a618d204dbe",
-    "company_name": "CIBC",
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "title": "Analytics Co-op",
-    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792368000,
-    "date_updated": 1792447564,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Winter 2026"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "Canada work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2026"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "c08867ba-6803-4c02-ab9c-9de333439a21",
     "company_name": "Ciena",
     "company_url": "https://simplify.jobs/c/Ciena",
@@ -56092,38 +55359,6 @@
     "detail_pay": "$53–$67/hr",
     "detail_auth": [
       "US work auth"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "45efe805-86d5-4768-849b-53ab403a0c6b",
-    "company_name": "ASSYST",
-    "company_url": "https://simplify.jobs/c/ASSYST",
-    "title": "Full Stack Developer",
-    "url": "https://job-boards.greenhouse.io/assystinc/jobs/4436912009",
-    "locations": [
-      "Sterling, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1791411950,
-    "date_updated": 1791413301,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance"
     ],
     "detail_h1b": false,
     "detail_seasons": [],
@@ -59807,110 +59042,6 @@
     "functions": [
       "Embedded Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "0243fda8-ee44-49ba-b33f-d9bd2da4261a",
-    "company_name": "Noblis",
-    "company_url": "https://simplify.jobs/c/Noblis",
-    "title": "Software Developer - Multiple Levels - Cleared",
-    "url": "https://careers.noblis.org/jobs/27847?icims=1",
-    "locations": [
-      "Reston, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789654869,
-    "date_updated": 1789655221,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$36–$91/hr",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "fca41145-e1a2-43c4-a565-1fd42f831279",
-    "company_name": "Noblis",
-    "company_url": "https://simplify.jobs/c/Noblis",
-    "title": "AI/ML Engineer - Multiple levels - Cleared",
-    "url": "https://careers.noblis.org/jobs/27849?icims=1",
-    "locations": [
-      "Reston, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789654868,
-    "date_updated": 1789655221,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD",
-      "Associate's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$44–$121/hr",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Applied Machine Learning",
-      "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "bb272438-463e-46cb-955f-ee7c68e2c72d",
-    "company_name": "VML",
-    "company_url": "https://simplify.jobs/c/VML",
-    "title": "Associate Data Engineer",
-    "url": "https://job-boards.greenhouse.io/map/jobs/8816124002",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1789654098,
-    "date_updated": 1789654149,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
     ]
   }
 ]

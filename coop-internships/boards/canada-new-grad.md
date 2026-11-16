@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**52 open** · newest first · removed when closed or after 60 days · Updated 2026-11-16 03:31 ET
+**53 open** · newest first · removed when closed or after 60 days · Updated 2026-11-16 13:50 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| American Express | Campus Undergraduate Full-Time Engineer - Software Engineer 1 | Toronto, ON, Canada |  | No sponsorship, Canada work auth | CA$36–CA$60/hr | 2026-11-16 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677) |
 | Fidus Systems | Embedded Software Designer - AI Agents and Tooling | Kitchener, ON, Canada |  | Canadian citizen/PR |  | 2026-11-13 | [Apply](https://apply.workable.com/fidus/j/530C9AAB54/apply) |
 | Fidus Systems | Embedded Software Designer - AI Knowledge and Data | Kitchener, ON, Canada |  | Canadian citizen/PR |  | 2026-11-13 | [Apply](https://apply.workable.com/fidus/j/B945E3C44D/apply) |
 | Affirm | Software Engineer 1 - Backend - Continuous Delivery | Remote in Canada |  |  | CA$49–CA$73/hr | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181185003) |
