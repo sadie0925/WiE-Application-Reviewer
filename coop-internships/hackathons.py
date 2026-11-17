@@ -11,6 +11,7 @@ import json
 import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import requests
@@ -77,7 +78,7 @@ SOCRATICA_KEEP = re.compile(
     r"\b(hackathon|buildathon|innovation|challenge|symposium)\b",
     re.IGNORECASE,
 )
-LOCAL_SOURCES = {"uwaterloo", "velocity", "ideas-clinic", "socratica", "communitech"}
+LOCAL_SOURCES = {"uwaterloo", "velocity", "ideas-clinic", "socratica", "communitech", "club-linktree", "club-luma", "luma"}
 
 APPLICATION_DUE = re.compile(
     r"(?:applications?|registration|sign[\s-]?ups?)\s+(?:are\s+)?"
@@ -678,6 +679,298 @@ def fetch_communitech_events(now: datetime | None = None) -> list[dict]:
     return drop_past_deadlines(events, current)
 
 
+# ---------------------------------------------------------------------------
+# Luma (most UW clubs post events there) and club Linktrees
+# ---------------------------------------------------------------------------
+
+LUMA_NEARBY = "https://api.lu.ma/discover/get-paginated-events"
+WATERLOO_LAT_LNG = (43.4723, -80.5449)
+CLUBS_PATH = Path(__file__).parent / "uw-clubs.json"
+CLUB_CACHE_PATH = Path(__file__).parent / "club-events-cache.json"
+CLUB_RECRAWL_SECONDS = 6 * 60 * 60
+LINKTREE_DELAY_SECONDS = 3
+
+# Hackathon-type events (not weekly "hack nights" or talks).
+EVENT_NAME = re.compile(
+    r"\b(hackathon|hacks|hack(?!\s*night|\s*club)|designathon|datathon|buildathon|makeathon|"
+    r"ideathon|codeathon|game\s*jam|innovation\s+challenge|case\s+competition|"
+    r"pitch\s+competition|design\s+challenge|data\s+challenge|ai\s+challenge|cxc)\b",
+    re.IGNORECASE,
+)
+NOT_EVENT = re.compile(r"\b(hack\s*nights?|workshop\s+series|info\s+session|recap|photos?)\b", re.IGNORECASE)
+# UW campus or a UW club on Luma.
+UW_LUMA = re.compile(
+    r"\b(uw|uwaterloo|university\s+of\s+waterloo|waterloo\s+(?:engineering|cs|math)|"
+    r"engsoc|mathsoc|wics|wie)\b|@\s*waterloo|200\s+university\s+ave(?:nue)?\s+w",
+    re.IGNORECASE,
+)
+FORM_HOSTS = re.compile(r"(docs\.google\.com/forms|forms\.gle|typeform\.com|tally\.so|airtable\.com|jotform)", re.I)
+MONTH_YEAR = re.compile(
+    r"\b(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|aug(?:ust)?|"
+    r"sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\s+(20\d{2})\b",
+    re.IGNORECASE,
+)
+FULL_DATE = re.compile(
+    r"\b(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|aug(?:ust)?|"
+    r"sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\.?\s+(\d{1,2})(?:st|nd|rd|th)?"
+    r"(?:\s*[-–]\s*(?:[a-z]+\.?\s+)?\d{1,2}(?:st|nd|rd|th)?)?,?\s+(20\d{2})\b",
+    re.IGNORECASE,
+)
+
+
+def _html_get(url: str) -> requests.Response:
+    return _get(url, headers={"Accept": "text/html"})
+
+
+def _next_data(page: str) -> dict:
+    match = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', page, re.S)
+    if not match:
+        return {}
+    try:
+        return json.loads(match.group(1)).get("props", {}).get("pageProps", {})
+    except json.JSONDecodeError:
+        return {}
+
+
+def _luma_row(entry: dict, tier: str | None, source: str) -> dict | None:
+    """One Luma event (from the nearby feed, a calendar, or an event page)."""
+    event = entry.get("event") or entry
+    name = _clean_link_title(event.get("name") or "")
+    if not name or not EVENT_NAME.search(name) or NOT_EVENT.search(name):
+        return None
+    if (entry.get("registration_availability") or "open") not in {"open", "waitlist"}:
+        return None
+    geo = event.get("geo_address_info") or {}
+    country = (geo.get("country_code") or "").upper()
+    if country and country not in {"CA", "US"}:
+        return None
+    calendar = entry.get("calendar") or {}
+    hosts = " ".join(h.get("name") or "" for h in entry.get("hosts") or [])
+    if tier is None:
+        blob = " ".join([name, calendar.get("name") or "", hosts, geo.get("full_address") or "", geo.get("address") or ""])
+        tier = "uw" if UW_LUMA.search(blob) else (_tier(name, geo.get("city_state") or "", "") or "major")
+    starts = _parse_iso(event.get("start_at"))
+    where = geo.get("address") or geo.get("city_state") or ("Online" if event.get("location_type") == "online" else "—")
+    if geo.get("city_state") and geo.get("address") and geo["city_state"] not in where:
+        where = f"{where}, {geo['city_state']}"
+    return {
+        "name": name,
+        "location": where,
+        "url": f"https://luma.com/{event.get('url')}" if event.get("url") else "",
+        "starts_at": starts.isoformat() if starts else "",
+        "ends_at": event.get("end_at") or "",
+        "deadline_at": "",
+        "deadline_kind": "",
+        "when": starts.astimezone(TORONTO).strftime("%Y-%m-%d") if starts else "",
+        "status": "Open",
+        "tier": tier,
+        "source": source,
+        "organizer": calendar.get("name") or "",
+    }
+
+
+def fetch_luma_nearby(now: datetime | None = None) -> list[dict]:
+    """Every public Luma event around Waterloo (UW clubs, Laurier, Communitech, ...)."""
+    current = now or datetime.now(timezone.utc)
+    events: list[dict] = []
+    cursor = None
+    for _page in range(10):
+        params = {
+            "latitude": WATERLOO_LAT_LNG[0],
+            "longitude": WATERLOO_LAT_LNG[1],
+            "pagination_limit": 50,
+        }
+        if cursor:
+            params["pagination_cursor"] = cursor
+        try:
+            data = _get(LUMA_NEARBY, params=params).json()
+        except (requests.RequestException, ValueError):
+            break
+        for entry in data.get("entries") or []:
+            row = _luma_row(entry, None, "luma")
+            if row:
+                events.append(row)
+        cursor = data.get("next_cursor") if data.get("has_more") else None
+        if not cursor:
+            break
+    return drop_past_deadlines(events, current)
+
+
+def _luma_page(url: str, tier: str | None, source: str) -> list[dict]:
+    """A Luma event page or calendar page."""
+    data = (_next_data(_html_get(url).text).get("initialData") or {})
+    kind, body = data.get("kind"), data.get("data") or {}
+    if kind == "event":
+        row = _luma_row(body, tier, source)
+        return [row] if row else []
+    rows = []
+    for key in ("featured_items", "items", "upcoming"):
+        items = body.get(key)
+        if isinstance(items, list):
+            for item in items:
+                if isinstance(item, dict) and "event" in item:
+                    row = _luma_row(item, tier, source)
+                    if row:
+                        rows.append(row)
+    return rows
+
+
+def _site_event(name: str, url: str, page: str, now: datetime) -> dict | None:
+    """A club's own hackathon site (e.g. cxc.uwdatascience.ca). Date may be month-only."""
+    text = _plain(page)
+    starts = None
+    when = ""
+    full = None
+    for match in FULL_DATE.finditer(text):
+        found = parse_loose_date(f"{match.group(1)} {match.group(2)}, {match.group(3)}", int(match.group(3)))
+        if found and found >= now:
+            full = found
+            break
+    if full:
+        starts = full.replace(hour=0, minute=0, second=0)
+        when = starts.strftime("%Y-%m-%d")
+    else:
+        for match in MONTH_YEAR.finditer(text):
+            month = MONTHS.get(match.group(1).lower()[:3])
+            year = int(match.group(2))
+            first = datetime(year, month, 1, tzinfo=TORONTO)
+            # Month-only ("FEBRUARY 2027"): kept until that month begins.
+            if month and first >= now:
+                starts = first
+                when = first.strftime("%B %Y")
+                break
+    if starts is None:
+        return None
+    deadline = parse_application_deadline(page, starts.year)
+    return {
+        "name": name,
+        "location": "University of Waterloo",
+        "url": url,
+        "starts_at": starts.isoformat(),
+        "ends_at": "",
+        "deadline_at": deadline.isoformat() if deadline else "",
+        "deadline_kind": "application" if deadline else "",
+        "when": when,
+        "month_only": full is None,
+        "status": "Open" if deadline else "Upcoming",
+        "tier": "uw",
+        "source": "club-linktree",
+    }
+
+
+def _form_is_open(url: str) -> bool:
+    try:
+        page = _html_get(url).text.lower()
+    except requests.RequestException:
+        return False
+    return not any(
+        phrase in page
+        for phrase in ("no longer accepting responses", "closedform", "form is closed", "not accepting submissions")
+    )
+
+
+def _clean_link_title(title: str) -> str:
+    title = re.sub(r"^[\W_]+|[\W_]+$", "", title.strip())
+    return re.sub(r"\s+", " ", title)
+
+
+def _club_links(club: dict, now: datetime) -> list[dict]:
+    """Hackathons / challenges linked from one club's Linktree or Luma calendar."""
+    rows: list[dict] = []
+    if club.get("luma"):
+        try:
+            rows.extend(_luma_page(f"https://luma.com/{club['luma']}", "uw", "club-luma"))
+        except requests.RequestException:
+            pass
+    handle = club.get("linktree")
+    if not handle:
+        return rows
+    props = _next_data(_html_get(f"https://linktr.ee/{handle}").text)
+    for link in props.get("links") or []:
+        url = (link.get("url") or "").strip()
+        title = _clean_link_title(link.get("title") or "")
+        if not url or not title:
+            continue
+        is_event = EVENT_NAME.search(title) and not NOT_EVENT.search(title)
+        try:
+            if "luma.com/" in url or "lu.ma/" in url:
+                rows.extend(_luma_page(url, "uw", "club-linktree"))
+            elif not is_event:
+                continue
+            elif FORM_HOSTS.search(url):
+                # An open application / sign-up form for a hackathon.
+                if _form_is_open(url):
+                    rows.append({
+                        "name": title,
+                        "location": "University of Waterloo",
+                        "url": url,
+                        "starts_at": "",
+                        "ends_at": "",
+                        "deadline_at": "",
+                        "deadline_kind": "",
+                        "when": "",
+                        "status": "Open",
+                        "tier": "uw",
+                        "source": "club-linktree",
+                    })
+            else:
+                row = _site_event(title, url, _html_get(url).text, now)
+                if row:
+                    rows.append(row)
+        except requests.RequestException:
+            continue
+    for row in rows:
+        row.setdefault("organizer", club.get("name") or "")
+        if not row.get("organizer"):
+            row["organizer"] = club.get("name") or ""
+    return rows
+
+
+def _load_clubs() -> list[dict]:
+    try:
+        data = json.loads(CLUBS_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return []
+    return [club for club in data.get("clubs") or [] if isinstance(club, dict)]
+
+
+def fetch_club_events(now: datetime | None = None) -> list[dict]:
+    """Waterloo club Linktrees and Luma calendars from uw-clubs.json.
+
+    Linktree rate-limits scripts, so each club is checked at most every 6 hours,
+    one request every few seconds, and the last good result is kept if a check fails.
+    """
+    import time as _time
+
+    current = now or datetime.now(timezone.utc)
+    try:
+        cache = json.loads(CLUB_CACHE_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        cache = {}
+    events: list[dict] = []
+    changed = False
+    for club in _load_clubs():
+        key = club.get("linktree") or club.get("luma") or club.get("name") or ""
+        saved = cache.get(key) or {}
+        fresh = _time.time() - float(saved.get("checked") or 0) < CLUB_RECRAWL_SECONDS
+        if not fresh:
+            try:
+                rows = _club_links(club, current)
+                saved = {"checked": int(_time.time()), "events": rows}
+                cache[key] = saved
+                changed = True
+            except (requests.RequestException, ValueError):
+                pass  # keep the last good result
+            if club.get("linktree"):
+                _time.sleep(LINKTREE_DELAY_SECONDS)
+        events.extend(saved.get("events") or [])
+    keep = {club.get("linktree") or club.get("luma") or club.get("name") or "" for club in _load_clubs()}
+    if changed or set(cache) - keep:
+        cache = {k: v for k, v in cache.items() if k in keep}
+        CLUB_CACHE_PATH.write_text(json.dumps(cache, indent=1, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
+    return drop_past_deadlines(events, current)
+
+
 def _event_start(event: dict) -> datetime | None:
     return _parse_iso(event.get("starts_at")) or _start_from_when(
         event.get("when") or "", datetime.now(timezone.utc).year
@@ -745,6 +1038,8 @@ def fetch_hackathons() -> list[dict]:
         fetch_hackathon_radar,
         fetch_socratica_events,
         fetch_communitech_events,
+        fetch_luma_nearby,
+        fetch_club_events,
     ):
         try:
             groups.append(fetch())

@@ -188,7 +188,7 @@
 "US work auth"
 ],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945312,
 "functions": [
 "Hardware Engineering",
 "Hardware Systems Integration"
@@ -1044,7 +1044,7 @@
 "0bf4cae8-4a3d-4d82-9311-227e8a099564": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945310,
 "functions": [
 "Applied Machine Learning",
 "AI & Machine Learning"
@@ -2118,7 +2118,7 @@
 "1766b9ad-6231-4035-b13d-f0f5bf630fbe": {
 "auth": [],
 "desc_terms": "Summer 2027",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Full-Stack Engineering",
 "Software Engineering"
@@ -2228,7 +2228,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794881321,
+"fetched": 1794945313,
 "functions": [
 "Backend Engineering",
 "Software Engineering"
@@ -2406,7 +2406,7 @@
 "1c985c59-7b90-44d9-a78b-a64792dd2fd5": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Data Analysis",
 "Data & Analytics",
@@ -2433,7 +2433,7 @@
 "1c9dc088-116a-43ff-a6ae-6ab513f43e5e": {
 "auth": [],
 "desc_terms": "Summer 2027",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Data Analysis",
 "Data & Analytics"
@@ -2672,7 +2672,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Software Engineering",
 "Systems Software Engineering"
@@ -2688,7 +2688,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794854989,
+"fetched": 1794945312,
 "functions": [
 "Software Engineering"
 ],
@@ -2903,7 +2903,7 @@
 "212428e1-6f7b-4829-bf5f-a43560a86ad7": {
 "auth": [],
 "desc_terms": "Summer 2027",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Product Management",
 "Product"
@@ -3063,7 +3063,7 @@
 "22ffdc54-a0ba-4f2a-990a-f4fde578fb3f": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Mobile Engineering",
 "Software Engineering"
@@ -3079,7 +3079,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794854989,
+"fetched": 1794945312,
 "functions": [
 "Software Engineering"
 ],
@@ -3195,7 +3195,7 @@
 "23e36426-bb74-4b8d-9baa-51a102571c69": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945310,
 "functions": [
 "Backend Engineering",
 "Software Engineering"
@@ -3252,7 +3252,7 @@
 "US work auth"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "AI Application Engineering",
 "Software Engineering"
@@ -3342,7 +3342,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Product Management",
 "Product"
@@ -3614,7 +3614,7 @@
 "US person"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945312,
 "functions": [
 "Frontend Engineering",
 "Software Engineering"
@@ -4119,7 +4119,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Full-Stack Engineering",
 "Software Engineering"
@@ -4559,7 +4559,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945309,
 "functions": [
 "Software Engineering"
 ],
@@ -4698,7 +4698,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Software Engineering",
 "Systems Software Engineering"
@@ -5162,7 +5162,7 @@
 "US work auth"
 ],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945309,
 "functions": [
 "Full-Stack Engineering",
 "Software Engineering"
@@ -5242,7 +5242,7 @@
 "3a39e8ab-e09d-4a73-899a-1b7ef8a9bbaf": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Data & Analytics"
 ],
@@ -5353,7 +5353,7 @@
 "3c078c0f-8a73-45a7-8180-3cf64a2b15a7": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Applied Machine Learning",
 "AI & Machine Learning"
@@ -5395,7 +5395,7 @@
 "3cbca3ae-aa1c-41b7-81c8-5ecc4d2c1a55": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945312,
 "functions": [
 "Applied Machine Learning",
 "AI & Machine Learning"
@@ -5447,19 +5447,6 @@
 "Summer 2027"
 ],
 "sponsors_h1b": false,
-"v": 2
-},
-"3d665a42-46f5-4028-aa33-ccc247f39349": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797511,
-"functions": [
-"AI Application Engineering",
-"Software Engineering"
-],
-"pay": "",
-"seasons": [],
-"sponsors_h1b": null,
 "v": 2
 },
 "3d71e6c6-0c7a-4c03-b33e-1aa5b68f53e8": {
@@ -5957,7 +5944,7 @@
 "41612ff8-92f1-4246-90fb-49193cf5ca38": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945313,
 "functions": [
 "AI Application Engineering",
 "Software Engineering"
@@ -6254,7 +6241,7 @@
 "4457a3bc-0ce3-4869-9d13-4e66ef313c3b": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Applied Machine Learning",
 "AI & Machine Learning"
@@ -6281,7 +6268,7 @@
 "44e4939c-ec3e-41da-9010-55ab672fc672": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794817887,
+"fetched": 1794945312,
 "functions": [
 "Data & Analytics",
 "Business Intelligence"
@@ -7016,7 +7003,7 @@
 "4beffbcd-b583-4c3f-b07f-414684404061": {
 "auth": [],
 "desc_terms": "Summer 2027",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Hardware Validation & Testing",
 "Hardware Engineering"
@@ -7104,7 +7091,7 @@
 "4c31bb53-e611-4a3c-96fb-c9d7be9acf24": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945309,
 "functions": [
 "Hardware Engineering",
 "Board & Electronics Design"
@@ -7865,7 +7852,7 @@
 "542753ed-5d89-4aa7-855f-a20530ae5084": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945310,
 "functions": [
 "Backend Engineering",
 "Software Engineering"
@@ -8346,7 +8333,7 @@
 "589a7388-e840-4761-93bd-fd0c1df06b38": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Hardware Engineering"
 ],
@@ -9117,7 +9104,7 @@
 "US citizenship"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945312,
 "functions": [
 "Full-Stack Engineering",
 "Software Engineering"
@@ -9236,7 +9223,7 @@
 "60ba5d46-1da9-4411-9d8c-797c4a1811f2": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794817887,
+"fetched": 1794945313,
 "functions": [
 "Full-Stack Engineering",
 "Software Engineering"
@@ -9439,7 +9426,7 @@
 "US citizenship"
 ],
 "desc_terms": "",
-"fetched": 1794881321,
+"fetched": 1794945311,
 "functions": [
 "AI & Machine Learning",
 "Natural Language Processing & LLMs"
@@ -9560,7 +9547,7 @@
 "64a7d794-0649-4452-b5a6-a8339cd35893": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794817887,
+"fetched": 1794945313,
 "functions": [
 "Software Engineering"
 ],
@@ -10052,7 +10039,7 @@
 "69f5a8df-73e6-472d-b6d0-048a78eb3197": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945312,
 "functions": [
 "Backend Engineering",
 "Software Engineering"
@@ -10153,7 +10140,7 @@
 "6b1eaa5d-98a1-4f76-bc2d-7e99beb87572": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945312,
 "functions": [
 "Robotics & Autonomous Systems",
 "AI & Machine Learning"
@@ -10801,7 +10788,7 @@
 "72649a86-d70f-46de-8b0f-8ce6aaea71b7": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Full-Stack Engineering",
 "Software Engineering"
@@ -10858,7 +10845,7 @@
 "727e38b8-6d35-4125-a4de-e549c42874ec": {
 "auth": [],
 "desc_terms": "Winter/Spring 2027",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Hardware Validation & Testing",
 "Hardware Engineering"
@@ -10991,7 +10978,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945312,
 "functions": [
 "Software Engineering"
 ],
@@ -11034,7 +11021,7 @@
 "Citizen/PR only"
 ],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Full-Stack Engineering",
 "Software Engineering"
@@ -11141,7 +11128,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794881321,
+"fetched": 1794945311,
 "functions": [
 "Data & Analytics"
 ],
@@ -11182,7 +11169,7 @@
 "US work auth"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Applied Machine Learning",
 "Computer Vision",
@@ -11359,7 +11346,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794854990,
+"fetched": 1794945312,
 "functions": [
 "Applied Machine Learning",
 "AI & Machine Learning"
@@ -11538,7 +11525,7 @@
 "Canadian citizen/PR"
 ],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "AI Application Engineering",
 "Software Engineering"
@@ -12286,7 +12273,7 @@
 "8033eb14-80e3-49b3-a757-51beec518191": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945310,
 "functions": [
 "Computer Vision",
 "AI & Machine Learning"
@@ -12575,7 +12562,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945313,
 "functions": [
 "Software Engineering"
 ],
@@ -12766,7 +12753,7 @@
 "852ba030-95f1-4c5a-afa9-3dfe3eef2762": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945312,
 "functions": [
 "Embedded Engineering",
 "Software Engineering"
@@ -12899,7 +12886,7 @@
 "US person"
 ],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945309,
 "functions": [
 "Hardware Validation & Testing",
 "Hardware Engineering"
@@ -12929,7 +12916,7 @@
 "Canadian citizen/PR"
 ],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945312,
 "functions": [
 "Desktop Application Development",
 "Software Engineering"
@@ -13421,7 +13408,7 @@
 "Citizen/PR only"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Hardware Engineering",
 "Silicon & ASIC Design"
@@ -13688,7 +13675,7 @@
 "8ce107ef-76f8-4eb0-8088-c8fbdc876812": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881321,
+"fetched": 1794945311,
 "functions": [
 "Computer Vision",
 "AI & Machine Learning"
@@ -14204,7 +14191,7 @@
 "9225dc11-eb16-486f-b337-4b8f8611ef0c": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Data & Analytics",
 "Business Intelligence"
@@ -14627,7 +14614,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794854989,
+"fetched": 1794945312,
 "functions": [
 "Data Management",
 "Data & Analytics"
@@ -15173,7 +15160,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Software Engineering"
 ],
@@ -15438,7 +15425,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945309,
 "functions": [
 "Software Engineering"
 ],
@@ -15794,7 +15781,7 @@
 "a0c01350-8a5a-48fa-bfbf-06862b1a51ad": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Data Engineering",
 "Data & Analytics"
@@ -15970,7 +15957,7 @@
 "US work auth"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "AI Application Engineering",
 "Software Engineering"
@@ -16019,7 +16006,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945312,
 "functions": [
 "Software Engineering"
 ],
@@ -16820,7 +16807,7 @@
 "US citizenship"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945312,
 "functions": [
 "Embedded Engineering",
 "Software Engineering"
@@ -16933,7 +16920,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Software Engineering"
 ],
@@ -16975,7 +16962,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Software Engineering"
 ],
@@ -17816,7 +17803,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945313,
 "functions": [
 "Software Engineering"
 ],
@@ -18236,7 +18223,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794854989,
+"fetched": 1794945311,
 "functions": [
 "AI Application Engineering",
 "Software Engineering"
@@ -18268,7 +18255,7 @@
 "ba23165e-e66d-4e52-90f4-9e640cdb5325": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945310,
 "functions": [
 "Full-Stack Engineering",
 "Software Engineering"
@@ -18301,7 +18288,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Software Engineering"
 ],
@@ -18496,7 +18483,7 @@
 "bb9f74a2-6ded-4e81-a5a6-0be1192f3e17": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Hardware Engineering",
 "Silicon & ASIC Design"
@@ -18558,7 +18545,7 @@
 "bc32dce0-623b-4453-a722-d1334b981b58": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Applied Machine Learning",
 "AI & Machine Learning"
@@ -18599,7 +18586,7 @@
 "bd1010aa-68a9-41eb-a219-6ae285501a4e": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945310,
 "functions": [
 "Hardware Engineering",
 "Hardware Systems Integration"
@@ -18797,7 +18784,7 @@
 "US work auth"
 ],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945309,
 "functions": [
 "AI Application Engineering",
 "Software Engineering"
@@ -18936,7 +18923,7 @@
 "bff455d1-b0e0-4a6a-8c63-08d5882fc38d": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Frontend Engineering",
 "Software Engineering"
@@ -19406,7 +19393,7 @@
 "c445b1f7-56ed-41b7-adcf-488ff0ec20e5": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945310,
 "functions": [
 "Software Engineering"
 ],
@@ -19484,7 +19471,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945310,
 "functions": [
 "Quantitative Finance",
 "Quantitative Trading / Algorithm Development"
@@ -19609,7 +19596,7 @@
 "c5774094-54c2-4d78-bb91-86ec4d8cb4a7": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945310,
 "functions": [
 "Software Engineering"
 ],
@@ -19885,7 +19872,7 @@
 "US citizenship"
 ],
 "desc_terms": "Summer 2027",
-"fetched": 1794943329,
+"fetched": 1794945313,
 "functions": [
 "AI Research",
 "AI & Machine Learning"
@@ -19915,10 +19902,11 @@
 "c8718487-1c23-48cb-9c04-3d4d44bc977b": {
 "auth": [
 "US work auth",
+"Canada work auth",
 "No sponsorship"
 ],
 "desc_terms": "Summer 2027",
-"fetched": 1794854989,
+"fetched": 1794945312,
 "functions": [
 "Data Science",
 "Data Engineering",
@@ -19978,7 +19966,7 @@
 "c8b02f7b-4d23-4813-a169-4d1e876422c5": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945312,
 "functions": [
 "Hardware Engineering",
 "Silicon & ASIC Design"
@@ -20247,7 +20235,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945313,
 "functions": [
 "Software Engineering"
 ],
@@ -20478,7 +20466,7 @@
 "US work auth"
 ],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945310,
 "functions": [
 "Software Engineering"
 ],
@@ -20645,7 +20633,7 @@
 "No sponsorship"
 ],
 "desc_terms": "Winter/Spring 2027",
-"fetched": 1794943329,
+"fetched": 1794945309,
 "functions": [
 "Hardware Validation & Testing",
 "Hardware Engineering"
@@ -20746,7 +20734,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945313,
 "functions": [
 "Hardware Validation & Testing",
 "Hardware Engineering"
@@ -20855,7 +20843,7 @@
 "d1eb1835-b3a8-4b81-b754-d7ce73824f78": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Full-Stack Engineering",
 "Software Engineering"
@@ -20972,7 +20960,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794881321,
+"fetched": 1794945312,
 "functions": [
 "AI Application Engineering",
 "Frontend Engineering",
@@ -21126,7 +21114,7 @@
 "No sponsorship"
 ],
 "desc_terms": "Summer 2027",
-"fetched": 1794854989,
+"fetched": 1794945312,
 "functions": [
 "AI Application Engineering",
 "Software Engineering"
@@ -21330,7 +21318,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945310,
 "functions": [
 "Software Engineering"
 ],
@@ -21579,7 +21567,7 @@
 "No sponsorship"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "Software Engineering"
 ],
@@ -21874,7 +21862,7 @@
 "US clearance"
 ],
 "desc_terms": "Summer 2027",
-"fetched": 1794881320,
+"fetched": 1794945312,
 "functions": [
 "Embedded Engineering",
 "Software Engineering"
@@ -22652,7 +22640,7 @@
 "e225362a-3608-44aa-ae93-8c06b023ccd7": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945311,
 "functions": [
 "Software Engineering",
 "Systems Software Engineering"
@@ -22779,7 +22767,7 @@
 "US clearance"
 ],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945310,
 "functions": [
 "Product Management",
 "Product"
@@ -22962,7 +22950,7 @@
 "US work auth"
 ],
 "desc_terms": "",
-"fetched": 1794881320,
+"fetched": 1794945310,
 "functions": [
 "AI Application Engineering",
 "Software Engineering"
@@ -23507,7 +23495,7 @@
 "US citizenship"
 ],
 "desc_terms": "",
-"fetched": 1794911904,
+"fetched": 1794945309,
 "functions": [
 "Software Engineering",
 "Systems Software Engineering"
@@ -23588,7 +23576,7 @@
 "e8e09002-9fef-4810-a845-506da9015991": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794943329,
+"fetched": 1794945309,
 "functions": [
 "Embedded Engineering",
 "Software Engineering"
@@ -24481,7 +24469,7 @@
 "f3ce5b57-c912-400a-9320-e837fda505df": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945313,
 "functions": [
 "Data Engineering",
 "Data & Analytics"
@@ -24648,7 +24636,7 @@
 "f60a9ca0-d42f-48f5-9643-b10749754e9e": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794854989,
+"fetched": 1794945312,
 "functions": [
 "Backend Engineering",
 "Software Engineering"
@@ -24964,7 +24952,7 @@
 "f8dff735-83eb-4c12-bafc-e9568cf30001": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794911905,
+"fetched": 1794945313,
 "functions": [
 "Backend Engineering",
 "Software Engineering"
@@ -25161,7 +25149,7 @@
 "fa9064c0-0265-467b-a7af-df004ecb9b94": {
 "auth": [],
 "desc_terms": "",
-"fetched": 1794817887,
+"fetched": 1794945312,
 "functions": [
 "Embedded Engineering",
 "Software Engineering"

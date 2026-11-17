@@ -113,6 +113,8 @@ Thumbs.db
 !coop-internships/programs.json
 !coop-internships/details-cache.json
 !coop-internships/pay-overrides.json
+!coop-internships/uw-clubs.json
+!coop-internships/club-events-cache.json
 
 # Application data files
 server/data.json

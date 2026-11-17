@@ -187,6 +187,8 @@ def _format_deadline(event: dict) -> str:
 
 
 def _format_when(event: dict) -> str:
+    if event.get("month_only") and event.get("when"):
+        return event["when"]  # organizer has only announced the month
     starts = event.get("starts_at") or ""
     if starts:
         try:
@@ -205,11 +207,14 @@ def _render_hackathon_board(events: list[dict], now: str) -> str:
         "",
         "Waterloo clubs and committees are listed first "
         "(EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). "
-        "Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, "
-        "MLH, and Devpost. "
+        "Each run checks every public Luma event around Waterloo (most UW clubs post there), "
+        "the Linktrees and Luma calendars of the clubs in uw-clubs.json "
+        "(their hackathon sites, Luma events, and open application forms), "
+        "plus Hackathon Radar's Waterloo page, Communitech, MLH, and Devpost. "
         "Other Canada and US hackathons follow. "
         "The Deadline column is the application close only. "
         "It stays blank when the organizer does not publish one. "
+        "When shows a month (e.g. February 2027) when the organizer has only announced the month. "
         "Every hackathon is cleared when its application deadline has passed, "
         "or when the event has already started — even if a submission window still looks open. "
         "This is separate from the 30-day job rule.",

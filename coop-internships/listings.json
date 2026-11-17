@@ -2278,6 +2278,7 @@
     "detail_pay": "CA$32.98–CA$40.96/hr",
     "detail_auth": [
       "US work auth",
+      "Canada work auth",
       "No sponsorship"
     ],
     "detail_h1b": false,
@@ -13720,35 +13721,6 @@
     "functions": [
       "Data & Analytics",
       "Business Intelligence"
-    ]
-  },
-  {
-    "id": "3d665a42-46f5-4028-aa33-ccc247f39349",
-    "company_name": "W.R. Berkley",
-    "company_url": "https://simplify.jobs/c/WR-Berkley",
-    "title": "AI Developer",
-    "url": "https://careers-berkley.icims.com/jobs/14593/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Manassas, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794268800,
-    "date_updated": 1794354132,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
     ]
   },
   {

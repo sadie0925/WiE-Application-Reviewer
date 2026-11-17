@@ -1,0 +1,15 @@
+{
+  "_note": "Waterloo clubs and committees checked for hackathons / innovation challenges. linktree = linktr.ee handle (their hackathon pages, Luma events and application forms are followed). luma = Luma calendar slug. Add a club by adding a line. Linktree rate-limits scripts, so keep this list to clubs that actually run events.",
+  "clubs": [
+    {"name": "UW Data Science Club", "linktree": "uwdsc"},
+    {"name": "UW Computer Science Club", "linktree": "uwcsclub"},
+    {"name": "UW Engineering Society", "linktree": "uwengsoc"},
+    {"name": "UW Blueprint", "linktree": "uwblueprint"},
+    {"name": "UW FinTech Club", "linktree": "uwfintech"},
+    {"name": "UW Startups", "linktree": "uwstartups"},
+    {"name": "UW IEEE", "linktree": "uwieee"},
+    {"name": "UW Product Management", "linktree": "uwpm"},
+    {"name": "UW Women in Engineering", "linktree": "uwwie"},
+    {"name": "UW/UX", "luma": "uwuxwaterloo"}
+  ]
+}

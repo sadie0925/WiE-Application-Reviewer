@@ -1,15 +1,17 @@
 # Hackathons and innovation challenges
 
-Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. Every hackathon is cleared when its application deadline has passed, or when the event has already started — even if a submission window still looks open. This is separate from the 30-day job rule.
+Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run checks every public Luma event around Waterloo (most UW clubs post there), the Linktrees and Luma calendars of the clubs in uw-clubs.json (their hackathon sites, Luma events, and open application forms), plus Hackathon Radar's Waterloo page, Communitech, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. When shows a month (e.g. February 2027) when the organizer has only announced the month. Every hackathon is cleared when its application deadline has passed, or when the event has already started — even if a submission window still looks open. This is separate from the 30-day job rule.
 
-**21 upcoming** · 0 Waterloo · 21 other Canada/US · Updated 2026-11-17 14:22 ET
+**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-17 14:56 ET
 
 [All boards](../README.md)
 
 ## Waterloo clubs and committees
 
-None open right now.
-
+| Event | Where | When | Deadline | Link |
+| ----- | ----- | ---- | -------- | ---- |
+| Rekindle Designathon | Science Teaching Complex (STC), Waterloo, ON | 2026-11-28 |  | [Open](https://luma.com/tltktpl2) |
+| CXC - Waterloo's Largest AI Hackathon | University of Waterloo | February 2027 |  | [Open](https://cxc.uwdatascience.ca) |
 
 ## Other Canada and US hackathons
 
@@ -19,6 +21,8 @@ None open right now.
 | WHACK (Wellesley Hackathon) | Wellesley , Massachesetts | 2026-11-21 |  | [Open](https://www.wellesleyhacks.org/) |
 | BostonHacks | Boston, MA | 2026-11-21 |  | [Open](https://bostonhacks.org/) |
 | Hack Western 13 | Ronald D. Schmeichel Building | 2026-11-20 | 2026-11-22 | [Open](https://hack-western-13.devpost.com/) |
+| K-DUB Hacks | Spur Innovation Center - SPUR Campus, Waterloo, ON | 2026-11-27 |  | [Open](https://luma.com/z74d7lgs) |
+| DMA Envision: Marketing & AI Hackathon | McMaster University, Hamilton, ON | 2026-11-28 |  | [Open](https://luma.com/9hezg32g) |
 | Hack Cats | Manhattan, Kansas | 2026-12-04 |  | [Open](https://hackkstate.tech/) |
 | DeltaHacks | Hamilton, Ontario | 2027-01-09 |  | [Open](https://www.deltahacks.com/) |
 | UofTHacks | Toronto, Ontario | 2027-01-14 |  | [Open](https://uofthacks.com/) |
