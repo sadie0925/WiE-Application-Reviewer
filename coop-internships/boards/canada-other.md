@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**46 open** · newest first · removed when closed or after 30 days · Updated 2026-11-16 13:50 ET
+**44 open** · newest first · removed when closed or after 30 days · Updated 2026-11-16 21:08 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -32,7 +32,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | TechInsights | Teardown Lab Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$20–CA$25/hr | 2026-11-02 | [Apply](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) |
 | Qualcomm | SoC Engineering Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721914045) |
 | Qualcomm | Verification Engineer Intern | Toronto, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
-| Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) |
 | Ciena | Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada |  |  | CA$25–CA$34/hr | 2026-11-01 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040) |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada |  |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) |
 | Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) |
@@ -40,7 +39,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Qualcomm | High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$26–CA$50/hr | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721874877) |
 | Definity Financial | Direct Channel Operations Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  |  | 2026-10-30 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) |
 | Qualcomm | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$26–CA$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) |
-| Altera | FPGA Development Tools Intern | Toronto, ON, Canada |  |  | CA$46–CA$48/hr | 2026-10-29 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394) |
 | Ciena | Hardware Characterization Automation Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014) |
 | Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) |
 | Ciena | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25–CA$35/hr | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) |

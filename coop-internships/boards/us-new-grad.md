@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**436 open** · newest first · removed when closed or after 60 days · Updated 2026-11-16 13:50 ET
+**433 open** · newest first · removed when closed or after 60 days · Updated 2026-11-16 21:08 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,14 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Fortinet | Early Careers: Software Engineer | Sunnyvale, CA |  | No sponsorship, US work auth | $44–$73/hr | 2026-11-16 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960) |
+| Fortinet | Embedded Software Engineer - Early Careers | Sunnyvale, CA |  | No sponsorship, US work auth | $47–$57/hr | 2026-11-16 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969) |
+| CrossCountry Consulting | Junior Forward Deployed Software Engineer | Philadelphia, PA |  | No sponsorship, US work auth | $43–$60/hr | 2026-11-16 | [Apply](https://jobs.lever.co/crosscountry-consulting/5f8a920b-77ed-4200-b37d-1f5d68c1bc21/apply) |
+| CrossCountry Consulting | Junior Forward Deployed Software Engineer | McLean, VA |  | No sponsorship, US work auth | $43–$60/hr | 2026-11-16 | [Apply](https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply) |
+| GHD | Graduate Developer | Farmington Hills, MI, King of Prussia, PA (+4) |  |  | $32–$37/hr | 2026-11-16 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481) |
+| Microsoft | Software Engineer | Remote in USA, United States |  |  | $41–$88/hr | 2026-11-16 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557074534) |
+| ManTech | Junior Software Developer | St Inigoes, MD |  | US clearance, US citizenship, No sponsorship | $34–$56/hr | 2026-11-16 | [Apply](https://mantech.avature.net/en_US/careers/JobDetail/67115) |
+| Symbotic | Software Engineer - Core Systems & Platform Services | Wilmington, MA |  |  | $45–$66/hr | 2026-11-15 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392) |
 | Microsoft | Software Engineer - Microsoft Business Operations | Redmond, WA |  |  | $41–$88/hr | 2026-11-13 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557073410) |
 | Integrated Biosciences | Software Engineer - Robotics | Redwood City, CA |  | Sponsors | $67–$111/hr | 2026-11-13 | [Apply](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009) |
 | NVIDIA | Deep Learning Framework Communications Engineer New Grad | United States |  |  | $60–$116/hr | 2026-11-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) |
@@ -50,7 +58,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Hewlett Packard Enterprise | Systems/Software Engineer 1 | Sunnyvale, CA |  |  | $40–$82/hr | 2026-11-11 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2) |
 | Hewlett Packard Enterprise | Systems/Software Engineer 1 | Sunnyvale, CA |  |  | $40–$82/hr | 2026-11-11 | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821) |
 | Leidos | Software Engineer | Tucson, AZ |  | US clearance, US citizenship, No sponsorship | $28–$50/hr | 2026-11-11 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer_R-00196751) |
-| RLI | Associate Software Engineer | Peoria, IL, Tempe, AZ |  |  | $30–$42/hr | 2026-11-11 | [Apply](https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864) |
 | RTX | Software Engineer 1 | Marlborough, MA |  | US clearance, US citizenship, No sponsorship | $28–$52/hr | 2026-11-11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972) |
 | Sierra Nevada Corporation | Software Engineer 1 | Lone Tree, CO | Summer 2026 | US clearance, US citizenship, No sponsorship | $41–$57/hr | 2026-11-11 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346) |
 | Sierra Space | Software Engineer 1 - DevOps - DevSecOps | Centennial, CO, Louisville, CO |  | US clearance, US citizenship, No sponsorship | $40–$56/hr | 2026-11-11 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535) |
@@ -186,7 +193,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Urban Science | Associate Software Engineer | Detroit, MI |  | No sponsorship |  | 2026-10-29 | [Apply](https://careers-urbanscience.icims.com/jobs/5234/job?mobile=true&needsRedirect=false) |
 | Amazon | Software Privacy Engineer - Multiple Teams | Bellevue, WA |  |  | $65–$88/hr | 2026-10-29 | [Apply](https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) |
 | Waggoner Financial | Software Engineer | Lansing, MI |  |  | $38–$58/hr | 2026-10-29 | [Apply](https://apply.workable.com/waggoner-financial/j/ECBC946186/apply) |
-| Raydar | AI Product Engineer / Forward Deployed Engineer | Austin, TX, Remote in USA (+1) |  | No sponsorship | $67–$87/hr | 2026-10-29 | [Apply](https://apply.workable.com/raydar/j/31364F00E3/apply) |
 | Intelliforce-IT Solutions Group | Junior Software Engineer - Prime | Annapolis Junction, MD |  | US clearance, US citizenship, No sponsorship | $49–$62/hr | 2026-10-29 | [Apply](https://intelliforceitsolutionsgroup.applytojob.com/apply/vrH8MYXO9u/Junior-Software-Engineer-Prime) |
 | Johns Hopkins Applied Physics Laboratory | Software Systems Engineer | Laurel, MD |  | US clearance, US citizenship, No sponsorship | $41–$79/hr | 2026-10-29 | [Apply](https://careers.jhuapl.edu/jobs/60601?icims=1) |
 | Allegion | Software Systems Engineer | Indianapolis, IN |  | No sponsorship, US work auth |  | 2026-10-28 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Software-Systems-Engineer---Indianapolis--IN_JR38122) |
@@ -223,7 +229,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | General Dynamics Mission Systems | Software Engineer Entry Level | Manassas, VA |  | US clearance, US citizenship, No sponsorship | $37–$42/hr | 2026-10-25 | [Apply](https://careers-gdms.icims.com/jobs/75792/job?mobile=true&needsRedirect=false) |
 | HNTB | Software Engineer 1 New Grad | Tampa, FL, Tallahassee, FL |  | No sponsorship |  | 2026-10-25 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175) |
 | HNTB | Software Engineer 1 New Grad | Tampa, FL, Tallahassee, FL |  | No sponsorship |  | 2026-10-25 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175-1) |
-| T-Mobile | Associate Software Engineer: Billing Platform | Frisco, TX, Atlanta, GA (+1) |  | US work auth | $32–$58/hr | 2026-10-25 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1) |
 | Carvana | Software Engineering | Tempe, AZ |  | Sponsors |  | 2026-10-23 | [Apply](https://www.carvana.com/careers/apply?gh_jid=7542940) |
 | ServiceNow | Associate Software Engineer | Santa Clara, CA |  |  | $52–$76/hr | 2026-10-23 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) |
 | Amazon | Software Development Engineer - Prime Video Personalization & Discovery | Seattle, WA |  |  | $69–$93/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery) |
@@ -317,7 +322,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Microsoft | Software Engineering | Redmond, WA |  |  | $41–$88/hr | 2026-10-12 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556999878) |
 | Vigil Labs | Founding Software Engineer | Palo Alto, CA |  | Sponsors | $87–$120/hr | 2026-10-09 | [Apply](https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f) |
 | Perr&Knight | Associate Programmer | Charlotte, NC |  |  | $31–$36/hr | 2026-10-09 | [Apply](https://jobs.lever.co/perrknight/b15ed1e0-a7f1-444a-8130-6047c4cbcf44/apply) |
-| America's Tire | Data Engineer 1 | South Bend, IN |  |  |  | 2026-10-09 | [Apply](https://discounttire.jibeapply.com/jobs/19242?icims=1) |
 | Akima | Associate Software Programmer | Frederick, MD |  | US clearance, No sponsorship | $62–$70/hr | 2026-10-09 | [Apply](https://careers.akima.com/jobs/26142?icims=1) |
 | TikTok | Machine Learning Engineer Graduate - Conversational AI | Seattle, WA |  |  | $58–$117/hr | 2026-10-09 | [Apply](https://lifeattiktok.com/search/7670685495206857013) |
 | TikTok | Machine Learning Engineer Graduate - Conversational AI | San Jose, CA |  |  | $62–$152/hr | 2026-10-09 | [Apply](https://lifeattiktok.com/search/7670686314588801333) |
@@ -375,7 +379,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Resmed | Associate Android Developer | San Diego, CA |  |  | $43–$65/hr | 2026-10-04 | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1) |
 | RTX | Software Engineer 1 | Tucson, AZ |  | US clearance, US citizenship, No sponsorship | $30–$58/hr | 2026-10-04 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432) |
 | Varsity Brands | Software Engineer 1 | Farmers Branch, TX |  | No sponsorship, US work auth |  | 2026-10-04 | [Apply](https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1) |
-| Westinghouse Electric Company | Engineer – AI Delivery - High-potential program | Cranberry Township, PA |  |  | $38–$41/hr | 2026-10-02 | [Apply](https://careers.westinghousenuclear.com/job/Cranberry-Township-Engineer-AI-Delivery-(high-potential-program)-NC/1436332800/?ats=successfactors) |
 | Apptronik | Firmware Engineer - Hands | Austin, TX |  |  |  | 2026-10-02 | [Apply](https://boards.greenhouse.io/apptronik/jobs/6216205004) |
 | Amazon | Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC | Seattle, WA, Jessup, MD (+3) |  | US clearance, US citizenship, No sponsorship | $62/hr | 2026-10-02 | [Apply](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) |
 | Accuray | Motion Controls & Robotics Software Engineer | Madison, WI |  | No sponsorship, US work auth |  | 2026-10-01 | [Apply](https://accuray.wd5.myworkdayjobs.com/external/job/Madison-WI/Motion-Controls---Robotics-Software-Engineer_3259-1) |
@@ -391,12 +394,10 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Frontier Technology | Associate Software Developer | Norfolk, VA |  | US clearance |  | 2026-09-30 | [Apply](https://careers-ftidefense.icims.com/jobs/7096/job?mobile=true&needsRedirect=false) |
 | Oracle | Undergrad Software Engineer - Oracle Cloud Infrastructure | Nashville, TN |  | Citizen/PR only, No sponsorship, US work auth | $36–$71/hr | 2026-09-30 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357) |
 | Star Mountain Capital | Portfolio Operations Engineer | Tampa, FL |  |  |  | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/starmountaincapital/jobs/4426665009) |
-| General Dynamics Mission Systems | Software Engineer | Middletown, RI |  | US clearance, US citizenship, No sponsorship | $37–$42/hr | 2026-09-30 | [Apply](https://careers-gdms.icims.com/jobs/75205/job?mobile=true&needsRedirect=false) |
 | Danaher | Desktop Software Engineer | Irvine, CA |  |  | $34–$48/hr | 2026-09-29 | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349) |
 | RTX | Embedded Software Engineer 1 | East Hartford, CT |  | US clearance, US citizenship, No sponsorship | $28–$52/hr | 2026-09-29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013) |
 | RTX | Software Engineer 1 | Cedar Rapids, IA |  | US clearance, US citizenship | $28–$52/hr | 2026-09-29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01879214) |
 | RTX | Software Engineer/Developer 1 | Tewksbury, MA |  | US clearance, US citizenship, No sponsorship | $28–$52/hr | 2026-09-29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022) |
-| Laminar | Junior Machine Learning Engineer - ML - Developer | Somerville, MA |  |  | $43–$68/hr | 2026-09-29 | [Apply](https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply) |
 | Panasonic Holdings | MTS 1 – Software Engineer - Embedded Systems & Linux | Irvine, CA |  | No sponsorship, US work auth | $33.17–$55.29/hr | 2026-09-29 | [Apply](https://careers.na.panasonic.com/jobs/50895?icims=1) |
 | OneImaging | Associate Data Engineer | Miami, FL |  | US work auth | $41–$55/hr | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/oneimaging/jobs/4423646009) |
 | OneImaging | Full Stack Associate Software Engineer | Miami, FL |  | US work auth | $41–$55/hr | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/oneimaging/jobs/4423640009) |
@@ -442,7 +443,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Study.com | Software Engineer New Grad - AI-Native | Mountain View, CA |  |  | $43–$59/hr | 2026-09-18 | [Apply](https://study.com/pages/jobApplication.html/?gh_jid=5429313008) |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Video | San Jose, CA |  |  | $62–$152/hr | 2026-09-18 | [Apply](https://lifeattiktok.com/search/7686999927260105013) |
 | Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL |  | No sponsorship, US work auth |  | 2026-09-18 | [Apply](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) |
-| Stripe | Software Engineer - Early Career - Immediate Start | Seattle, WA |  |  | $59–$65/hr | 2026-09-17 | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) |
-| Fortinet | Software Development Engineer - Gui | Sunnyvale, CA |  | No sponsorship, US work auth | $59–$73/hr | 2026-09-17 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399) |
-| Thales | Software DevSecOps Engineer Graduate | Orlando, FL |  | No sponsorship, US work auth | $42–$69/hr | 2026-09-17 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/Software-DevOps-Engineer---Grad_R0340353-2) |
-| General Dynamics Mission Systems | Embedded Software Engineer | Salt Lake City, UT, Boise, ID |  | US clearance, US citizenship, No sponsorship | $37–$42/hr | 2026-09-17 | [Apply](https://careers-gdms.icims.com/jobs/75011/job?mobile=true&needsRedirect=false) |
