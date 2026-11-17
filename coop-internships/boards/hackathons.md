@@ -2,15 +2,14 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run also checks Hackathon Radar's Waterloo page, Communitech's events page, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. Every hackathon is cleared when its application deadline has passed, or when the event has already started — even if a submission window still looks open. This is separate from the 30-day job rule.
 
-**22 upcoming** · 1 Waterloo · 21 other Canada/US · Updated 2026-11-16 21:08 ET
+**21 upcoming** · 0 Waterloo · 21 other Canada/US · Updated 2026-11-17 05:38 ET
 
 [All boards](../README.md)
 
 ## Waterloo clubs and committees
 
-| Event | Where | When | Deadline | Link |
-| ----- | ----- | ---- | -------- | ---- |
-| The Co-op Workplace Simulation by Velocity | University of Waterloo | 2026-11-16 |  | [Open](https://www.velocityincubator.com/programs-events/velocity-co-op-innovation-challenge) |
+None open right now.
+
 
 ## Other Canada and US hackathons
 

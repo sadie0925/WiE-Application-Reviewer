@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**280 open** · newest first · removed when closed or after 30 days · Updated 2026-11-16 21:08 ET
+**280 open** · newest first · removed when closed or after 30 days · Updated 2026-11-17 05:38 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Research Innovations | Department of War SkillBridge Operations SME Intern | Remote in USA |  | US clearance |  | 2026-11-16 | [Apply](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) |
 | GM Financial | Product Owner Intern | Arlington, TX | Summer 2027 | No sponsorship |  | 2026-11-16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) |
 | Bound | Product Management Intern | Ames, IA | Summer 2027 |  |  | 2026-11-16 | [Apply](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) |
 | Ralliant | Hardware Verification Engineer Co-op | Solon, OH | Summer 2027 |  |  | 2026-11-16 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491) |
@@ -61,7 +62,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Bask Health | Product Management Intern | Remote in USA |  |  |  | 2026-11-10 | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) |
 | Bask Health | Product Operations Intern | Remote in USA |  |  |  | 2026-11-10 | [Apply](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) |
 | Entrust | Electrical Engineer Co-op | Shakopee, MN |  |  | $25/hr | 2026-11-10 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413) |
-| FNBO | Banking Product Intern | Omaha, NE | Summer 2027 | No sponsorship, US work auth |  | 2026-11-10 | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996) |
 | Gordon Food Service | Digital Product Management Intern | Wyoming, MI |  | US work auth |  | 2026-11-10 | [Apply](https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336-2) |
 | Hitachi | Component Engineering Intern | Pittsburgh, PA | Summer 2027 |  |  | 2026-11-10 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Component-Engineering_R0149585) |
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Summer 2026 |  | $27–$48/hr | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-2) |
@@ -102,6 +102,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | NVIDIA | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA (+1) | Summer 2027 |  | $38–$94/hr | 2026-11-08 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) |
 | RTX | Electronic Warfare Electrical Engineer Intern | Goleta, CA | Summer 2027 | US clearance, US citizenship, No sponsorship | $20–$42/hr | 2026-11-08 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electronic-Warfare-Electrical-Engineer-Intern--Summer-2027--Onsite-_01886573) |
 | Schweitzer Engineering Laboratories | Hardware Engineer Intern | Pullman, WA |  |  | $24.25–$33/hr | 2026-11-08 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-24373-1) |
+| Skydio | Systems Engineering Intern | San Mateo, CA |  | US work auth | $47–$70/hr | 2026-11-08 | [Apply](https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a/application?embed=true) |
 | Viavi Solutions | Digital Hardware Engineer Intern | Lenexa, KS |  | US citizenship, US person, No sponsorship |  | 2026-11-08 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Lenexa-KS-USA/Digital-Hardware-Engineering-Intern_260005289-1) |
 | Hewlett Packard Enterprise | Electrical Hardware Engineer Intern | Sunnyvale, CA |  |  | $40–$46/hr | 2026-11-07 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-Intern_1214992) |
 | TikTok | GEO Content Product Manager Intern | San Jose, CA | Summer 2027 |  | $35/hr | 2026-11-06 | [Apply](https://lifeattiktok.com/search/7696000178264361269) |
@@ -271,7 +272,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Minerals Technologies | Finance Intern - Data Analysis | Bethlehem, PA |  |  |  | 2026-10-20 | [Apply](https://careers-mineralstech.icims.com/jobs/4896/job?mobile=true&needsRedirect=false) |
 | Travelers | Decision Science – Marketing & Communications Intern | Hartford, CT | Summer 2026 | No sponsorship, US work auth | $24–$26/hr | 2026-10-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Decision-Science---Marketing---Communications-Intern_R-53354) |
 | Uline | Operations Analyst Intern | Pleasant Prairie, WI | Summer 2027 |  |  | 2026-10-20 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) |
-| Paccar | Engineering Operations Intern | Kirkland, WA | Summer 2027 |  | $25–$30/hr | 2026-10-20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) |
 | Keysight Technologies | Hardware Engineering Intern | Santa Rosa, CA |  | No sponsorship | $32.77/hr | 2026-10-20 | [Apply](https://jobs.keysight.com/jobs/55112?icims=1) |
 | Skydio | Wireless Hardware Engineer Intern | San Mateo, CA | Summer 2027 |  | $47–$70/hr | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true) |
 | Cummins | Engineering School-to-Work Intern - Electronics Systems Validation Engineering | Troy, MI |  |  |  | 2026-10-20 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439243) |

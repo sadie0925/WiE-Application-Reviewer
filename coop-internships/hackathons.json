@@ -1,18 +1,5 @@
 [
   {
-    "name": "The Co-op Workplace Simulation by Velocity",
-    "location": "University of Waterloo",
-    "url": "https://www.velocityincubator.com/programs-events/velocity-co-op-innovation-challenge",
-    "starts_at": "2026-11-16T23:59:59-05:00",
-    "ends_at": "",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "2026-11-16",
-    "status": "Upcoming",
-    "tier": "uw",
-    "source": "velocity"
-  },
-  {
     "name": "Tech For Community 2026",
     "location": "St. John's, Newfoundland and Labrador / Avalon Peninsula",
     "url": "https://tecnurtur.org/hackathon",
