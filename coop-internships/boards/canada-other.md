@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**44 open** · newest first · removed when closed or after 30 days · Updated 2026-11-17 05:38 ET
+**41 open** · newest first · removed when closed or after 30 days · Updated 2026-11-17 14:22 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -12,7 +12,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
 | W.W. Grainger | GCAN Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Summer 2027 |  | CA$25/hr | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) |
 | W.W. Grainger | Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Summer 2025 |  |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors) |
-| Marvell | Analog Layout Engineer Intern Co-op | Toronto, ON, Canada |  | US citizenship | CA$34–CA$45/hr | 2026-11-12 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789) |
 | Analog Devices | Analog Design Intern | Ottawa, ON, Canada |  | US citizenship |  | 2026-11-11 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) |
 | Analog Devices | Product Engineer Intern - Product Development | Ottawa, ON, Canada | Summer 2027 | US citizenship |  | 2026-11-11 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) |
 | Ciena | Layout Design Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25–CA$34/hr | 2026-11-10 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) |
@@ -32,7 +31,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | TechInsights | Teardown Lab Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$20–CA$25/hr | 2026-11-02 | [Apply](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) |
 | Qualcomm | SoC Engineering Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721914045) |
 | Qualcomm | Verification Engineer Intern | Toronto, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
-| Ciena | Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada |  |  | CA$25–CA$34/hr | 2026-11-01 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040) |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada |  |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) |
 | Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) |
 | Qualcomm | Camera Systems Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) |
@@ -48,7 +46,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Summer 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Winter/Spring 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Summer 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) |
-| Kensington | Marketing Analytics Intern | Toronto, ON, Canada |  |  | CA$20/hr | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007) |
 | Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) |
 | Semtech | PCB Layout Intern | Burlington, ON, Canada |  |  | CA$26–CA$28.50/hr | 2026-10-19 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632) |
 | Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) |

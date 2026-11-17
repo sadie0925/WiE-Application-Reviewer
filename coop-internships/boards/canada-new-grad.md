@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-17 05:38 ET
+**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-17 14:22 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Gentec | Junior Software Designer | Québec City, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://gentec.bamboohr.com/careers/31/) |
 | Kraun Electric | Junior Software Developer | St. Catharines, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://kraunelectric.bamboohr.com/careers/98/) |
 | Flexspring | AI Model Training and Deployment Developer New Grad | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://flexspring.bamboohr.com/careers/71/) |
 | Senstar | Machine Learning Developer | Waterloo, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://senstar.bamboohr.com/careers/183/) |
@@ -24,10 +25,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Bank of Montreal | Software Developer New Grad | Toronto, ON, Canada |  |  | CA$27–CA$58/hr | 2026-11-08 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581) |
 | Valsoft | AI Engineer 1 | Montreal, QC, Canada |  |  |  | 2026-11-06 | [Apply](https://apply.workable.com/valsoft-corp/j/D0C585CAB5/apply) |
 | Qualcomm | AI and DSP Applications Software Engineer - Machine Learning Engineering | Markham, ON, Canada |  |  | CA$50–CA$74/hr | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722003218) |
-| Lumentum | Process Automation Software Engineer - MEMS | Ottawa, ON, Canada |  |  | CA$34–CA$49/hr | 2026-11-05 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527) |
 | Intel | Compiler Engineer for AI Tile-based DSL | Toronto, ON, Canada |  |  | CA$55–CA$78/hr | 2026-11-03 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineer-for-AI-Tile-based-DSL_JR0288443) |
 | Google | Software Developer 2 – Early Career | Montreal, QC, Canada, Waterloo, ON, Canada |  |  | CA$61–CA$62/hr | 2026-11-02 | [Apply](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) |
-| BlackLine | Associate Software Engineer | Toronto, ON, Canada |  |  |  | 2026-10-29 | [Apply](https://blackline.wd108.myworkdayjobs.com/BlackLineCareers/job/Toronto/Associate-Software-Engineer_002014) |
 | DraftKings | Software Engineer | Remote in Canada |  |  |  | 2026-10-29 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324-1) |
 | Mitel Networks | Junior Full Stack Web Developer | Ottawa, ON, Canada |  |  |  | 2026-10-29 | [Apply](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211) |
 | Thoughtworks | Associate Developer | Toronto, ON, Canada |  |  | CA$46/hr | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333236) |
