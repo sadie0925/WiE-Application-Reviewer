@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-17 14:56 ET
+**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-17 20:43 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Sony Pictures Imageworks | Associate Software Developer - Infrastructure | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207497003) |
+| Sony Pictures Imageworks | Associate Software Engineer | Vancouver, BC, Canada |  |  | CA$32–CA$43/hr | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207482003) |
 | Gentec | Junior Software Designer | Québec City, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://gentec.bamboohr.com/careers/31/) |
 | Kraun Electric | Junior Software Developer | St. Catharines, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://kraunelectric.bamboohr.com/careers/98/) |
 | Flexspring | AI Model Training and Deployment Developer New Grad | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://flexspring.bamboohr.com/careers/71/) |
@@ -33,9 +35,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Thoughtworks | Graduate Developer | Toronto, ON, Canada |  |  |  | 2026-10-28 | [Apply](https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/b6bcff88-eb9a-4df1-8695-bc4e7dc1dbc7/application?embed=true) |
 | Ciena | Routing/IP Software Engineer New Grad | Ottawa, ON, Canada |  |  | CA$35–CA$55/hr | 2026-10-27 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006) |
 | Intuit | Software Developer 1 | Toronto, ON, Canada |  |  | CA$45–CA$61/hr | 2026-10-27 | [Apply](https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744) |
-| Intuit | Software Developer 1 - API Management Platform | Toronto, ON, Canada |  |  | CA$45–CA$61/hr | 2026-10-27 | [Apply](https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064) |
 | Octasic | Software Developer | Montreal, QC, Canada |  | US clearance, Canada work auth |  | 2026-10-27 | [Apply](https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570) |
-| Octasic | Software Developer | Montreal, QC, Canada |  | US clearance, Canada work auth |  | 2026-10-27 | [Apply](https://ats.rippling.com/octasic-inc/jobs/04058654-6cb5-436e-8790-6e5ce37f2be1) |
 | Didero | Forward Deployed Engineer | Toronto, ON, Canada |  |  | CA$43–CA$62/hr | 2026-10-26 | [Apply](https://jobs.ashbyhq.com/didero/02895105-d069-47cf-b1e2-be7d24909173/application?embed=true) |
 | Planview | Software Engineer 1 | Vancouver, BC, Canada |  |  | CA$36–CA$48/hr | 2026-10-26 | [Apply](https://careers.planview.com/jobs/5182?icims=1) |
 | Amazon | Data Engineer Early Career | Toronto, ON, Canada |  |  | CA$47/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can) |

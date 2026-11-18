@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**41 open** · newest first · removed when closed or after 30 days · Updated 2026-11-17 14:56 ET
+**39 open** · newest first · removed when closed or after 30 days · Updated 2026-11-17 20:43 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -40,7 +40,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Ciena | Hardware Characterization Automation Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014) |
 | Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) |
 | Ciena | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25–CA$35/hr | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) |
-| Ciena | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) |
 | Trimble | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada |  |  |  | 2026-10-26 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) |
 | Altera | Intellectual Property Design Intern | Toronto, ON, Canada |  | Canada work auth | CA$43–CA$48/hr | 2026-10-22 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Summer 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
@@ -50,4 +49,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Semtech | PCB Layout Intern | Burlington, ON, Canada |  |  | CA$26–CA$28.50/hr | 2026-10-19 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632) |
 | Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) |
 | FanDuel | Product Co-op | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$25–CA$30/hr | 2026-10-19 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) |
-| NVIDIA | ASIC Verification Intern | Toronto, ON, Canada | Summer 2027 |  | CA$29–CA$53/hr | 2026-10-18 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
