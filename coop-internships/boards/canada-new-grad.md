@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-18 04:11 ET
+**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-18 13:00 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -46,6 +46,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Aptiv | Associate Cloud Engineer | Kanata, Ottawa, ON, Canada |  |  | CA$31–CA$38/hr | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000701887) |
 | Zurich Insurance | Machine Learning Engineer | Toronto, ON, Canada |  |  | CA$73/hr | 2026-10-20 | [Apply](https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors) |
 | Quora | Full Stack Software Engineer New Grad | Remote in USA, Remote in Canada |  |  | $47–$67/hr | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
+| GIRO | Front-End Web Developer | Montreal, QC, Canada |  | Canada work auth |  | 2026-10-18 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-web--Front-end_R-100000287) |
+| GIRO | Junior C++ Developer | Montreal, QC, Canada |  | US work auth |  | 2026-10-18 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346) |
 | Wonderbrands | Fullstack Software Developer New Grad | Etobicoke, ON, Canada |  |  |  | 2026-10-18 | [Apply](https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false) |
 | Quora | Machine Learning Engineer New Grad | Remote in USA, Remote in Canada |  |  | $52–$76/hr | 2026-10-15 | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) |
 | Affirm | Software Engineer 1 - Fullstack - Search | Remote in Canada |  |  | CA$49–CA$73/hr | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017342003) |
@@ -54,7 +56,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Citco | Junior AI Engineer | Halifax Regional Municipality, NS, Canada |  |  |  | 2026-10-02 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20545) |
 | Fellow | Software Engineer New Grad | Ottawa, ON, Canada |  |  |  | 2026-10-01 | [Apply](https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true) |
 | Primoris Services | Application Developer | Acheson, AB, Canada |  |  |  | 2026-09-29 | [Apply](https://prim.wd108.myworkdayjobs.com/Primoris/job/Edmonton-AB/Application-Developer_JR102635) |
-| Motorola | Junior Software Engineer - Emergency Call Handling | Gatineau, QC, Canada, Ottawa, ON, Canada |  |  | CA$34–CA$43/hr | 2026-09-28 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731) |
 | Harbor | Junior Developer - Finance Systems | Remote in Canada |  |  |  | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/harborglobal/jobs/5238900007) |
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA, Remote in Canada |  |  | $47–$69/hr | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) |
 | Nutanix | Software Engineer New Grad - Master’s - Bachelor’s + 2 | Vancouver, BC, Canada |  |  | CA$50–CA$75/hr | 2026-09-25 | [Apply](https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false) |

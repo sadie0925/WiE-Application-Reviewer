@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**277 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 04:11 ET
+**277 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 13:00 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations | Cambridge, MA |  |  | $40–$58/hr | 2026-11-18 | [Apply](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) |
 | Ecliptic Enterprises | Engineering Intern | San Luis Obispo, CA |  | US citizenship, No sponsorship |  | 2026-11-17 | [Apply](https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply) |
 | Smarty | Product Management Intern | Orem, UT | Winter/Spring 2027, Summer 2027 |  |  | 2026-11-17 | [Apply](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) |
 | Blount Fine Foods | Manufacturing Operations Analytics Intern | Fall River, MA |  |  | $19–$20/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
@@ -62,6 +63,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Shield AI | Hardware Test Engineering Co-op | Dallas, TX | Summer 2027 |  |  | 2026-11-11 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) |
 | Shield AI | Hardware Test Engineering Co-op | Dallas, TX | Summer 2027 |  |  | 2026-11-11 | [Apply](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) |
 | T-Mobile | Data Product Intern | Bellevue, WA | Summer 2027 | US work auth | $27–$50/hr | 2026-11-11 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212) |
+| The Aerospace Corporation | Lidar Undergraduate Intern | El Segundo, CA | Summer 2027 | US clearance, US citizenship, No sponsorship | $30/hr | 2026-11-11 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200) |
 | Vishay Intertechnology | R&D Engineer Intern | Yankton, SD |  | US citizenship, US person |  | 2026-11-11 | [Apply](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-21904) |
 | Vizient | Contract Operations Intern - Analytics | Irving, TX | Summer 2027 |  | $25/hr | 2026-11-11 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
 | McDonald's | Global Tech Infrastructure & Operations Intern | Chicago, IL | Summer 2027 | No sponsorship, US work auth | $32/hr | 2026-11-11 | [Apply](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) |
@@ -131,7 +133,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | General Dynamics Mission Systems | Engineer Intern - Infrastructure Hardware/Network | Pittsfield, MA |  | US citizenship, No sponsorship | $22–$29.25/hr | 2026-11-05 | [Apply](https://careers-gdms.icims.com/jobs/75025/job?mobile=true&needsRedirect=false) |
 | General Dynamics Mission Systems | FPGA Engineer Intern | Manassas, VA |  | US citizenship, No sponsorship | $24.70–$30.45/hr | 2026-11-05 | [Apply](https://careers-gdms.icims.com/jobs/75125/job?mobile=true&needsRedirect=false) |
 | General Dynamics Mission Systems | Electrical Engineer Intern | Manassas, VA |  | US citizenship, No sponsorship | $27.50/hr | 2026-11-05 | [Apply](https://careers-gdms.icims.com/jobs/75142/job?mobile=true&needsRedirect=false) |
-| East Penn Manufacturing | Research & Development Intern | Kutztown, PA | Summer 2027 |  |  | 2026-11-05 | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false) |
 | Peraton | Social Media & Marketing Analyst Intern | San Diego, CA | Summer 2027 | US citizenship, No sponsorship | $22–$25/hr | 2026-11-05 | [Apply](https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false) |
 | Peraton | Electrical Engineer Intern | Topeka, KS | Summer 2027 | US clearance, US citizenship, No sponsorship | $24.50/hr | 2026-11-05 | [Apply](https://careers-peraton.icims.com/jobs/172055/job?mobile=true&needsRedirect=false) |
 | Texas Instruments | Digital Design Verification Engineer Intern | Santa Clara, CA |  | No sponsorship, US work auth |  | 2026-11-04 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019665) |
@@ -260,7 +261,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Ambarella | Physical Design Engineer Intern | United States |  |  |  | 2026-10-21 | [Apply](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393) |
 | Badger Meter | Electronics/Electrical Engineering Intern | Milwaukee, WI | Summer 2026 |  |  | 2026-10-21 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Electronics-Electrical-Engineering-Internship_4633) |
 | CVS Health | Innovation & Technology Internship - Product & Agile Delivery | Dallas, TX, Scottsdale, AZ (+2) | Summer 2027 | No sponsorship | $35–$38.50/hr | 2026-10-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767) |
-| General Dynamics Mission Systems | Hardware/Electrical Engineer Intern | Scottsdale, AZ |  | US clearance, US citizenship, No sponsorship | $0.01/hr | 2026-10-21 | [Apply](https://careers-gdms.icims.com/jobs/75776/job?mobile=true&needsRedirect=false) |
 | Hewlett Packard Enterprise | Electrical Hardware Engineer Intern | Chippewa Falls, WI |  |  | $35–$41/hr | 2026-10-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineering-Intern_1213409) |
 | Meta | Research Intern - Audio Hardware | Redmond, WA |  |  |  | 2026-10-21 | [Apply](https://www.metacareers.com/jobs/1445807477756644) |
 | Anduril | Business Operations Engineer Co-op | Ashville, OH, Costa Mesa, CA | Winter/Spring 2027 | US person, US work auth | $24–$45/hr | 2026-10-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007) |

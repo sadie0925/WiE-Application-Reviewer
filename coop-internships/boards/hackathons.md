@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run checks every public Luma event around Waterloo (most UW clubs post there), the Linktrees and Luma calendars of the clubs in uw-clubs.json (their hackathon sites, Luma events, and open application forms), plus Hackathon Radar's Waterloo page, Communitech, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. When shows a month (e.g. February 2027) when the organizer has only announced the month. Every hackathon is cleared when its application deadline has passed, or when the event has already started — even if a submission window still looks open. This is separate from the 30-day job rule.
 
-**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-18 04:11 ET
+**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-18 13:00 ET
 
 [All boards](../README.md)
 
@@ -24,6 +24,7 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | K-DUB Hacks | Spur Innovation Center - SPUR Campus, Waterloo, ON | 2026-11-27 |  | [Open](https://luma.com/z74d7lgs) |
 | DMA Envision: Marketing & AI Hackathon | McMaster University, Hamilton, ON | 2026-11-28 |  | [Open](https://luma.com/9hezg32g) |
 | Hack Cats | Manhattan, Kansas | 2026-12-04 |  | [Open](https://hackkstate.tech/) |
+| Hack Canada 2027 | Toronto, Ontario | 2027-01-08 |  | [Open](https://hackcanada.org) |
 | DeltaHacks | Hamilton, Ontario | 2027-01-09 |  | [Open](https://www.deltahacks.com/) |
 | UofTHacks | Toronto, Ontario | 2027-01-14 |  | [Open](https://uofthacks.com/) |
 | uOttaHack 9 | Ottawa, Ontario  | 2027-01-14 |  | [Open](https://2027.uottahack.ca/) |
@@ -39,4 +40,3 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | SpartaHack | East Lansing, Michigan | 2027-02-05 |  | [Open](https://www.spartahack.com/) |
 | Hack_NCState | Raleigh, North Carolina | 2027-02-06 |  | [Open](https://hackncstate.org/) |
 | MakeUofT | Toronto, Ontario | 2027-02-13 |  | [Open](http://makeuoft.ca/) |
-| SF Hacks | San Francisco, CA | 2027-02-19 |  | [Open](https://sfhacks.io) |

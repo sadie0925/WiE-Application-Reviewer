@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**102 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 04:11 ET
+**101 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 13:00 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -83,7 +83,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$23–CA$30/hr | 2026-10-26 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Montreal, QC, Canada | Summer 2027 |  |  | 2026-10-25 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
 | SOTI | Software Developer Intern - Android | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-10-25 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) |
-| SOTI | Software Developer Intern - Server | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-10-25 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) |
 | Kinaxis | Full Stack Developer Intern - C# | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$27.04–CA$39.66/hr | 2026-10-23 | [Apply](https://kinaxis.jibeapply.com/jobs/35343?icims=1) |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  |  | 2026-10-22 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366) |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada |  |  |  | 2026-10-22 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704364) |
