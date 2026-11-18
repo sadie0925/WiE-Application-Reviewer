@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**278 open** · newest first · removed when closed or after 30 days · Updated 2026-11-17 20:43 ET
+**277 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 04:11 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Ecliptic Enterprises | Engineering Intern | San Luis Obispo, CA |  | US citizenship, No sponsorship |  | 2026-11-17 | [Apply](https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply) |
+| Smarty | Product Management Intern | Orem, UT | Winter/Spring 2027, Summer 2027 |  |  | 2026-11-17 | [Apply](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) |
 | Blount Fine Foods | Manufacturing Operations Analytics Intern | Fall River, MA |  |  | $19–$20/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
 | BGE | Business Analyst Intern - GIS | Oakbrook Terrace, IL | Summer 2026 |  | $20–$31/hr | 2026-11-17 | [Apply](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |
 | Lightmatter | Product & Test Engineering Intern | Mountain View, CA | Summer 2027 | US work auth | $43–$47/hr | 2026-11-17 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474690008) |
@@ -71,7 +73,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Bask Health | Product Management Intern | Remote in USA |  |  |  | 2026-11-10 | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) |
 | Bask Health | Product Operations Intern | Remote in USA |  |  |  | 2026-11-10 | [Apply](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) |
 | Entrust | Electrical Engineer Co-op | Shakopee, MN |  |  | $25/hr | 2026-11-10 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413) |
-| Gordon Food Service | Digital Product Management Intern | Wyoming, MI |  | US work auth |  | 2026-11-10 | [Apply](https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336-2) |
 | Hitachi | Component Engineering Intern | Pittsburgh, PA | Summer 2027 |  |  | 2026-11-10 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Component-Engineering_R0149585) |
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Summer 2026 |  | $27–$48/hr | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-2) |
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Summer 2026 |  | $27–$48/hr | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-1) |
@@ -193,7 +194,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO | Summer 2027 |  | $30/hr | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
 | Diversified Automation | Hardware Engineering Co-op | Louisville, KY |  |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3/apply) |
 | V2X | Electrical Engineer Intern | Indianapolis, IN | Summer 2027 | US clearance, US citizenship |  | 2026-10-29 | [Apply](https://careers.gov2x.com/jobs/63854?icims=1) |
-| Lunar Energy | Hardware Test Engineer Intern | Mountain View, CA | Winter/Spring 2027 |  | $30–$40/hr | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004) |
 | Cloudflare | Product Manager Intern | Austin, TX | Summer 2027 | No sponsorship |  | 2026-10-29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790) |
 | ASML | Optical Engineer Co-op Intern | Wilton, CT |  | US work auth | $18–$48/hr | 2026-10-28 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324) |
 | Carrier Global | Lab Assistant Engineer Co-op | Fort Wayne, IN |  | No sponsorship, US work auth | $20.91–$42.07/hr | 2026-10-28 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Lab-Assistant-Engineering---Co-Op_30220677) |
@@ -201,7 +201,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Signify | Product Management Intern | Peachtree City, GA | Winter/Spring 2027 | No sponsorship, US work auth | $22–$31/hr | 2026-10-28 | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870) |
 | Uline | Sales Analyst Intern | Waukegan, IL, Milwaukee, WI (+3) | Summer 2027 |  |  | 2026-10-28 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774) |
 | Texas Instruments | Product/Test Engineering Intern | Santa Clara, CA |  | No sponsorship, US work auth |  | 2026-10-28 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016391) |
-| SharkNinja | Product Strategy & Development Co-op | Needham, MA | Winter/Spring 2027 |  | $26–$35/hr | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) |
 | Lila Sciences | Finance Co-op | Cambridge, MA |  |  |  | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469146009) |
 | PrizePicks | Business Intelligence Intern - Game Operations | Atlanta, GA | Summer 2027 | No sponsorship, US work auth | $30/hr | 2026-10-28 | [Apply](http://prizepicks.com/position?gh_jid=8047188003) |
 | RosaicLabs | CPU Design Verification Engineer Intern | Austin, TX, Santa Clara, CA |  |  | $30–$55/hr | 2026-10-28 | [Apply](https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply) |

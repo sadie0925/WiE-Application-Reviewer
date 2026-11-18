@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**102 open** · newest first · removed when closed or after 30 days · Updated 2026-11-17 20:43 ET
+**102 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 04:11 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| SSI | Software Developer Co-op | Victoria, BC, Canada |  | Canadian citizen/PR, US work auth |  | 2026-11-18 | [Apply](https://ssicorporate.bamboohr.com/careers/101/) |
 | Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) |
 | Ross Video | Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$24–CA$35/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) |
 | City of Campbell River | Co-op Student - OMS Project - Capital Projects | Campbell River, BC, Canada |  |  | CA$24.97/hr | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733) |
@@ -50,7 +51,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Element Fleet Management | Forward Deployed Engineer Intern | Toronto, ON, Canada |  | No sponsorship, Canada work auth | CA$26.15–CA$35.96/hr | 2026-11-04 | [Apply](https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-11-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  |  | 2026-11-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) |
-| Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR |  | 2026-11-03 | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) |
 | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada | Winter/Spring 2027 | Canada work auth | CA$20.19–CA$31.73/hr | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) |
 | Global Relay | Java Developer Co-op | Vancouver, BC, Canada | Winter/Spring 2027 | Canada work auth | CA$20.19–CA$31.73/hr | 2026-11-03 | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241593004) |
 | Huawei | Researcher Computer Vision Intern | Markham, ON, Canada |  |  | CA$27.88–CA$50/hr | 2026-11-03 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3) |

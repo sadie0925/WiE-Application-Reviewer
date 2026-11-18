@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**39 open** · newest first · removed when closed or after 30 days · Updated 2026-11-17 20:43 ET
+**40 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 04:11 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Canadian Strategic Missions | Engineering Intern - Labs | Waterloo, ON, Canada |  | US clearance, Canadian citizen/PR |  | 2026-11-18 | [Apply](https://csmc.bamboohr.com/careers/51/) |
 | W.W. Grainger | GCAN Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Summer 2027 |  | CA$25/hr | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) |
 | W.W. Grainger | Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Summer 2025 |  |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors) |
 | Analog Devices | Analog Design Intern | Ottawa, ON, Canada |  | US citizenship |  | 2026-11-11 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) |
