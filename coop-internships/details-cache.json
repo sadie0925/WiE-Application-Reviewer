@@ -780,6 +780,19 @@
 "sponsors_h1b": false,
 "v": 2
 },
+"07baff59-c50a-4fc1-b101-cdf0b86ff995": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Software Engineering",
+"Systems Software Engineering"
+],
+"pay": "",
+"seasons": [],
+"sponsors_h1b": null,
+"v": 2
+},
 "07dd289c-f9fe-4637-a062-777f953b086b": {
 "auth": [],
 "desc_terms": "",
@@ -806,6 +819,22 @@
 "pay": "",
 "seasons": [],
 "sponsors_h1b": null,
+"v": 2
+},
+"083e6445-1a17-4269-9f2f-106e6805b161": {
+"auth": [
+"US citizenship",
+"US clearance",
+"No sponsorship"
+],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Software Engineering"
+],
+"pay": "$49–$62/hr",
+"seasons": [],
+"sponsors_h1b": false,
 "v": 2
 },
 "087acdca-5c63-4507-852a-923acd8064df": {
@@ -1061,6 +1090,24 @@
 "pay": "$28–$52/hr",
 "seasons": [],
 "sponsors_h1b": false,
+"v": 2
+},
+"0bb74ea0-6f5c-4892-9675-62883390af80": {
+"auth": [
+"US work auth",
+"US citizenship"
+],
+"desc_terms": "Summer 2027",
+"fetched": 1795106010,
+"functions": [
+"Data Analysis",
+"Data & Analytics"
+],
+"pay": "$18.50–$28.88/hr",
+"seasons": [
+"Summer 2027"
+],
+"sponsors_h1b": null,
 "v": 2
 },
 "0bf4cae8-4a3d-4d82-9311-227e8a099564": {
@@ -1655,20 +1702,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"135b8fde-7c9d-4852-a29b-385efc07e7b4": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797548,
-"functions": [
-"Software Engineering"
-],
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
-"v": 2
-},
 "1398d74c-5a13-49bd-a0e8-fd772d6bfdd4": {
 "auth": [
 "US work auth",
@@ -1714,6 +1747,20 @@
 "Spring 2027"
 ],
 "sponsors_h1b": null,
+"v": 2
+},
+"1443baaf-82fc-4773-8906-b4efefc773c9": {
+"auth": [
+"US citizenship"
+],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Software Engineering"
+],
+"pay": "$33–$41/hr",
+"seasons": [],
+"sponsors_h1b": false,
 "v": 2
 },
 "147dd9d6-d48b-4893-a8f0-0fbd709ad7cd": {
@@ -2286,6 +2333,20 @@
 "Summer 2027"
 ],
 "sponsors_h1b": false,
+"v": 2
+},
+"1c985c59-7b90-44d9-a78b-a64792dd2fd5": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Data Analysis",
+"Data & Analytics",
+"Business Intelligence"
+],
+"pay": "",
+"seasons": [],
+"sponsors_h1b": null,
 "v": 2
 },
 "1c9dc088-116a-43ff-a6ae-6ab513f43e5e": {
@@ -3342,24 +3403,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"26ed8f15-5f1f-4a5a-9cca-0403cf4d7334": {
-"auth": [
-"US work auth",
-"No sponsorship"
-],
-"desc_terms": "Summer 2027",
-"fetched": 1794797507,
-"functions": [
-"Data Engineering",
-"Data & Analytics"
-],
-"pay": "$20–$30/hr",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": false,
-"v": 2
-},
 "271bf34b-9787-4363-aae3-dcbb2964bfc1": {
 "auth": [
 "US work auth",
@@ -4161,21 +4204,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"2f96e3d6-e7b7-4c8f-ac5d-832fdca16735": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797547,
-"functions": [
-"Data Engineering",
-"Data & Analytics"
-],
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
-"v": 2
-},
 "2ffb87fc-eef2-4456-bf21-597d3959f98e": {
 "auth": [],
 "desc_terms": "",
@@ -4475,21 +4503,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"3405de3a-e8dd-40b3-b91f-52185d82ebe8": {
-"auth": [
-"US citizenship",
-"US clearance"
-],
-"desc_terms": "",
-"fetched": 1794797507,
-"functions": [
-"Software Engineering"
-],
-"pay": "$28–$52/hr",
-"seasons": [],
-"sponsors_h1b": false,
-"v": 2
-},
 "344927cc-8496-444d-b228-79f0ae7304fc": {
 "auth": [
 "US work auth"
@@ -4717,6 +4730,25 @@
 "pay": "",
 "seasons": [],
 "sponsors_h1b": null,
+"v": 2
+},
+"3784cbeb-dad8-41ce-84ae-f3a2f77d09e2": {
+"auth": [
+"US work auth",
+"US citizenship",
+"Canada work auth",
+"Canadian citizen/PR",
+"No sponsorship"
+],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Data Engineering",
+"Data & Analytics"
+],
+"pay": "$29–$36/hr",
+"seasons": [],
+"sponsors_h1b": false,
 "v": 2
 },
 "379d14c1-45c0-457b-8346-c24ef16b6d2e": {
@@ -5063,6 +5095,19 @@
 "sponsors_h1b": false,
 "v": 2
 },
+"3c7db22b-52a4-42bb-9a52-c6a049a6a76d": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Embedded Engineering",
+"Software Engineering"
+],
+"pay": "$53–$67/hr",
+"seasons": [],
+"sponsors_h1b": null,
+"v": 2
+},
 "3ca07823-9706-45cc-8542-c0aa2140bda4": {
 "auth": [],
 "desc_terms": "",
@@ -5336,24 +5381,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"3f1088e9-3742-4919-8f86-1fb30cc82265": {
-"auth": [
-"US work auth",
-"No sponsorship"
-],
-"desc_terms": "",
-"fetched": 1795024789,
-"functions": [
-"AI Application Engineering",
-"Software Engineering"
-],
-"pay": "$35–$40/hr",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": false,
-"v": 2
-},
 "3f22e9be-4b77-4b37-99ef-b1b1e7470c90": {
 "auth": [
 "US work auth",
@@ -5598,21 +5625,6 @@
 "Software Engineering"
 ],
 "pay": "$55.38–$68.08/hr",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
-"v": 2
-},
-"413fa3ea-a5c0-4c3d-b1db-e01f70015c85": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797547,
-"functions": [
-"Product Management",
-"Product"
-],
-"pay": "",
 "seasons": [
 "Summer 2027"
 ],
@@ -8267,22 +8279,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"5be918fc-af4e-4bf5-9db2-e4aa41c3982e": {
-"auth": [
-"US work auth"
-],
-"desc_terms": "",
-"fetched": 1794797548,
-"functions": [
-"Hardware Engineering"
-],
-"pay": "$35–$42/hr",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
-"v": 2
-},
 "5c0936f7-a4e5-4593-886e-818b6de0d5a4": {
 "auth": [],
 "desc_terms": "",
@@ -9685,6 +9681,22 @@
 ],
 "pay": "$40–$58/hr",
 "seasons": [],
+"sponsors_h1b": null,
+"v": 2
+},
+"6b257bab-c647-4853-8aa3-4ad9634b67fc": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Hardware Validation & Testing",
+"Hardware Engineering",
+"Board & Electronics Design"
+],
+"pay": "",
+"seasons": [
+"Summer 2027"
+],
 "sponsors_h1b": null,
 "v": 2
 },
@@ -14101,18 +14113,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"970abbb2-7906-4686-914b-09bd6d622dd5": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797504,
-"functions": [
-"Software Engineering"
-],
-"pay": "$41–$88/hr",
-"seasons": [],
-"sponsors_h1b": null,
-"v": 2
-},
 "976447af-aaff-4145-b747-fb255172d137": {
 "auth": [],
 "desc_terms": "",
@@ -14209,6 +14209,21 @@
 "pay": "$43–$60/hr",
 "seasons": [],
 "sponsors_h1b": null,
+"v": 2
+},
+"98a47c6e-06dd-4d9d-95c5-02197443ddc8": {
+"auth": [
+"US citizenship"
+],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Full-Stack Engineering",
+"Software Engineering"
+],
+"pay": "$37–$45/hr",
+"seasons": [],
+"sponsors_h1b": false,
 "v": 2
 },
 "98a4f1e7-ff51-4d1a-9395-cf93c25f6f14": {
@@ -15333,20 +15348,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"a60efa9b-43c1-4b1c-bc8f-a61640fe4c3d": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797548,
-"functions": [
-"Software Engineering"
-],
-"pay": "",
-"seasons": [
-"Summer 2026"
-],
-"sponsors_h1b": null,
-"v": 2
-},
 "a62bfe3c-827f-4d3c-b91c-b3a6768bd499": {
 "auth": [
 "No sponsorship"
@@ -15546,6 +15547,22 @@
 "sponsors_h1b": null,
 "v": 2
 },
+"a8d87113-aa75-4085-aa94-8b2b2fee847a": {
+"auth": [
+"US work auth",
+"US citizenship"
+],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Computer Vision",
+"AI & Machine Learning"
+],
+"pay": "$30/hr",
+"seasons": [],
+"sponsors_h1b": null,
+"v": 2
+},
 "a90038a1-5e56-4550-89c3-6ff075526cbc": {
 "auth": [],
 "desc_terms": "",
@@ -15692,6 +15709,23 @@
 "pay": "",
 "seasons": [],
 "sponsors_h1b": null,
+"v": 2
+},
+"aadac344-466b-49c1-9edf-8e0bbb15a85d": {
+"auth": [
+"US work auth"
+],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Embedded Engineering",
+"Software Engineering"
+],
+"pay": "$29–$37.25/hr",
+"seasons": [
+"Spring 2027"
+],
+"sponsors_h1b": false,
 "v": 2
 },
 "ab1c9134-c407-4e0a-8adc-34b305b02505": {
@@ -16032,6 +16066,23 @@
 "sponsors_h1b": null,
 "v": 2
 },
+"ae65cb8b-ec6b-48b7-a221-afec9b7f068d": {
+"auth": [
+"US work auth"
+],
+"desc_terms": "Winter/Spring 2027",
+"fetched": 1795106010,
+"functions": [
+"Game Engineering",
+"Software Engineering"
+],
+"pay": "$21–$24/hr",
+"seasons": [
+"Spring 2027"
+],
+"sponsors_h1b": null,
+"v": 2
+},
 "ae65d281-ff4a-4a87-abaf-19df4cf4a628": {
 "auth": [
 "US work auth",
@@ -16076,21 +16127,6 @@
 "pay": "",
 "seasons": [
 "Summer 2025"
-],
-"sponsors_h1b": null,
-"v": 2
-},
-"af3eb102-71c0-4ec6-b56e-d1109f2abe2b": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794966182,
-"functions": [
-"Applied Machine Learning",
-"AI & Machine Learning"
-],
-"pay": "",
-"seasons": [
-"Summer 2027"
 ],
 "sponsors_h1b": null,
 "v": 2
@@ -16712,6 +16748,21 @@
 "sponsors_h1b": null,
 "v": 2
 },
+"b4ab6293-700b-4816-9b35-bbc9edcf6990": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Product Management",
+"Product"
+],
+"pay": "$23–$27.50/hr",
+"seasons": [
+"Summer 2026"
+],
+"sponsors_h1b": null,
+"v": 2
+},
 "b4b8cdbd-8502-4a14-81ea-6cecbaa6c781": {
 "auth": [],
 "desc_terms": "",
@@ -16937,21 +16988,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"b7dfb785-5310-43d6-a62f-4ed0b0a01714": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797547,
-"functions": [
-"Frontend Engineering",
-"Software Engineering"
-],
-"pay": "",
-"seasons": [
-"Summer 2026"
-],
-"sponsors_h1b": null,
-"v": 2
-},
 "b7e26578-8425-42c2-9cef-eeb79757cbe2": {
 "auth": [],
 "desc_terms": "",
@@ -17093,24 +17129,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"b9075c04-a0bf-4ac8-973b-60aa1d7c730e": {
-"auth": [
-"US work auth",
-"No sponsorship"
-],
-"desc_terms": "",
-"fetched": 1794797506,
-"functions": [
-"Data Management",
-"Data & Analytics"
-],
-"pay": "$24/hr",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": false,
-"v": 2
-},
 "b92e58ab-ad7c-40c4-a4ae-bd50e1d9102a": {
 "auth": [],
 "desc_terms": "",
@@ -17217,21 +17235,6 @@
 "pay": "$25–$39/hr",
 "seasons": [],
 "sponsors_h1b": false,
-"v": 2
-},
-"ba0de6a9-5863-4ea4-ae9c-f02606a2461d": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797547,
-"functions": [
-"Data Analysis",
-"Data & Analytics"
-],
-"pay": "$26–$28/hr",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
 "v": 2
 },
 "ba118afe-7991-4a5a-87c7-f68325d9f99d": {
@@ -17468,22 +17471,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"bb33bcfe-706f-4fe2-8f45-37fb6b013c8d": {
-"auth": [
-"US work auth"
-],
-"desc_terms": "",
-"fetched": 1794797548,
-"functions": [
-"AI Application Engineering",
-"Backend Engineering",
-"Software Engineering"
-],
-"pay": "",
-"seasons": [],
-"sponsors_h1b": null,
-"v": 2
-},
 "bb9f74a2-6ded-4e81-a5a6-0be1192f3e17": {
 "auth": [],
 "desc_terms": "",
@@ -17527,6 +17514,21 @@
 "pay": "$42–$52/hr",
 "seasons": [],
 "sponsors_h1b": false,
+"v": 2
+},
+"bc1488c1-9306-473d-8806-8f2222f6a278": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"AI Application Engineering",
+"Software Engineering"
+],
+"pay": "",
+"seasons": [
+"Winter 2027"
+],
+"sponsors_h1b": null,
 "v": 2
 },
 "bc1f458c-6db2-45dd-a119-b249ad9fb181": {
@@ -17667,21 +17669,6 @@
 ],
 "pay": "$29–$85/hr",
 "seasons": [],
-"sponsors_h1b": null,
-"v": 2
-},
-"be25948f-3dbe-43b8-8b4b-424a01d9b356": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797547,
-"functions": [
-"Data Analysis",
-"Data & Analytics"
-],
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
 "sponsors_h1b": null,
 "v": 2
 },
@@ -17959,6 +17946,24 @@
 "pay": "",
 "seasons": [],
 "sponsors_h1b": null,
+"v": 2
+},
+"c0fa2195-311d-4b20-895a-835015b65bb8": {
+"auth": [
+"US work auth",
+"No sponsorship"
+],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Backend Engineering",
+"Software Engineering"
+],
+"pay": "$21–$28.75/hr",
+"seasons": [
+"Summer 2026"
+],
+"sponsors_h1b": false,
 "v": 2
 },
 "c120e840-2885-40e3-8061-0b63ca8cd259": {
@@ -18579,6 +18584,19 @@
 "sponsors_h1b": null,
 "v": 2
 },
+"c5d18f1d-65ab-49c8-86ae-b293e6a1c377": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Data Management",
+"Data & Analytics"
+],
+"pay": "$17.21–$29.76/hr",
+"seasons": [],
+"sponsors_h1b": null,
+"v": 2
+},
 "c5e5858a-87d2-49ff-91f2-2ce7702e9047": {
 "auth": [],
 "desc_terms": "",
@@ -18608,24 +18626,6 @@
 "pay": "$20–$32/hr",
 "seasons": [],
 "sponsors_h1b": false,
-"v": 2
-},
-"c61c3197-26ec-4fec-a5f5-e604bd6d0899": {
-"auth": [
-"US work auth"
-],
-"desc_terms": "",
-"fetched": 1794797507,
-"functions": [
-"Data Management",
-"Data & Analytics",
-"Business Intelligence"
-],
-"pay": "$27–$50/hr",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
 "v": 2
 },
 "c663031b-a4c5-44d8-a1dc-1e3e9eb84a47": {
@@ -19942,21 +19942,6 @@
 "sponsors_h1b": false,
 "v": 2
 },
-"d489989d-98b0-4876-852a-50e2caecd69b": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797547,
-"functions": [
-"Data & Analytics",
-"Business Intelligence"
-],
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
-"v": 2
-},
 "d48f4133-284f-47da-9dc5-fc700d4535a8": {
 "auth": [
 "US clearance"
@@ -20017,22 +20002,6 @@
 "pay": "",
 "seasons": [],
 "sponsors_h1b": null,
-"v": 2
-},
-"d552a111-e580-42cf-82ae-1eb3177f261a": {
-"auth": [
-"US citizenship",
-"US clearance"
-],
-"desc_terms": "",
-"fetched": 1794797507,
-"functions": [
-"Full-Stack Engineering",
-"Software Engineering"
-],
-"pay": "$28–$50/hr",
-"seasons": [],
-"sponsors_h1b": false,
 "v": 2
 },
 "d56d3b77-c61d-40dc-9b97-f80a57775765": {
@@ -20197,6 +20166,21 @@
 "pay": "",
 "seasons": [
 "Summer 2027"
+],
+"sponsors_h1b": null,
+"v": 2
+},
+"d7297bc9-b982-4d12-9a1a-ea5d22b7eba6": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Product Management",
+"Product"
+],
+"pay": "$35–$55/hr",
+"seasons": [
+"Summer 2026"
 ],
 "sponsors_h1b": null,
 "v": 2
@@ -20392,21 +20376,6 @@
 "Summer 2026"
 ],
 "sponsors_h1b": false,
-"v": 2
-},
-"d973936c-50d5-41f6-acc8-e1dbd6c84acd": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797547,
-"functions": [
-"Data & Analytics",
-"Business Intelligence"
-],
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
 "v": 2
 },
 "d9982475-5bc2-4639-bffe-708fa355ca44": {
@@ -20606,6 +20575,21 @@
 "pay": "",
 "seasons": [
 "Winter 2027"
+],
+"sponsors_h1b": null,
+"v": 2
+},
+"db50819f-f9d8-4d03-bcf4-c3ee4a46a6c0": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Data Analysis",
+"Data & Analytics"
+],
+"pay": "",
+"seasons": [
+"Summer 2026"
 ],
 "sponsors_h1b": null,
 "v": 2
@@ -21929,21 +21913,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"e63307f6-52eb-4edb-a2ea-1448402f84ef": {
-"auth": [
-"Canadian citizen/PR"
-],
-"desc_terms": "",
-"fetched": 1794797548,
-"functions": [
-"Desktop Application Development",
-"Software Engineering"
-],
-"pay": "",
-"seasons": [],
-"sponsors_h1b": null,
-"v": 2
-},
 "e637a804-a5ef-4f60-a280-dd56d1d6b377": {
 "auth": [],
 "desc_terms": "",
@@ -22231,26 +22200,6 @@
 ],
 "pay": "$30/hr",
 "seasons": [],
-"sponsors_h1b": null,
-"v": 2
-},
-"e7dad441-1919-402c-8936-123968e0e6b3": {
-"auth": [
-"US work auth",
-"Work auth required"
-],
-"desc_terms": "",
-"fetched": 1794797548,
-"functions": [
-"Full-Stack Engineering",
-"Software Engineering"
-],
-"pay": "",
-"seasons": [
-"Fall 2026",
-"Spring 2027",
-"Summer 2027"
-],
 "sponsors_h1b": null,
 "v": 2
 },
@@ -22558,6 +22507,24 @@
 "sponsors_h1b": false,
 "v": 2
 },
+"eb20cf0f-e882-4371-8d02-39c616e9fd04": {
+"auth": [
+"US work auth",
+"No sponsorship"
+],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"AI & Machine Learning",
+"Natural Language Processing & LLMs"
+],
+"pay": "",
+"seasons": [
+"Summer 2027"
+],
+"sponsors_h1b": false,
+"v": 2
+},
 "eb2140d4-c14b-41d4-b79a-7ead14815c8f": {
 "auth": [],
 "desc_terms": "",
@@ -22674,6 +22641,21 @@
 "Software Engineering"
 ],
 "pay": "$52.69–$71.35/hr",
+"seasons": [],
+"sponsors_h1b": false,
+"v": 2
+},
+"ec63f3d6-689a-45ea-aa6a-980217419acf": {
+"auth": [
+"US citizenship",
+"US clearance"
+],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Software Engineering"
+],
+"pay": "",
 "seasons": [],
 "sponsors_h1b": false,
 "v": 2
@@ -22912,20 +22894,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"ef31b232-5a78-40fe-9d4a-b2cca861468f": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797547,
-"functions": [
-"Software Engineering"
-],
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
-"v": 2
-},
 "ef376430-19cd-41b4-baa8-322fc5fcf45a": {
 "auth": [
 "US clearance"
@@ -23001,6 +22969,19 @@
 "Summer 2027"
 ],
 "sponsors_h1b": false,
+"v": 2
+},
+"f015f687-d0c7-457d-b211-12b8b167fe60": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Hardware Validation & Testing",
+"Hardware Engineering"
+],
+"pay": "$32–$59/hr",
+"seasons": [],
+"sponsors_h1b": null,
 "v": 2
 },
 "f06da939-6e73-41c9-9766-fed55a5b7627": {
@@ -23093,6 +23074,19 @@
 "seasons": [
 "Summer 2027"
 ],
+"sponsors_h1b": null,
+"v": 2
+},
+"f15013ab-bc88-41a1-b7fc-084a31cdfa69": {
+"auth": [],
+"desc_terms": "",
+"fetched": 1795106010,
+"functions": [
+"Hardware Engineering",
+"Silicon & ASIC Design"
+],
+"pay": "",
+"seasons": [],
 "sponsors_h1b": null,
 "v": 2
 },
