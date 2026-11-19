@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**95 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 19:05 ET
+**98 open** · newest first · removed when closed or after 30 days · Updated 2026-11-19 02:13 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,7 +10,10 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Workstream | Full Stack Engineer Intern | Vancouver, BC, Canada |  |  | CA$19–CA$22/hr | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6265872004) |
 | Qualcomm | GPU Compiler Development Intern - Interim Engineering Intern - HW | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722198182) |
+| Roblox | Software Engineer Intern - Engine | Vancouver, BC, Canada | Summer 2027 |  | CA$0.03/hr | 2026-11-18 | [Apply](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) |
+| Huawei | Researcher Intern - Recursive Self-Improvement | Montreal, QC, Canada |  |  |  | 2026-11-18 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi) |
 | SSI | Software Developer Co-op | Victoria, BC, Canada |  | Canadian citizen/PR, US work auth |  | 2026-11-18 | [Apply](https://ssicorporate.bamboohr.com/careers/101/) |
 | Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) |
 | Ross Video | Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$24–CA$35/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) |

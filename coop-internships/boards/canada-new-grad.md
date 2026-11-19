@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-18 19:05 ET
+**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-19 02:13 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -41,7 +41,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Amazon | Data Engineer Early Career | Toronto, ON, Canada |  |  | CA$47/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can) |
 | Amazon | Software Development Engineer – Early Career | Vancouver, BC, Canada |  |  | CA$57/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can) |
 | Analog Devices | Associate Engineer - SDK and Tools Development | Vancouver, BC, Canada |  | US citizenship |  | 2026-10-22 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Associate-Engineer---SDK-and-Tools-Development_R266973-1) |
-| Citi | Application Development Technology Analyst | Mississauga, ON, Canada |  | Canada work auth | CA$32–CA$45/hr | 2026-10-22 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Full-Time-Analyst--Mississauga--Canada--2027_261003395) |
 | DraftKings | Software Engineer | Remote in Canada |  |  |  | 2026-10-22 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324) |
 | Aptiv | Associate Cloud Engineer | Kanata, Ottawa, ON, Canada |  |  | CA$31–CA$38/hr | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000701887) |
 | Zurich Insurance | Machine Learning Engineer | Toronto, ON, Canada |  |  | CA$73/hr | 2026-10-20 | [Apply](https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors) |
