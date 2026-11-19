@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-19 11:34 ET
+**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-19 18:12 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -25,7 +25,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Valsoft | AI Software Developer - Research & Development | Montreal, QC, Canada |  |  |  | 2026-11-11 | [Apply](https://apply.workable.com/valsoft-corp/j/EE42775BE3/apply) |
 | Amazon | Software Developer Engineer | Toronto, ON, Canada |  |  | CA$57/hr | 2026-11-11 | [Apply](https://amazon.jobs/en/jobs/10589122/software-dev-engineer) |
 | Ciena | Embedded Software Engineer New Grad | Ottawa, ON, Canada |  |  | CA$35–CA$55/hr | 2026-11-10 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1) |
-| Synopsys | R&D Engineering - Engineer | Sunnyvale, CA, Remote in Canada |  |  |  | 2026-11-10 | [Apply](https://synopsys.avature.net/careers/JobDetail/19637) |
 | Bank of Montreal | Software Developer New Grad | Toronto, ON, Canada |  |  | CA$27–CA$58/hr | 2026-11-08 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581) |
 | Valsoft | AI Engineer 1 | Montreal, QC, Canada |  |  |  | 2026-11-06 | [Apply](https://apply.workable.com/valsoft-corp/j/D0C585CAB5/apply) |
 | Qualcomm | AI and DSP Applications Software Engineer - Machine Learning Engineering | Markham, ON, Canada |  |  | CA$50–CA$74/hr | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722003218) |

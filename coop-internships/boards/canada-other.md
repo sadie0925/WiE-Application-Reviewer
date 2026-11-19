@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**36 open** · newest first · removed when closed or after 30 days · Updated 2026-11-19 11:34 ET
+**35 open** · newest first · removed when closed or after 30 days · Updated 2026-11-19 18:12 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -18,7 +18,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Ciena | Layout Design Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25–CA$34/hr | 2026-11-10 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) |
 | Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$19–CA$38/hr | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) |
 | Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$19–CA$38/hr | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) |
-| NVIDIA | Performance Engineering Intern - Platform Performance and Power | Canada, Santa Clara, CA (+1) | Winter/Spring 2027 |  | $20–$71/hr | 2026-11-09 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541) |
 | Altera | FPGA Design Verification Intern | Toronto, ON, Canada |  | Canada work auth | CA$46–CA$48/hr | 2026-11-08 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440) |
 | NVIDIA | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA (+1) | Summer 2027 |  | $38–$94/hr | 2026-11-08 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) |
 | Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |

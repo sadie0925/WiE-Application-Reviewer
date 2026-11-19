@@ -1,10 +1,10 @@
 {
  "uwblueprint": {
-  "checked": 1795106030,
+  "checked": 1795129911,
   "events": []
  },
  "uwcsclub": {
-  "checked": 1795106023,
+  "checked": 1795129903,
   "events": [
    {
     "deadline_at": "",
@@ -23,7 +23,7 @@
   ]
  },
  "uwdsc": {
-  "checked": 1795106018,
+  "checked": 1795129900,
   "events": [
    {
     "deadline_at": "",
@@ -43,27 +43,27 @@
   ]
  },
  "uwengsoc": {
-  "checked": 1795106026,
+  "checked": 1795129907,
   "events": []
  },
  "uwfintech": {
-  "checked": 1795106034,
+  "checked": 1795129915,
   "events": []
  },
  "uwieee": {
-  "checked": 1795106043,
+  "checked": 1795129924,
   "events": []
  },
  "uwpm": {
-  "checked": 1795106047,
+  "checked": 1795129929,
   "events": []
  },
  "uwstartups": {
-  "checked": 1795106038,
+  "checked": 1795129919,
   "events": []
  },
  "uwuxwaterloo": {
-  "checked": 1795106054,
+  "checked": 1795129936,
   "events": [
    {
     "deadline_at": "",
@@ -82,7 +82,7 @@
   ]
  },
  "uwwie": {
-  "checked": 1795106051,
+  "checked": 1795129933,
   "events": []
  }
 }

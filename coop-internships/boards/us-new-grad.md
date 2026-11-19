@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**433 open** · newest first · removed when closed or after 60 days · Updated 2026-11-19 11:34 ET
+**427 open** · newest first · removed when closed or after 60 days · Updated 2026-11-19 18:12 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -78,7 +78,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | L3Harris Technologies | Associate – Application Development | Melbourne, FL |  |  |  | 2026-11-12 | [Apply](https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Development-FL-32919/1450263800/?ats=successfactors) |
 | Affirm | Software Engineer 1 - Backend - Continuous Delivery | Remote in USA |  |  | $55–$87/hr | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) |
 | SpaceX | Aerospace Software Engineer New Grad - Aerospace Software | Hawthorne, CA |  | US citizenship, US person | $60–$94/hr | 2026-11-12 | [Apply](https://boards.greenhouse.io/spacex/jobs/8939697002) |
-| Dillards | COBOL Developer | Little Rock, AR |  |  |  | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/dillards/jobs/5293318007) |
 | Johns Hopkins Applied Physics Laboratory | Mission Modeling, Simulation & Software Engineer New Grad | Laurel, MD |  | US clearance, US citizenship, No sponsorship | $41–$79/hr | 2026-11-12 | [Apply](https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us) |
 | Bask Health | Frontend Engineer New Grad | Remote in USA |  |  |  | 2026-11-12 | [Apply](https://apply.workable.com/bask-health-1/j/95FB1074E4/apply) |
 | Bask Health | Junior Design Engineer | Remote in USA |  |  |  | 2026-11-12 | [Apply](https://apply.workable.com/bask-health-1/j/E8EA53DF48/apply) |
@@ -124,7 +123,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Biointellisense | Android Engineer | Redwood City, CA, Golden, CO |  |  | $29–$38/hr | 2026-11-10 | [Apply](https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28/apply) |
 | Promega | Software Integration Engineer | Madison, WI |  |  |  | 2026-11-10 | [Apply](https://careers.promega.com/jobs/4373?icims=1&lang=en-us) |
 | Eagle Wireless | Test Automation Engineer | St Louis Park, MN |  |  |  | 2026-11-10 | [Apply](https://ats.rippling.com/eagle-wireless/jobs/ada461d3-5a62-4dcf-bf3f-c561bc264c38) |
-| Synopsys | R&D Engineering - Engineer | Sunnyvale, CA, Remote in Canada |  |  |  | 2026-11-10 | [Apply](https://synopsys.avature.net/careers/JobDetail/19637) |
 | Multi Media | Software Engineer 1/2 | Remote in USA |  |  | $62–$79/hr | 2026-11-09 | [Apply](https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs) |
 | Vizient | Associate Software Engineer | Irving, TX |  |  | $29–$49/hr | 2026-11-09 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R) |
 | Microsoft | Software Engineer | Redmond, WA |  |  | $41–$88/hr | 2026-11-09 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557053863) |
@@ -213,7 +211,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Urban Science | Associate Software Engineer | Detroit, MI |  | No sponsorship |  | 2026-10-29 | [Apply](https://careers-urbanscience.icims.com/jobs/5234/job?mobile=true&needsRedirect=false) |
 | Amazon | Software Privacy Engineer - Multiple Teams | Bellevue, WA |  |  | $65–$88/hr | 2026-10-29 | [Apply](https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) |
 | Waggoner Financial | Software Engineer | Lansing, MI |  |  | $38–$58/hr | 2026-10-29 | [Apply](https://apply.workable.com/waggoner-financial/j/ECBC946186/apply) |
-| Intelliforce-IT Solutions Group | Junior Software Engineer - Prime | Annapolis Junction, MD |  | US clearance, US citizenship, No sponsorship | $49–$62/hr | 2026-10-29 | [Apply](https://intelliforceitsolutionsgroup.applytojob.com/apply/vrH8MYXO9u/Junior-Software-Engineer-Prime) |
 | Johns Hopkins Applied Physics Laboratory | Software Systems Engineer | Laurel, MD |  | US clearance, US citizenship, No sponsorship | $41–$79/hr | 2026-10-29 | [Apply](https://careers.jhuapl.edu/jobs/60601?icims=1) |
 | Allegion | Software Systems Engineer | Indianapolis, IN |  | No sponsorship, US work auth |  | 2026-10-28 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Software-Systems-Engineer---Indianapolis--IN_JR38122) |
 | Argonne National Laboratory | Robotics Software Developer Postbaccalaureate Appointee - Rapid Prototyping Laboratory | Lemont, IL |  |  | $28–$44/hr | 2026-10-28 | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee---Robotics-Software-Developer--Rapid-Prototyping-Laboratory_423629-1) |
@@ -228,7 +225,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Rubrik | Software Engineer - Entra ID | Palo Alto, CA |  |  | $59–$89/hr | 2026-10-28 | [Apply](https://www.rubrik.com/company/careers/departments/job.8267709?gh_jid=8267709) |
 | AMD | Distributed Systems Software Engineer - Collectives | Austin, TX, San Jose, CA |  | No sponsorship |  | 2026-10-28 | [Apply](https://careers.amd.com/jobs/93894?icims=1) |
 | Oxbridge Health | AI Engineer | Norwalk, CT |  |  | $38–$53/hr | 2026-10-28 | [Apply](https://ats.rippling.com/oxbridge-health/jobs/196c59b6-8360-4766-a205-f873a3d2c2f4) |
-| AMERICAN SYSTEMS | Java Developer 1 | Folsom, CA |  | US citizenship, No sponsorship | $38–$60/hr | 2026-10-27 | [Apply](https://careers-americansystems.icims.com/jobs/5162/job?mobile=true&needsRedirect=false) |
 | SAIC | Software Engineer Associate | Crane, IN |  | US clearance, US citizenship, No sponsorship |  | 2026-10-27 | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618492) |
 | Emerson Electric | Software Engineer | Austin, TX |  |  |  | 2026-10-27 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042) |
 | RainFocus | Junior UI Developer | Remote in USA |  |  |  | 2026-10-27 | [Apply](https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798/apply) |
@@ -270,7 +266,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Draper | Software Machine Learning Engineer - GNSS - Software Defined Radio | Cambridge, MA |  | US clearance | $30–$67/hr | 2026-10-21 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Mach-Learn-Engr--GNSS--Software-Defined-Radio-_JR003064) |
 | General Dynamics Mission Systems | Entry Level Engineer - Multiple Teams | United States |  | US clearance, US citizenship, No sponsorship |  | 2026-10-21 | [Apply](https://careers-gdms.icims.com/jobs/75635/job?mobile=true&needsRedirect=false) |
 | PeopleTec | Associate Data Integration & Software Specialist | Huntsville, AL |  | US clearance, US citizenship, No sponsorship |  | 2026-10-21 | [Apply](https://careers-peopletec.icims.com/jobs/5418/job?mobile=true&needsRedirect=false) |
-| Innovative Defense Technologies | Associate Software Engineer | Mt Laurel Township, NJ |  | US clearance | $36–$72/hr | 2026-10-21 | [Apply](https://idtus.pinpointhq.com/en/postings/7f0d1270-7754-4346-9c73-1fe45e086258?ats=pinpointhq) |
 | Apple | Software Engineer - SoC Level Validation Engineer | Austin, TX, Beaverton, OR (+3) |  |  |  | 2026-10-21 | [Apply](https://jobs.apple.com/en-us/details/200690790) |
 | Twitch | Software Engineer 1 | Seattle, WA |  |  | $53–$77/hr | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8906750002) |
 | Graham Capital Management | Trading Technology Software Developer | Norwalk, CT |  |  | $48–$77/hr | 2026-10-21 | [Apply](https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005) |
@@ -412,7 +407,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | SpaceX | Software Engineer New Grad - Software - Starfall | Hawthorne, CA |  | US citizenship, US person, No sponsorship | $60–$94/hr | 2026-09-28 | [Apply](https://boards.greenhouse.io/spacex/jobs/8854394002) |
 | Early Warning | Software Engineer - Java - Paze | Chicago, IL, Scottsdale, AZ |  | US citizenship, No sponsorship | $47–$63/hr | 2026-09-28 | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933) |
 | RTX | Software Engineer 1 | Cedar Rapids, IA |  | US clearance, US citizenship, No sponsorship | $28–$52/hr | 2026-09-28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662) |
-| American College of Obstetricians and Gynecologists | Full-Stack Developer | Washington, DC |  |  | $38–$43/hr | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/acog/jobs/4401658009) |
 | M&T Bank | Forward Deployed Digital Product Analyst New Grad - IS | Wilmington, DE |  |  | $29.57–$43.99/hr | 2026-09-27 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst---Wilmington--DE-_R89998) |
 | M&T Bank | Management Development Program Forward Deployed Digital Product Analyst | Wilmington, DE |  |  | $29.57–$43.99/hr | 2026-09-27 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product--Wilmington--DE-_R89996) |
 | M&T Bank | Management Development Program New Grad - IS Forward Deployed Product Analyst | Wilmington, DE |  |  | $29.57–$43.99/hr | 2026-09-27 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst--Wilmington--DE-_R89997) |

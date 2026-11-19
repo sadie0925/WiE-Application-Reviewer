@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**272 open** · newest first · removed when closed or after 30 days · Updated 2026-11-19 11:34 ET
+**263 open** · newest first · removed when closed or after 30 days · Updated 2026-11-19 18:12 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -20,7 +20,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Pyrotek | Product Management Intern | Spokane, WA | Summer 2027 |  | $22/hr | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000162385949) |
 | Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations | Cambridge, MA |  |  | $40–$58/hr | 2026-11-18 | [Apply](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) |
 | Ecliptic Enterprises | Engineering Intern | San Luis Obispo, CA |  | US citizenship, No sponsorship |  | 2026-11-17 | [Apply](https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply) |
-| Smarty | Product Management Intern | Orem, UT | Winter/Spring 2027, Summer 2027 |  |  | 2026-11-17 | [Apply](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) |
 | Blount Fine Foods | Manufacturing Operations Analytics Intern | Fall River, MA |  |  | $19–$20/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
 | BGE | Business Analyst Intern - GIS | Oakbrook Terrace, IL | Summer 2026 |  | $20–$31/hr | 2026-11-17 | [Apply](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |
 | Lightmatter | Product & Test Engineering Intern | Mountain View, CA | Summer 2027 | US work auth | $43–$47/hr | 2026-11-17 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474690008) |
@@ -52,7 +51,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | ServiceNow | Senior Outbound Product Manager Intern | San Diego, CA | Summer 2027 |  | $55.46–$71.09/hr | 2026-11-13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) |
 | Texas Instruments | Product Engineering Failure Analysis Intern | Dallas, TX |  | No sponsorship, US work auth |  | 2026-11-13 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016015) |
 | ServiceNow | Senior Inbound Product Manager Intern | San Diego, CA | Summer 2027 |  | $55.46–$71.09/hr | 2026-11-13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161584449) |
-| Lightmatter | Hardware Test Engineer Intern | Mountain View, CA | Summer 2027 |  | $43–$47/hr | 2026-11-13 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473869008) |
 | Lightmatter | Quality & Reliability Intern | Mountain View, CA | Summer 2027 | US work auth | $43–$47/hr | 2026-11-12 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474812008) |
 | Entegris | Associate Product Manager Intern | Chaska, MN | Summer 2027 | No sponsorship | $20–$30/hr | 2026-11-12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) |
 | Micron Technology | Enterprise SSD Architecture Intern | Boise, ID |  | US work auth |  | 2026-11-12 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Enterprise-SSD-Architecture_JR114108) |
@@ -73,7 +71,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | The Aerospace Corporation | Lidar Undergraduate Intern | El Segundo, CA | Summer 2027 | US clearance, US citizenship, No sponsorship | $30/hr | 2026-11-11 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200) |
 | Vishay Intertechnology | R&D Engineer Intern | Yankton, SD |  | US citizenship, US person |  | 2026-11-11 | [Apply](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-21904) |
 | Vizient | Contract Operations Intern - Analytics | Irving, TX | Summer 2027 |  | $25/hr | 2026-11-11 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
-| McDonald's | Global Tech Infrastructure & Operations Intern | Chicago, IL | Summer 2027 | No sponsorship, US work auth | $32/hr | 2026-11-11 | [Apply](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) |
 | Exelon | Forestry/Vegetation Management Intern | Oakbrook Terrace, IL | Summer 2026 |  | $20–$31/hr | 2026-11-11 | [Apply](https://careers.comed.com/jobs/33847?icims=1&lang=en-us) |
 | MSA Safety | Electrical Engineering Technology Intern Co-op | Cranberry Township, PA | Summer 2027 |  |  | 2026-11-11 | [Apply](https://careers.msasafety.com/jobs/10392?icims=1&lang=en-us) |
 | APEX Analytix | Product Management Intern | Greensboro, NC | Summer 2027 |  |  | 2026-11-11 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) |
@@ -97,10 +94,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | SharkNinja | Product Test Engineering Co-op | Needham, MA | Winter/Spring 2027 |  | $28–$34/hr | 2026-11-10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006) |
 | Legrand | Product Management Intern | Syracuse, NY | Summer 2027 |  |  | 2026-11-10 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) |
 | Constellation Brands | Digital Manufacturing Technology Intern | Rochester, NY, San Antonio, TX |  |  | $19–$32/hr | 2026-11-09 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681) |
-| GlobalFoundries | CPU IP Design & Verification Intern - RISC-V Processor Development | Austin, TX, Santa Clara, CA | Summer 2027 |  | $20–$40/hr | 2026-11-09 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604040) |
 | HP Inc. | Performance Engineering Co-op | Fort Collins, CO | Summer 2027 | No sponsorship, US work auth | $29–$35/hr | 2026-11-09 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-1) |
 | HP Inc. | Performance Engineering Co-op | Fort Collins, CO | Summer 2027 | No sponsorship, US work auth | $29–$35/hr | 2026-11-09 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-2) |
-| NVIDIA | Performance Engineering Intern - Platform Performance and Power | Canada, Santa Clara, CA (+1) | Winter/Spring 2027 |  | $20–$71/hr | 2026-11-09 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541) |
 | Rambus | CAD Engineer Intern | San Jose, CA |  |  | $25.80–$47.80/hr | 2026-11-09 | [Apply](https://careers-rambus.icims.com/jobs/23121/job?mobile=true&needsRedirect=false) |
 | Cirrus Logic | Layout Design Intern | Austin, TX |  | No sponsorship |  | 2026-11-09 | [Apply](https://jobs.eu.lever.co/cirrus/92cc5842-b83a-4ab3-921d-27fbd8484290/apply) |
 | Pivotal Aero | Electrical Engineering Intern | Palo Alto, CA | Summer 2027 | US citizenship, No sponsorship |  | 2026-11-09 | [Apply](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb/apply) |
@@ -199,7 +194,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | $46.33–$50.60/hr | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
 | Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO | Summer 2027 |  | $30/hr | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
 | Diversified Automation | Hardware Engineering Co-op | Louisville, KY |  |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3/apply) |
-| V2X | Electrical Engineer Intern | Indianapolis, IN | Summer 2027 | US clearance, US citizenship |  | 2026-10-29 | [Apply](https://careers.gov2x.com/jobs/63854?icims=1) |
 | Cloudflare | Product Manager Intern | Austin, TX | Summer 2027 | No sponsorship |  | 2026-10-29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790) |
 | ASML | Optical Engineer Co-op Intern | Wilton, CT |  | US work auth | $18–$48/hr | 2026-10-28 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324) |
 | Carrier Global | Lab Assistant Engineer Co-op | Fort Wayne, IN |  | No sponsorship, US work auth | $20.91–$42.07/hr | 2026-10-28 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Lab-Assistant-Engineering---Co-Op_30220677) |
@@ -279,6 +273,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Minerals Technologies | Finance Intern - Data Analysis | Bethlehem, PA |  |  |  | 2026-10-20 | [Apply](https://careers-mineralstech.icims.com/jobs/4896/job?mobile=true&needsRedirect=false) |
 | Travelers | Decision Science – Marketing & Communications Intern | Hartford, CT | Summer 2026 | No sponsorship, US work auth | $24–$26/hr | 2026-10-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Decision-Science---Marketing---Communications-Intern_R-53354) |
 | Uline | Operations Analyst Intern | Pleasant Prairie, WI | Summer 2027 |  |  | 2026-10-20 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) |
-| Keysight Technologies | Hardware Engineering Intern | Santa Rosa, CA |  | No sponsorship | $32.77/hr | 2026-10-20 | [Apply](https://jobs.keysight.com/jobs/55112?icims=1) |
-| Skydio | Wireless Hardware Engineer Intern | San Mateo, CA | Summer 2027 |  | $47–$70/hr | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true) |
-| Dell Technologies | Hardware Engineer 1 Intern | Austin, TX |  |  | $41–$53/hr | 2026-10-20 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141) |

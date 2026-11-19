@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**98 open** · newest first · removed when closed or after 30 days · Updated 2026-11-19 11:34 ET
+**95 open** · newest first · removed when closed or after 30 days · Updated 2026-11-19 18:12 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -65,7 +65,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
 | Zimmer Biomet Holdings | Software Developer Co-op | Montreal, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-02 | [Apply](https://careers.zimmerbiomet.com/us/en/job/13309) |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-02 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) |
-| NVIDIA | Math Libraries Intern | Canada, Santa Clara, CA (+1) | Summer 2027 |  | $20–$94/hr | 2026-11-01 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada | Fall 2027 |  |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
 | Waterworth | Computer Science Co-op | Victoria, BC, Canada | Winter/Spring 2027 |  | CA$24–CA$29/hr | 2026-10-29 | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) |
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$26–CA$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
@@ -106,5 +105,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Ciena | Software Developer Intern | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-10-21 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) |
 | Qualcomm | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
 | Qualcomm | Display Systems Engineer Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661677) |
-| NVIDIA | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada, Santa Clara, CA (+1) | Summer 2027 |  | $38–$94/hr | 2026-10-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
-| Picton Mahoney Asset Management | Data Engineer Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$20–CA$32/hr | 2026-10-20 | [Apply](https://pictonmahoney.bamboohr.com/careers/387/) |
