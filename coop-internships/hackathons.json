@@ -148,9 +148,9 @@
     "source": "mlh"
   },
   {
-    "name": "UofTHacks",
-    "location": "Toronto, Ontario",
-    "url": "https://uofthacks.com/",
+    "name": "uOttaHack 9",
+    "location": "Ottawa, Ontario ",
+    "url": "https://2027.uottahack.ca/",
     "starts_at": "2027-01-15T01:11:11Z",
     "ends_at": "2027-01-17T23:59:59Z",
     "deadline_at": "",
@@ -161,11 +161,11 @@
     "source": "mlh"
   },
   {
-    "name": "uOttaHack 9",
-    "location": "Ottawa, Ontario ",
-    "url": "https://2027.uottahack.ca/",
-    "starts_at": "2027-01-15T01:11:11Z",
-    "ends_at": "2027-01-17T23:59:59Z",
+    "name": "UofTHacks",
+    "location": "Toronto, Ontario",
+    "url": "https://uofthacks.com/",
+    "starts_at": "2027-01-15T22:00:00Z",
+    "ends_at": "2027-01-17T19:00:00Z",
     "deadline_at": "",
     "deadline_kind": "",
     "when": "JAN 15 - 17",

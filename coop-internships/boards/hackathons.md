@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run checks every public Luma event around Waterloo (most UW clubs post there), the Linktrees and Luma calendars of the clubs in uw-clubs.json (their hackathon sites, Luma events, and open application forms), plus Hackathon Radar's Waterloo page, Communitech, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. When shows a month (e.g. February 2027) when the organizer has only announced the month. Every hackathon is cleared when its application deadline has passed, or when the event has already started — even if a submission window still looks open. This is separate from the 30-day job rule.
 
-**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-18 13:00 ET
+**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-18 19:05 ET
 
 [All boards](../README.md)
 
@@ -26,8 +26,8 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | Hack Cats | Manhattan, Kansas | 2026-12-04 |  | [Open](https://hackkstate.tech/) |
 | Hack Canada 2027 | Toronto, Ontario | 2027-01-08 |  | [Open](https://hackcanada.org) |
 | DeltaHacks | Hamilton, Ontario | 2027-01-09 |  | [Open](https://www.deltahacks.com/) |
-| UofTHacks | Toronto, Ontario | 2027-01-14 |  | [Open](https://uofthacks.com/) |
 | uOttaHack 9 | Ottawa, Ontario  | 2027-01-14 |  | [Open](https://2027.uottahack.ca/) |
+| UofTHacks | Toronto, Ontario | 2027-01-15 |  | [Open](https://uofthacks.com/) |
 | QWER Hacks | Los Angeles, CA | 2027-01-15 |  | [Open](https://www.qwerhacks.com/) |
 | HackBI X | Alexandria, Virginia | 2027-01-16 |  | [Open](https://hackbi.org/) |
 | nwHacks | Vancouver, British Columbia | 2027-01-16 |  | [Open](https://nwhacks.io/) |

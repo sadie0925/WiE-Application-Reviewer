@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**277 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 13:00 ET
+**269 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 19:05 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| PsiQuantum | Quantum Architecture Intern | Palo Alto, CA |  |  | $27.50–$47/hr | 2026-11-18 | [Apply](https://www.psiquantum.com/apply?gh_jid=6536805003) |
 | Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations | Cambridge, MA |  |  | $40–$58/hr | 2026-11-18 | [Apply](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) |
 | Ecliptic Enterprises | Engineering Intern | San Luis Obispo, CA |  | US citizenship, No sponsorship |  | 2026-11-17 | [Apply](https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply) |
 | Smarty | Product Management Intern | Orem, UT | Winter/Spring 2027, Summer 2027 |  |  | 2026-11-17 | [Apply](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) |
@@ -203,7 +204,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Uline | Sales Analyst Intern | Waukegan, IL, Milwaukee, WI (+3) | Summer 2027 |  |  | 2026-10-28 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774) |
 | Texas Instruments | Product/Test Engineering Intern | Santa Clara, CA |  | No sponsorship, US work auth |  | 2026-10-28 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016391) |
 | Lila Sciences | Finance Co-op | Cambridge, MA |  |  |  | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469146009) |
-| PrizePicks | Business Intelligence Intern - Game Operations | Atlanta, GA | Summer 2027 | No sponsorship, US work auth | $30/hr | 2026-10-28 | [Apply](http://prizepicks.com/position?gh_jid=8047188003) |
 | RosaicLabs | CPU Design Verification Engineer Intern | Austin, TX, Santa Clara, CA |  |  | $30–$55/hr | 2026-10-28 | [Apply](https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply) |
 | Booz Allen | Design and Verification Engineer Intern | Beavercreek, OH | Winter/Spring 2030 | US clearance | $26.54–$60.58/hr | 2026-10-27 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482) |
 | Draper | Analog ASIC Design Intern | Cambridge, MA | Summer 2027 | US clearance | $20–$45/hr | 2026-10-27 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
@@ -279,11 +279,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Dell Technologies | Hardware Engineer 1 Intern | Austin, TX |  |  | $41–$53/hr | 2026-10-20 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141) |
 | Riverlane | Engineer Intern | Cambridge, MA | Summer 2027 | US work auth | $35–$42/hr | 2026-10-20 | [Apply](https://www.riverlane.com/jobs?gh_jid=5010283101#vacancies) |
 | Milwaukee Brewers | Minor League Technology Operations Intern | Phoenix, AZ |  |  |  | 2026-10-20 | [Apply](https://careers-brewers.icims.com/jobs/2804/job?mobile=true&needsRedirect=false) |
-| Matic | Electrical Design Engineer Intern | Menlo Park, CA |  |  | $25–$35/hr | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/MaticRobots/2f93fe19-0d71-4972-98da-8baf9d4ab05e/application?embed=true) |
-| Rockwell Automation | Hardware Development Engineer Intern | Mayfield Heights, OH | Summer 2027 | No sponsorship, US work auth | $20–$32/hr | 2026-10-19 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2) |
-| Rockwell Automation | Hardware Development Engineer Intern | Mayfield Heights, OH | Summer 2027 | No sponsorship, US work auth | $20–$32/hr | 2026-10-19 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1) |
-| Skydio | Electrical Engineer Intern | San Mateo, CA | Summer 2027 | US work auth | $47–$58/hr | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4/application?embed=true) |
-| Meta | Research Scientist Intern - Robotics Hardware | Redmond, WA |  |  |  | 2026-10-19 | [Apply](https://www.metacareers.com/jobs/2105411693413958) |
-| Garmin | Design Engineer Intern | Yarmouth, ME |  |  |  | 2026-10-19 | [Apply](https://careers.garmin.com/jobs/18994?icims=1) |
-| Keysight Technologies | R&D Hardware Engineer Intern | Santa Clara, CA |  | No sponsorship | $35.96–$38.73/hr | 2026-10-19 | [Apply](https://jobs.keysight.com/jobs/54804?icims=1) |
-| Amplify | Product Management Intern | Remote in USA | Summer 2027 | US work auth | $30–$35/hr | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) |

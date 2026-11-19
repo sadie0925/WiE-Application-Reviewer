@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**39 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 13:00 ET
+**36 open** · newest first · removed when closed or after 30 days · Updated 2026-11-18 19:05 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -36,7 +36,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) |
 | Qualcomm | Camera Systems Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) |
 | Qualcomm | High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$26–CA$50/hr | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721874877) |
-| Definity Financial | Direct Channel Operations Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  |  | 2026-10-30 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) |
 | Qualcomm | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$26–CA$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) |
 | Ciena | Hardware Characterization Automation Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014) |
 | Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) |
@@ -47,5 +46,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Winter/Spring 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Summer 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) |
 | Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) |
-| Semtech | PCB Layout Intern | Burlington, ON, Canada |  |  | CA$26–CA$28.50/hr | 2026-10-19 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632) |
-| Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) |
