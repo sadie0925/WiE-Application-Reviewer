@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-19 18:12 ET
+**48 open** · newest first · removed when closed or after 60 days · Updated 2026-11-19 22:58 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -15,7 +15,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Sony Pictures Imageworks | Associate Software Developer - Infrastructure | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207497003) |
 | Sony Pictures Imageworks | Associate Software Engineer | Vancouver, BC, Canada |  |  | CA$32–CA$43/hr | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207482003) |
 | Gentec | Junior Software Designer | Québec City, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://gentec.bamboohr.com/careers/31/) |
-| Kraun Electric | Junior Software Developer | St. Catharines, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://kraunelectric.bamboohr.com/careers/98/) |
 | Flexspring | AI Model Training and Deployment Developer New Grad | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://flexspring.bamboohr.com/careers/71/) |
 | Senstar | Machine Learning Developer | Waterloo, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://senstar.bamboohr.com/careers/183/) |
 | American Express | Campus Undergraduate Full-Time Engineer - Software Engineer 1 | Toronto, ON, Canada |  | No sponsorship, Canada work auth | CA$36–CA$60/hr | 2026-11-16 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677) |
