@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**266 open** · newest first · removed when closed or after 30 days · Updated 2026-11-19 22:58 ET
+**271 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 07:32 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,12 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| CAS | Chemist Intern - Content Operations | Columbus, OH | Summer 2027 | No sponsorship, US work auth |  | 2026-11-20 | [Apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93) |
+| CAS | Product Management Intern | Columbus, OH | Summer 2027 | No sponsorship, US work auth |  | 2026-11-20 | [Apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336) |
+| Honeywell Aerospace | Embedded Engineer Intern | United States | Summer 2027 | No sponsorship, US work auth | $25–$44.85/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120770) |
+| Honeywell Aerospace | Embedded Engineer Intern | United States | Summer 2027 | US citizenship, No sponsorship | $25–$44.85/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119843) |
+| Honeywell Aerospace | Semiconductor Engineer Intern | United States | Summer 2027 | No sponsorship, US work auth | $25–$44.85/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119888) |
+| Honeywell Aerospace | Semiconductor Engineer Intern | United States | Summer 2027 | US citizenship, No sponsorship | $25–$44.85/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119865) |
 | Tarana Wireless | Hardware Test Engineer Intern | Milpitas, CA |  |  | $35–$45/hr | 2026-11-19 | [Apply](https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern) |
 | Lucid Motors | ADAS Systems Integration Intern | Newark, CA | Summer 2027 | No sponsorship | $53–$72/hr | 2026-11-19 | [Apply](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) |
 | Lawrence Livermore National Laboratory (LLNL) | Engineering Intern | Livermore, CA | Summer 2027 | US clearance, US citizenship | $23.26–$31.62/hr | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016986011) |
@@ -94,7 +100,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Summer 2026 |  | $27–$48/hr | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-2) |
 | KLA | Electrical Engineer Intern | Ann Arbor, MI | Summer 2026 |  | $27–$48/hr | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-1) |
 | KLA Corporation | Electrical Engineer Intern | Ann Arbor, MI | Summer 2026 |  | $27–$48/hr | 2026-11-10 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897) |
-| RTX | Electrical Engineer Intern - Test Solutions | Tewksbury, MA |  | US clearance, US citizenship, No sponsorship | $18–$39/hr | 2026-11-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01887669) |
 | Blue Cross Blue Shield of Michigan | Digital Product Intern | Detroit, MI | Summer 2027 |  |  | 2026-11-10 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) |
 | Altice USA | Product Management B2B Broadband Services Intern | Bethpage, NY | Winter/Spring 2027, Summer 2027 | No sponsorship | $25/hr | 2026-11-10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) |
 | Altice USA | Product Management Customer Management App Intern | Bethpage, NY | Winter/Spring 2027, Summer 2027 | No sponsorship | $25/hr | 2026-11-10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) |

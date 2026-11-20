@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**48 open** · newest first · removed when closed or after 60 days · Updated 2026-11-19 22:58 ET
+**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-20 07:32 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Omnimed | ML Developer - Junior or Intermediate | Cookshire-Eaton, QC, Canada |  |  |  | 2026-11-20 | [Apply](https://omnimed.bamboohr.com/careers/73/) |
 | Journal Technologies | Junior Data Integration Developer | Victoria, BC, Canada, Remote in USA (+1) |  | US citizenship, Canadian citizen/PR, No sponsorship | $29–$36/hr | 2026-11-19 | [Apply](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d) |
 | Arcadion | Junior AI Developer | Ottawa, ON, Canada |  |  |  | 2026-11-18 | [Apply](https://arcadion.bamboohr.com/careers/52/) |
 | Sony Pictures Imageworks | Associate Software Developer - Infrastructure | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207497003) |

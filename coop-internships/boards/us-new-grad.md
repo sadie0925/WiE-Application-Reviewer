@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**427 open** · newest first · removed when closed or after 60 days · Updated 2026-11-19 22:58 ET
+**433 open** · newest first · removed when closed or after 60 days · Updated 2026-11-20 07:32 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,16 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Sante | AI Engineer | Austin, TX |  | No sponsorship, US work auth |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/job?cid=6045a3c5-9cfb-4d71-9c06-80a911514305&jobId=274361596777_1) |
+| Honeywell Aerospace | Software Engineer Recent Grad | United States |  | US citizenship, No sponsorship | $46–$59/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120265) |
+| Honeywell Aerospace | Software Engineering New Grad | United States |  | No sponsorship, US work auth | $46–$59/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524) |
+| Honeywell Aerospace | Software Engineer 1 | Clearwater, FL |  | US clearance, US citizenship, No sponsorship |  | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/99125642) |
+| Honeywell Aerospace | Software Engineer 1 | Clearwater, FL |  | US clearance, US citizenship, No sponsorship |  | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127431) |
+| Honeywell Aerospace | Embedded Software Engineer 1 - Flight Management System | Phoenix, AZ |  | US citizenship, US person, No sponsorship |  | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/128476) |
+| Apple | AR/VR Software Engineer - Spatial System UI - Vision Products Software | Sunnyvale, CA, Boulder, CO |  |  |  | 2026-11-20 | [Apply](https://jobs.apple.com/en-us/details/200696147) |
+| Zepto Life Technology | Software Developer 1 | St Paul, MN |  | US citizenship |  | 2026-11-20 | [Apply](https://zeptolife.bamboohr.com/careers/143/) |
+| Rise Internet | Software Engineer 1 | Irving, TX |  | US work auth |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1) |
+| Qualcomm | DSP Applications Software Engineer - ASICS Engineering | Austin, TX |  |  | $49–$73/hr | 2026-11-20 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722230518) |
 | ATA Engineering | Engineering Software Programmer | Lakewood, CO, Huntsville, AL (+1) |  | US citizenship, US person | $41–$60/hr | 2026-11-19 | [Apply](https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer) |
 | Microsoft | Software Engineer | United States |  | US clearance, US citizenship, No sponsorship | $41–$88/hr | 2026-11-19 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557075456) |
 | Red Arch Solutions | Junior Software Engineer | Annapolis Junction, MD |  | US clearance, No sponsorship | $43–$50/hr | 2026-11-19 | [Apply](https://redarchsolutions.applytojob.com/apply/SjXMZVX4He/Jr-Software-Engineer) |
@@ -153,7 +163,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Prosync | Software Engineer 0/1 | Annapolis Junction, MD |  | US clearance, No sponsorship |  | 2026-11-06 | [Apply](https://apply.workable.com/prosync/j/6ECFBED6E7/apply) |
 | Lawrence Livermore National Laboratory (LLNL) | Super Intelligence Platform Integration Engineer | Livermore, CA |  | US clearance, US citizenship, No sponsorship | $59–$89/hr | 2026-11-06 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016713536) |
 | ASM International | Software Engineer – Early Career | Phoenix, AZ |  |  |  | 2026-11-06 | [Apply](https://www.asm.com/open-vacancies/?gh_jid=5019821101) |
-| Charles Schwab | Associate Software Engineer | Austin, TX |  |  |  | 2026-11-05 | [Apply](https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false) |
 | Chewy | Software Engineer 1 - Full Stack - Promotions | Boston, MA |  |  | $47–$77/hr | 2026-11-05 | [Apply](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442) |
 | Nightwing Intelligence Solutions | Software Developer 1 - System Security | Huntsville, AL |  | US clearance, US citizenship, No sponsorship |  | 2026-11-05 | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/AL600--600-Boulevard-South-Ste-301-Huntsville-AL-35802/Software-Developer-I--System-Security-_JR102225) |
 | Connecticut State Community College | Web Developer | Hartford, CT |  | No sponsorship, US work auth | $37.74/hr | 2026-11-05 | [Apply](https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer) |
@@ -162,7 +171,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Ultima Genomics | Firmware Engineer 1 | Fremont, CA |  |  | $46–$55/hr | 2026-11-05 | [Apply](https://job-boards.greenhouse.io/ultimagenomics/jobs/6250742004) |
 | EquipmentShare | Junior Ecommerce Web Developer | Columbia, MO |  | No sponsorship, US work auth |  | 2026-11-05 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8319404) |
 | Susquehanna International Group | Software Developer - Core Order Management System - C++ | Chicago, IL |  |  |  | 2026-11-05 | [Apply](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) |
-| REI Systems | Junior Associate Software Engineer - Java Full Stack | Sterling, VA |  | US citizenship, No sponsorship | $37–$45/hr | 2026-11-05 | [Apply](https://careers-reisystems.icims.com/jobs/3511/job?mobile=true&needsRedirect=false) |
 | Peraton | Cloud Software Engineer 1 | Fort Meade, MD |  | US clearance, No sponsorship | $54–$86/hr | 2026-11-05 | [Apply](https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false) |
 | Everwatch | Junior Software Engineer | Annapolis Junction, MD |  | US clearance, No sponsorship | $50.48–$55.29/hr | 2026-11-05 | [Apply](https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false) |
 | Choice Hotels | Software Engineer 1 - Finance Technology | Scottsdale, AZ |  | No sponsorship |  | 2026-11-04 | [Apply](https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514) |
@@ -403,7 +411,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Danaher | Desktop Software Engineer | Irvine, CA |  |  | $34–$48/hr | 2026-09-29 | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349) |
 | RTX | Embedded Software Engineer 1 | East Hartford, CT |  | US clearance, US citizenship, No sponsorship | $28–$52/hr | 2026-09-29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013) |
 | Panasonic Holdings | MTS 1 – Software Engineer - Embedded Systems & Linux | Irvine, CA |  | No sponsorship, US work auth | $33.17–$55.29/hr | 2026-09-29 | [Apply](https://careers.na.panasonic.com/jobs/50895?icims=1) |
-| OneImaging | Associate Data Engineer | Miami, FL |  | US work auth | $41–$55/hr | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/oneimaging/jobs/4423646009) |
 | OneImaging | Full Stack Associate Software Engineer | Miami, FL |  | US work auth | $41–$55/hr | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/oneimaging/jobs/4423640009) |
 | SpaceX | Software Engineer New Grad - Software - Starfall | Hawthorne, CA |  | US citizenship, US person, No sponsorship | $60–$94/hr | 2026-09-28 | [Apply](https://boards.greenhouse.io/spacex/jobs/8854394002) |
 | Early Warning | Software Engineer - Java - Paze | Chicago, IL, Scottsdale, AZ |  | US citizenship, No sponsorship | $47–$63/hr | 2026-09-28 | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933) |
@@ -414,7 +421,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | RTX | Research Software Engineer 1 | Cambridge, MA |  | US clearance, US citizenship, No sponsorship | $28–$52/hr | 2026-09-27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338) |
 | Visa | Software Engineer | Austin, TX |  |  | $42–$65/hr | 2026-09-27 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W) |
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA, Remote in Canada |  |  | $47–$69/hr | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) |
-| Neuralink | Software Engineer - Simulation | Austin, TX |  |  | $73–$135/hr | 2026-09-25 | [Apply](https://boards.greenhouse.io/neuralink/jobs/8005762003) |
 | CoreWeave | Software Engineer - Inference | Bellevue, WA, Sunnyvale, CA |  |  | $58–$77/hr | 2026-09-25 | [Apply](https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006) |
 | Cone Health | Analytic Developer | Remote in USA |  |  |  | 2026-09-24 | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Analytic-Developer_JR155338) |
 | ZipRecruiter | Software Engineer New Grad - Multiple Teams | Santa Monica, CA |  |  | $62–$72/hr | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108) |

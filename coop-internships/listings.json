@@ -1,5 +1,1775 @@
 [
   {
+    "id": "eec7def1-2dd9-4afc-b912-c52ea1034c4c",
+    "company_name": "Avnan",
+    "company_url": "https://simplify.jobs/c/Avnan",
+    "title": "Electronics Engineering Technologist Co-op",
+    "url": "https://avnan.bamboohr.com/careers/125/",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795173683,
+    "date_updated": 1795173888,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "other",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Hardware Validation & Testing",
+      "Hardware Engineering"
+    ]
+  },
+  {
+    "id": "a35f05d0-6904-476c-b09f-1474155144a0",
+    "company_name": "Ottawa Tourism",
+    "company_url": "https://simplify.jobs/c/Ottawa-Tourism",
+    "title": "Business Intelligence Assistant Intern",
+    "url": "https://ottawatourism.bamboohr.com/careers/123/",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795173249,
+    "date_updated": 1795173343,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Winter 2026"
+    ],
+    "program": "cs",
+    "detail_pay": "$22/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Winter 2026"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
+    "id": "253c8870-0795-4331-816e-75f117e86bc3",
+    "company_name": "Smule",
+    "company_url": "https://simplify.jobs/c/Smule",
+    "title": "Applied Research Scientist Intern",
+    "url": "https://smule.bamboohr.com/careers/29/",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795171743,
+    "date_updated": 1795171906,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Applied Machine Learning",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "124ea243-efc7-445a-b7b6-93988eab5ec8",
+    "company_name": "Smule",
+    "company_url": "https://simplify.jobs/c/Smule",
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://smule.bamboohr.com/careers/31/",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795171743,
+    "date_updated": 1795171906,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Applied Machine Learning",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "93a4d3cf-da91-437c-adcd-cb807fd35b67",
+    "company_name": "Smule",
+    "company_url": "https://simplify.jobs/c/Smule",
+    "title": "Research Engineer Intern",
+    "url": "https://smule.bamboohr.com/careers/30/",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795171743,
+    "date_updated": 1795171906,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Research",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "a4da6180-6f78-4f2c-ac8b-f1d23a467b3b",
+    "company_name": "REXA",
+    "company_url": "https://simplify.jobs/c/Rexa",
+    "title": "Software Engineer Intern",
+    "url": "https://rexa.bamboohr.com/careers/134/",
+    "locations": [
+      "Middleborough, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795161554,
+    "date_updated": 1795161655,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$20–$25/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "b84e71f0-da1d-40e1-809e-312f13a0dd2c",
+    "company_name": "Sante",
+    "company_url": "https://simplify.jobs/c/Sante",
+    "title": "AI Engineer",
+    "url": "https://workforcenow.adp.com/job?cid=6045a3c5-9cfb-4d71-9c06-80a911514305&jobId=274361596777_1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795161279,
+    "date_updated": 1795161446,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
+      "Full-Stack Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "0ba6af67-d68e-4ee5-a744-439cb98c49ea",
+    "company_name": "Park National Bank",
+    "company_url": "https://simplify.jobs/c/Park-National-Bank",
+    "title": "Business Intelligence Intern",
+    "url": "https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4",
+    "locations": [
+      "Newark, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160715,
+    "date_updated": 1795160899,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
+    "id": "86b2ddaa-e714-4fae-b3b3-de800fe55b2f",
+    "company_name": "Park National Bank",
+    "company_url": "https://simplify.jobs/c/Park-National-Bank",
+    "title": "Data Engineering/Data Science Intern",
+    "url": "https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1",
+    "locations": [
+      "Newark, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160715,
+    "date_updated": 1795160900,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Associate's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Engineering",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "ee5d09c5-4c0a-493e-8f1e-79f8bfa5ca98",
+    "company_name": "Centralized Supply Chain Services",
+    "company_url": "https://simplify.jobs/c/Centralized-Supply-Chain-Services",
+    "title": "Data Quality Intern",
+    "url": "https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=a2ce0cf6-5514-4817-976f-974dcc0ca215",
+    "locations": [
+      "Lenexa, KS"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160592,
+    "date_updated": 1795160708,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Management",
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
+    "id": "25838c6f-410b-4027-978e-95e9ce3c2f5d",
+    "company_name": "Centralized Supply Chain Services",
+    "company_url": "https://simplify.jobs/c/Centralized-Supply-Chain-Services",
+    "title": "Engineering Intern",
+    "url": "https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=37bcf213-e2be-4f42-9935-303281746ec0",
+    "locations": [
+      "Lenexa, KS"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160591,
+    "date_updated": 1795160708,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Engineering",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "a3321497-bc73-4221-b04b-32490b84a5f3",
+    "company_name": "CAS",
+    "company_url": "https://simplify.jobs/c/Chemical-Abstracts-Service",
+    "title": "Business Data Analytics Intern - AI/ML Focus",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160574,
+    "date_updated": 1795160740,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Engineering",
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
+    "id": "b0f86d9b-4811-4e68-9189-0a319dc8b345",
+    "company_name": "CAS",
+    "company_url": "https://simplify.jobs/c/Chemical-Abstracts-Service",
+    "title": "CAS 2027 Technology Summer Intern - Business Data Governance",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160574,
+    "date_updated": 1795160726,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Management",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "b9cf15b7-d82f-4efc-8428-4313aa985f7a",
+    "company_name": "CAS",
+    "company_url": "https://simplify.jobs/c/Chemical-Abstracts-Service",
+    "title": "Cheminformatics Scientist Intern",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160574,
+    "date_updated": 1795160727,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Full-Stack Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "b27347a8-1623-4004-9e22-bb313e6550af",
+    "company_name": "CAS",
+    "company_url": "https://simplify.jobs/c/Chemical-Abstracts-Service",
+    "title": "Chemist Intern - Content Operations",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160574,
+    "date_updated": 1795160726,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Data Management",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "ec7f63ef-e6eb-4cd7-9183-0a490bba7fea",
+    "company_name": "CAS",
+    "company_url": "https://simplify.jobs/c/Chemical-Abstracts-Service",
+    "title": "Product Management Intern",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160574,
+    "date_updated": 1795160725,
+    "category": "Product",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Product Management",
+      "Product"
+    ]
+  },
+  {
+    "id": "85823614-4deb-4ffa-a83b-0aa1d9620736",
+    "company_name": "CAS",
+    "company_url": "https://simplify.jobs/c/Chemical-Abstracts-Service",
+    "title": "Technology Intern - Application Technology",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160574,
+    "date_updated": 1795160726,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2026",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "651cb369-091d-4f2a-a756-11b5f0d2cf24",
+    "company_name": "CAS",
+    "company_url": "https://simplify.jobs/c/Chemical-Abstracts-Service",
+    "title": "Technology Intern - Databases",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160574,
+    "date_updated": 1795160732,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "65b8d861-fb4d-40ef-9d90-fde59643e501",
+    "company_name": "CAS",
+    "company_url": "https://simplify.jobs/c/Chemical-Abstracts-Service",
+    "title": "Technology Intern - Software Engineering",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160574,
+    "date_updated": 1795160726,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "3a112a1d-cf3e-4003-9e9c-a7b03b3b753a",
+    "company_name": "iA",
+    "company_url": "https://simplify.jobs/c/Iarx",
+    "title": "Software Data Engineer Intern",
+    "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160325,
+    "date_updated": 1795160390,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$18–$26/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship",
+      "Work auth required"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Engineering",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "100a3877-0948-435a-a35c-03be89ef5d7f",
+    "company_name": "iA",
+    "company_url": "https://simplify.jobs/c/Iarx",
+    "title": "Software Development Engineer Intern",
+    "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1",
+    "locations": [
+      "Binghamton, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795160325,
+    "date_updated": 1795160390,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$18–$26/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship",
+      "Work auth required"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "7a1cd48c-673b-4540-99e2-41bf53c586d4",
+    "company_name": "Marias Technology",
+    "company_url": "https://simplify.jobs/c/Marias-Technology",
+    "title": "Software Developer Intern",
+    "url": "https://mariastechnology.bamboohr.com/careers/27/",
+    "locations": [
+      "Covington, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159863,
+    "date_updated": 1795159982,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$22–$24/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "fe78548c-a1e1-4fcb-a85c-b5c7a51f9274",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "AI Software Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159701,
+    "date_updated": 1795159893,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PharmD",
+      "PhD"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$26–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Applied Machine Learning",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "9c54d364-ad5f-46e0-ba72-7f990d2553c2",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "AI Software Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159701,
+    "date_updated": 1795159900,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$26–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship",
+      "Work auth required"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Applied Machine Learning",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "2a3bd859-e0bf-4e31-a8d7-418d1999415b",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Embedded Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120770",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159701,
+    "date_updated": 1795159890,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$25–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "798f1946-d06a-460e-939c-495286a53cc3",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Embedded Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119843",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159700,
+    "date_updated": 1795159890,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$25–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "87dabf22-b43f-4dd2-8e18-6134d7bea23b",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Semiconductor Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119888",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159700,
+    "date_updated": 1795159891,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "MBA",
+      "PharmD",
+      "PhD",
+      "JD",
+      "MD",
+      "Bachelor's",
+      "Bachelor's",
+      "Bachelor's",
+      "Master's",
+      "Master's",
+      "Master's",
+      "DO"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$25–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship",
+      "Work auth required"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Hardware Validation & Testing",
+      "Hardware Engineering"
+    ]
+  },
+  {
+    "id": "91392c37-e116-42a1-8566-d26fc39fd348",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Semiconductor Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119865",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159700,
+    "date_updated": 1795159891,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$25–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Hardware Validation & Testing",
+      "Hardware Engineering"
+    ]
+  },
+  {
+    "id": "6c63d83e-2427-4ab6-93a3-4e4f765cb782",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Information Systems Data Science Intern - IT",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159699,
+    "date_updated": 1795159894,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$23–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Science",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "bd33ada7-01d7-4b42-afd3-dbfd56e9010e",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Software Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159699,
+    "date_updated": 1795159895,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$26–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "99b77642-45fa-477e-ad57-b2d678bf2086",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Software Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159699,
+    "date_updated": 1795159894,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$26–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship",
+      "Work auth required"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "28aae0c2-d80b-44a5-a6a7-7ecabb7e51af",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Software Engineer Recent Grad",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120265",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159699,
+    "date_updated": 1795159895,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$46–$59/hr",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "67b563de-9d90-4f4b-b20e-2f5948926ed5",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Software Engineering New Grad",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159699,
+    "date_updated": 1795159889,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$46–$59/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "9ca75007-6dfd-46bb-a091-0b6ec78828a7",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Information Systems Data Science Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159698,
+    "date_updated": 1795159889,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$23–$44.85/hr",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Science",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "f0885220-6817-4024-8e1b-6c94e820f385",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Software Engineer 1",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/99125642",
+    "locations": [
+      "Clearwater, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159688,
+    "date_updated": 1795159883,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US citizenship",
+      "US clearance"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "e3c785ce-b794-49bf-ba72-a27d6352a5ce",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Software Engineer 1",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127431",
+    "locations": [
+      "Clearwater, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159676,
+    "date_updated": 1795159871,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US citizenship",
+      "US clearance"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "ad5d553c-6809-4373-b13f-13a97a7b1f95",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Artificial Intelligence Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159675,
+    "date_updated": 1795159868,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$24.04–$28.12/hr",
+    "detail_auth": [
+      "Canadian citizen/PR"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Applied Machine Learning",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "5d7f0eea-b28d-4a76-985d-7e8d5cf0c854",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Electrical Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159674,
+    "date_updated": 1795159866,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "other",
+    "detail_pay": "$24.04–$28.12/hr",
+    "detail_auth": [
+      "Canadian citizen/PR"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Hardware Engineering",
+      "Board & Electronics Design"
+    ]
+  },
+  {
+    "id": "56ba84a3-2efc-4a63-96e1-7804b9f09f13",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Embedded Engineer Intern",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159674,
+    "date_updated": 1795159868,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "other",
+    "detail_pay": "$24.04–$28.12/hr",
+    "detail_auth": [
+      "Canadian citizen/PR"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "2c866a58-ed65-4b57-a267-8a7016c38c72",
+    "company_name": "Honeywell Aerospace",
+    "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+    "title": "Embedded Software Engineer 1 - Flight Management System",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/128476",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159655,
+    "date_updated": 1795159839,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship",
+      "US person"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "0c884a35-d2e9-478a-b007-cb9b4907befe",
+    "company_name": "Scheels",
+    "company_url": "https://simplify.jobs/c/Scheels",
+    "title": "Data Analyst Intern",
+    "url": "https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24",
+    "locations": [
+      "Fargo, ND"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159541,
+    "date_updated": 1795159630,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Analysis",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "b3468972-56ab-4076-a1ee-c523f1a719cd",
+    "company_name": "Apple",
+    "company_url": "https://simplify.jobs/c/Apple",
+    "title": "AR/VR Software Engineer - Spatial System UI - Vision Products Software",
+    "url": "https://jobs.apple.com/en-us/details/200696147",
+    "locations": [
+      "Sunnyvale, CA",
+      "Boulder, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159460,
+    "date_updated": 1795159630,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Frontend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "64e1919d-6c6d-43fa-a3ee-0f0579a5f5d2",
+    "company_name": "EFI Foundation",
+    "company_url": "https://simplify.jobs/c/EFI-Foundation",
+    "title": "Research Intern/Fellow",
+    "url": "https://efifoundation.bamboohr.com/careers/43/",
+    "locations": [
+      "Washington, DC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159191,
+    "date_updated": 1795159284,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$20–$27/hr",
+    "detail_auth": [
+      "US work auth"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Management",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "3b40bb90-ae9c-4d47-ac95-d8dd6c416a99",
+    "company_name": "Zepto Life Technology",
+    "company_url": "https://simplify.jobs/c/Zepto-Life-Technology",
+    "title": "Software Developer 1",
+    "url": "https://zeptolife.bamboohr.com/careers/143/",
+    "locations": [
+      "St Paul, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159138,
+    "date_updated": 1795159278,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "d263736b-e32b-4826-90b6-26e21a6d1a7d",
+    "company_name": "Melaleuca",
+    "company_url": "https://simplify.jobs/c/Melaleuca",
+    "title": "Software Development Intern",
+    "url": "https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf",
+    "locations": [
+      "Idaho Falls, ID"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795159028,
+    "date_updated": 1795159148,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "2826d282-8f4d-4136-ac55-8b63c5942327",
+    "company_name": "Rise Internet",
+    "company_url": "https://simplify.jobs/c/Rise-Internet",
+    "title": "Software Engineer 1",
+    "url": "https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1",
+    "locations": [
+      "Irving, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795158577,
+    "date_updated": 1795158743,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "2be0835e-fbfd-4ad1-8ee5-e83ce56a660b",
+    "company_name": "Qualcomm",
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "title": "DSP Applications Software Engineer - ASICS Engineering",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446722230518",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795158320,
+    "date_updated": 1795158367,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$49–$73/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Hardware Engineering",
+      "Silicon & ASIC Design"
+    ]
+  },
+  {
+    "id": "09da3dd8-927e-4026-9b1d-ef76a8121304",
+    "company_name": "Omnimed",
+    "company_url": "https://simplify.jobs/c/Omnimed",
+    "title": "ML Developer - Junior or Intermediate",
+    "url": "https://omnimed.bamboohr.com/careers/73/",
+    "locations": [
+      "Cookshire-Eaton, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795158267,
+    "date_updated": 1795158448,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI & Machine Learning",
+      "Natural Language Processing & LLMs"
+    ]
+  },
+  {
     "id": "a8001fb2-9680-4964-8743-9e22282fe768",
     "company_name": "ATA Engineering",
     "company_url": "https://simplify.jobs/c/ATA-Engineering",
@@ -329,6 +2099,38 @@
     "detail_desc_terms": "",
     "functions": [
       "Hardware Engineering"
+    ]
+  },
+  {
+    "id": "354c0758-802d-4ab5-8ee4-879e6d627e89",
+    "company_name": "Trener Robotics",
+    "company_url": "https://simplify.jobs/c/Trener-Robotics",
+    "title": "Robotics Engineer / Lab Technician Intern",
+    "url": "https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795132800,
+    "date_updated": 1795169570,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Engineering",
+      "Data & Analytics"
     ]
   },
   {
@@ -11906,38 +13708,6 @@
     ]
   },
   {
-    "id": "eb961a40-c8ad-450e-9ef6-4a0b05ba5920",
-    "company_name": "Intermountain Healthcare",
-    "company_url": "https://simplify.jobs/c/Intermountain-Health",
-    "title": "AI/ML Engineer Intern",
-    "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794441600,
-    "date_updated": 1794527293,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$21.81–$32.21/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Applied Machine Learning",
-      "AI & Machine Learning"
-    ]
-  },
-  {
     "id": "3ce645b0-f6de-4226-a5b3-65a6d95354ae",
     "company_name": "Intermountain Healthcare",
     "company_url": "https://simplify.jobs/c/Intermountain-Health",
@@ -14878,43 +16648,6 @@
     ]
   },
   {
-    "id": "faa8ced0-db83-4724-94e6-3b1f665c56bf",
-    "company_name": "Motorola Solutions",
-    "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-    "title": "Software Engineer Intern",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179",
-    "locations": [
-      "Schaumburg, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794440218,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "f865a3d4-ed0b-49c0-89c5-e6ce47db6f5a",
     "company_name": "PTC",
     "company_url": "https://simplify.jobs/c/PTC",
@@ -15095,43 +16828,6 @@
     "functions": [
       "Full-Stack Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "48935b0b-e0eb-428e-9f8a-e059c24622c3",
-    "company_name": "RTX",
-    "company_url": "https://simplify.jobs/c/RTX",
-    "title": "Electrical Engineer Intern - Test Solutions",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01887669",
-    "locations": [
-      "Tewksbury, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794355200,
-    "date_updated": 1794439489,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "$18–$39/hr",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering"
     ]
   },
   {
@@ -16535,42 +18231,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "856e8598-1430-4814-b02b-e59b77bd4bf4",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Data Analyst Co-op Intern",
-    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794268800,
-    "date_updated": 1794352184,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$17–$31/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
     ]
   },
   {
@@ -19261,40 +20921,6 @@
     "functions": [
       "Backend Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "d5dd8ba8-db2a-4f20-81b6-6790d8eb9216",
-    "company_name": "Fresenius Medical Care",
-    "company_url": "https://simplify.jobs/c/Fresenius",
-    "title": "Verification and Validation Systems Engineer Co-op",
-    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/V-V-Systems-Engineer-Co-op_R0277323",
-    "locations": [
-      "Lawrence, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794182400,
-    "date_updated": 1794267256,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering"
     ]
   },
   {
@@ -22073,37 +23699,6 @@
     ]
   },
   {
-    "id": "206ba36a-050c-448b-b880-2b4c5ab214d4",
-    "company_name": "Charles Schwab",
-    "company_url": "https://simplify.jobs/c/Charles-Schwab",
-    "title": "Associate Software Engineer",
-    "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793923200,
-    "date_updated": 1794006363,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "58a39cbd-4604-4dae-9205-3b5ddd7f8b7a",
     "company_name": "Chewy",
     "company_url": "https://simplify.jobs/c/Chewy",
@@ -23228,47 +24823,6 @@
     ]
   },
   {
-    "id": "540fffcc-1cee-4834-9b92-ebc48f062b36",
-    "company_name": "Public Service Enterprise Group",
-    "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
-    "title": "Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability",
-    "url": "https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors",
-    "locations": [
-      "Newark, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793919942,
-    "date_updated": 1793920119,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$18–$28/hr",
-    "detail_auth": [
-      "US work auth",
-      "Citizen/PR only",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "5f024a4b-4290-4b4c-83e4-bfc0197fece6",
     "company_name": "V2X",
     "company_url": "https://simplify.jobs/c/V2X",
@@ -23412,38 +24966,6 @@
     "functions": [
       "Data & Analytics",
       "Business Intelligence"
-    ]
-  },
-  {
-    "id": "8537e046-7519-47ea-ad7e-6684f0fb7398",
-    "company_name": "Catholic Charities of Kansas City-St. Joseph",
-    "company_url": "https://simplify.jobs/c/Catholic-Charities-Of-Kansas-City-St-Joseph",
-    "title": "Data and Project Coordinator AmeriCorps VISTA Intern",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4597604",
-    "locations": [
-      "Kansas City, MO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793914418,
-    "date_updated": 1793922417,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$11.97/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Management",
-      "Data & Analytics"
     ]
   },
   {
@@ -23831,39 +25353,6 @@
     "functions": [
       "Data Analysis",
       "Data & Analytics"
-    ]
-  },
-  {
-    "id": "98a47c6e-06dd-4d9d-95c5-02197443ddc8",
-    "company_name": "REI Systems",
-    "company_url": "https://simplify.jobs/c/REI-Systems",
-    "title": "Junior Associate Software Engineer - Java Full Stack",
-    "url": "https://careers-reisystems.icims.com/jobs/3511/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Sterling, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793864468,
-    "date_updated": 1795083343,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$37–$45/hr",
-    "detail_auth": [
-      "US citizenship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Full-Stack Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -28616,48 +30105,6 @@
     "functions": [
       "Hardware Engineering",
       "Board & Electronics Design"
-    ]
-  },
-  {
-    "id": "a8192ed5-e5e9-415e-a09c-8bbc96ebe4bd",
-    "company_name": "Moderna",
-    "company_url": "https://simplify.jobs/c/Moderna",
-    "title": "mRNA Design Engineer Co-op",
-    "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793664000,
-    "date_updated": 1793747725,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$20–$60/hr",
-    "detail_auth": [
-      "US work auth",
-      "US person",
-      "Citizen/PR only",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -34787,39 +36234,6 @@
     ]
   },
   {
-    "id": "6cb8334b-aefe-49d7-8abf-7622722ab92f",
-    "company_name": "Altera",
-    "company_url": "https://simplify.jobs/c/Altera-Corporation",
-    "title": "Software Engineer Intern - Factory Apps",
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793312871,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "CA$46–CA$48/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "3aef27f1-81a0-4132-86e8-047f408b4c2c",
     "company_name": "Argonne National Laboratory",
     "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
@@ -34886,45 +36300,6 @@
     "functions": [
       "Hardware Engineering",
       "Hardware Systems Integration"
-    ]
-  },
-  {
-    "id": "abaefc1d-50b7-4172-a329-4fc9c7667dbd",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Quantitative Trading Analyst Co-op",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793283503,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "CA$48/hr",
-    "detail_auth": [
-      "Canada work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Quantitative Finance",
-      "Quantitative Trading / Algorithm Development"
     ]
   },
   {
@@ -36163,42 +37538,6 @@
       "Summer 2027"
     ],
     "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "e0096175-7492-48c9-9a0f-d4b5ba3ce428",
-    "company_name": "Walmart",
-    "company_url": "https://simplify.jobs/c/Walmart",
-    "title": "Corporate Intern: Data & Tech Transformation Intern",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Data---Tech-Transformation-intern_R-2690457-1",
-    "locations": [
-      "Bentonville, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1793313222,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Incomplete"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$21–$40/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
     "functions": [
       "Data Analysis",
       "Data & Analytics"
@@ -49195,42 +50534,6 @@
     ]
   },
   {
-    "id": "9d2e8616-d457-4092-b63e-97eb1cf2fefe",
-    "company_name": "SDSU Research Foundation",
-    "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
-    "title": "Computer Science Intern",
-    "url": "https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792566000,
-    "date_updated": 1793862890,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$17.75/hr",
-    "detail_auth": [
-      "US citizenship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "b066e806-d56d-4915-a26e-bd7c3461144f",
     "company_name": "Storable",
     "company_url": "https://simplify.jobs/c/Storable",
@@ -49289,42 +50592,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "b3c0d835-cfc4-48e9-8841-d656e80fb21c",
-    "company_name": "Rhoda AI",
-    "company_url": "https://simplify.jobs/c/Rhoda-AI",
-    "title": "Software Engineer Intern - Inference",
-    "url": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792563163,
-    "date_updated": 1792563304,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Applied Machine Learning",
-      "AI & Machine Learning"
     ]
   },
   {
@@ -53831,40 +55098,6 @@
     ]
   },
   {
-    "id": "eedc9ed3-2ed7-4088-8fb7-f7a83b9ce541",
-    "company_name": "OneImaging",
-    "company_url": "https://simplify.jobs/c/OneImaging",
-    "title": "Associate Data Engineer",
-    "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4423646009",
-    "locations": [
-      "Miami, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790662565,
-    "date_updated": 1790662681,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$41–$55/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "7443e2ee-d487-4319-a352-cc1779444a7f",
     "company_name": "OneImaging",
     "company_url": "https://simplify.jobs/c/OneImaging",
@@ -54226,36 +55459,6 @@
     "functions": [
       "Applied Machine Learning",
       "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "797b4661-998f-4ea6-8778-a92417262718",
-    "company_name": "Neuralink",
-    "company_url": "https://simplify.jobs/c/Neuralink",
-    "title": "Software Engineer - Simulation",
-    "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790374554,
-    "date_updated": 1791065349,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$73–$135/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
     ]
   },
   {
