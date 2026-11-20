@@ -278,19 +278,6 @@
     "source": "mlh"
   },
   {
-    "name": "InnovateHer",
-    "location": "West Lafayette, Indiana",
-    "url": "https://innovateherhacks.org/",
-    "starts_at": "2027-02-06T01:11:11Z",
-    "ends_at": "2027-02-07T23:59:59Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "FEB 06 - 07",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
     "name": "SpartaHack",
     "location": "East Lansing, Michigan",
     "url": "https://www.spartahack.com/",
@@ -312,6 +299,19 @@
     "deadline_at": "",
     "deadline_kind": "",
     "when": "FEB 06 - 07",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
+    "name": "InnovateHer",
+    "location": "West Lafayette, Indiana",
+    "url": "https://innovateherhacks.org/",
+    "starts_at": "2027-02-13T12:00:00Z",
+    "ends_at": "2027-02-14T22:00:00Z",
+    "deadline_at": "",
+    "deadline_kind": "",
+    "when": "FEB 13 - 14",
     "status": "Upcoming",
     "tier": "major",
     "source": "mlh"

@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**96 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 07:32 ET
+**95 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 15:41 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,9 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Flare | Software Developer Intern | Montreal, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-20 | [Apply](https://flare.bamboohr.com/careers/29/) |
+| Huawei | Researcher Intern - Mathematical Foundations of Differentiable World Models | Ottawa, ON, Canada |  |  | CA$27.88–CA$50/hr | 2026-11-20 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) |
+| AON3D | Software Developer Intern | Montreal, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/aon3d/jobs/4504702009) |
 | Ottawa Tourism | Business Intelligence Assistant Intern | Ottawa, ON, Canada | Winter/Spring 2026 |  | CA$22/hr | 2026-11-20 | [Apply](https://ottawatourism.bamboohr.com/careers/123/) |
 | Honeywell Aerospace | Artificial Intelligence Engineer Intern | Kanata, Ottawa, ON, Canada |  | Canadian citizen/PR | CA$24.04–CA$28.12/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) |
 | EUNA Solutions | Associate AI-Enablement Developer Co-op | Oakville, ON, Canada | Winter/Spring 2027 |  | CA$25–CA$35/hr | 2026-11-19 | [Apply](https://euna.bamboohr.com/careers/822/) |
@@ -28,7 +31,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/287/) |
 | Birdseye Security Solutions | Computer Vision Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/289/) |
 | Xradar | Software Engineer Co-op | Burnaby, BC, Canada | Winter/Spring 2027 | Canadian citizen/PR |  | 2026-11-17 | [Apply](https://xradar.bamboohr.com/careers/203/) |
-| Manulife Financial | Technology Enablement Analyst Co-op | Toronto, ON, Canada | Winter/Spring 2027 |  |  | 2026-11-16 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1) |
 | Zurich Insurance | Data Analytics & AI Intern | Toronto, ON, Canada |  |  |  | 2026-11-16 | [Apply](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) |
 | Shopify | Applied Machine Learning Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada (+1) | Summer 2027 | No sponsorship, Canada work auth | CA$42.31–CA$46.15/hr | 2026-11-16 | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) |
 | Shopify | Data Intern | Montreal, QC, Canada, Toronto, ON, Canada (+1) | Summer 2027 | No sponsorship, US work auth, Canada work auth | CA$32.98–CA$40.96/hr | 2026-11-16 | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) |
@@ -54,7 +56,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Qualcomm | Driver and Tools Developer Intern - Telemetry Firmware | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-05 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721989047) |
 | Acumatica | Developer Intern | Montreal, QC, Canada | Winter/Spring 2026 |  |  | 2026-11-05 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799) |
 | DataVisor | Software Engineer Intern | Remote in Canada | Winter/Spring 2027 |  |  | 2026-11-04 | [Apply](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) |
-| Qualcomm | Machine Learning Engineering Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-04 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721969461) |
 | Element Fleet Management | Forward Deployed Engineer Intern | Toronto, ON, Canada |  | No sponsorship, Canada work auth | CA$26.15–CA$35.96/hr | 2026-11-04 | [Apply](https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-11-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  |  | 2026-11-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) |
@@ -66,7 +67,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Ciena | Software Developer Co-op Intern | Remote in Canada, Québec City, QC, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-11-02 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) |
 | Meta | Research Scientist Intern - FAIR - World Model Foundations | Montreal, QC, Canada |  |  |  | 2026-11-02 | [Apply](https://www.metacareers.com/jobs/1406585275871250) |
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
-| Zimmer Biomet Holdings | Software Developer Co-op | Montreal, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-02 | [Apply](https://careers.zimmerbiomet.com/us/en/job/13309) |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-02 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada | Fall 2027 |  |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
 | Waterworth | Computer Science Co-op | Victoria, BC, Canada | Winter/Spring 2027 |  | CA$24–CA$29/hr | 2026-10-29 | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) |
@@ -105,4 +105,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Aptiv | Linux Intern | Kanata, Ottawa, ON, Canada |  |  | CA$23.08–CA$28.85/hr | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370) |
 | Ciena | Software Developer Intern | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-10-21 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) |
 | Qualcomm | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
-| Qualcomm | Display Systems Engineer Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661677) |

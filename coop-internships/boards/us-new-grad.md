@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**433 open** · newest first · removed when closed or after 60 days · Updated 2026-11-20 07:32 ET
+**434 open** · newest first · removed when closed or after 60 days · Updated 2026-11-20 15:41 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,10 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| L3Harris Technologies | Associate FPGA Firmware Electrical Engineering | Fort Wayne, IN |  |  |  | 2026-11-20 | [Apply](https://jobs.l3harris.com/job/Fort-Wayne-Associate,-FPGA-Firmware-Electrical-Engineering-IN-46818/1452528900/?ats=successfactors) |
+| L3Harris Technologies | Associate, FPGA Firmware Electrical Engineering | Fort Wayne, IN |  |  |  | 2026-11-20 | [Apply](https://jobs.l3harris.com/job/Fort-Wayne-Associate,-FPGA-Firmware-Electrical-Engineering-IN-46818/1452529600/?ats=successfactors) |
+| L3Harris Technologies | Associate Embedded Software Engineer | Fort Wayne, IN |  |  |  | 2026-11-20 | [Apply](https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Embedded-Software-Engineer-IN-46818/1452529800/?ats=successfactors) |
+| USAN | Application Developer New Grad | Norcross, GA |  | No sponsorship, US work auth |  | 2026-11-20 | [Apply](https://usan.bamboohr.com/careers/204/) |
 | Sante | AI Engineer | Austin, TX |  | No sponsorship, US work auth |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/job?cid=6045a3c5-9cfb-4d71-9c06-80a911514305&jobId=274361596777_1) |
 | Honeywell Aerospace | Software Engineer Recent Grad | United States |  | US citizenship, No sponsorship | $46–$59/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120265) |
 | Honeywell Aerospace | Software Engineering New Grad | United States |  | No sponsorship, US work auth | $46–$59/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524) |
@@ -271,8 +275,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Aerotech | Software Engineer - Embedded Development | Pittsburgh, PA |  | No sponsorship, US work auth |  | 2026-10-22 | [Apply](https://aerotech.applytojob.com/apply/qvl9WUuH2i/Software-Engineer-Embedded-Development) |
 | McMaster-Carr | Technology Developer - Development - Design | Elmhurst, IL |  | No sponsorship | $64/hr | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009) |
 | Amazon | Robotics Embedded Software Development Engineer | North Reading, MA, Westborough, MA |  |  | $62/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer) |
-| Booz Allen | Software Developer | Honolulu, HI, Annapolis Junction, MD (+9) |  | US clearance | $25–$52/hr | 2026-10-21 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280) |
-| CDK Global | Associate Software Engineer | Austin, TX |  | No sponsorship, US work auth | $41–$46/hr | 2026-10-21 | [Apply](https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9204) |
 | Draper | Software Machine Learning Engineer - GNSS - Software Defined Radio | Cambridge, MA |  | US clearance | $30–$67/hr | 2026-10-21 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Mach-Learn-Engr--GNSS--Software-Defined-Radio-_JR003064) |
 | PeopleTec | Associate Data Integration & Software Specialist | Huntsville, AL |  | US clearance, US citizenship, No sponsorship |  | 2026-10-21 | [Apply](https://careers-peopletec.icims.com/jobs/5418/job?mobile=true&needsRedirect=false) |
 | Apple | Software Engineer - SoC Level Validation Engineer | Austin, TX, Beaverton, OR (+3) |  |  |  | 2026-10-21 | [Apply](https://jobs.apple.com/en-us/details/200690790) |
@@ -368,7 +370,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Graham Capital Management | Quantitative Trading and Research Operations Developer | Norwalk, CT |  |  | $43–$60/hr | 2026-10-07 | [Apply](https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4741577005) |
 | Otter.ai | Software Engineer New Grad - Front-End | Mountain View, CA |  |  | $65–$79/hr | 2026-10-07 | [Apply](https://otter.ai/careers?gh_jid=8016078003) |
 | Garmin | Software Engineer 1 - Web Applications | Olathe, KS |  |  |  | 2026-10-07 | [Apply](https://careers.garmin.com/jobs/20219?icims=1) |
-| Visa | Software Engineer Operations and Infrastructure | Austin, TX |  |  |  | 2026-10-06 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) |
 | Axos Bank | Junior AI Engineer | San Diego, CA |  | US citizenship | $30/hr | 2026-10-06 | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526) |
 | CACI | Entry Level C# Software Engineer | Virginia Beach, VA |  | US clearance, US citizenship, No sponsorship | $28–$56/hr | 2026-10-06 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249) |
 | CACI | Web Application Developer – Early Career | Chantilly, VA, Reston, VA |  |  | $30–$62/hr | 2026-10-06 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158) |

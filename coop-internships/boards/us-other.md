@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**271 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 07:32 ET
+**269 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 15:41 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -27,6 +27,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | L3Harris Technologies | Associate Optical Engineer Intern | Rochester, NY |  |  | $32–$59/hr | 2026-11-19 | [Apply](https://jobs.l3harris.com/job/Rochester-Associate,-Optical-Engineer-NY-14606/1422807100/?ats=successfactors) |
 | MSA Safety | Electrical Engineering Intern/Co-op | Cranberry Township, PA | Summer 2027 |  |  | 2026-11-19 | [Apply](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us) |
 | Eridu AI | ASIC Architecture Intern | Saratoga, CA |  |  |  | 2026-11-19 | [Apply](https://ats.rippling.com/eridu-ai/jobs/681e2e82-20b9-4145-b235-38196a64097f) |
+| Graco | Electrical Engineering Intern | Flagstaff, AZ |  | No sponsorship, US work auth | $21–$28/hr | 2026-11-18 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023552) |
 | Lucid | Product Management Intern | Salt Lake City, UT | Summer 2027 |  |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | Lucid | Product Management Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
 | Acuity | Electrical Engineer Intern | Decatur, GA | Summer 2026 | US work auth, Sponsors |  | 2026-11-18 | [Apply](https://careers.acuityinc.com/job/Decatur-Intern-Electrical-Engineer-GA-30035/1451786900/?ats=successfactors) |
@@ -43,7 +44,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Canyon AeroConnect | Electrical Engineer Intern | Prescott, AZ |  |  |  | 2026-11-17 | [Apply](https://canyonaeroconnect.bamboohr.com/careers/165/) |
 | Canyon AeroConnect | Test Engineer Intern | Prescott, AZ |  | US citizenship, US person |  | 2026-11-17 | [Apply](https://canyonaeroconnect.bamboohr.com/careers/166/) |
 | Research Innovations | Department of War SkillBridge Operations SME Intern | Remote in USA |  | US clearance |  | 2026-11-16 | [Apply](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) |
-| Microchip Technology | Engineering Intern - ASIC Verification | San Jose, CA |  |  | $19–$30/hr | 2026-11-16 | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4910-26) |
 | SRI International | Electrical Engineering Co-op | Princeton, NJ |  | US citizenship, No sponsorship | $20–$27/hr | 2026-11-16 | [Apply](https://careers-sri.icims.com/jobs/6543/job?mobile=true&needsRedirect=false) |
 | GM Financial | Product Owner Intern | Arlington, TX | Summer 2027 | No sponsorship |  | 2026-11-16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) |
 | Bound | Product Management Intern | Ames, IA | Summer 2027 |  |  | 2026-11-16 | [Apply](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) |
@@ -242,7 +242,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | ABB | Product Management Intern | New Berlin, WI | Summer 2027 | No sponsorship, US work auth | $20–$34/hr | 2026-10-25 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) |
 | Analog Devices | Embedded Systems Co-op | Boston, MA |  | US citizenship | $22–$41/hr | 2026-10-25 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) |
 | Axos Bank | Product Intern | San Diego, CA | Summer 2026 | US citizenship | $17.85–$24.15/hr | 2026-10-25 | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/Los-Angeles-CA/Product-Intern_JR5661) |
-| Boston Dynamics | Systems Test Engineer Co-op | Waltham, MA |  |  |  | 2026-10-25 | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312) |
 | Federal Home Loan Bank of Dallas | Accounting Tech Solutions Intern | Irving, TX | Summer 2027 |  |  | 2026-10-25 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444) |
 | General Dynamics Mission Systems | Systems Engineering Intern - Sonar | Manassas, VA |  | US clearance, US citizenship, No sponsorship | $0/hr | 2026-10-25 | [Apply](https://careers-gdms.icims.com/jobs/75796/job?mobile=true&needsRedirect=false) |
 | Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA |  |  | $35–$41/hr | 2026-10-25 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067) |
@@ -280,4 +279,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Meta | Research Intern - Audio Hardware | Redmond, WA |  |  |  | 2026-10-21 | [Apply](https://www.metacareers.com/jobs/1445807477756644) |
 | Anduril | Business Operations Engineer Co-op | Ashville, OH, Costa Mesa, CA | Winter/Spring 2027 | US person, US work auth | $24–$45/hr | 2026-10-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007) |
 | Anduril | Business Operations Engineer Intern | Ashville, OH, Costa Mesa, CA | Summer 2027 | US person, No sponsorship, US work auth | $24–$45/hr | 2026-10-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) |
-| OneEthos | Product Management Intern | Remote in USA | Fall 2026, Winter/Spring 2027, Summer 2027 | US work auth |  | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) |
