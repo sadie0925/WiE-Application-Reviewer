@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**45 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 20:44 ET
+**44 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 03:48 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -48,7 +48,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Qualcomm | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$26–CA$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) |
 | Ciena | Hardware Characterization Automation Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014) |
 | Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) |
-| Ciena | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25–CA$35/hr | 2026-10-26 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) |
 | Trimble | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada |  |  |  | 2026-10-26 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) |
 | Altera | Intellectual Property Design Intern | Toronto, ON, Canada |  | Canada work auth | CA$43–CA$48/hr | 2026-10-22 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Summer 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |

@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**99 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 20:44 ET
+**98 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 03:48 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -21,7 +21,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Method | Engineering Resident Intern | Remote in USA, Santa Clara, CA (+2) |  |  | $20/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/method/jobs/8208724003) |
 | Flare | Software Developer Intern | Montreal, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-20 | [Apply](https://flare.bamboohr.com/careers/29/) |
 | Huawei | Researcher Intern - Mathematical Foundations of Differentiable World Models | Ottawa, ON, Canada |  |  | CA$27.88–CA$50/hr | 2026-11-20 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) |
-| AON3D | Software Developer Intern | Montreal, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/aon3d/jobs/4504702009) |
 | Ottawa Tourism | Business Intelligence Assistant Intern | Ottawa, ON, Canada | Winter/Spring 2026 |  | CA$22/hr | 2026-11-20 | [Apply](https://ottawatourism.bamboohr.com/careers/123/) |
 | Honeywell Aerospace | Artificial Intelligence Engineer Intern | Kanata, Ottawa, ON, Canada |  | Canadian citizen/PR | CA$24.04–CA$28.12/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) |
 | Mackenzie Investments | AI Program Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$24.04–CA$25.48/hr | 2026-11-19 | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) |
@@ -78,6 +77,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Meta | Research Scientist Intern - FAIR - World Model Foundations | Montreal, QC, Canada |  |  |  | 2026-11-02 | [Apply](https://www.metacareers.com/jobs/1406585275871250) |
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-02 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) |
+| GIRO | Front-End Web Development Intern | Montreal, QC, Canada | Winter/Spring 2027 | Canada work auth |  | 2026-10-31 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317) |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada | Fall 2027 |  |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
 | Waterworth | Computer Science Co-op | Victoria, BC, Canada | Winter/Spring 2027 |  | CA$24–CA$29/hr | 2026-10-29 | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) |
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$26–CA$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
@@ -93,7 +93,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Uber | Software Engineer Intern | Toronto, ON, Canada |  |  | CA$48.40/hr | 2026-10-27 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) |
 | Lumerate | Data Associate Intern | Canada, Remote in Canada | Winter/Spring 2027 | Canadian citizen/PR | CA$20.19/hr | 2026-10-27 | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) |
 | Nasdaq | Back End Software Developer Co-op Intern | Toronto, ON, Canada |  |  |  | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/nasdaq/jobs/4453620009) |
-| Hitachi | Software Analyst Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$23–CA$30/hr | 2026-10-26 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Montreal, QC, Canada | Summer 2027 |  |  | 2026-10-25 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
 | SOTI | Software Developer Intern - Android | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-10-25 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) |
 | Kinaxis | Full Stack Developer Intern - C# | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$27.04–CA$39.66/hr | 2026-10-23 | [Apply](https://kinaxis.jibeapply.com/jobs/35343?icims=1) |

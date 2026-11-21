@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**272 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 20:44 ET
+**274 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 03:48 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| iA | Industrial Engineer Intern | Johnson City, NY | Summer 2027 | No sponsorship, US work auth | $18–$26/hr | 2026-11-21 | [Apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) |
+| Etched | Signal Integrity and Power Integrity Intern | San Jose, CA | Summer 2027 |  |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true) |
 | Fidelity Bank | Digital Operations Analyst Intern | Wichita, KS |  |  |  | 2026-11-20 | [Apply](https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0) |
 | RosaicLabs | CPU Architecture & Performance Engineer Intern | Austin, TX, Santa Clara, CA |  |  | $30–$55/hr | 2026-11-20 | [Apply](https://jobs.lever.co/rosaiclabs/5c1436d6-6bb3-4978-8e3e-bdd103cbbcab/apply) |
 | Calamos Investments | IT Architecture & Sales Systems Intern | Naperville, IL |  |  | $22/hr | 2026-11-20 | [Apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=d9cbb719-b68a-42b7-b40d-d8bf44caec64) |
@@ -33,6 +35,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Tarana Wireless | Hardware Test Engineer Intern | Milpitas, CA |  |  | $35–$45/hr | 2026-11-19 | [Apply](https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern) |
 | Lucid Motors | ADAS Systems Integration Intern | Newark, CA | Summer 2027 | No sponsorship | $53–$72/hr | 2026-11-19 | [Apply](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) |
 | Lawrence Livermore National Laboratory (LLNL) | Engineering Intern | Livermore, CA | Summer 2027 | US clearance, US citizenship | $23.26–$31.62/hr | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016986011) |
+| Centier Bank | Marketing Analyst Intern | Merrillville, IN |  |  | $19/hr | 2026-11-19 | [Apply](https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999) |
+| First PREMIER Bank | Digital Innovation & Strategy Intern | Sioux Falls, SD |  |  |  | 2026-11-19 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Digital-Innovation---Strategy-Internship_R-551-1) |
 | Microchip Technology | ASIC Verification Engineer Intern | San Jose, CA |  |  | $19–$30/hr | 2026-11-19 | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4973-26) |
 | Texas Instruments | Analog Design Engineer Intern - Gan Device | Santa Clara, CA |  |  |  | 2026-11-19 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020327) |
 | Ralliant | Electrical Design Engineer Intern | Beaverton, OR | Summer 2027 |  |  | 2026-11-19 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) |
@@ -275,10 +279,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Astera Labs | Signal Integrity Solutions Architect Intern | San Jose, CA |  |  | $35–$55/hr | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4746899005) |
 | GlobalFoundries | New Product Development Test Engineer Intern | Richardson, TX | Summer 2027 |  | $20–$40/hr | 2026-10-22 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957) |
 | GlobalFoundries | Tapeout Engineer Intern - Tapeout Operations | Essex Junction, VT | Summer 2027 |  | $20–$40/hr | 2026-10-22 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923) |
-| Huntington Bancshares | Enterprise Payments Intern | Detroit, MI, Minnetonka, MN (+1) | Summer 2027 | No sponsorship, US work auth | $21–$25/hr | 2026-10-22 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171) |
 | Intercontinental Exchange | Audit Analytics Intern | Atlanta, GA | Summer 2027 |  |  | 2026-10-22 | [Apply](https://careers-ice.icims.com/jobs/14069/job?mobile=true&needsRedirect=false) |
 | KLA | Engineer Intern | Milpitas, CA |  |  | $47–$56/hr | 2026-10-22 | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Engineering-Intern_2642277-1) |
 | KLA Corporation | Engineer Intern | Milpitas, CA |  |  | $47–$56/hr | 2026-10-22 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Engineering-Intern_2642277) |
 | Quadric | RTL Intern | Burlingame, CA |  | US work auth | $50–$57/hr | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/quadric/8bc97324-bcdb-4680-a03c-4c6e590644c2/application?embed=true) |
 | Peak Energy | Systems Integration and Test Engineer Intern | Burlingame, CA | Summer 2027 | US work auth | $35/hr | 2026-10-22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) |
-| Tesla | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter/Spring 2027 |  |  | 2026-10-21 | [Apply](https://www.tesla.com/careers/search/job/287443) |
