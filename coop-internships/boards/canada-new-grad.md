@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-20 15:41 ET
+**52 open** · newest first · removed when closed or after 60 days · Updated 2026-11-20 20:44 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,7 +10,9 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Octasic | Software Developer - Research & Development | Montreal, QC, Canada |  | US clearance |  | 2026-11-20 | [Apply](https://ats.rippling.com/octasic-inc/jobs/37d213b7-ac06-4ec0-9656-8dea3beff50f) |
 | Omnimed | ML Developer - Junior or Intermediate | Cookshire-Eaton, QC, Canada |  |  |  | 2026-11-20 | [Apply](https://omnimed.bamboohr.com/careers/73/) |
+| Keplar | Software Engineer New Grad | Toronto, ON, Canada, Waterloo, ON, Canada |  |  |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true) |
 | Journal Technologies | Junior Data Integration Developer | Victoria, BC, Canada, Remote in USA (+1) |  | US citizenship, Canadian citizen/PR, No sponsorship | $29–$36/hr | 2026-11-19 | [Apply](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d) |
 | Arcadion | Junior AI Developer | Ottawa, ON, Canada |  |  |  | 2026-11-18 | [Apply](https://arcadion.bamboohr.com/careers/52/) |
 | Sony Pictures Imageworks | Associate Software Developer - Infrastructure | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207497003) |
@@ -54,6 +56,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Motorola | Junior Software Engineer - AI Agent Platform | Remote in Canada |  |  |  | 2026-10-04 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300) |
 | Citco | Junior AI Engineer | Halifax Regional Municipality, NS, Canada |  |  |  | 2026-10-02 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20545) |
 | Fellow | Software Engineer New Grad | Ottawa, ON, Canada |  |  |  | 2026-10-01 | [Apply](https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true) |
+| EvenUp | Software Engineer New Grad - AI Entities | Toronto, ON, Canada |  |  |  | 2026-09-30 | [Apply](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true) |
 | Primoris Services | Application Developer | Acheson, AB, Canada |  |  |  | 2026-09-29 | [Apply](https://prim.wd108.myworkdayjobs.com/Primoris/job/Edmonton-AB/Application-Developer_JR102635) |
 | Harbor | Junior Developer - Finance Systems | Remote in Canada |  |  |  | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/harborglobal/jobs/5238900007) |
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA, Remote in Canada |  |  | $47–$69/hr | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) |

@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**38 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 15:41 ET
+**45 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 20:44 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,13 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| MDA Space | Engineering Student Intern - FPGA | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=216d347b-2abb-43e8-8fbc-268adecf0aa3) |
+| MDA Space | Engineering Intern - Test Procedures Engineering | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=5316ccee-7798-45ab-ab44-613a112b3126) |
+| MDA Space | Engineering Student Intern - FPGA Verification | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=e40bbead-0940-4adb-9ae8-2b3d4d3d6874) |
+| MDA Space | Engineering Intern - Test Procedure Engineering | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=23ba7a5c-469f-40f6-b33c-6e7bcbcf5355) |
+| MDA Space | Engineering Student Intern - Digital Electronics Test Station Design | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=080ac9a6-c9f4-4d51-bcf6-b4085e35e941) |
+| MDA Space | Engineering Student Intern - PCB Design and Electronic Integration | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=72d36cf7-637b-4e91-a9d6-660f11cb8075) |
+| Method | Product Management Intern | Remote in USA, Santa Clara, CA (+2) | Summer 2027 |  | $20/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003) |
 | Avnan | Electronics Engineering Technologist Co-op | Mississauga, ON, Canada | Winter/Spring 2027 |  |  | 2026-11-20 | [Apply](https://avnan.bamboohr.com/careers/125/) |
 | Honeywell Aerospace | Electrical Engineer Intern | Kanata, Ottawa, ON, Canada |  | Canadian citizen/PR | CA$24.04–CA$28.12/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) |
 | Honeywell Aerospace | Embedded Engineer Intern | Kanata, Ottawa, ON, Canada |  | Canadian citizen/PR | CA$24.04–CA$28.12/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) |

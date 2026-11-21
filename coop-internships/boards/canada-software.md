@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**95 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 15:41 ET
+**99 open** · newest first · removed when closed or after 30 days · Updated 2026-11-20 20:44 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,11 +10,21 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Mawer Investment Management | AI Engineer Student Intern | Calgary, AB, Canada | Winter/Spring 2027 | Canada work auth |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199) |
+| Mawer Investment Management | AI Orchestrator Student Intern | Calgary, AB, Canada | Winter/Spring 2027 | Canada work auth |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0) |
+| Pason Systems | Software Developer Intern - Datahub | Calgary, AB, Canada | Summer 2027 |  |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8) |
+| HME | Development Intern | St-Bruno-de-Montarville, QC, Canada |  |  |  | 2026-11-20 | [Apply](https://hmeukg.rec.pro.ukg.net/HME1500HMEN/JobBoard/616b8ff0-9933-405d-9892-26f121d3a657/OpportunityDetail?opportunityId=85e04b3e-3362-406f-8d3e-b46fe7b5590f) |
+| MDA Space | Engineering Student Co-op - AI/ML Specialist | Richmond, BC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR | CA$25–CA$29/hr | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f) |
+| MDA Space | Engineering Student Intern - Python Test Data Processing | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=67af442f-ca28-47b2-b86b-eaa3d5192fe0) |
+| Meridian Credit Union | Data and Artificial Intelligence Student Intern | Etobicoke, ON, Canada, St. Catharines, ON, Canada |  |  | CA$25.50/hr | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) |
+| Dometic | Product Designer Co-op - Software | Vancouver, BC, Canada |  |  | CA$24.50–CA$28.50/hr | 2026-11-20 | [Apply](https://edometic.rec.pro.ukg.net/DOM1500DOCO/JobBoard/1883c52c-7f1b-4c5d-97a8-113c61f2f7ad/OpportunityDetail?opportunityId=69fda379-1792-4110-8b62-200e8b7e75fe) |
+| Method | Engineering Resident Intern | Remote in USA, Santa Clara, CA (+2) |  |  | $20/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/method/jobs/8208724003) |
 | Flare | Software Developer Intern | Montreal, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-20 | [Apply](https://flare.bamboohr.com/careers/29/) |
 | Huawei | Researcher Intern - Mathematical Foundations of Differentiable World Models | Ottawa, ON, Canada |  |  | CA$27.88–CA$50/hr | 2026-11-20 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) |
 | AON3D | Software Developer Intern | Montreal, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/aon3d/jobs/4504702009) |
 | Ottawa Tourism | Business Intelligence Assistant Intern | Ottawa, ON, Canada | Winter/Spring 2026 |  | CA$22/hr | 2026-11-20 | [Apply](https://ottawatourism.bamboohr.com/careers/123/) |
 | Honeywell Aerospace | Artificial Intelligence Engineer Intern | Kanata, Ottawa, ON, Canada |  | Canadian citizen/PR | CA$24.04–CA$28.12/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) |
+| Mackenzie Investments | AI Program Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$24.04–CA$25.48/hr | 2026-11-19 | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) |
 | EUNA Solutions | Associate AI-Enablement Developer Co-op | Oakville, ON, Canada | Winter/Spring 2027 |  | CA$25–CA$35/hr | 2026-11-19 | [Apply](https://euna.bamboohr.com/careers/822/) |
 | Horizon Trading Solutions | Java Developer Intern | Montreal, QC, Canada |  |  |  | 2026-11-19 | [Apply](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101) |
 | Workstream | Full Stack Engineer Intern | Vancouver, BC, Canada |  |  | CA$19–CA$22/hr | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6265872004) |
@@ -99,9 +109,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Veeda AI | Software Engineering Intern | Toronto, ON, Canada |  |  |  | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) |
 | KRAFTON | UI Programming Intern | Montreal, QC, Canada |  |  |  | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) |
 | Qualcomm | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) |
-| Aptiv | HVP Certification Engineer Intern | Kanata, Ottawa, ON, Canada |  |  |  | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704378) |
-| Aptiv | HVP/Certification Engineer Intern | Kanata, Ottawa, ON, Canada |  |  |  | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379) |
-| Aptiv | Linux Engineer Intern | Kanata, Ottawa, ON, Canada |  |  | CA$23.08–CA$28.85/hr | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371) |
-| Aptiv | Linux Intern | Kanata, Ottawa, ON, Canada |  |  | CA$23.08–CA$28.85/hr | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370) |
-| Ciena | Software Developer Intern | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$25.50–CA$35/hr | 2026-10-21 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) |
-| Qualcomm | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
