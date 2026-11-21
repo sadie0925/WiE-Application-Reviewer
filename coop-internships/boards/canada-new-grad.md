@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**55 open** · newest first · removed when closed or after 60 days · Updated 2026-11-21 03:48 ET
+**54 open** · newest first · removed when closed or after 60 days · Updated 2026-11-21 11:25 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -39,7 +39,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | DraftKings | Software Engineer | Remote in Canada |  |  |  | 2026-10-29 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324-1) |
 | Mitel Networks | Junior Full Stack Web Developer | Ottawa, ON, Canada |  |  |  | 2026-10-29 | [Apply](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211) |
 | Thoughtworks | Associate Developer | Toronto, ON, Canada |  |  | CA$46/hr | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333236) |
-| Thoughtworks | Graduate Developer | Toronto, ON, Canada |  |  |  | 2026-10-28 | [Apply](https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/b6bcff88-eb9a-4df1-8695-bc4e7dc1dbc7/application?embed=true) |
 | Ciena | Routing/IP Software Engineer New Grad | Ottawa, ON, Canada |  |  | CA$35–CA$55/hr | 2026-10-27 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006) |
 | Intuit | Software Developer 1 | Toronto, ON, Canada |  |  | CA$45–CA$61/hr | 2026-10-27 | [Apply](https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744) |
 | Didero | Forward Deployed Engineer | Toronto, ON, Canada |  |  | CA$43–CA$62/hr | 2026-10-26 | [Apply](https://jobs.ashbyhq.com/didero/02895105-d069-47cf-b1e2-be7d24909173/application?embed=true) |

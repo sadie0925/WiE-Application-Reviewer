@@ -29,45 +29,6 @@
     "organizer": "UW Data Science Club"
   },
   {
-    "name": "Tech For Community 2026",
-    "location": "St. John's, Newfoundland and Labrador / Avalon Peninsula",
-    "url": "https://tecnurtur.org/hackathon",
-    "starts_at": "2026-11-21T14:00:00Z",
-    "ends_at": "2026-11-22T18:00:00Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "NOV 21 - 22",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
-    "name": "WHACK (Wellesley Hackathon)",
-    "location": "Wellesley , Massachesetts",
-    "url": "https://www.wellesleyhacks.org/",
-    "starts_at": "2026-11-21T14:00:00Z",
-    "ends_at": "2026-11-22T20:00:00Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "NOV 21 - 22",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
-    "name": "BostonHacks",
-    "location": "Boston, MA",
-    "url": "https://bostonhacks.org/",
-    "starts_at": "2026-11-21T15:00:00Z",
-    "ends_at": "2026-11-22T17:00:00Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "NOV 21 - 22",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
     "name": "K-DUB Hacks",
     "location": "Spur Innovation Center - SPUR Campus, Waterloo, ON",
     "url": "https://luma.com/z74d7lgs",
@@ -80,6 +41,19 @@
     "tier": "major",
     "source": "luma",
     "organizer": "AWS Student Builder Group at Wilfrid Laurier University"
+  },
+  {
+    "name": "LooHacks",
+    "location": "Waterloo",
+    "url": "https://www.hackathonradar.com/database/hackathon/loohacks-2026",
+    "starts_at": "2026-11-27T23:59:59-05:00",
+    "ends_at": "",
+    "deadline_at": "",
+    "deadline_kind": "",
+    "when": "2026-11-27",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "hackathon-radar"
   },
   {
     "name": "DMA Envision: Marketing & AI Hackathon",

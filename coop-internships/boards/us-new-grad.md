@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**446 open** · newest first · removed when closed or after 60 days · Updated 2026-11-21 03:48 ET
+**448 open** · newest first · removed when closed or after 60 days · Updated 2026-11-21 11:25 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -57,11 +57,13 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Koch Industries | Software Engineer - AI Agents | Fremont, CA |  |  | $53–$58/hr | 2026-11-19 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197657) |
 | United Launch Alliance | Ground Software Avionics & Infrastructure Engineer 1 | Centennial, CO |  | US clearance, US citizenship | $37–$62/hr | 2026-11-19 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Ground-Software-(GSW)-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/?ats=successfactors) |
 | MetaPhase | Junior Forward Deployed Engineer | Reston, VA |  | US citizenship, No sponsorship | $41–$55/hr | 2026-11-19 | [Apply](https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws?nl=1&nl=1&fr=false) |
+| Applied Engineering | Electrical Engineer: Embedded Software | West Bend, WI |  | No sponsorship, US work auth | $40.45–$59.24/hr | 2026-11-19 | [Apply](https://www.go-applied.com/careers/openings/?gh_jid=4515468009) |
 | ViaSat | Associate Software Engineer – Early Career | Carlsbad, CA |  | US work auth | $46–$85/hr | 2026-11-19 | [Apply](https://careers.viasat.com/jobs/7077?icims=1&lang=en-us) |
 | Intelliforce-IT Solutions Group | Junior Software Engineer - Prime | Annapolis Junction, MD |  | US clearance, US citizenship, No sponsorship | $49–$62/hr | 2026-11-19 | [Apply](https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime) |
 | Journal Technologies | Junior Data Integration Developer | Victoria, BC, Canada, Remote in USA (+1) |  | US citizenship, Canadian citizen/PR, No sponsorship | $29–$36/hr | 2026-11-19 | [Apply](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d) |
 | Formlabs | Embedded Software Engineer | Boston, MA |  |  | $53–$67/hr | 2026-11-19 | [Apply](https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093) |
 | Qualcomm | Embedded Audio Software Engineer - Software Engineering | San Diego, CA |  | No sponsorship | $48–$72/hr | 2026-11-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722197774) |
+| Cadence Design Systems | Software Engineer Recent Grad - Verification IP Team | San Jose, CA |  |  | $50–$94/hr | 2026-11-18 | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884) |
 | Wyetech | Software Engineer 0 – Full Stack Development | Annapolis Junction, MD |  | US clearance, US citizenship, No sponsorship | $35.97–$48.71/hr | 2026-11-18 | [Apply](https://wyetech.applytojob.com/apply/orUQyoZnAb/SWE0Software-Engineer) |
 | Zoox | Contract Student Worker - Software Engineer - 40hrs/wk | Foster City, CA |  |  | $30/hr | 2026-11-18 | [Apply](https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29/apply) |
 | Digital.ai | Associate Software Engineer | Lafayette, IN |  |  | $35–$47/hr | 2026-11-18 | [Apply](https://digitalai.bamboohr.com/careers/75/) |
@@ -71,6 +73,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Cummins | Electronic Systems Engineer - Software | Galesburg, MI |  | US work auth | $37–$49/hr | 2026-11-18 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440078) |
 | Berkshire Hathaway Energy | Software Engineer - Bhepg | Omaha, NE |  |  | $38–$63/hr | 2026-11-18 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023) |
 | Amazon | Software Development Engineer - Robotics | Austin, TX, North Reading, MA (+1) |  |  | $59/hr | 2026-11-17 | [Apply](https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027) |
+| Walmart | Software Engineer 3 | Seattle, WA, Denver, CO |  |  | $48–$104/hr | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-DENVER-CO-DENVER-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2674054-1) |
 | Utilidata | Embedded Firmware Engineer | Remote in USA |  |  | $58–$77/hr | 2026-11-17 | [Apply](https://karman.applytojob.com/apply/ZATv9CJjd9/Embedded-Firmware-Engineer) |
 | Fortinet | Early Careers Software Developer | Sunnyvale, CA |  | No sponsorship, US work auth | $44–$67/hr | 2026-11-17 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983) |
 | Qualcomm | Machine Learning Compiler Engineer - Machine Learning Engineering | Austin, TX, Raleigh, NC (+1) |  |  | $68–$102/hr | 2026-11-17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722177119) |
@@ -455,4 +458,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Avathon | Associate AI Engineer - Physical AI | Pleasanton, CA |  |  | $53–$62/hr | 2026-09-22 | [Apply](https://avathon.com/company/careers-job-listing/?gh_jid=4736834005) |
 | Datalab USA | Production Programmer - SQL Developer | Westminster, CO |  | No sponsorship | $30–$35/hr | 2026-09-22 | [Apply](https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53/apply) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, CA |  | US person, No sponsorship, US work auth | $54–$72/hr | 2026-09-22 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007) |
-| Peraton | Artificial Intelligence/Machine Learning Engineer 1 | Laurel, MD |  | US clearance, No sponsorship | $38–$62/hr | 2026-09-22 | [Apply](https://peraton.jibeapply.com/jobs/171011?icims=1) |

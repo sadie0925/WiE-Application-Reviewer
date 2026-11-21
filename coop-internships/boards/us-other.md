@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**274 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 03:48 ET
+**276 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 11:25 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -35,9 +35,12 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Tarana Wireless | Hardware Test Engineer Intern | Milpitas, CA |  |  | $35–$45/hr | 2026-11-19 | [Apply](https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern) |
 | Lucid Motors | ADAS Systems Integration Intern | Newark, CA | Summer 2027 | No sponsorship | $53–$72/hr | 2026-11-19 | [Apply](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) |
 | Lawrence Livermore National Laboratory (LLNL) | Engineering Intern | Livermore, CA | Summer 2027 | US clearance, US citizenship | $23.26–$31.62/hr | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016986011) |
+| AriensCo | Product Management Intern | Brillion, WI | Summer 2027 | No sponsorship, US work auth |  | 2026-11-19 | [Apply](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305) |
 | Centier Bank | Marketing Analyst Intern | Merrillville, IN |  |  | $19/hr | 2026-11-19 | [Apply](https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999) |
 | First PREMIER Bank | Digital Innovation & Strategy Intern | Sioux Falls, SD |  |  |  | 2026-11-19 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Digital-Innovation---Strategy-Internship_R-551-1) |
+| Littelfuse | R&D Engineering Intern | Rapid City, SD | Summer 2027 |  |  | 2026-11-19 | [Apply](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1) |
 | Microchip Technology | ASIC Verification Engineer Intern | San Jose, CA |  |  | $19–$30/hr | 2026-11-19 | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4973-26) |
+| Walmart | MBA Product Manager Intern - MBA | Bentonville, AR | Summer 2027 | No sponsorship, US work auth | $26–$51/hr | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) |
 | Texas Instruments | Analog Design Engineer Intern - Gan Device | Santa Clara, CA |  |  |  | 2026-11-19 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020327) |
 | Ralliant | Electrical Design Engineer Intern | Beaverton, OR | Summer 2027 |  |  | 2026-11-19 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) |
 | Ralliant | System Level Verification Engineer Intern | United States | Summer 2027 | US citizenship |  | 2026-11-19 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168) |
@@ -52,7 +55,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Acuity | Electrical Engineer Intern | Decatur, GA | Summer 2026 | US work auth, Sponsors |  | 2026-11-18 | [Apply](https://careers.acuityinc.com/job/Decatur-Intern-Electrical-Engineer-GA-30035/1451786900/?ats=successfactors) |
 | PsiQuantum | Quantum Architecture Intern | Palo Alto, CA |  |  | $27.50–$47/hr | 2026-11-18 | [Apply](https://www.psiquantum.com/apply?gh_jid=6536805003) |
 | Pyrotek | Product Management Intern | Spokane, WA | Summer 2027 |  | $22/hr | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000162385949) |
-| Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations | Cambridge, MA |  |  | $40–$58/hr | 2026-11-18 | [Apply](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) |
 | Ecliptic Enterprises | Engineering Intern | San Luis Obispo, CA |  | US citizenship, No sponsorship |  | 2026-11-17 | [Apply](https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply) |
 | Blount Fine Foods | Manufacturing Operations Analytics Intern | Fall River, MA |  |  | $19–$20/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
 | BGE | Business Analyst Intern - GIS | Oakbrook Terrace, IL | Summer 2026 |  | $20–$31/hr | 2026-11-17 | [Apply](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |

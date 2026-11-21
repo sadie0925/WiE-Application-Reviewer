@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run checks every public Luma event around Waterloo (most UW clubs post there), the Linktrees and Luma calendars of the clubs in uw-clubs.json (their hackathon sites, Luma events, and open application forms), plus Hackathon Radar's Waterloo page, Communitech, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. When shows a month (e.g. February 2027) when the organizer has only announced the month. Every hackathon is cleared when its application deadline has passed, or when the event has already started — even if a submission window still looks open. This is separate from the 30-day job rule.
 
-**24 upcoming** · 2 Waterloo · 22 other Canada/US · Updated 2026-11-21 03:48 ET
+**22 upcoming** · 2 Waterloo · 20 other Canada/US · Updated 2026-11-21 11:25 ET
 
 [All boards](../README.md)
 
@@ -17,10 +17,8 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
-| Tech For Community 2026 | St. John's, Newfoundland and Labrador / Avalon Peninsula | 2026-11-21 |  | [Open](https://tecnurtur.org/hackathon) |
-| WHACK (Wellesley Hackathon) | Wellesley , Massachesetts | 2026-11-21 |  | [Open](https://www.wellesleyhacks.org/) |
-| BostonHacks | Boston, MA | 2026-11-21 |  | [Open](https://bostonhacks.org/) |
 | K-DUB Hacks | Spur Innovation Center - SPUR Campus, Waterloo, ON | 2026-11-27 |  | [Open](https://luma.com/z74d7lgs) |
+| LooHacks | Waterloo | 2026-11-27 |  | [Open](https://www.hackathonradar.com/database/hackathon/loohacks-2026) |
 | DMA Envision: Marketing & AI Hackathon | McMaster University, Hamilton, ON | 2026-11-28 |  | [Open](https://luma.com/9hezg32g) |
 | Hack Cats | Manhattan, Kansas | 2026-12-04 |  | [Open](https://hackkstate.tech/) |
 | Hack Canada 2027 | Toronto, Ontario | 2027-01-08 |  | [Open](https://hackcanada.org) |

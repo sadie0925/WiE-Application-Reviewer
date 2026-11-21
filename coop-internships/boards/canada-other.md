@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**44 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 03:48 ET
+**43 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 11:25 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -53,4 +53,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Summer 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Winter/Spring 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | Summer 2027 |  | CA$26.44/hr | 2026-10-22 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) |
-| Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-10-22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) |
