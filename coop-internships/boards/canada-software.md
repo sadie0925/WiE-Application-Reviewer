@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**95 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 11:25 ET
+**94 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 16:45 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -36,7 +36,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Ross Video | Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$24–CA$35/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) |
 | City of Campbell River | Co-op Student - OMS Project - Capital Projects | Campbell River, BC, Canada |  |  | CA$24.97/hr | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733) |
 | Critical Environment Technologies | Computer Science Co-op | Delta, BC, Canada |  |  | CA$21/hr | 2026-11-17 | [Apply](https://cetci.bamboohr.com/careers/92/) |
-| Angel Host | AI Product Engineer Intern Co-op | Montreal, QC, Canada | Winter/Spring 2026, Winter/Spring 2027 | Canadian citizen/PR |  | 2026-11-17 | [Apply](https://angelhost.bamboohr.com/careers/123/) |
 | Birdseye Security Solutions | Software Developer Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) |
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/287/) |
 | Birdseye Security Solutions | Computer Vision Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/289/) |

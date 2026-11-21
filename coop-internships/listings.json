@@ -12346,45 +12346,6 @@
     ]
   },
   {
-    "id": "77f0d4c4-57a5-49b8-81ed-085e150c6551",
-    "company_name": "Angel Host",
-    "company_url": "https://simplify.jobs/c/Angel-Host",
-    "title": "AI Product Engineer Intern Co-op",
-    "url": "https://angelhost.bamboohr.com/careers/123/",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794900400,
-    "date_updated": 1794900447,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Winter 2026",
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "Canada work auth",
-      "Canadian citizen/PR"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Winter 2026",
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "23e36426-bb74-4b8d-9baa-51a102571c69",
     "company_name": "ECM Tek",
     "company_url": "https://simplify.jobs/c/ECM-Tek",
@@ -30753,39 +30714,6 @@
     ]
   },
   {
-    "id": "5e00c561-b737-44bf-afa3-30cf44fe26a6",
-    "company_name": "Choice Hotels",
-    "company_url": "https://simplify.jobs/c/Choice-Hotels",
-    "title": "Software Engineer 1 - Finance Technology",
-    "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793846092,
-    "date_updated": 1793846162,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "41a64d96-46b9-4d28-8fc8-cd45e1c52362",
     "company_name": "Qualcomm",
     "company_url": "https://simplify.jobs/c/Qualcomm",
@@ -37525,43 +37453,6 @@
     ],
     "detail_h1b": null,
     "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering"
-    ]
-  },
-  {
-    "id": "55649ae4-7427-47dc-b8af-30c29eedf9b9",
-    "company_name": "NXP Semiconductors",
-    "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-    "title": "Hardware/Software System and Application Engineer Intern",
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708",
-    "locations": [
-      "Chandler, AZ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1793662997,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
     "detail_desc_terms": "",
     "functions": [
       "Hardware Validation & Testing",
@@ -51938,44 +51829,6 @@
     "functions": [
       "AI Research",
       "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "68688728-c254-4961-b5ba-f479aace81a0",
-    "company_name": "Crystal Dynamics",
-    "company_url": "https://simplify.jobs/c/Crystal-Dynamics",
-    "title": "Gameplay Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792705486,
-    "date_updated": 1793284385,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$22–$25/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Spring 2027"
-    ],
-    "detail_desc_terms": "Winter/Spring 2027",
-    "functions": [
-      "Game Engineering",
-      "Software Engineering"
     ]
   },
   {

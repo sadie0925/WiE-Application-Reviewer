@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**448 open** · newest first · removed when closed or after 60 days · Updated 2026-11-21 11:25 ET
+**447 open** · newest first · removed when closed or after 60 days · Updated 2026-11-21 16:45 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -201,7 +201,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Susquehanna International Group | Software Developer - Core Order Management System - C++ | Chicago, IL |  |  |  | 2026-11-05 | [Apply](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) |
 | Peraton | Cloud Software Engineer 1 | Fort Meade, MD |  | US clearance, No sponsorship | $54–$86/hr | 2026-11-05 | [Apply](https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false) |
 | Everwatch | Junior Software Engineer | Annapolis Junction, MD |  | US clearance, No sponsorship | $50.48–$55.29/hr | 2026-11-05 | [Apply](https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false) |
-| Choice Hotels | Software Engineer 1 - Finance Technology | Scottsdale, AZ |  | No sponsorship |  | 2026-11-04 | [Apply](https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514) |
 | Amazon | Software Developer Engineer 1 - Security Platform | Seattle, WA, Irvine, CA |  |  | $53–$89/hr | 2026-11-04 | [Apply](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) |
 | Emerson Electric | Embedded Software Engineer - AI - Web | Marshalltown, IA |  | No sponsorship, US work auth |  | 2026-11-04 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013465) |
 | Keysight Technologies | Software Engineer-Semiconductor Technology - C#/.NET | Santa Rosa, CA |  | US citizenship, US person, No sponsorship | $61–$79/hr | 2026-11-04 | [Apply](https://jobs.keysight.com/jobs/56448?icims=1) |

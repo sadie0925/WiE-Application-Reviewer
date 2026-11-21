@@ -8109,21 +8109,6 @@
 "sponsors_h1b": null,
 "v": 2
 },
-"55649ae4-7427-47dc-b8af-30c29eedf9b9": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797547,
-"functions": [
-"Hardware Validation & Testing",
-"Hardware Engineering"
-],
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
-"v": 2
-},
 "5596edef-07e6-4880-bd44-3054a5583d88": {
 "auth": [],
 "desc_terms": "",
@@ -9031,21 +9016,6 @@
 ],
 "desc_terms": "",
 "fetched": 1794966182,
-"functions": [
-"Backend Engineering",
-"Software Engineering"
-],
-"pay": "",
-"seasons": [],
-"sponsors_h1b": false,
-"v": 2
-},
-"5e00c561-b737-44bf-afa3-30cf44fe26a6": {
-"auth": [
-"No sponsorship"
-],
-"desc_terms": "",
-"fetched": 1794797517,
 "functions": [
 "Backend Engineering",
 "Software Engineering"
@@ -10016,23 +9986,6 @@
 ],
 "pay": "",
 "seasons": [],
-"sponsors_h1b": null,
-"v": 2
-},
-"68688728-c254-4961-b5ba-f479aace81a0": {
-"auth": [
-"US work auth"
-],
-"desc_terms": "Winter/Spring 2027",
-"fetched": 1794797548,
-"functions": [
-"Game Engineering",
-"Software Engineering"
-],
-"pay": "$22–$25/hr",
-"seasons": [
-"Spring 2027"
-],
 "sponsors_h1b": null,
 "v": 2
 },
@@ -11527,25 +11480,6 @@
 ],
 "pay": "$23–$42/hr",
 "seasons": [],
-"sponsors_h1b": false,
-"v": 2
-},
-"77f0d4c4-57a5-49b8-81ed-085e150c6551": {
-"auth": [
-"Canada work auth",
-"Canadian citizen/PR"
-],
-"desc_terms": "",
-"fetched": 1794945309,
-"functions": [
-"AI Application Engineering",
-"Software Engineering"
-],
-"pay": "",
-"seasons": [
-"Winter 2026",
-"Winter 2027"
-],
 "sponsors_h1b": false,
 "v": 2
 },
@@ -14236,19 +14170,6 @@
 "Natural Language Processing & LLMs"
 ],
 "pay": "$25.43–$38.17/hr",
-"seasons": [],
-"sponsors_h1b": null,
-"v": 2
-},
-"92db1359-7882-4b50-9a49-c30f1d9f11e4": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1794797551,
-"functions": [
-"Hardware Engineering",
-"Silicon & ASIC Design"
-],
-"pay": "CA$35–CA$48/hr",
 "seasons": [],
 "sponsors_h1b": null,
 "v": 2

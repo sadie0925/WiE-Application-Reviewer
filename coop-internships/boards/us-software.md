@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**737 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 11:25 ET
+**735 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 16:45 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -515,7 +515,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | LabCorp | Agentic AI Developer Co-op | Durham, NC, Burlington, NC | Winter/Spring 2027 | No sponsorship |  | 2026-11-01 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1) |
 | LabCorp | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC, Burlington, NC | Winter/Spring 2027, Summer 2027 | No sponsorship |  | 2026-11-01 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
 | Micron Technology | System Engineer Intern | Boise, ID |  |  |  | 2026-11-01 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469) |
-| NXP Semiconductors | Hardware/Software System and Application Engineer Intern | Chandler, AZ | Summer 2027 |  |  | 2026-11-01 | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708) |
 | Signet Jewelers | Data Analytics Intern | Akron, OH | Summer 2027 |  | $19–$20/hr | 2026-11-01 | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317) |
 | Signet Jewelers | Data Analytics Intern | Akron, OH | Summer 2027 |  | $19–$20/hr | 2026-11-01 | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1) |
 | Valmont | Embedded Systems Engineer Intern | Valley, NE |  |  |  | 2026-11-01 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223) |
@@ -746,4 +745,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Meta | Research Scientist Intern - FAIR - Multimodal Foundations | Boston, MA, Menlo Park, CA (+1) |  |  |  | 2026-10-22 | [Apply](https://www.metacareers.com/jobs/2322361288548512) |
 | Meta | Research Scientist Intern - Feed Recommendations | Bellevue, WA |  |  |  | 2026-10-22 | [Apply](https://www.metacareers.com/jobs/29044546168568671) |
 | Meta | Research Scientist Intern - Physical Engineering AI | Seattle, WA |  |  |  | 2026-10-22 | [Apply](https://www.metacareers.com/jobs/1081255008061721) |
-| Crystal Dynamics | Gameplay Engineer Intern | Remote in USA | Winter/Spring 2027 | US work auth | $22–$25/hr | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005) |
