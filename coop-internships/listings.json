@@ -1,184 +1,5 @@
 [
   {
-    "id": "cc0e5132-bdce-42ad-897c-ee8003bc0cd9",
-    "company_name": "Vatic Outsourcing",
-    "company_url": "https://simplify.jobs/c/Vatic-Outsourcing",
-    "title": "Business Intelligence Analyst Intern",
-    "url": "https://vaticoutsourcing.bamboohr.com/careers/152/",
-    "locations": [
-      "Marietta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795246193,
-    "date_updated": 1795246209,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$15/hr",
-    "detail_auth": [
-      "US clearance"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data & Analytics",
-      "Business Intelligence"
-    ]
-  },
-  {
-    "id": "15021bea-ce77-455e-8ecd-fd433aead168",
-    "company_name": "Kentucky Science and Technology Corporation",
-    "company_url": "https://simplify.jobs/c/Kentucky-Science-And-Technology-Corporation",
-    "title": "Data Management Intern",
-    "url": "https://thekentuckyscienceandtechnologycorporation.applytojob.com/apply/ISJX57K0S9/Data-Management-Intern",
-    "locations": [
-      "Lexington, KY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795245830,
-    "date_updated": 1795245851,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Winter 2026"
-    ],
-    "program": "cs",
-    "detail_pay": "$16.50–$20.50/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2026"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Management",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "a1afbfa8-e273-4682-a846-d3f5f3f4b72c",
-    "company_name": "iA",
-    "company_url": "https://simplify.jobs/c/Iarx",
-    "title": "Industrial Engineer Intern",
-    "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1",
-    "locations": [
-      "Johnson City, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795245821,
-    "date_updated": 1795245901,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$18–$26/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship",
-      "Work auth required"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering"
-    ]
-  },
-  {
-    "id": "b98f5eb8-103b-4503-af0d-7e7d64d11f97",
-    "company_name": "Gradient MSP",
-    "company_url": "https://simplify.jobs/c/Gradient-MSP",
-    "title": "Junior Full Stack Developer",
-    "url": "https://gradientmsp.bamboohr.com/careers/72/",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795245517,
-    "date_updated": 1795245662,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "54b604ed-cdf0-4d1b-b9cf-d01b687dcd49",
-    "company_name": "Nottingham Spirk",
-    "company_url": "https://simplify.jobs/c/Nottingham-Spirk",
-    "title": "Firmware Co-op",
-    "url": "https://nottinghamspirk.applytojob.com/apply/udpROpEzBV/Firmware-Spring-2027-CoOp",
-    "locations": [
-      "Cleveland, OH"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795244655,
-    "date_updated": 1795244844,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$21/hr",
-    "detail_auth": [
-      "US work auth",
-      "US citizenship",
-      "US person"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Spring 2027"
-    ],
-    "detail_desc_terms": "Winter/Spring 2027",
-    "functions": [
-      "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "f9d36ef7-8b25-4124-a93e-859b264cd811",
     "company_name": "Koch Industries",
     "company_url": "https://simplify.jobs/c/Koch-Industries",
@@ -389,43 +210,6 @@
     "functions": [
       "Data & Analytics",
       "Business Intelligence"
-    ]
-  },
-  {
-    "id": "1c079a77-a351-49ec-9265-bac5e53ddffe",
-    "company_name": "Etched",
-    "company_url": "https://simplify.jobs/c/Etched",
-    "title": "Signal Integrity and Power Integrity Intern",
-    "url": "https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795219200,
-    "date_updated": 1795244841,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Engineering",
-      "Board & Electronics Design"
     ]
   },
   {
@@ -2635,7 +2419,7 @@
       "Summer 2026"
     ],
     "program": "cs",
-    "detail_pay": "$40.95/hr",
+    "detail_pay": "$41/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -3414,7 +3198,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$62–$108/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -3933,7 +3717,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$28–$34/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -4661,7 +4445,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$27.88–$50/hr",
+    "detail_pay": "$28–$50/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -4669,6 +4453,42 @@
     "functions": [
       "AI Research",
       "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "36697ae4-2c1a-4649-82f5-c13159e97aad",
+    "company_name": "AON3D",
+    "company_url": "https://simplify.jobs/c/AON3D",
+    "title": "Software Developer Intern",
+    "url": "https://job-boards.greenhouse.io/aon3d/jobs/4504702009",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795181407,
+    "date_updated": 1795187523,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "Winter/Spring 2027",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
     ]
   },
   {
@@ -4767,7 +4587,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$30/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -6264,7 +6084,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$56–$84/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -6717,7 +6537,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$46.25–$56.25/hr",
+    "detail_pay": "$46–$56/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -6767,111 +6587,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Hardware Engineering"
-    ]
-  },
-  {
-    "id": "b4668eae-16c6-4c57-927b-a0dc130281a9",
-    "company_name": "AriensCo",
-    "company_url": "https://simplify.jobs/c/AriensCo",
-    "title": "Product Management Intern",
-    "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
-    "locations": [
-      "Brillion, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795132800,
-    "date_updated": 1795273563,
-    "category": "Product",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Product Management",
-      "Product"
-    ]
-  },
-  {
-    "id": "a4eebd7a-0a35-4f40-a2ca-12679c5e698d",
-    "company_name": "Centier Bank",
-    "company_url": "https://simplify.jobs/c/Centier-Bank",
-    "title": "Marketing Analyst Intern",
-    "url": "https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999",
-    "locations": [
-      "Merrillville, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795132800,
-    "date_updated": 1795246021,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "$19/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "d6633194-cac0-4fa3-ba4b-c962e822205e",
-    "company_name": "First PREMIER Bank",
-    "company_url": "https://simplify.jobs/c/First-PREMIER-Bank",
-    "title": "Analytics Intern",
-    "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1",
-    "locations": [
-      "Sioux Falls, SD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795132800,
-    "date_updated": 1795244971,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
     ]
   },
   {
@@ -6973,43 +6688,6 @@
     ]
   },
   {
-    "id": "550703d5-4325-4941-864f-5e518447d573",
-    "company_name": "Littelfuse",
-    "company_url": "https://simplify.jobs/c/Littelfuse",
-    "title": "R&D Engineering Intern",
-    "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1",
-    "locations": [
-      "Rapid City, SD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795132800,
-    "date_updated": 1795275905,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Engineering",
-      "Hardware Systems Integration"
-    ]
-  },
-  {
     "id": "0f778216-9855-4109-a28c-04240cb2a6b7",
     "company_name": "Mackenzie Investments",
     "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
@@ -7031,7 +6709,7 @@
       "Winter 2027"
     ],
     "program": "cs",
-    "detail_pay": "CA$24.04–CA$25.48/hr",
+    "detail_pay": "CA$24–CA$25/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -7260,84 +6938,6 @@
     ]
   },
   {
-    "id": "060bdac5-8e6c-447e-ae09-d04ae31a8b25",
-    "company_name": "Walmart",
-    "company_url": "https://simplify.jobs/c/Walmart",
-    "title": "MBA Product Manager Intern - MBA",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
-    "locations": [
-      "Bentonville, AR"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795132800,
-    "date_updated": 1795274129,
-    "category": "Product",
-    "sponsorship": "Other",
-    "degrees": [
-      "MBA"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$26–$51/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Product Management",
-      "Product"
-    ]
-  },
-  {
-    "id": "28b10e18-b290-443b-b1ae-dca8536f1cd0",
-    "company_name": "Woodward Governor",
-    "company_url": "https://simplify.jobs/c/Woodward-Governor",
-    "title": "AI Intern",
-    "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
-    "locations": [
-      "Niles, IL",
-      "Fort Collins, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795132800,
-    "date_updated": 1795273765,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$21–$25/hr",
-    "detail_auth": [
-      "US work auth",
-      "US citizenship",
-      "US person"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "05ef4aa9-f0f1-4fb0-b395-911f1ca8fc2c",
     "company_name": "Ford Motor Company",
     "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
@@ -7499,7 +7099,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -8203,40 +7803,6 @@
     ]
   },
   {
-    "id": "79e776f8-34ef-4c18-9385-a94306716e3c",
-    "company_name": "Applied Engineering",
-    "company_url": "https://simplify.jobs/c/Applied-Engineering",
-    "title": "Electrical Engineer: Embedded Software",
-    "url": "https://www.go-applied.com/careers/openings/?gh_jid=4515468009",
-    "locations": [
-      "West Bend, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795123263,
-    "date_updated": 1795255206,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$40.45–$59.24/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "f830fea0-864e-4afe-80e7-419b5b9a9d6c",
     "company_name": "Veolia",
     "company_url": "https://simplify.jobs/c/Veolia",
@@ -8365,7 +7931,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$46–$85/hr",
+    "detail_pay": "$46–$72/hr",
     "detail_auth": [
       "US work auth"
     ],
@@ -8476,7 +8042,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$55/hr",
+    "detail_pay": "$76–$104/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -8579,7 +8145,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$29–$36/hr",
+    "detail_pay": "$26–$36/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship",
@@ -8839,8 +8405,10 @@
       "US citizenship"
     ],
     "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
     "functions": [
       "Computer Vision",
       "AI & Machine Learning"
@@ -8900,13 +8468,13 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
-      "Robotics & Autonomous Systems",
+      "AI Research",
       "AI & Machine Learning"
     ]
   },
@@ -8964,7 +8532,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "CA$19–CA$22/hr",
+    "detail_pay": "CA$19/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -8972,137 +8540,6 @@
     "functions": [
       "Full-Stack Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "2f9d52bb-ed7d-407a-b2db-ba4eaffe95b9",
-    "company_name": "Cadence Design Systems",
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "title": "Software Engineer Intern - Circuit Simulation infrastructure",
-    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795046400,
-    "date_updated": 1795275195,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$31.63–$58.75/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "7da54211-7443-4a5b-86bd-e49ac0409028",
-    "company_name": "Cadence Design Systems",
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "title": "Software Engineer Recent Grad - Verification IP Team",
-    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795046400,
-    "date_updated": 1795274661,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$50–$94/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "3519502a-3aa8-4fdd-988c-8ccbaa4706d6",
-    "company_name": "CDPQ",
-    "company_url": "https://simplify.jobs/c/CDPQ",
-    "title": "Developer - Digital Solutions and Analytics - Liquid Markets",
-    "url": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique---Marchs-boursiers_R05211",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795046400,
-    "date_updated": 1795247673,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "b5c5b115-3401-43ce-ac29-ea46e184089f",
-    "company_name": "Compassion International",
-    "company_url": "https://simplify.jobs/c/Compassion-International",
-    "title": "Summer Intern - Data and Software Engineering",
-    "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
-    "locations": [
-      "Colorado Springs, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795046400,
-    "date_updated": 1795274671,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$19.76–$23.21/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
     ]
   },
   {
@@ -9176,40 +8613,6 @@
     "functions": [
       "Data Engineering",
       "Data & Analytics"
-    ]
-  },
-  {
-    "id": "b5e9a29a-b709-4d78-8e07-c795aad202ea",
-    "company_name": "Ribbon",
-    "company_url": "https://simplify.jobs/c/Ribbon",
-    "title": "Software Developer Co-op - Common Cloud Services",
-    "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079",
-    "locations": [
-      "Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795046400,
-    "date_updated": 1795276474,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$0.01/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -9655,7 +9058,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$150/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -9871,7 +9274,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "CA$0.03/hr",
+    "detail_pay": "$52/hr",
     "detail_auth": [],
     "detail_h1b": false,
     "detail_seasons": [
@@ -9905,7 +9308,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$50–$74/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -10056,6 +9459,40 @@
     "functions": [
       "Hardware Validation & Testing",
       "Hardware Engineering"
+    ]
+  },
+  {
+    "id": "d9d64ad1-bfcf-465d-90e1-bad73dcb61da",
+    "company_name": "Toyota Research Institute",
+    "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+    "title": "Robotics Intern - Prototyping and Robotics Operations",
+    "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795016564,
+    "date_updated": 1795016709,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "other",
+    "detail_pay": "$40–$58/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI & Machine Learning"
     ]
   },
   {
@@ -10410,42 +9847,6 @@
     ]
   },
   {
-    "id": "fbc36d2d-35f9-4bfd-8880-eacd9e2756cc",
-    "company_name": "Delta Dental",
-    "company_url": "https://simplify.jobs/c/Delta-Dental",
-    "title": "Application Development Intern",
-    "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101534",
-    "locations": [
-      "Okemos, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794960000,
-    "date_updated": 1795275788,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "6a41b107-e8c4-4787-a685-fa948468c79f",
     "company_name": "HERE Technologies",
     "company_url": "https://simplify.jobs/c/HERE-Technologies",
@@ -10507,39 +9908,6 @@
     "functions": [
       "Data Engineering",
       "Data & Analytics"
-    ]
-  },
-  {
-    "id": "7ad57a9d-6cf2-4dea-bbb4-f6ad41b8a491",
-    "company_name": "Walmart",
-    "company_url": "https://simplify.jobs/c/Walmart",
-    "title": "Software Engineer 3",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-DENVER-CO-DENVER-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2674054-1",
-    "locations": [
-      "Seattle, WA",
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794960000,
-    "date_updated": 1795274353,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$48–$104/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -11526,7 +10894,6 @@
     ],
     "detail_desc_terms": "",
     "functions": [
-      "Full-Stack Engineering",
       "Software Engineering"
     ]
   },
@@ -11735,7 +11102,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "$43–$47/hr",
+    "detail_pay": "$40–$45/hr",
     "detail_auth": [
       "US work auth"
     ],
@@ -12346,6 +11713,45 @@
     ]
   },
   {
+    "id": "77f0d4c4-57a5-49b8-81ed-085e150c6551",
+    "company_name": "Angel Host",
+    "company_url": "https://simplify.jobs/c/Angel-Host",
+    "title": "AI Product Engineer Intern Co-op",
+    "url": "https://angelhost.bamboohr.com/careers/123/",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794900400,
+    "date_updated": 1794900447,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Winter 2026",
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "Canada work auth",
+      "Canadian citizen/PR"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Winter 2026",
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "23e36426-bb74-4b8d-9baa-51a102571c69",
     "company_name": "ECM Tek",
     "company_url": "https://simplify.jobs/c/ECM-Tek",
@@ -12640,7 +12046,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$41–$105/hr",
+    "detail_pay": "$41–$81/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -12805,7 +12211,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$48.08/hr",
+    "detail_pay": "$48/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -13297,7 +12703,6 @@
     ],
     "detail_desc_terms": "Summer 2027",
     "functions": [
-      "Full-Stack Engineering",
       "Software Engineering"
     ]
   },
@@ -13683,7 +13088,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -13714,7 +13119,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -13999,7 +13404,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "CA$42.31–CA$46.15/hr",
+    "detail_pay": "CA$42–CA$46/hr",
     "detail_auth": [
       "Canada work auth",
       "No sponsorship"
@@ -14038,7 +13443,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "CA$32.98–CA$40.96/hr",
+    "detail_pay": "CA$33–CA$41/hr",
     "detail_auth": [
       "US work auth",
       "Canada work auth",
@@ -14079,7 +13484,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "CA$36.92–CA$40.72/hr",
+    "detail_pay": "CA$37–CA$41/hr",
     "detail_auth": [
       "Canada work auth",
       "No sponsorship"
@@ -14191,7 +13596,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$48.08–$72.12/hr",
+    "detail_pay": "$48–$72/hr",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -14203,43 +13608,6 @@
       "AI Application Engineering",
       "Frontend Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "436c4c36-f3de-487a-83b6-492a4266d8ff",
-    "company_name": "Blizzard Entertainment",
-    "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
-    "title": "Data Platform Engineering Intern - Data Platform Engineering",
-    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794787200,
-    "date_updated": 1795275585,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$20–$50/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
     ]
   },
   {
@@ -14338,7 +13706,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$61.54/hr",
+    "detail_pay": "$62/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship",
@@ -14731,7 +14099,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$60–$116/hr",
+    "detail_pay": "$58–$144/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -14794,7 +14162,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "",
+    "detail_pay": "$42–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -14826,7 +14194,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "",
+    "detail_pay": "$42–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -15291,6 +14659,42 @@
     ]
   },
   {
+    "id": "709bd342-e690-4956-a11f-563f2679ba6a",
+    "company_name": "Seaspan",
+    "company_url": "https://simplify.jobs/c/Seaspan",
+    "title": "Data Engineering Intern",
+    "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156",
+    "locations": [
+      "North Vancouver, BC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794612126,
+    "date_updated": 1794612275,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Engineering",
+      "Data & Analytics"
+    ]
+  },
+  {
     "id": "cb848a3c-9a28-4557-91ee-9c5c4a3029c2",
     "company_name": "FieldPulse",
     "company_url": "https://simplify.jobs/c/FieldPulse",
@@ -15562,10 +14966,11 @@
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
-      "Summer 2026"
+      "Summer 2027"
     ],
     "detail_desc_terms": "",
     "functions": [
+      "Data Science",
       "Data Engineering",
       "Data & Analytics"
     ]
@@ -15742,8 +15147,8 @@
     "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
-      "Data Science",
-      "Data & Analytics"
+      "AI Research",
+      "AI & Machine Learning"
     ]
   },
   {
@@ -16091,7 +15496,7 @@
       "Winter 2027"
     ],
     "program": "cs",
-    "detail_pay": "CA$23–CA$30/hr",
+    "detail_pay": "CA$23–CA$37/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -16736,7 +16141,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "$50.48/hr",
+    "detail_pay": "$50/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship",
@@ -16776,7 +16181,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$61.54/hr",
+    "detail_pay": "$62/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship",
@@ -16817,7 +16222,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "$61.54/hr",
+    "detail_pay": "$62/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship",
@@ -16855,7 +16260,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "$50.48/hr",
+    "detail_pay": "$50/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship",
@@ -17417,6 +16822,7 @@
     "program": "cs",
     "detail_pay": "$17.50–$27/hr",
     "detail_auth": [
+      "US work auth",
       "US citizenship",
       "US person"
     ],
@@ -17570,7 +16976,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$15–$17.50/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -17641,7 +17047,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$50–$74/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -17755,6 +17161,43 @@
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
+    ]
+  },
+  {
+    "id": "6d3f5916-cf7c-49e6-a3dc-a48791bec4fd",
+    "company_name": "Microsoft",
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "title": "Data Scientist Intern - CoreAI",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794478846,
+    "date_updated": 1794478901,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$41.06–$88.32/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Data Science",
+      "Data & Analytics"
     ]
   },
   {
@@ -17964,7 +17407,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -18193,7 +17636,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$48.08–$72.12/hr",
+    "detail_pay": "$48–$72/hr",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -18920,7 +18363,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$21.39–$34.23/hr",
+    "detail_pay": "$21–$34/hr",
     "detail_auth": [
       "US work auth"
     ],
@@ -19317,7 +18760,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$38–$48/hr",
+    "detail_pay": "$38–$67/hr",
     "detail_auth": [
       "US work auth",
       "No sponsorship"
@@ -19587,7 +19030,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -20144,7 +19587,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$43–$58/hr",
     "detail_auth": [
       "US citizenship",
       "No sponsorship"
@@ -20534,7 +19977,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "TWD 200/hr",
+    "detail_pay": "$200/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -20566,7 +20009,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$62–$108/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -21388,7 +20831,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$43.27–$93.15/hr",
+    "detail_pay": "$43–$93/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -21806,7 +21249,7 @@
     "degrees": [],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$55–$81/hr",
+    "detail_pay": "$55–$74/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -21838,7 +21281,7 @@
     "degrees": [],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$55–$81/hr",
+    "detail_pay": "$55–$74/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -22107,7 +21550,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$22–$30/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -22141,7 +21584,7 @@
       "Spring 2027"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$22–$30/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -22436,7 +21879,6 @@
     "detail_h1b": false,
     "detail_seasons": [
       "Winter 2027",
-      "Spring 2027",
       "Summer 2027"
     ],
     "detail_desc_terms": "",
@@ -22552,7 +21994,6 @@
     "program": "other",
     "detail_pay": "",
     "detail_auth": [
-      "US work auth",
       "No sponsorship"
     ],
     "detail_h1b": false,
@@ -22585,7 +22026,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$42–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -22617,7 +22058,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "",
+    "detail_pay": "$42–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -22651,7 +22092,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -22694,7 +22135,8 @@
     "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
-      "Full-Stack Engineering",
+      "Backend Engineering",
+      "Frontend Engineering",
       "Software Engineering"
     ]
   },
@@ -23110,7 +22552,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -23394,7 +22836,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$0/hr",
+    "detail_pay": "",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -23435,7 +22877,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$0/hr",
+    "detail_pay": "",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -23474,7 +22916,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$0.01/hr",
+    "detail_pay": "$23.50–$29.25/hr",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -23511,7 +22953,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$0/hr",
+    "detail_pay": "",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -23838,7 +23280,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$25.80–$47.80/hr",
+    "detail_pay": "$25.80–$47/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -24226,7 +23668,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -24295,7 +23737,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "",
+    "detail_pay": "$30–$35/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship"
@@ -24306,6 +23748,7 @@
     ],
     "detail_desc_terms": "",
     "functions": [
+      "Hardware Validation & Testing",
       "Hardware Engineering",
       "Board & Electronics Design"
     ]
@@ -24335,10 +23778,10 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$30–$35/hr",
     "detail_auth": [
-      "US citizenship",
-      "US work auth"
+      "US work auth",
+      "US citizenship"
     ],
     "detail_h1b": false,
     "detail_seasons": [
@@ -24411,7 +23854,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$0.02/hr",
+    "detail_pay": "$33.60–$44.31/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -25869,7 +25312,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "$0/hr",
+    "detail_pay": "",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -25908,7 +25351,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$0/hr",
+    "detail_pay": "",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -25949,7 +25392,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$0/hr",
+    "detail_pay": "",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -26500,8 +25943,11 @@
     ],
     "program": "cs",
     "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
     "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
@@ -27235,7 +26681,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$46–$70/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -27305,7 +26751,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$20–$24/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -27339,7 +26785,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "",
+    "detail_pay": "$20–$24/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -27373,7 +26819,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$20–$24/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -27551,7 +26997,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -27584,7 +27030,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -27616,7 +27062,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -27648,7 +27094,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -27753,6 +27199,7 @@
     "detail_desc_terms": "",
     "functions": [
       "AI Application Engineering",
+      "Backend Engineering",
       "Software Engineering"
     ]
   },
@@ -28022,7 +27469,7 @@
       "Spring 2027"
     ],
     "program": "cs",
-    "detail_pay": "$27–$36/hr",
+    "detail_pay": "$30–$36/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -28056,7 +27503,7 @@
       "Fall 2026"
     ],
     "program": "cs",
-    "detail_pay": "$34.62/hr",
+    "detail_pay": "$35/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -30115,7 +29562,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$0.01/hr",
+    "detail_pay": "$29/hr",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -30701,13 +30148,46 @@
       "Winter 2027"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "CA$19/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
       "Winter 2027"
     ],
     "detail_desc_terms": "Winter/Spring 2027",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "5e00c561-b737-44bf-afa3-30cf44fe26a6",
+    "company_name": "Choice Hotels",
+    "company_url": "https://simplify.jobs/c/Choice-Hotels",
+    "title": "Software Engineer 1 - Finance Technology",
+    "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793846092,
+    "date_updated": 1793846162,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
     "functions": [
       "Backend Engineering",
       "Software Engineering"
@@ -30938,7 +30418,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -30971,7 +30451,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -31003,7 +30483,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$38–$69/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -31035,7 +30515,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "",
+    "detail_pay": "$39–$69/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -31068,7 +30548,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -31439,6 +30919,45 @@
     ]
   },
   {
+    "id": "7e873b50-f8c3-4967-9769-eccdbbd62a8f",
+    "company_name": "Element Fleet Management",
+    "company_url": "https://simplify.jobs/c/Element-Fleet-Management",
+    "title": "Forward Deployed Engineer Intern",
+    "url": "https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793836800,
+    "date_updated": 1793920063,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "CA$26.15–CA$35.96/hr",
+    "detail_auth": [
+      "Canada work auth",
+      "No sponsorship",
+      "Work auth required"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "3cf86e15-c45a-4a95-b5cf-55e5af0e518a",
     "company_name": "Eversource Energy",
     "company_url": "https://simplify.jobs/c/Eversource-Energy",
@@ -31554,6 +31073,40 @@
     ]
   },
   {
+    "id": "cfc01a26-bc31-4944-802c-370b51b0e573",
+    "company_name": "Little Caesars Enterprises",
+    "company_url": "https://simplify.jobs/c/Little-Caesars",
+    "title": "AI IT Intern",
+    "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793836800,
+    "date_updated": 1793891527,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Summer 2026"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2026"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "d1a00b5b-0da8-4b04-9e89-3f259a701ce6",
     "company_name": "Markel Group",
     "company_url": "https://simplify.jobs/c/Markel-Group",
@@ -31654,7 +31207,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$35–$95/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -31690,7 +31243,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$35–$95/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -32001,7 +31554,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$53–$77/hr",
+    "detail_pay": "$53–$89/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -32036,7 +31589,7 @@
       "Spring 2027"
     ],
     "program": "other",
-    "detail_pay": "$26–$35/hr",
+    "detail_pay": "$28–$34/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -33051,7 +32604,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "$24.62–$39.38/hr",
+    "detail_pay": "$25–$39/hr",
     "detail_auth": [
       "US work auth"
     ],
@@ -33370,7 +32923,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -33511,7 +33064,7 @@
       "Fall 2026"
     ],
     "program": "cs",
-    "detail_pay": "$28.85–$37.50/hr",
+    "detail_pay": "$29–$38/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -33722,8 +33275,8 @@
     ],
     "detail_desc_terms": "",
     "functions": [
-      "Data Management",
-      "Data & Analytics"
+      "Technical Product Management",
+      "Product"
     ]
   },
   {
@@ -33968,7 +33521,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$27.88–$50/hr",
+    "detail_pay": "$28–$50/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -34070,7 +33623,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -34208,7 +33761,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "CA$21.35–CA$23.08/hr",
+    "detail_pay": "CA$21–CA$23/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -34240,7 +33793,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "CA$20.19–CA$23.08/hr",
+    "detail_pay": "CA$23/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -34457,11 +34010,12 @@
       "US clearance"
     ],
     "detail_h1b": false,
-    "detail_seasons": [],
+    "detail_seasons": [
+      "Summer 2027"
+    ],
     "detail_desc_terms": "",
     "functions": [
-      "Hardware Engineering",
-      "Silicon & ASIC Design"
+      "AI & Machine Learning"
     ]
   },
   {
@@ -35171,7 +34725,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$25–$35/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -35479,7 +35033,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "CA$36–CA$60/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -35511,7 +35065,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -35722,7 +35276,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$68–$127/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -35753,7 +35307,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$59–$103/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -36112,7 +35666,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$40.38–$51.92/hr",
+    "detail_pay": "$40–$52/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -36373,7 +35927,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$15/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -36887,7 +36441,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$29.76–$67.79/hr",
+    "detail_pay": "$30–$68/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -37270,6 +36824,43 @@
     ]
   },
   {
+    "id": "80f18dd7-dd58-4635-88b5-28ffe8a06439",
+    "company_name": "KLA Corporation",
+    "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "title": "Software Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793577600,
+    "date_updated": 1793661861,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Desktop Application Development",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "7119d05b-82f8-4636-8a9f-426c89f7a8c5",
     "company_name": "KLA Corporation",
     "company_url": "https://simplify.jobs/c/KLA-Corporation",
@@ -37297,6 +36888,43 @@
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Desktop Application Development",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "f9f2c39b-cbd9-4654-bfd9-2ff0ac221771",
+    "company_name": "KLA Corporation",
+    "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "title": "Software Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004",
+    "locations": [
+      "Austin, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793577600,
+    "date_updated": 1793661181,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
     "detail_desc_terms": "",
     "functions": [
       "Desktop Application Development",
@@ -37453,6 +37081,43 @@
     ],
     "detail_h1b": null,
     "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Hardware Validation & Testing",
+      "Hardware Engineering"
+    ]
+  },
+  {
+    "id": "55649ae4-7427-47dc-b8af-30c29eedf9b9",
+    "company_name": "NXP Semiconductors",
+    "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+    "title": "Hardware/Software System and Application Engineer Intern",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793577600,
+    "date_updated": 1793662997,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
     "detail_desc_terms": "",
     "functions": [
       "Hardware Validation & Testing",
@@ -37699,45 +37364,6 @@
     ]
   },
   {
-    "id": "79319947-ff13-43ec-ba20-dd86e6a6b401",
-    "company_name": "GIRO",
-    "company_url": "https://simplify.jobs/c/GIRO-Inc",
-    "title": "Front-End Web Development Intern",
-    "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793491200,
-    "date_updated": 1795245689,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "Canada work auth",
-      "Work auth required"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "Winter/Spring 2027",
-    "functions": [
-      "Frontend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "016fa4b5-f0be-4f7d-9eaa-5a420aa83638",
     "company_name": "Firework",
     "company_url": "https://simplify.jobs/c/Firework",
@@ -37794,7 +37420,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -38232,7 +37858,7 @@
       "Fall 2027"
     ],
     "program": "cs",
-    "detail_pay": "$52.72–$60.64/hr",
+    "detail_pay": "$53–$61/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -38298,7 +37924,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -38330,7 +37956,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -38432,7 +38058,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$28.72/hr",
+    "detail_pay": "$28.72–$30.93/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -38644,7 +38270,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -38673,7 +38299,7 @@
     "degrees": [],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$30/hr",
+    "detail_pay": "$34/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -38898,38 +38524,6 @@
     "functions": [
       "Hardware Validation & Testing",
       "Hardware Engineering"
-    ]
-  },
-  {
-    "id": "2a369c5b-2d82-4445-b2ae-c67327efa726",
-    "company_name": "Astera",
-    "company_url": "https://simplify.jobs/c/Astera",
-    "title": "Robotics Systems Intern - Wheeled Platforms & Lifting Systems",
-    "url": "https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application?embed=true",
-    "locations": [
-      "Emeryville, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793318400,
-    "date_updated": 1795253225,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$40/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Robotics & Autonomous Systems",
-      "AI & Machine Learning"
     ]
   },
   {
@@ -40240,6 +39834,38 @@
     ]
   },
   {
+    "id": "aa17c8d8-a4c8-4f40-9a0f-73bca79d2727",
+    "company_name": "Meta",
+    "company_url": "https://simplify.jobs/c/Meta",
+    "title": "Research Scientist Intern - Scam and Trust",
+    "url": "https://www.metacareers.com/jobs/2355649268510104",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793312261,
+    "date_updated": 1793312347,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Research",
+      "AI & Machine Learning"
+    ]
+  },
+  {
     "id": "14fe6917-aa52-43f8-b938-83b67d70feaa",
     "company_name": "Meta",
     "company_url": "https://simplify.jobs/c/Meta",
@@ -40261,7 +39887,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -40294,7 +39920,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -40582,7 +40208,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$27.88–$50/hr",
+    "detail_pay": "$28–$50/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -40753,7 +40379,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -40970,7 +40596,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "$20.91–$42.07/hr",
+    "detail_pay": "$21–$42/hr",
     "detail_auth": [
       "US work auth",
       "No sponsorship"
@@ -41192,43 +40818,6 @@
     ]
   },
   {
-    "id": "92e97129-5157-407c-a20a-583d03213c24",
-    "company_name": "Federal Home Loan Bank of Dallas",
-    "company_url": "https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Dallas",
-    "title": "Digital Transformation Intern",
-    "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Spring-Digital-Transformation-Intern_REQ-456",
-    "locations": [
-      "Irving, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793232000,
-    "date_updated": 1794554900,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Spring 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data & Analytics",
-      "Business Intelligence"
-    ]
-  },
-  {
     "id": "4104d34a-1f77-48e8-bc0d-96899f61db22",
     "company_name": "General Motors",
     "company_url": "https://simplify.jobs/c/General-Motors",
@@ -41254,7 +40843,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$55.38–$68.08/hr",
+    "detail_pay": "$55–$68/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -41928,6 +41517,34 @@
     "detail_seasons": [
       "Summer 2027"
     ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "e594916c-1936-470f-8780-c44e4a1da22f",
+    "company_name": "Thoughtworks",
+    "company_url": "https://simplify.jobs/c/Thoughtworks",
+    "title": "Graduate Developer",
+    "url": "https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/b6bcff88-eb9a-4df1-8695-bc4e7dc1dbc7/application?embed=true",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793232000,
+    "date_updated": 1794613543,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
@@ -42695,7 +42312,7 @@
       "Winter 2027"
     ],
     "program": "cs",
-    "detail_pay": "$26–$35/hr",
+    "detail_pay": "$28–$34/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -42730,7 +42347,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$72–$124/hr",
     "detail_auth": [
       "No sponsorship"
     ],
@@ -43128,7 +42745,6 @@
     ],
     "detail_desc_terms": "Winter/Spring 2027",
     "functions": [
-      "Frontend Engineering",
       "Software Engineering"
     ]
   },
@@ -43154,7 +42770,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -43324,7 +42940,7 @@
       "Spring 2030"
     ],
     "program": "other",
-    "detail_pay": "$26.54–$60.58/hr",
+    "detail_pay": "$27–$61/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -43539,7 +43155,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$21.39–$34.23/hr",
+    "detail_pay": "$21–$34/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -43725,7 +43341,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$20–$30/hr",
+    "detail_pay": "$30/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -44000,7 +43616,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -44033,7 +43649,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -44066,7 +43682,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -44099,7 +43715,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -44133,7 +43749,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -44165,7 +43781,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -44296,7 +43912,7 @@
       "Winter 2027"
     ],
     "program": "cs",
-    "detail_pay": "CA$20.19/hr",
+    "detail_pay": "CA$20/hr",
     "detail_auth": [
       "Canada work auth",
       "Canadian citizen/PR"
@@ -44677,7 +44293,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$0.02/hr",
+    "detail_pay": "$32.03–$34.49/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -44927,7 +44543,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -45032,7 +44648,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$87.50–$125/hr",
+    "detail_pay": "$88–$125/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -45226,6 +44842,42 @@
     ]
   },
   {
+    "id": "1a2e7785-ecd0-432f-a592-087e510f7845",
+    "company_name": "Ciena",
+    "company_url": "https://simplify.jobs/c/Ciena",
+    "title": "Electronic Reliability Engineer Co-op",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793059200,
+    "date_updated": 1793138943,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$25–$35/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Hardware Validation & Testing",
+      "Hardware Engineering"
+    ]
+  },
+  {
     "id": "21845f2d-3358-4394-9609-8ea2d11ee1a0",
     "company_name": "Delta Dental",
     "company_url": "https://simplify.jobs/c/Delta-Dental",
@@ -45312,7 +44964,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "$7/hr",
+    "detail_pay": "",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -45567,6 +45219,43 @@
     "detail_desc_terms": "Summer 2027",
     "functions": [
       "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "da7bf188-3e70-455c-973d-25bf668ed458",
+    "company_name": "Hitachi",
+    "company_url": "https://simplify.jobs/c/Hitachi",
+    "title": "Software Analyst Intern",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793059200,
+    "date_updated": 1793139304,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "CA$23–CA$30/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
     ]
   },
   {
@@ -45897,6 +45586,45 @@
     ]
   },
   {
+    "id": "5f0aa1ea-dfb4-4cfb-8224-5f3d9fd07cf0",
+    "company_name": "The Federal Reserve System",
+    "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+    "title": "REIN Data Intern",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793059200,
+    "date_updated": 1793111805,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Management",
+      "Data & Analytics"
+    ]
+  },
+  {
     "id": "0007c5a8-0d33-4889-b164-c6a16cb31f68",
     "company_name": "Trimble",
     "company_url": "https://simplify.jobs/c/Trimble",
@@ -46052,7 +45780,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "",
+    "detail_pay": "$42–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -46083,7 +45811,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -46116,7 +45844,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -46148,7 +45876,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -46789,7 +46517,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$29.76–$67.79/hr",
+    "detail_pay": "$30–$68/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -46827,7 +46555,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$25.43–$51.92/hr",
+    "detail_pay": "$25–$52/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -46865,7 +46593,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$25.43–$51.92/hr",
+    "detail_pay": "$25–$52/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -46902,7 +46630,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$25.43–$51.92/hr",
+    "detail_pay": "$25–$52/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -46940,7 +46668,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$25.43–$51.92/hr",
+    "detail_pay": "$25–$52/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -46977,7 +46705,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$25.43–$51.92/hr",
+    "detail_pay": "$25–$52/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -47015,7 +46743,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$25.43–$51.92/hr",
+    "detail_pay": "$25–$52/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -47052,7 +46780,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$25.43–$51.92/hr",
+    "detail_pay": "$25–$52/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -47089,7 +46817,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$25.43–$51.92/hr",
+    "detail_pay": "$25–$52/hr",
     "detail_auth": [
       "US clearance"
     ],
@@ -47334,7 +47062,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "$0/hr",
+    "detail_pay": "",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -48198,7 +47926,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$70/hr",
+    "detail_pay": "$47–$70/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -48406,7 +48134,7 @@
       "Fall 2027"
     ],
     "program": "cs",
-    "detail_pay": "$52.59/hr",
+    "detail_pay": "$53/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship"
@@ -48603,7 +48331,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -48637,7 +48365,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -49213,7 +48941,7 @@
       "N/A"
     ],
     "program": "other",
-    "detail_pay": "$55.82–$64.23/hr",
+    "detail_pay": "$56–$64/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -49249,7 +48977,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "$47.44–$57.07/hr",
+    "detail_pay": "$47–$57/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -49353,7 +49081,7 @@
       "Spring 2027"
     ],
     "program": "cs",
-    "detail_pay": "$52.59/hr",
+    "detail_pay": "$53/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -49423,7 +49151,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "$69.10/hr",
+    "detail_pay": "$69/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -49457,7 +49185,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "$49.49/hr",
+    "detail_pay": "$49/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -49495,7 +49223,7 @@
       "Summer 2026"
     ],
     "program": "cs",
-    "detail_pay": "$65.22/hr",
+    "detail_pay": "$65/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -49533,7 +49261,7 @@
       "Fall 2027"
     ],
     "program": "cs",
-    "detail_pay": "$52.72–$60.64/hr",
+    "detail_pay": "$53–$61/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -49603,7 +49331,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "$57.07/hr",
+    "detail_pay": "$57/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -49638,7 +49366,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "$65.47/hr",
+    "detail_pay": "$65/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -49679,7 +49407,7 @@
       "Fall 2027"
     ],
     "program": "cs",
-    "detail_pay": "$52.59–$60.52/hr",
+    "detail_pay": "$53–$61/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -49720,7 +49448,7 @@
       "Fall 2027"
     ],
     "program": "other",
-    "detail_pay": "$51.57/hr",
+    "detail_pay": "$52/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -49791,7 +49519,7 @@
       "Summer 2027"
     ],
     "program": "cs",
-    "detail_pay": "$49.65–$54.64/hr",
+    "detail_pay": "$50–$55/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -50092,7 +49820,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "CA$23.08–CA$28.85/hr",
+    "detail_pay": "CA$23–CA$29/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -50127,7 +49855,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "CA$23.08–CA$28.85/hr",
+    "detail_pay": "CA$23–CA$29/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -50315,8 +50043,7 @@
     ],
     "detail_desc_terms": "",
     "functions": [
-      "Backend Engineering",
-      "Frontend Engineering",
+      "Full-Stack Engineering",
       "Software Engineering"
     ]
   },
@@ -50347,6 +50074,7 @@
     "detail_pay": "$38–$53/hr",
     "detail_auth": [
       "US work auth",
+      "No sponsorship",
       "Work auth required"
     ],
     "detail_h1b": false,
@@ -50578,6 +50306,45 @@
     "functions": [
       "Hardware Validation & Testing",
       "Hardware Engineering"
+    ]
+  },
+  {
+    "id": "baf68adf-358f-4898-99b5-1bb3a08bd7f6",
+    "company_name": "Huntington Bancshares",
+    "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+    "title": "Enterprise Payments Intern",
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171",
+    "locations": [
+      "Detroit, MI",
+      "Minnetonka, MN",
+      "Columbus, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792713600,
+    "date_updated": 1792794665,
+    "category": "Product",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$21–$25/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Product Management",
+      "Product"
     ]
   },
   {
@@ -51062,7 +50829,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$46–$70/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -51132,7 +50899,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "CA$26.44/hr",
+    "detail_pay": "CA$26/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -51166,7 +50933,7 @@
       "Spring 2027"
     ],
     "program": "other",
-    "detail_pay": "CA$26.44/hr",
+    "detail_pay": "CA$26/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -51202,7 +50969,7 @@
       "Summer 2027"
     ],
     "program": "other",
-    "detail_pay": "CA$26.44/hr",
+    "detail_pay": "CA$26/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [
@@ -51658,7 +51425,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -51691,7 +51458,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -51723,7 +51490,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -51757,7 +51524,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -51789,7 +51556,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -51821,7 +51588,7 @@
       "N/A"
     ],
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$44–$73/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -51829,6 +51596,44 @@
     "functions": [
       "AI Research",
       "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "68688728-c254-4961-b5ba-f479aace81a0",
+    "company_name": "Crystal Dynamics",
+    "company_url": "https://simplify.jobs/c/Crystal-Dynamics",
+    "title": "Gameplay Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792705486,
+    "date_updated": 1793284385,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Spring 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$22–$25/hr",
+    "detail_auth": [
+      "US work auth"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Spring 2027"
+    ],
+    "detail_desc_terms": "Winter/Spring 2027",
+    "functions": [
+      "Game Engineering",
+      "Software Engineering"
     ]
   },
   {
@@ -51868,6 +51673,76 @@
     ]
   },
   {
+    "id": "45a33390-e3d3-4475-8ae9-1e37c162103a",
+    "company_name": "Constellation Energy",
+    "company_url": "https://simplify.jobs/c/Constellation-Energy",
+    "title": "Structuring & Portfolio Management Intern",
+    "url": "https://jobs.constellationenergy.com/jobs/140355?icims=1&lang=en-us",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792680900,
+    "date_updated": 1793869133,
+    "category": "Quant",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Quantitative Research",
+      "Quantitative Finance"
+    ]
+  },
+  {
+    "id": "5bb4ece4-430e-448a-b283-4429b6fa0aa5",
+    "company_name": "KRAFTON",
+    "company_url": "https://simplify.jobs/c/KRAFTON",
+    "title": "UI Programming Intern",
+    "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792679825,
+    "date_updated": 1792831373,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Game Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "696b3354-b0bb-4ad0-bd2d-554d875e4e12",
     "company_name": "Aerotech",
     "company_url": "https://simplify.jobs/c/Aerotech",
@@ -51903,6 +51778,221 @@
     ]
   },
   {
+    "id": "770d0c2e-5cd5-4716-b307-3db3d3f8e1ce",
+    "company_name": "Meta",
+    "company_url": "https://simplify.jobs/c/Meta",
+    "title": "Research Scientist Intern - Central Applied Science",
+    "url": "https://www.metacareers.com/jobs/1582569213186235",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792679304,
+    "date_updated": 1792679447,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$44–$73/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Research",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "0feda082-a3a6-4e55-8793-5ef9cafd6978",
+    "company_name": "EQT Corporation",
+    "company_url": "https://simplify.jobs/c/EQT-Corporation",
+    "title": "Midstream Services Intern",
+    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008",
+    "locations": [
+      "Canonsburg, PA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792678484,
+    "date_updated": 1792678505,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Analysis",
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
+    "id": "060c5b3e-72e6-4565-8196-5327e4baf243",
+    "company_name": "Qualcomm",
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "title": "Applied AI Engineering Intern - Hardware Systems",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792678332,
+    "date_updated": 1792678551,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$26–$50/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "515ae061-c5fc-417c-8093-4d0c6e420ba5",
+    "company_name": "Qualcomm",
+    "company_url": "https://simplify.jobs/c/Qualcomm",
+    "title": "Camera Design Implementation Intern",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721678727",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792678332,
+    "date_updated": 1792678524,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$26–$50/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Hardware Engineering",
+      "Silicon & ASIC Design"
+    ]
+  },
+  {
+    "id": "95d0fbdb-14f6-4eaf-a46b-3f06591a562b",
+    "company_name": "L3Harris Technologies",
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "title": "Image Processing Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792677964,
+    "date_updated": 1792677965,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Computer Vision",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "fb7c3da2-a194-48d2-ac39-bdfc88cad4d0",
+    "company_name": "Constellation Energy",
+    "company_url": "https://simplify.jobs/c/Constellation-Energy",
+    "title": "Data & Digital Transformation Intern - Geysers",
+    "url": "https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us",
+    "locations": [
+      "Middletown, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792675500,
+    "date_updated": 1793869131,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Analysis",
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
     "id": "049abd17-7f5b-4e36-9f8b-96b028fa0720",
     "company_name": "McMaster-Carr",
     "company_url": "https://simplify.jobs/c/McMaster-Carr",
@@ -51921,7 +52011,7 @@
     "degrees": [],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$64/hr",
+    "detail_pay": "$64–$87/hr",
     "detail_auth": [],
     "detail_h1b": false,
     "detail_seasons": [],
@@ -52088,7 +52178,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$62–$94/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -52245,7 +52335,7 @@
     "degrees": [],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$250/hr",
+    "detail_pay": "",
     "detail_auth": [
       "US work auth",
       "Work auth required"
@@ -52444,6 +52534,35 @@
     ]
   },
   {
+    "id": "9d24638b-f231-499f-8fe9-a3fab5242bd1",
+    "company_name": "Zurich Insurance",
+    "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+    "title": "Machine Learning Engineer",
+    "url": "https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792536005,
+    "date_updated": 1792774263,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "CA$44–CA$73/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Applied Machine Learning",
+      "AI & Machine Learning"
+    ]
+  },
+  {
     "id": "c8e180cd-1a33-4993-bbdc-6e76286d9dd1",
     "company_name": "All Lines Technology",
     "company_url": "https://simplify.jobs/c/All-Lines-Technology",
@@ -52529,7 +52648,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$47–$67/hr",
+    "detail_pay": "$47–$69/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -52558,7 +52677,7 @@
     "degrees": [],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$18–$22/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -52864,9 +52983,9 @@
     "program": "cs",
     "detail_pay": "$58–$72/hr",
     "detail_auth": [
-      "US work auth",
       "US citizenship",
-      "US clearance"
+      "US clearance",
+      "US work auth"
     ],
     "detail_h1b": false,
     "detail_seasons": [],
@@ -53992,7 +54111,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$62–$108/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -54405,7 +54524,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$36–$91/hr",
+    "detail_pay": "$36–$56/hr",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -54762,16 +54881,16 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$32–$49/hr",
+    "detail_pay": "$35–$59/hr",
     "detail_auth": [
-      "US work auth",
-      "US clearance",
-      "US citizenship"
+      "US citizenship",
+      "US clearance"
     ],
-    "detail_h1b": null,
+    "detail_h1b": false,
     "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
+      "Desktop Application Development",
       "Software Engineering"
     ]
   },
@@ -54920,7 +55039,7 @@
     "degrees": [],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$67–$130/hr",
+    "detail_pay": "$67–$96/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -55475,9 +55594,8 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$32–$49/hr",
+    "detail_pay": "$35–$59/hr",
     "detail_auth": [
-      "US work auth",
       "US citizenship",
       "US clearance"
     ],
@@ -55509,7 +55627,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$32–$49/hr",
+    "detail_pay": "$35–$59/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship",
@@ -55544,7 +55662,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$32–$49/hr",
+    "detail_pay": "$35–$59/hr",
     "detail_auth": [
       "US work auth",
       "US citizenship",
@@ -56301,7 +56419,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "",
+    "detail_pay": "$14/hr",
     "detail_auth": [],
     "detail_h1b": null,
     "detail_seasons": [],
@@ -57405,7 +57523,7 @@
     ],
     "track": "new_grad",
     "program": "cs",
-    "detail_pay": "$36–$91/hr",
+    "detail_pay": "$36–$56/hr",
     "detail_auth": [
       "US citizenship",
       "US clearance"
@@ -57667,6 +57785,39 @@
     "functions": [
       "Software Engineering",
       "Systems Software Engineering"
+    ]
+  },
+  {
+    "id": "86b9a2cc-8f56-4ad1-b7a0-70772dcaa461",
+    "company_name": "Peraton",
+    "company_url": "https://simplify.jobs/c/Peraton",
+    "title": "Artificial Intelligence/Machine Learning Engineer 1",
+    "url": "https://peraton.jibeapply.com/jobs/171011?icims=1",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790081340,
+    "date_updated": 1793428302,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$38–$62/hr",
+    "detail_auth": [
+      "US clearance"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Applied Machine Learning",
+      "AI & Machine Learning"
     ]
   }
 ]

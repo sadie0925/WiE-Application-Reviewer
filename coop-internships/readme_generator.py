@@ -158,7 +158,9 @@ def _render_board(board: dict, listings: list[dict], now: str, max_age_days: int
            if board.get("track") == "new_grad" else "")
         + ". Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), "
         "citizen/PR only, no visa sponsorship, or required US / Canada work authorization. "
-        "Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). "
+        "Pay is read from the company's own job posting, with Simplify's copy as the fallback. "
+        "A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. "
+        "It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). "
         "A blank cell means the posting does not say.",
         "",
         "[All boards](../README.md)",

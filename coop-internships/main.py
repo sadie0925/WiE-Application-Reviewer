@@ -9,7 +9,7 @@ import sys
 import time
 from pathlib import Path
 
-from details import apply_details, fetch_missing, load_cache, save_cache
+from details import apply_details, fetch_missing, fetch_page_pay, load_cache, save_cache
 from hackathons import fetch_hackathons
 from programs import fetch_programs
 from readme_generator import update_readme
@@ -105,6 +105,8 @@ def enrich_with_details(listings: list[dict], *, fetch: bool) -> None:
         try:
             fetched = fetch_missing(live, cache)
             print(f"  Fetched posting details for {fetched} new listings")
+            checked = fetch_page_pay(live, cache)
+            print(f"  Checked pay on {checked} company posting pages")
         except Exception as exc:  # never block the board update on this
             print(f"  Posting detail fetch failed: {exc}", file=sys.stderr)
         save_cache(cache, {item.get("id") for item in live if item.get("id")})

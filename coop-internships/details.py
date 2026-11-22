@@ -11,12 +11,17 @@ from __future__ import annotations
 import html
 import json
 import re
+import threading
 import time
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import TimeoutError as FuturesTimeout
 from pathlib import Path
+from urllib.parse import urlparse
+from urllib.robotparser import RobotFileParser
 
 import requests
 
+from pay import pay_from_fields, pay_from_text
 from scrapers.filters import auth_labels_from_text, terms_from_description
 
 ROOT = Path(__file__).parent
@@ -24,9 +29,10 @@ CACHE_PATH = ROOT / "details-cache.json"
 DETAIL_URL = "https://api.simplify.jobs/v2/job-posting/:id/{id}/company"
 HEADERS = {"User-Agent": "WiE-Coop-Listings/1.0 (github; educational)"}
 TIMEOUT = 20
+PAGE_TIMEOUT = 15
 WORKERS = 8
 RETRY_FAILED_AFTER = 6 * 60 * 60
-CACHE_VERSION = 2
+CACHE_VERSION = 3
 
 # Simplify enums (checked against posting text).
 _SEASONS = {1: "Winter", 2: "Spring", 3: "Summer", 4: "Fall"}
@@ -38,7 +44,6 @@ _REQUIREMENTS = {
     4: "Canada work auth",
     5: "Canadian citizen/PR",
 }
-_CURRENCY_PREFIX = {"USD": "$", "CAD": "CA$"}
 
 def _plain_text(raw: str | None) -> str:
     text = raw or ""
@@ -48,95 +53,12 @@ def _plain_text(raw: str | None) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-# Hourly conversion: 40 h/week, 52 weeks/year.
-_HOURS = {"hr": 1.0, "wk": 40.0, "mo": 2080.0 / 12, "yr": 2080.0}
-
-_AMOUNT = r"(?:CA)?\$\s?(\d[\d,]*(?:\.\d+)?)\s*([kK](?![a-z]))?"
-_MONEY_RANGE_RE = re.compile(
-    _AMOUNT
-    + r"(?:\s*(?:USD|CAD))?(?:\s*(?:-|–|—|to)\s*" + _AMOUNT.replace("\\$", "\\$?") + r")?"
-    + r"(?:\s*(?:USD|CAD))?(?P<after>[^$]{0,30})",
-    re.IGNORECASE,
-)
-_PERIOD_WORDS = (
-    (re.compile(r"^\W{0,3}(?:/\s*|per\s+|an?\s+|each\s+)?(?:hour|hr)\b|^\W{0,3}hourly", re.I), "hr"),
-    (re.compile(r"^\W{0,3}(?:/\s*|per\s+|a\s+)?(?:week|wk)\b|^\W{0,3}weekly", re.I), "wk"),
-    (re.compile(r"^\W{0,3}(?:/\s*|per\s+|a\s+)?(?:month|mo)\b|^\W{0,3}monthly", re.I), "mo"),
-    (re.compile(r"^\W{0,3}(?:/\s*|per\s+|an?\s+)?(?:year|yr|annum)\b|^\W{0,3}annual(?:ly)?", re.I), "yr"),
-)
-# An unlabeled range ("Expected Compensation $20.00 - $50.00 + benefits") only counts near a pay word.
-_PAY_CONTEXT = re.compile(
-    r"\b(pay|compensation|salary|wage|rate|stipend|earn|base|range|hourly|annual)\b", re.IGNORECASE
-)
-
-
-def _amount(number: str, k: str | None) -> float:
-    value = float(number.replace(",", ""))
-    return value * 1000 if k else value
-
-
-def _guess_period(low: float, high: float) -> str:
-    if high <= 300:
-        return "hr"
-    if low >= 15000:
-        return "yr"
-    return ""
-
-
-def _hourly_label(low: float, high: float, period: str, prefix: str) -> str:
-    """Every pay shown as $/hr; yearly / monthly / weekly salaries are converted."""
-    hours = _HOURS[period]
-    low, high = low / hours, high / hours
-    if low > high:
-        low, high = high, low
-
-    def fmt(value: float) -> str:
-        if period != "hr":
-            return f"{prefix}{round(value):,}"  # converted: whole dollars
-        if abs(value - round(value)) < 0.005:
-            return f"{prefix}{round(value):,}"
-        return f"{prefix}{value:,.2f}"
-
-    if abs(high - low) < 0.005 or fmt(low) == fmt(high):
-        return f"{fmt(low)}/hr"
-    return f"{fmt(low)}–{fmt(high)}/hr"
-
-
-def _pay_from_text(text: str, prefix: str) -> str:
-    for match in _MONEY_RANGE_RE.finditer(text):
-        low = _amount(match.group(1), match.group(2))
-        high = _amount(match.group(3), match.group(4)) if match.group(3) else low
-        if low <= 0 or high <= 0:  # "$0.00 - $0.00" placeholders
-            continue
-        after = match.group("after") or ""
-        period = next((p for regex, p in _PERIOD_WORDS if regex.search(after)), "")
-        if not period:
-            before = text[max(0, match.start() - 80): match.start()]
-            if not _PAY_CONTEXT.search(before):
-                continue
-            period = _guess_period(low, high)
-            if not period:
-                continue
-        # Sanity: skip things like "$5 billion" or a bonus line.
-        hourly_high = high / _HOURS[period]
-        if not (7 <= hourly_high <= 400):
-            continue
-        return _hourly_label(low, high, period, prefix)
-    return ""
-
-
 def _pay_label(posting: dict, text: str) -> str:
-    low = posting.get("min_salary")
-    high = posting.get("max_salary")
-    currency = posting.get("currency_type") or "USD"
-    prefix = _CURRENCY_PREFIX.get(currency, f"{currency} ")
-    if (low or high) and float(low or high or 0) > 0:
-        low = float(low or high)
-        high = float(high or low)
-        period = _PERIODS.get(posting.get("salary_period")) or _guess_period(low, high)
-        if period:
-            return _hourly_label(low, high, period, prefix)
-    return _pay_from_text(text, prefix)
+    """Pay from Simplify's salary fields, else from the description text."""
+    return pay_from_fields(
+        posting.get("min_salary"), posting.get("max_salary"),
+        posting.get("salary_period"), posting.get("currency_type"),
+    ) or pay_from_text(text)
 
 
 def extract(posting: dict) -> dict:
@@ -230,6 +152,140 @@ def fetch_missing(listings: list[dict], cache: dict, budget: int = 600) -> int:
     return len(todo)
 
 
+# ---------------------------------------------------------------------------
+# Fallback: the company's own posting page
+# ---------------------------------------------------------------------------
+# Every posting's own Apply page is read once (not only when Simplify has no pay),
+# because Simplify's copy sometimes drops or garbles the pay section. Pay found on the
+# company's page wins over Simplify. robots.txt is respected; a site that refuses
+# (401/403) is not asked again for that posting. Each run spends at most
+# PAGE_TIME_LIMIT seconds on this, newest postings first, so new jobs are never held up.
+
+PAGE_BUDGET = 400
+PAGE_WORKERS = 6
+PAGE_TIME_LIMIT = 90
+PAGE_RETRY_AFTER = 6 * 60 * 60
+_robots: dict[str, RobotFileParser] = {}
+_robots_lock = threading.Lock()
+
+
+def _allowed(url: str) -> bool:
+    parts = urlparse(url)
+    if parts.scheme not in {"http", "https"} or not parts.netloc:
+        return False
+    base = f"{parts.scheme}://{parts.netloc}"
+    with _robots_lock:
+        parser = _robots.get(base)
+    if parser is None:
+        parser = RobotFileParser()
+        try:
+            response = requests.get(base + "/robots.txt", headers=HEADERS, timeout=10)
+            parser.parse(response.text.splitlines() if response.status_code == 200 else [])
+        except requests.RequestException:
+            parser.parse([])
+        with _robots_lock:
+            _robots[base] = parser
+    return parser.can_fetch(HEADERS["User-Agent"], url)
+
+
+def _workday_api(url: str) -> str | None:
+    """Workday pages are rendered by script; the same posting is public JSON at /wday/cxs/."""
+    parts = urlparse(url)
+    if "myworkdayjobs.com" not in parts.netloc:
+        return None
+    path = [piece for piece in parts.path.split("/") if piece]
+    if path and re.fullmatch(r"[a-z]{2}-[A-Z]{2}", path[0]):
+        path = path[1:]
+    if len(path) < 2:
+        return None
+    tenant = parts.netloc.split(".")[0]
+    return f"https://{parts.netloc}/wday/cxs/{tenant}/{path[0]}/{'/'.join(path[1:])}"
+
+
+def _page_text(url: str) -> tuple[str, int]:
+    api = _workday_api(url)
+    target = api or url
+    if not _allowed(target):
+        return "", -1
+    response = requests.get(
+        target,
+        headers={**HEADERS, "Accept": "application/json" if api else "text/html"},
+        timeout=PAGE_TIMEOUT,
+    )
+    if response.status_code != 200:
+        return "", response.status_code
+    if api:
+        info = (response.json() or {}).get("jobPostingInfo") or {}
+        return _plain_text(info.get("jobDescription")), 200
+    # Many careers sites keep the description in embedded JSON, so scripts are kept.
+    raw = (
+        response.text.replace("\\u0024", "$")
+        .replace("\\u002F", "/")
+        .replace("\\u002f", "/")
+        .replace("\\/", "/")
+        .replace('\\"', '"')
+    )
+    raw = re.sub(r"<style[\s\S]*?</style>", " ", raw, flags=re.IGNORECASE)
+    return _plain_text(raw), 200
+
+
+def _page_pay_one(listing: dict) -> tuple[str, dict]:
+    listing_id = listing["id"]
+    now = int(time.time())
+    tries = int(listing.get("_page_tries") or 0) + 1
+    try:
+        text, status = _page_text(listing.get("url") or "")
+    except (requests.RequestException, ValueError) as exc:
+        return listing_id, {"page_checked": now, "page_status": f"error: {str(exc)[:80]}", "page_tries": tries}
+    return listing_id, {
+        "page_checked": now,
+        "page_status": status,
+        "page_pay": pay_from_text(text) if text else "",
+        "page_tries": tries,
+    }
+
+
+def _page_needs_check(entry: dict, now: float) -> bool:
+    if entry.get("error") or entry.get("missing"):
+        return False
+    checked = entry.get("page_checked")
+    if not checked:
+        return True
+    status = entry.get("page_status")
+    # Temporary failures (timeouts, rate limits, 5xx): retried on the next runs, then every 6 hours.
+    temporary = status == 429 or (isinstance(status, int) and status >= 500) or str(status).startswith("error")
+    if not temporary:
+        return False
+    return int(entry.get("page_tries") or 0) < 3 or now - int(checked) > PAGE_RETRY_AFTER
+
+
+def fetch_page_pay(listings: list[dict], cache: dict, budget: int = PAGE_BUDGET) -> int:
+    """Read pay from each posting's own page (newest first, time-boxed)."""
+    now = time.time()
+    todo = []
+    for listing in sorted(listings, key=lambda item: -int(item.get("date_posted") or 0)):
+        entry = cache.get(listing.get("id") or "")
+        if entry and listing.get("url") and _page_needs_check(entry, now):
+            todo.append({**listing, "_page_tries": entry.get("page_tries") or 0})
+    todo = todo[:budget]
+    if not todo:
+        return 0
+    deadline = time.time() + PAGE_TIME_LIMIT
+    done = 0
+    pool = ThreadPoolExecutor(PAGE_WORKERS)
+    futures = [pool.submit(_page_pay_one, listing) for listing in todo]
+    try:
+        for future in as_completed(futures, timeout=max(1, deadline - time.time())):
+            listing_id, update = future.result()
+            cache[listing_id].update(update)
+            done += 1
+    except FuturesTimeout:
+        pass  # the rest are checked on the next run
+    finally:
+        pool.shutdown(wait=False, cancel_futures=True)
+    return done
+
+
 OVERRIDES_PATH = ROOT / "pay-overrides.json"
 
 
@@ -252,12 +308,17 @@ def apply_details(listings: list[dict], cache: dict) -> None:
     for listing in listings:
         override = overrides.get(listing.get("url") or "")
         if override:
-            listing["detail_pay"] = _pay_from_text("pay " + override, "$")
+            listing["detail_pay"] = pay_from_text("pay " + override)
         entry = cache.get(listing.get("id") or "")
         if not entry or entry.get("error") or entry.get("missing"):
             continue
         if not override:
-            listing["detail_pay"] = entry.get("pay") or ""
+            # The company's own page wins; Simplify is the fallback.
+            page_pay, simplify_pay = entry.get("page_pay") or "", entry.get("pay") or ""
+            if page_pay.startswith("$") and simplify_pay.startswith("CA$"):
+                # Canadian pages often write plain "$"; Simplify knows it is CAD.
+                page_pay = page_pay.replace("$", "CA$")
+            listing["detail_pay"] = page_pay or simplify_pay
         listing["detail_auth"] = list(entry.get("auth") or [])
         listing["detail_h1b"] = entry.get("sponsors_h1b")
         listing["detail_seasons"] = list(entry.get("seasons") or [])

@@ -2,22 +2,20 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**54 open** · newest first · removed when closed or after 60 days · Updated 2026-11-21 16:45 ET
+**54 open** · newest first · removed when closed or after 60 days · Updated 2026-11-20 22:53 ET
 
-Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is always shown per hour; posted yearly, monthly, or weekly salaries are converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
+Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
 [All boards](../README.md)
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
-| Gradient MSP | Junior Full Stack Developer | Remote in Canada |  |  |  | 2026-11-21 | [Apply](https://gradientmsp.bamboohr.com/careers/72/) |
 | Affirm | Software Engineer 1 - Backend - Streaming Infra | Remote in Canada |  |  | CA$49–CA$73/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201471003) |
 | Affirm | Software Engineer 1 - Fullstack - Disputes Platform | Remote in Canada |  |  | CA$49–CA$73/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8196691003) |
 | Octasic | Software Developer - Research & Development | Montreal, QC, Canada |  | US clearance |  | 2026-11-20 | [Apply](https://ats.rippling.com/octasic-inc/jobs/37d213b7-ac06-4ec0-9656-8dea3beff50f) |
 | Omnimed | ML Developer - Junior or Intermediate | Cookshire-Eaton, QC, Canada |  |  |  | 2026-11-20 | [Apply](https://omnimed.bamboohr.com/careers/73/) |
 | Keplar | Software Engineer New Grad | Toronto, ON, Canada, Waterloo, ON, Canada |  |  |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true) |
-| Journal Technologies | Junior Data Integration Developer | Victoria, BC, Canada, Remote in USA (+1) |  | US citizenship, Canadian citizen/PR, No sponsorship | $29–$36/hr | 2026-11-19 | [Apply](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d) |
-| CDPQ | Developer - Digital Solutions and Analytics - Liquid Markets | Montreal, QC, Canada |  |  |  | 2026-11-18 | [Apply](https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique---Marchs-boursiers_R05211) |
+| Journal Technologies | Junior Data Integration Developer | Victoria, BC, Canada, Remote in USA (+1) |  | US citizenship, Canadian citizen/PR, No sponsorship | $26–$36/hr | 2026-11-19 | [Apply](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d) |
 | Arcadion | Junior AI Developer | Ottawa, ON, Canada |  |  |  | 2026-11-18 | [Apply](https://arcadion.bamboohr.com/careers/52/) |
 | Sony Pictures Imageworks | Associate Software Developer - Infrastructure | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207497003) |
 | Sony Pictures Imageworks | Associate Software Engineer | Vancouver, BC, Canada |  |  | CA$32–CA$43/hr | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207482003) |
@@ -39,6 +37,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | DraftKings | Software Engineer | Remote in Canada |  |  |  | 2026-10-29 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324-1) |
 | Mitel Networks | Junior Full Stack Web Developer | Ottawa, ON, Canada |  |  |  | 2026-10-29 | [Apply](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211) |
 | Thoughtworks | Associate Developer | Toronto, ON, Canada |  |  | CA$46/hr | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333236) |
+| Thoughtworks | Graduate Developer | Toronto, ON, Canada |  |  |  | 2026-10-28 | [Apply](https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/b6bcff88-eb9a-4df1-8695-bc4e7dc1dbc7/application?embed=true) |
 | Ciena | Routing/IP Software Engineer New Grad | Ottawa, ON, Canada |  |  | CA$35–CA$55/hr | 2026-10-27 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006) |
 | Intuit | Software Developer 1 | Toronto, ON, Canada |  |  | CA$45–CA$61/hr | 2026-10-27 | [Apply](https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744) |
 | Didero | Forward Deployed Engineer | Toronto, ON, Canada |  |  | CA$43–CA$62/hr | 2026-10-26 | [Apply](https://jobs.ashbyhq.com/didero/02895105-d069-47cf-b1e2-be7d24909173/application?embed=true) |
@@ -48,7 +47,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Analog Devices | Associate Engineer - SDK and Tools Development | Vancouver, BC, Canada |  | US citizenship |  | 2026-10-22 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Associate-Engineer---SDK-and-Tools-Development_R266973-1) |
 | DraftKings | Software Engineer | Remote in Canada |  |  |  | 2026-10-22 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324) |
 | Aptiv | Associate Cloud Engineer | Kanata, Ottawa, ON, Canada |  |  | CA$31–CA$38/hr | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000701887) |
-| Quora | Full Stack Software Engineer New Grad | Remote in USA, Remote in Canada |  |  | $47–$67/hr | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
+| Zurich Insurance | Machine Learning Engineer | Toronto, ON, Canada |  |  | CA$44–CA$73/hr | 2026-10-20 | [Apply](https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors) |
+| Quora | Full Stack Software Engineer New Grad | Remote in USA, Remote in Canada |  |  | $47–$69/hr | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
 | GIRO | Front-End Web Developer | Montreal, QC, Canada |  | Canada work auth |  | 2026-10-18 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-web--Front-end_R-100000287) |
 | GIRO | Junior C++ Developer | Montreal, QC, Canada |  | US work auth |  | 2026-10-18 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346) |
 | Wonderbrands | Fullstack Software Developer New Grad | Etobicoke, ON, Canada |  |  |  | 2026-10-18 | [Apply](https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false) |
