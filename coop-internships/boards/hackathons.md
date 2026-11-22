@@ -2,7 +2,7 @@
 
 Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, design teams, Velocity, the IDEAs Clinic, and Socratica). Each run checks every public Luma event around Waterloo (most UW clubs post there), the Linktrees and Luma calendars of the clubs in uw-clubs.json (their hackathon sites, Luma events, and open application forms), plus Hackathon Radar's Waterloo page, Communitech, MLH, and Devpost. Other Canada and US hackathons follow. The Deadline column is the application close only. It stays blank when the organizer does not publish one. When shows a month (e.g. February 2027) when the organizer has only announced the month. Every hackathon is cleared when its application deadline has passed, or when the event has already started — even if a submission window still looks open. This is separate from the 30-day job rule.
 
-**22 upcoming** · 2 Waterloo · 20 other Canada/US · Updated 2026-11-22 11:42 ET
+**26 upcoming** · 2 Waterloo · 24 other Canada/US · Updated 2026-11-22 17:02 ET
 
 [All boards](../README.md)
 
@@ -37,3 +37,7 @@ Waterloo clubs and committees are listed first (EngSoc, UW clubs, WiCS, WiE, des
 | Hack_NCState | Raleigh, North Carolina | 2027-02-06 |  | [Open](https://hackncstate.org/) |
 | InnovateHer | West Lafayette, Indiana | 2027-02-13 |  | [Open](https://innovateherhacks.org/) |
 | MakeUofT | Toronto, Ontario | 2027-02-13 |  | [Open](http://makeuoft.ca/) |
+| SF Hacks | San Francisco, CA | 2027-02-19 |  | [Open](https://sfhacks.io) |
+| CUhackit | Clemson, SC | 2027-02-20 |  | [Open](https://cuhack.it/) |
+| HackIllinois | Urbana, Illinois | 2027-02-25 |  | [Open](https://www.hackillinois.org/) |
+| Hacklytics 2027 | Atlanta, GA | 2027-02-25 |  | [Open](https://hacklytics2027.web.app/) |

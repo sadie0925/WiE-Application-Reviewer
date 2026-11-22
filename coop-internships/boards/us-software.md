@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**710 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 11:42 ET
+**700 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 17:02 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -217,7 +217,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | SRI International | Embedded Software Engineering Co-op | Princeton, NJ |  | US citizenship, No sponsorship | $20–$27/hr | 2026-11-15 | [Apply](https://careers-sri.icims.com/jobs/6542/job?mobile=true&needsRedirect=false) |
 | SRI International | Software Engineering/Full Stack Development Co-op | Princeton, NJ |  | US citizenship, No sponsorship | $20–$27/hr | 2026-11-15 | [Apply](https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false) |
 | Viavi Solutions | Software Engineering Co-op | Germantown, MD |  |  | $19–$35/hr | 2026-11-14 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1) |
-| NextEra Energy | Software Engineering Intern - Technical | St Paul, MN | Summer 2027 |  |  | 2026-11-13 | [Apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) |
 | Hiebing | AI Agent Developer Intern | Madison, WI | Summer 2026 |  | $15/hr | 2026-11-13 | [Apply](https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern) |
 | FieldPulse | AI Intern | Dallas, TX |  |  |  | 2026-11-13 | [Apply](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) |
 | StepStone Group | Junior Analyst Intern - Client Services | Cleveland, OH |  |  | $22/hr | 2026-11-13 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8386648) |
@@ -711,12 +710,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Amperesand | AI/ML Engineer Intern | Sunnyvale, CA |  | Citizen/PR only |  | 2026-10-23 | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009) |
 | Meta | Research Scientist Intern - AI Core Machine Learning | Seattle, WA, Bellevue, WA (+1) |  |  | $44–$73/hr | 2026-10-23 | [Apply](https://www.metacareers.com/jobs/1648122343381284) |
 | Meta | Research Scientist Intern - Meta Recommendation Systems - Core ML | Seattle, WA, Menlo Park, CA (+1) |  |  | $44–$73/hr | 2026-10-23 | [Apply](https://www.metacareers.com/jobs/1023154190171838) |
-| Intercontinental Exchange | Integration Intern | Jacksonville, FL | Summer 2027 |  |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14071?icims=1) |
-| Intercontinental Exchange | Software Engineer Intern | Jacksonville, FL | Summer 2027 |  |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14077?icims=1) |
-| Intercontinental Exchange | Software Engineer Intern - Java | Jacksonville, FL | Summer 2027 |  |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14078?icims=1) |
-| Intercontinental Exchange | Software Engineering Intern | Jacksonville, FL | Summer 2027 |  |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14075?icims=1) |
-| ID.me | Analytics Engineer Intern | Mountain View, CA | Summer 2027 |  | $60–$70/hr | 2026-10-23 | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003) |
-| Epic Games | Tools Programmer Intern - Graphics | Cary, NC | Summer 2027 | US work auth |  | 2026-10-23 | [Apply](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) |
-| Flagship Pioneering | AI/ML Engineering Co-op - SAGE Platform | Watertown, MA | Winter/Spring 2027 |  | $25–$35/hr | 2026-10-23 | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002) |
-| Flagship Pioneering | Bioinformatics Data Engineering Co-op | Watertown, MA | Winter/Spring 2027 |  | $25–$35/hr | 2026-10-23 | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002) |
-| MSA Safety | AI Engineer Co-op | Cranberry Township, PA | Winter/Spring 2027 |  |  | 2026-10-23 | [Apply](https://careers.msasafety.com/jobs/10243?icims=1) |

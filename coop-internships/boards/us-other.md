@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**266 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 11:42 ET
+**263 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 17:02 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -273,6 +273,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | National Indemnity Company | Marketing Data Intern | Omaha, NE |  | No sponsorship |  | 2026-10-25 | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) |
 | Teledyne | Engineering Intern - Technical | Woodridge, IL |  | US citizenship, US person |  | 2026-10-25 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728) |
 | Zebra Technologies | Product Management Intern | Lincolnshire, IL | Summer 2027 | No sponsorship, US work auth | $25.50–$32/hr | 2026-10-25 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
-| Intercontinental Exchange | Audit Analytics Intern | Atlanta, GA | Summer 2027 |  |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14069?icims=1) |
-| Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | $36.05–$38.82/hr | 2026-10-23 | [Apply](https://jobs.keysight.com/jobs/55151?icims=1) |
-| Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | $36.05–$38.82/hr | 2026-10-23 | [Apply](https://jobs.keysight.com/jobs/55150?icims=1) |
