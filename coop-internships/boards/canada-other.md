@@ -2,7 +2,7 @@
 
 Co-ops and internships in Canada that are not software engineering.
 
-**40 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 20:38 ET
+**39 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 03:49 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -20,7 +20,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Avnan | Electronics Engineering Technologist Co-op | Mississauga, ON, Canada | Winter/Spring 2027 |  |  | 2026-11-20 | [Apply](https://avnan.bamboohr.com/careers/125/) |
 | Honeywell Aerospace | Electrical Engineer Intern | Kanata, Ottawa, ON, Canada |  | Canadian citizen/PR | CA$24.04–CA$28.12/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) |
 | Honeywell Aerospace | Embedded Engineer Intern | Kanata, Ottawa, ON, Canada |  | Canadian citizen/PR | CA$24.04–CA$28.12/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) |
-| Blackberry | Hardware Engineering Student Intern - Radar | Waterloo, ON, Canada |  |  | CA$21–CA$28/hr | 2026-11-19 | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--Radar_20260313) |
 | Canadian Strategic Missions | Engineering Intern - Labs | Waterloo, ON, Canada |  | US clearance, Canadian citizen/PR |  | 2026-11-18 | [Apply](https://csmc.bamboohr.com/careers/51/) |
 | W.W. Grainger | GCAN Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Summer 2027 |  | CA$25/hr | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) |
 | W.W. Grainger | Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Summer 2025 |  |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors) |

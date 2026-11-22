@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**712 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 20:38 ET
+**703 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 03:49 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Neros Technologies | Firmware/Embedded Software Engineer Intern | Torrance, CA | Summer 2027 |  | $55/hr | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | Neros Technologies | Autonomy Intern | Torrance, CA | Summer 2027 |  | $55/hr | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007) |
 | Vatic Outsourcing | Business Intelligence Analyst Intern | Marietta, GA |  | US clearance | $15/hr | 2026-11-21 | [Apply](https://vaticoutsourcing.bamboohr.com/careers/152/) |
 | Kentucky Science and Technology Corporation | Data Management Intern | Lexington, KY | Winter/Spring 2026 |  | $16.50–$20.50/hr | 2026-11-21 | [Apply](https://thekentuckyscienceandtechnologycorporation.applytojob.com/apply/ISJX57K0S9/Data-Management-Intern) |
@@ -194,7 +195,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Bound | Engineering Intern | Ames, IA | Summer 2027 |  |  | 2026-11-16 | [Apply](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd) |
 | NeuroSpark | AI Hardware Optimization Engineer Intern | Santa Clara, CA |  |  |  | 2026-11-16 | [Apply](https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3) |
 | NeuroSpark | AI Inference & Training Framework Engineer Intern | Santa Clara, CA |  |  |  | 2026-11-16 | [Apply](https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea) |
-| ServiceNow | Associate Forward Deployed Solution Engineer Intern | Santa Clara, CA | Summer 2027 | US work auth | $43.27–$55.47/hr | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) |
 | Forterra | Software Engineer Intern | Winter Park, FL, Durham, NC (+3) |  | US clearance | $30–$40/hr | 2026-11-16 | [Apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) |
 | Quest Analytics | Software Engineer Intern - C# - ASP.NET | Overland Park, KS | Summer 2027 | No sponsorship, US work auth |  | 2026-11-16 | [Apply](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply) |
 | Meta | Research Scientist Intern - Intelligent Camera Systems | Redmond, WA |  |  | $44–$73/hr | 2026-11-16 | [Apply](https://www.metacareers.com/jobs/971210335715482) |
@@ -216,14 +216,12 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | FieldPulse | AI Intern | Dallas, TX |  |  |  | 2026-11-13 | [Apply](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) |
 | StepStone Group | Junior Analyst Intern - Client Services | Cleveland, OH |  |  | $22/hr | 2026-11-13 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8386648) |
 | Samsung | SSD Firmware Development Intern | San Jose, CA |  |  | $28–$68/hr | 2026-11-13 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) |
-| Verisk | Data Science/AI Intern | Lehi, UT | Summer 2027 | No sponsorship | $35–$37/hr | 2026-11-13 | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) |
 | Minitab | Research & Design Intern | State College, PA |  | No sponsorship, US work auth |  | 2026-11-13 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200707003) |
 | Tesla | Software Engineer Intern - Energy Engineering | Palo Alto, CA | Winter/Spring 2027, Summer 2027 |  | $20–$50/hr | 2026-11-13 | [Apply](https://www.tesla.com/careers/search/job/289796) |
 | Samsung | Compiler Engineer Intern | San Jose, CA |  |  | $28–$68/hr | 2026-11-13 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) |
 | TikTok | Machine Learning Engineer Intern | San Jose, CA | Summer 2027 |  | $45/hr | 2026-11-12 | [Apply](https://lifeattiktok.com/search/7698822572474583301) |
 | ASML | EUV Data Science and Analytics Intern | Austin, TX |  |  |  | 2026-11-12 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717) |
 | Blizzard Entertainment | Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering | Irvine, CA | Summer 2027 |  | $20–$50/hr | 2026-11-12 | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) |
-| Capital Group | Global Technology Summer Associate Intern | Irvine, CA | Summer | No sponsorship, US work auth |  | 2026-11-12 | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) |
 | Carnegie Mellon University | Cyber AI Engineer Intern | Pittsburgh, PA | Winter/Spring 2027 | No sponsorship, US work auth |  | 2026-11-12 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) |
 | Carnegie Mellon University | Cyber AI Engineering Intern | Pittsburgh, PA | Winter/Spring 2027 | No sponsorship, US work auth |  | 2026-11-12 | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1) |
 | Horizon3.ai | Research Intern - Adversarial Intelligence | Chicago, IL, West Lafayette, IN | Summer 2027 |  | $40–$50/hr | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true) |
@@ -409,7 +407,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Pennsylvania State University | Autonomous Processing Research & Development Intern | State College, PA |  | US clearance, US citizenship, No sponsorship |  | 2026-11-05 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Autonomous-Processing-Research---Development-Internship_REQ_0000084114-1) |
 | S&P Global | Managed Data Services Intern - Ilevel - GP Mds | Dallas, TX | Summer 2027 | No sponsorship, US work auth | $20–$25/hr | 2026-11-05 | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1) |
 | Samsung | AI Data Analyst Intern | Plano, TX |  | No sponsorship |  | 2026-11-05 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1) |
-| The Federal Reserve System | Statistics Intern | Atlanta, GA | Summer 2027 | US citizenship, No sponsorship |  | 2026-11-05 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876) |
 | Trimble | AI Automation Intern | Dayton, OH, Westminster, CO |  |  | $25.43–$38.17/hr | 2026-11-05 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148) |
 | Uhaul | Data Analyst Intern | Phoenix, AZ | Winter/Spring 2027 | No sponsorship, US work auth | $17/hr | 2026-11-05 | [Apply](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909) |
 | United Parcel Service | Summer Engineer Intern | Middleburg Heights, OH | Summer | US citizenship |  | 2026-11-05 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950) |
@@ -716,9 +713,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Flagship Pioneering | Bioinformatics Data Engineering Co-op | Watertown, MA | Winter/Spring 2027 |  | $25–$35/hr | 2026-10-23 | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002) |
 | MSA Safety | AI Engineer Co-op | Cranberry Township, PA | Winter/Spring 2027 |  |  | 2026-10-23 | [Apply](https://careers.msasafety.com/jobs/10243?icims=1) |
 | MongoDB | Software Engineer Intern | Palo Alto, CA, Seattle, WA (+1) | Summer 2027 | US work auth | $42–$59/hr | 2026-10-23 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
-| Amazon | Embedded Firmware Co-op | North Reading, MA, Westborough, MA | Winter/Spring 2027 |  | $53/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027) |
-| Amazon | Data Science Intern | Seattle, WA |  |  | $49/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student) |
-| Amazon | Applied Science Intern - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA, Boston, MA (+5) | Summer 2026 |  | $65/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10564598/2027-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) |
-| Amazon | Software Engineer Intern - AWS Database | United States | Fall 2027, Winter/Spring 2027, Summer 2027 |  | $53–$61/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) |
-| Amazon | Software Engineer Intern - Embedded Systems | United States | Fall 2027, Winter/Spring 2027, Summer 2027 |  | $53–$61/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) |
-| Amazon | Associate Delivery Consultant Intern - AWS Professional Services | Arlington County, Arlington, VA | Summer 2027 |  | $50–$55/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services) |

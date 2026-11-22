@@ -14,19 +14,19 @@
     "organizer": "UW/UX"
   },
   {
+    "name": "CXC - Waterloo's Largest AI Hackathon",
+    "location": "University of Waterloo",
+    "url": "https://cxc.uwdatascience.ca",
+    "starts_at": "2027-02-01T00:00:00-05:00",
+    "ends_at": "",
     "deadline_at": "",
     "deadline_kind": "",
-    "ends_at": "",
-    "location": "University of Waterloo",
+    "when": "February 2027",
     "month_only": true,
-    "name": "CXC - Waterloo's Largest AI Hackathon",
-    "organizer": "UW Data Science Club",
-    "source": "club-linktree",
-    "starts_at": "2027-02-01T00:00:00-05:00",
     "status": "Upcoming",
     "tier": "uw",
-    "url": "https://cxc.uwdatascience.ca",
-    "when": "February 2027"
+    "source": "club-linktree",
+    "organizer": "UW Data Science Club"
   },
   {
     "name": "K-DUB Hacks",

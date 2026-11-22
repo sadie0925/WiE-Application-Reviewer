@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**271 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 20:38 ET
+**265 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 03:49 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -275,9 +275,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Intercontinental Exchange | Audit Analytics Intern | Atlanta, GA | Summer 2027 |  |  | 2026-10-23 | [Apply](https://ice.jibeapply.com/jobs/14069?icims=1) |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | $36.05–$38.82/hr | 2026-10-23 | [Apply](https://jobs.keysight.com/jobs/55151?icims=1) |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA |  |  | $36.05–$38.82/hr | 2026-10-23 | [Apply](https://jobs.keysight.com/jobs/55150?icims=1) |
-| Amazon | ASIC Engineer Intern | Seattle, WA, Austin, TX (+1) |  |  | $56–$64/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) |
-| Amazon | Cloud Hardware Development Engineer Intern | Austin, TX, Cupertino, CA | Summer 2027 |  | $47–$57/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) |
-| Amazon | Technical Product Manager Intern | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 |  | $69/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
-| Amazon | ASIC Engineer Intern | Sunnyvale, CA | Summer 2027 |  | $57/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) |
-| Amazon | Product Manager Intern - ALA | Seattle, WA | Summer 2027 |  | $65/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) |
-| Amazon | Hardware Development Engineer Intern | Bellevue, WA | Fall 2027, Winter/Spring 2027, Summer 2027 |  | $52/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) |

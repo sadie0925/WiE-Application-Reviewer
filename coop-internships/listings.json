@@ -1,5 +1,42 @@
 [
   {
+    "id": "c2b3d6cb-a6e8-4677-b5cb-24255710302d",
+    "company_name": "Neros Technologies",
+    "company_url": "https://simplify.jobs/c/Neros-Technologies",
+    "title": "Firmware/Embedded Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795311965,
+    "date_updated": 1795313343,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$55/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "9602bf3d-66e6-4284-abbb-5a93b37a12d1",
     "company_name": "Neros Technologies",
     "company_url": "https://simplify.jobs/c/Neros-Technologies",
@@ -6921,39 +6958,6 @@
     ]
   },
   {
-    "id": "aea2626a-4582-4875-ab5a-aeed57c50f4d",
-    "company_name": "Blackberry",
-    "company_url": "https://simplify.jobs/c/BlackBerry",
-    "title": "Hardware Engineering Student Intern - Radar",
-    "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--Radar_20260313",
-    "locations": [
-      "Waterloo, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795132800,
-    "date_updated": 1795302576,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "$21–$28/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering",
-      "Board & Electronics Design"
-    ]
-  },
-  {
     "id": "a4eebd7a-0a35-4f40-a2ca-12679c5e698d",
     "company_name": "Centier Bank",
     "company_url": "https://simplify.jobs/c/Centier-Bank",
@@ -9541,6 +9545,37 @@
     ]
   },
   {
+    "id": "54a2e01d-6edb-4b24-a780-7cb263d5acaf",
+    "company_name": "Specialized",
+    "company_url": "https://simplify.jobs/c/Specialized",
+    "title": "Early Career Data Engineer",
+    "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117",
+    "locations": [
+      "Morgan Hill, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795046400,
+    "date_updated": 1795313889,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$37–$50/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Engineering",
+      "Data & Analytics"
+    ]
+  },
+  {
     "id": "57adff29-a237-40f3-ac3f-a81367ed791b",
     "company_name": "TransUnion",
     "company_url": "https://simplify.jobs/c/TransUnion",
@@ -10761,6 +10796,39 @@
     "functions": [
       "Data Engineering",
       "Data & Analytics"
+    ]
+  },
+  {
+    "id": "65b1d554-dd51-4c64-beb3-aa0184ed3477",
+    "company_name": "Sierra Nevada Corporation",
+    "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+    "title": "Software Engineer 1",
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418",
+    "locations": [
+      "Lone Tree, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794960000,
+    "date_updated": 1795316060,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$41–$57/hr",
+    "detail_auth": [
+      "US citizenship",
+      "US clearance"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
     ]
   },
   {
@@ -13730,44 +13798,6 @@
     ]
   },
   {
-    "id": "a2fe1cc0-aff1-49f6-bc73-fc65ecaa526f",
-    "company_name": "ServiceNow",
-    "company_url": "https://simplify.jobs/c/ServiceNow",
-    "title": "Associate Forward Deployed Solution Engineer Intern",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794872241,
-    "date_updated": 1794873061,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$43.27–$55.47/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
     "company_name": "Forterra",
     "company_url": "https://simplify.jobs/c/Forterra",
@@ -14484,6 +14514,39 @@
     "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "d2c0911d-44b1-488a-9922-b20915d74f54",
+    "company_name": "Argonne National Laboratory",
+    "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+    "title": "Software Engineer",
+    "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Software-Engineer_423698",
+    "locations": [
+      "Lemont, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794787200,
+    "date_updated": 1795315504,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$28–$45/hr",
+    "detail_auth": [
+      "US citizenship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Backend Engineering",
       "Software Engineering"
     ]
   },
@@ -16037,45 +16100,6 @@
     ]
   },
   {
-    "id": "f080ba31-67e8-4a12-a748-8d74a2b6067b",
-    "company_name": "Verisk",
-    "company_url": "https://simplify.jobs/c/Verisk",
-    "title": "Data Science/AI Intern",
-    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
-    "locations": [
-      "Lehi, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794582864,
-    "date_updated": 1794582953,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$35–$37/hr",
-    "detail_auth": [
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "07b3aa17-de9e-4ec0-9ea5-73d1cafeaeb4",
     "company_name": "Peraton",
     "company_url": "https://simplify.jobs/c/Peraton",
@@ -16500,44 +16524,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "2090dcc2-c489-4ec4-bd16-8b1af5aa79f2",
-    "company_name": "Capital Group",
-    "company_url": "https://simplify.jobs/c/Capital-Group",
-    "title": "Global Technology Summer Associate Intern",
-    "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794528000,
-    "date_updated": 1794612840,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
       "Software Engineering"
     ]
   },
@@ -26108,36 +26094,6 @@
     ]
   },
   {
-    "id": "1ae63a72-5b5e-4b56-b60e-1a760b92fb39",
-    "company_name": "Bank of Montreal",
-    "company_url": "https://simplify.jobs/c/BMO",
-    "title": "Software Developer New Grad",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794182400,
-    "date_updated": 1794268184,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$27–$58/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "4be2bded-53a1-49b3-b60a-2ea92469249a",
     "company_name": "Constellation Brands",
     "company_url": "https://simplify.jobs/c/Constellation-Brands",
@@ -29546,6 +29502,40 @@
     ]
   },
   {
+    "id": "e8ff9442-41f5-41b5-83e0-6bfd57fd8f6b",
+    "company_name": "Royal Bank of Canada",
+    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+    "title": "Data Analyst Intern - Wealth Management",
+    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793923200,
+    "date_updated": 1795333873,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Analysis",
+      "Data & Analytics"
+    ]
+  },
+  {
     "id": "1d693bc4-5cb6-4d9a-928a-5c72e45a7ecc",
     "company_name": "S&P Global",
     "company_url": "https://simplify.jobs/c/SP-Global",
@@ -29657,45 +29647,6 @@
       "Hardware Validation & Testing",
       "Hardware Engineering",
       "Board & Electronics Design"
-    ]
-  },
-  {
-    "id": "e10ce551-2780-4df7-898b-4416e1679bd9",
-    "company_name": "The Federal Reserve System",
-    "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
-    "title": "Statistics Intern",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793923200,
-    "date_updated": 1794006950,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "US work auth",
-      "US citizenship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
     ]
   },
   {
@@ -31752,41 +31703,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Frontend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "564f421d-34c1-4db7-885e-4f6f0bd915df",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "Software Engineer-Semiconductor Technology - C#/.NET",
-    "url": "https://jobs.keysight.com/jobs/56448?icims=1",
-    "locations": [
-      "Santa Rosa, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793837460,
-    "date_updated": 1793844724,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$61–$79/hr",
-    "detail_auth": [
-      "US citizenship",
-      "US person"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Desktop Application Development",
       "Software Engineering"
     ]
   },
@@ -49616,81 +49532,6 @@
     ]
   },
   {
-    "id": "e25e3b00-f4dd-4ad2-8886-c75ae8fb511e",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "ASIC Engineer Intern",
-    "url": "https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
-    "locations": [
-      "Seattle, WA",
-      "Austin, TX",
-      "Cupertino, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792720306,
-    "date_updated": 1792720451,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "$56–$64/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Engineering",
-      "Silicon & ASIC Design"
-    ]
-  },
-  {
-    "id": "ceb699dc-3064-45df-b7bc-da8b373ba861",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Cloud Hardware Development Engineer Intern",
-    "url": "https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
-    "locations": [
-      "Austin, TX",
-      "Cupertino, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792720306,
-    "date_updated": 1792720451,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$47–$57/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Engineering",
-      "Hardware Systems Integration"
-    ]
-  },
-  {
     "id": "2b5665cf-ffeb-4c91-adce-7d9357641676",
     "company_name": "Amazon",
     "company_url": "https://simplify.jobs/c/Amazon",
@@ -49758,43 +49599,6 @@
     ]
   },
   {
-    "id": "5466f04d-9bfa-47d7-8f24-e4492d1a699c",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Embedded Firmware Co-op",
-    "url": "https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
-    "locations": [
-      "North Reading, MA",
-      "Westborough, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792720152,
-    "date_updated": 1792720261,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$53/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Spring 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "4d59f74a-c96d-4f88-bf07-1f3df967b2de",
     "company_name": "Amazon",
     "company_url": "https://simplify.jobs/c/Amazon",
@@ -49822,155 +49626,6 @@
     "detail_h1b": false,
     "detail_seasons": [],
     "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "fedc9268-dfe7-4d88-9700-02a53f0ee30f",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Technical Product Manager Intern",
-    "url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
-    "locations": [
-      "Seattle, WA",
-      "Arlington County, Arlington, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792719947,
-    "date_updated": 1792720113,
-    "category": "Product",
-    "sponsorship": "Other",
-    "degrees": [
-      "MBA"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$69/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Technical Product Management",
-      "Product"
-    ]
-  },
-  {
-    "id": "e91b16a1-3d02-4a4f-a1f4-9e894c60c881",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Data Science Intern",
-    "url": "https://amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792719946,
-    "date_updated": 1792720110,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$49/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Science",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "78ea4501-d20c-468c-a9f7-9374fd9a67ad",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Applied Science Intern - Recommender Systems/ Information Retrieval - Machine Learning",
-    "url": "https://amazon.jobs/en/jobs/10564598/2027-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
-    "locations": [
-      "Palo Alto, CA",
-      "Boston, MA",
-      "Seattle, WA",
-      "Santa Clara, CA",
-      "Arlington County, Arlington, VA",
-      "Bellevue, WA",
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792719944,
-    "date_updated": 1792720113,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2026"
-    ],
-    "program": "cs",
-    "detail_pay": "$65/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2026"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Research",
-      "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "4169c155-cad3-467e-b8f4-6435181c35ba",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Software Engineer Intern - AWS Database",
-    "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792719942,
-    "date_updated": 1792720118,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027",
-      "Winter 2027",
-      "Fall 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$53–$61/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027",
-      "Winter 2027",
-      "Fall 2027"
-    ],
-    "detail_desc_terms": "Fall 2027, Winter/Spring 2027, Summer 2027",
     "functions": [
       "Backend Engineering",
       "Software Engineering"
@@ -50008,163 +49663,6 @@
     ]
   },
   {
-    "id": "b14e0231-d0b8-4267-b36d-5954003ab300",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "ASIC Engineer Intern",
-    "url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792719939,
-    "date_updated": 1792720091,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$57/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering",
-      "Silicon & ASIC Design"
-    ]
-  },
-  {
-    "id": "5dcd55ac-c7f2-47c8-9bb8-4b2a6c16a6b9",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Product Manager Intern - ALA",
-    "url": "https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792719938,
-    "date_updated": 1792720110,
-    "category": "Product",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$65/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Product Management",
-      "Product"
-    ]
-  },
-  {
-    "id": "180099af-2203-4310-be0d-11ae56d10f78",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Software Engineer Intern - Embedded Systems",
-    "url": "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
-    "locations": [
-      "United States"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792719938,
-    "date_updated": 1792720115,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA",
-      "PhD"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027",
-      "Winter 2027",
-      "Fall 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$53–$61/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027",
-      "Winter 2027",
-      "Fall 2027"
-    ],
-    "detail_desc_terms": "Fall 2027, Winter/Spring 2027, Summer 2027",
-    "functions": [
-      "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "79f3969b-886f-4281-9e1a-926e475353e8",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Hardware Development Engineer Intern",
-    "url": "https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792719937,
-    "date_updated": 1792720091,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027",
-      "Summer 2027",
-      "Fall 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$52/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2027",
-      "Summer 2027",
-      "Fall 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering",
-      "Board & Electronics Design"
-    ]
-  },
-  {
     "id": "d7450d6f-7ade-4e48-a679-77133f787850",
     "company_name": "Amazon",
     "company_url": "https://simplify.jobs/c/Amazon",
@@ -50193,42 +49691,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "4c1e849b-6ed3-4fc8-a84b-1f9dd177b17a",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Associate Delivery Consultant Intern - AWS Professional Services",
-    "url": "https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services",
-    "locations": [
-      "Arlington County, Arlington, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792719928,
-    "date_updated": 1792720091,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$50–$55/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI & Machine Learning"
     ]
   },
   {
