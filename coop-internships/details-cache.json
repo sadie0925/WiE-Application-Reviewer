@@ -2080,22 +2080,6 @@
 "sponsors_h1b": null,
 "v": 3
 },
-"12ebf494-b5e8-4c8c-bb32-e1607f0a81ec": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1795231290,
-"functions": [
-"Hardware Engineering",
-"Hardware Systems Integration"
-],
-"page_checked": 1795232849,
-"page_pay": "$35–$55/hr",
-"page_status": 200,
-"pay": "$35–$55/hr",
-"seasons": [],
-"sponsors_h1b": null,
-"v": 3
-},
 "1312152c-4959-4f28-b103-cf720d739a3d": {
 "auth": [],
 "desc_terms": "",
@@ -4424,10 +4408,10 @@
 "AI Application Engineering",
 "Software Engineering"
 ],
-"page_checked": 1795309710,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$21–$25/hr",
 "seasons": [
 "Summer 2027"
@@ -5011,10 +4995,10 @@
 "Backend Engineering",
 "Software Engineering"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$23.75–$54.30/hr",
 "seasons": [],
 "sponsors_h1b": null,
@@ -5353,10 +5337,10 @@
 "functions": [
 "Software Engineering"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$31.63–$58.75/hr",
 "seasons": [],
 "sponsors_h1b": null,
@@ -6704,10 +6688,10 @@
 "AI Application Engineering",
 "Software Engineering"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "CA$24–CA$35/hr",
 "seasons": [
 "Winter 2027"
@@ -7386,10 +7370,10 @@
 "Data Engineering",
 "Data & Analytics"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$20–$50/hr",
 "seasons": [
 "Summer 2027"
@@ -8452,10 +8436,10 @@
 "functions": [
 "Software Engineering"
 ],
-"page_checked": 1795309712,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "CA$34–CA$49/hr",
 "seasons": [],
 "sponsors_h1b": null,
@@ -9556,10 +9540,10 @@
 "Hardware Engineering",
 "Hardware Systems Integration"
 ],
-"page_checked": 1795309710,
+"page_checked": 1795311509,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "",
 "seasons": [
 "Summer 2027"
@@ -9896,10 +9880,10 @@
 "Data Science",
 "Data & Analytics"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "",
 "seasons": [
 "Summer 2027"
@@ -13460,10 +13444,10 @@
 "AI Application Engineering",
 "Software Engineering"
 ],
-"page_checked": 1795309710,
+"page_checked": 1795311509,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$20–$86/hr",
 "seasons": [
 "Summer 2027"
@@ -14312,10 +14296,10 @@
 "functions": [
 "Software Engineering"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$50–$94/hr",
 "seasons": [],
 "sponsors_h1b": null,
@@ -14511,10 +14495,10 @@
 "Desktop Application Development",
 "Software Engineering"
 ],
-"page_checked": 1795309712,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "",
 "seasons": [],
 "sponsors_h1b": null,
@@ -16792,10 +16776,10 @@
 "Data & Analytics",
 "Business Intelligence"
 ],
-"page_checked": 1795309713,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "",
 "seasons": [
 "Spring 2027"
@@ -19208,10 +19192,10 @@
 "Applied Machine Learning",
 "AI & Machine Learning"
 ],
-"page_checked": 1795309710,
+"page_checked": 1795311509,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "",
 "seasons": [
 "Summer 2027"
@@ -19788,10 +19772,10 @@
 "Hardware Engineering",
 "Board & Electronics Design"
 ],
-"page_checked": 1795309710,
+"page_checked": 1795311509,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$21–$28/hr",
 "seasons": [],
 "sponsors_h1b": null,
@@ -20572,10 +20556,10 @@
 "Product Management",
 "Product"
 ],
-"page_checked": 1795309710,
+"page_checked": 1795311509,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "",
 "seasons": [
 "Summer 2027"
@@ -20764,10 +20748,10 @@
 "Data Engineering",
 "Data & Analytics"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$19.76–$23.21/hr",
 "seasons": [
 "Summer 2027"
@@ -20783,10 +20767,10 @@
 "Backend Engineering",
 "Software Engineering"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$26–$30/hr",
 "seasons": [],
 "sponsors_h1b": null,
@@ -24880,10 +24864,10 @@
 "Data Analysis",
 "Data & Analytics"
 ],
-"page_checked": 1795309710,
+"page_checked": 1795311509,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "",
 "seasons": [],
 "sponsors_h1b": null,
@@ -27194,10 +27178,10 @@
 "Hardware Validation & Testing",
 "Hardware Engineering"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "$18–$39/hr",
 "seasons": [
 "Summer 2027"
@@ -28634,10 +28618,10 @@
 "Applied Machine Learning",
 "AI & Machine Learning"
 ],
-"page_checked": 1795309710,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "",
 "seasons": [],
 "sponsors_h1b": null,
@@ -29514,10 +29498,10 @@
 "Full-Stack Engineering",
 "Software Engineering"
 ],
-"page_checked": 1795309711,
+"page_checked": 1795311510,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 1,
+"page_tries": 2,
 "pay": "",
 "seasons": [],
 "sponsors_h1b": null,

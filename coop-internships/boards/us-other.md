@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**272 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 20:10 ET
+**271 open** · newest first · removed when closed or after 30 days · Updated 2026-11-21 20:38 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -281,4 +281,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Amazon | ASIC Engineer Intern | Sunnyvale, CA | Summer 2027 |  | $57/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) |
 | Amazon | Product Manager Intern - ALA | Seattle, WA | Summer 2027 |  | $65/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) |
 | Amazon | Hardware Development Engineer Intern | Bellevue, WA | Fall 2027, Winter/Spring 2027, Summer 2027 |  | $52/hr | 2026-10-22 | [Apply](https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) |
-| Astera Labs | Signal Integrity Solutions Architect Intern | San Jose, CA |  |  | $35–$55/hr | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4746899005) |
