@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**265 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 03:49 ET
+**266 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 11:42 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -51,6 +51,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | L3Harris Technologies | Associate Optical Engineer Intern | Rochester, NY |  |  | $32–$59/hr | 2026-11-19 | [Apply](https://jobs.l3harris.com/job/Rochester-Associate,-Optical-Engineer-NY-14606/1422807100/?ats=successfactors) |
 | MSA Safety | Electrical Engineering Intern/Co-op | Cranberry Township, PA | Summer 2027 |  |  | 2026-11-19 | [Apply](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us) |
 | Eridu AI | ASIC Architecture Intern | Saratoga, CA |  |  |  | 2026-11-19 | [Apply](https://ats.rippling.com/eridu-ai/jobs/681e2e82-20b9-4145-b235-38196a64097f) |
+| Fiskars Group | Product Management Intern | Middleton, WI | Summer 2026 |  |  | 2026-11-18 | [Apply](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520) |
 | Graco | Electrical Engineering Intern | Flagstaff, AZ |  | No sponsorship, US work auth | $21–$28/hr | 2026-11-18 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023552) |
 | Lucid | Product Management Intern | Salt Lake City, UT | Summer 2027 |  |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | Lucid | Product Management Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |

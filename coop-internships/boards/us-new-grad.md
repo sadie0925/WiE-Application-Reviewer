@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**444 open** · newest first · removed when closed or after 60 days · Updated 2026-11-22 03:49 ET
+**444 open** · newest first · removed when closed or after 60 days · Updated 2026-11-22 11:42 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -74,6 +74,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Cummins | Electronic Systems Engineer - Software | Galesburg, MI |  | US work auth | $37–$49/hr | 2026-11-18 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440078) |
 | Berkshire Hathaway Energy | Software Engineer - Bhepg | Omaha, NE |  |  | $38–$63/hr | 2026-11-18 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023) |
 | Amazon | Software Development Engineer - Robotics | Austin, TX, North Reading, MA (+1) |  |  | $59/hr | 2026-11-17 | [Apply](https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027) |
+| GrayMatter Robotics | Forward Deployed Engineer | Remote in USA |  | US citizenship, No sponsorship | $43–$144/hr | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true) |
 | Sierra Nevada Corporation | Software Engineer 1 | Lone Tree, CO |  | US clearance, US citizenship, No sponsorship | $41–$57/hr | 2026-11-17 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418) |
 | Walmart | Software Engineer 3 | Seattle, WA, Denver, CO |  |  | $48–$104/hr | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-DENVER-CO-DENVER-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2674054-1) |
 | Utilidata | Embedded Firmware Engineer | Remote in USA |  |  | $58–$77/hr | 2026-11-17 | [Apply](https://karman.applytojob.com/apply/ZATv9CJjd9/Embedded-Firmware-Engineer) |
@@ -190,7 +191,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Shield AI | Software Engineer 1 New Grad - Software - Autonomy Capabilities | United States |  | US clearance |  | 2026-11-07 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) |
 | Shield AI | Software Engineer 1 New Grad - Software - Autonomy Capabilities | United States |  | US clearance |  | 2026-11-07 | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) |
 | Shield AI | Software Engineer 1 New Grad - Internal Tools | Seattle, WA |  |  | $46–$70/hr | 2026-11-06 | [Apply](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) |
-| Amazon | Systems Development Engineer - AWS Commerce Platform-ADC | Denver, CO |  | US clearance, No sponsorship | $48–$77/hr | 2026-11-06 | [Apply](https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc) |
 | Microsoft | Software Engineer | Reston, VA |  | US clearance, US citizenship, No sponsorship | $41–$88/hr | 2026-11-06 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557053350) |
 | Prosync | Software Engineer 0/1 | Annapolis Junction, MD |  | US clearance, No sponsorship |  | 2026-11-06 | [Apply](https://apply.workable.com/prosync/j/6ECFBED6E7/apply) |
 | Lawrence Livermore National Laboratory (LLNL) | Super Intelligence Platform Integration Engineer | Livermore, CA |  | US clearance, US citizenship, No sponsorship | $59–$89/hr | 2026-11-06 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016713536) |

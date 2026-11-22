@@ -1,5 +1,40 @@
 [
   {
+    "id": "9c9115ad-7e10-4ed2-9f6d-b00d4a2c8f1c",
+    "company_name": "Neogen",
+    "company_url": "https://simplify.jobs/c/Neogen",
+    "title": "Embedded Systems Engineer Intern",
+    "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064",
+    "locations": [
+      "Oakdale, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795360645,
+    "date_updated": 1795360696,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "c2b3d6cb-a6e8-4677-b5cb-24255710302d",
     "company_name": "Neros Technologies",
     "company_url": "https://simplify.jobs/c/Neros-Technologies",
@@ -6992,6 +7027,43 @@
     ]
   },
   {
+    "id": "c19ddb09-a366-491b-8f74-c4e088f343a8",
+    "company_name": "First Bank & Trust",
+    "company_url": "https://simplify.jobs/c/First-Bank-And-Trust",
+    "title": "Data Analyst Intern",
+    "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864",
+    "locations": [
+      "Brookings, SD",
+      "Sioux Falls, SD"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795132800,
+    "date_updated": 1795359962,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Analysis",
+      "Data & Analytics"
+    ]
+  },
+  {
     "id": "d6633194-cac0-4fa3-ba4b-c962e822205e",
     "company_name": "First PREMIER Bank",
     "company_url": "https://simplify.jobs/c/First-PREMIER-Bank",
@@ -7483,6 +7555,42 @@
     "functions": [
       "Product Management",
       "Product"
+    ]
+  },
+  {
+    "id": "cbbfc481-5c2f-4875-a3ae-53fd2183c75f",
+    "company_name": "Western Governors University",
+    "company_url": "https://simplify.jobs/c/Western-Governors-University",
+    "title": "Technical Intern",
+    "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795132800,
+    "date_updated": 1795360358,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$29.32–$43.99/hr",
+    "detail_auth": [
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Frontend Engineering",
+      "Software Engineering"
     ]
   },
   {
@@ -9330,6 +9438,42 @@
     ]
   },
   {
+    "id": "de5b84ef-da26-41b7-a59d-1dd83d33491c",
+    "company_name": "Fiskars Group",
+    "company_url": "https://simplify.jobs/c/Fiskars-Group",
+    "title": "Product Management Intern",
+    "url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795046400,
+    "date_updated": 1795361238,
+    "category": "Product",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2026"
+    ],
+    "program": "other",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2026"
+    ],
+    "detail_desc_terms": "Summer 2026, Summer 2027",
+    "functions": [
+      "Product Management",
+      "Product"
+    ]
+  },
+  {
     "id": "e300213a-13f8-44cd-9ca8-dbc481e5ab55",
     "company_name": "Graco",
     "company_url": "https://simplify.jobs/c/Graco",
@@ -10735,6 +10879,38 @@
     ]
   },
   {
+    "id": "300a3078-84ab-4ba2-a881-d74186eb9064",
+    "company_name": "GrayMatter Robotics",
+    "company_url": "https://simplify.jobs/c/GrayMatterRobotics",
+    "title": "Forward Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true",
+    "locations": [
+      "Remote in USA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794960000,
+    "date_updated": 1795361941,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$43–$144/hr",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Robotics & Autonomous Systems",
+      "AI & Machine Learning"
+    ]
+  },
+  {
     "id": "6a41b107-e8c4-4787-a685-fa948468c79f",
     "company_name": "HERE Technologies",
     "company_url": "https://simplify.jobs/c/HERE-Technologies",
@@ -10829,6 +11005,40 @@
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
+    ]
+  },
+  {
+    "id": "d71c5ba9-0935-4cef-bd4c-21f2c50b2e47",
+    "company_name": "Viavi Solutions",
+    "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+    "title": "Robotics Intern",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
+    "locations": [
+      "Bothell, WA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794960000,
+    "date_updated": 1795361941,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$19–$35/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Robotics & Autonomous Systems",
+      "AI & Machine Learning"
     ]
   },
   {
@@ -14662,6 +14872,72 @@
     "functions": [
       "AI & Machine Learning",
       "Natural Language Processing & LLMs"
+    ]
+  },
+  {
+    "id": "3bddb066-3054-4a0c-9cc7-b0ba4e388c00",
+    "company_name": "Constellation Brands",
+    "company_url": "https://simplify.jobs/c/Constellation-Brands",
+    "title": "Data and AI Enablement Intern",
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721",
+    "locations": [
+      "Rochester, NY",
+      "Chicago, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794787200,
+    "date_updated": 1795360900,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$19–$32/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Engineering",
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
+    "id": "ef8562a4-25a5-4d0e-9199-0322e26692b1",
+    "company_name": "Constellation Brands",
+    "company_url": "https://simplify.jobs/c/Constellation-Brands",
+    "title": "Data Science Intern",
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794787200,
+    "date_updated": 1795360891,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$19–$32/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Science",
+      "Data & Analytics"
     ]
   },
   {
@@ -27810,44 +28086,6 @@
     ]
   },
   {
-    "id": "e7b2cc70-862f-4045-bc00-627e408d80b1",
-    "company_name": "Amazon",
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "title": "Systems Development Engineer - AWS Commerce Platform-ADC",
-    "url": "https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc",
-    "locations": [
-      "Denver, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794008658,
-    "date_updated": 1794008702,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA",
-      "PharmD",
-      "PhD",
-      "Associate's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$48–$77/hr",
-    "detail_auth": [
-      "US clearance"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "481eb95e-5dc9-457f-b7da-3e70d0311dd1",
     "company_name": "Honeywell",
     "company_url": "https://simplify.jobs/c/Honeywell",
@@ -29225,6 +29463,41 @@
     "functions": [
       "Data Science",
       "Data & Analytics"
+    ]
+  },
+  {
+    "id": "e4edff5e-f411-4f18-af6c-d380593b8540",
+    "company_name": "Johns Manville",
+    "company_url": "https://simplify.jobs/c/Johns-Manville",
+    "title": "Business Analytics & Strategy Intern",
+    "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Business-Analytics---Strategy-Intern_R26_2002",
+    "locations": [
+      "Denver, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793923200,
+    "date_updated": 1795347725,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$20–$25.29/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data & Analytics",
+      "Business Intelligence"
     ]
   },
   {
@@ -43616,6 +43889,44 @@
     ]
   },
   {
+    "id": "539948e0-bafe-438b-a2b5-5d84b5717583",
+    "company_name": "Allegion",
+    "company_url": "https://simplify.jobs/c/Allegion",
+    "title": "Software Systems Engineering Intern",
+    "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395",
+    "locations": [
+      "Golden, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793145600,
+    "date_updated": 1795363230,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2026"
+    ],
+    "program": "cs",
+    "detail_pay": "$25–$26/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2026"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "429206eb-1f40-45d7-b889-7f15adca52b5",
     "company_name": "Applied Materials",
     "company_url": "https://simplify.jobs/c/Applied-Materials",
@@ -49456,46 +49767,6 @@
     "detail_desc_terms": "",
     "functions": [
       "AI Application Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "95437628-8de3-4f6f-ba65-44f3b0ed0be8",
-    "company_name": "MongoDB",
-    "company_url": "https://simplify.jobs/c/MongoDB",
-    "title": "Software Engineer Intern",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
-    "locations": [
-      "Palo Alto, CA",
-      "Seattle, WA",
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792765793,
-    "date_updated": 1792776099,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$42–$59/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
       "Software Engineering"
     ]
   },
