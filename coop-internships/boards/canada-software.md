@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**86 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 17:02 ET
+**87 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 21:30 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -35,6 +35,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) |
 | Ross Video | Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | Winter/Spring 2027 |  | CA$24–CA$35/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) |
 | City of Campbell River | Co-op Student - OMS Project - Capital Projects | Campbell River, BC, Canada |  |  | CA$24.97/hr | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733) |
+| QSL | Software Development and Artificial Intelligence Intern | Québec City, QC, Canada | Winter/Spring 2027 |  | CA$24–CA$27/hr | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/QSL/744000162086264) |
 | Critical Environment Technologies | Computer Science Co-op | Delta, BC, Canada |  |  | CA$21/hr | 2026-11-17 | [Apply](https://cetci.bamboohr.com/careers/92/) |
 | Birdseye Security Solutions | Software Developer Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) |
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/287/) |

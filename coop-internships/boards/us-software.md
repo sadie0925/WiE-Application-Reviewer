@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**700 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 17:02 ET
+**692 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 21:30 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -113,6 +113,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Lucid Motors | Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving | Newark, CA | Summer 2027 | No sponsorship | $53–$72/hr | 2026-11-19 | [Apply](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) |
 | Formlabs | API & Automation Intern | Somerville, MA | Summer 2027 |  | $46–$56/hr | 2026-11-19 | [Apply](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) |
 | Advance Auto Parts | Data Science Intern | Raleigh, NC | Summer 2027 | No sponsorship, US work auth |  | 2026-11-19 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1) |
+| Draper | Operational Analysis Intern - Summer 2027 | Cambridge, MA | Summer 2027 |  | $20–$45/hr | 2026-11-19 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
 | First Bank & Trust | Data Analyst Intern | Brookings, SD, Sioux Falls, SD |  | No sponsorship |  | 2026-11-19 | [Apply](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864) |
 | First PREMIER Bank | Analytics Intern | Sioux Falls, SD |  |  |  | 2026-11-19 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1) |
 | Gorbel | Front-End Web Developer Co-op | Victor, NY |  |  | $23–$25/hr | 2026-11-19 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1) |
@@ -149,6 +150,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Cadence Design Systems | Software Engineer Intern - Circuit Simulation infrastructure | San Jose, CA |  |  | $31.63–$58.75/hr | 2026-11-18 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254) |
 | Compassion International | Summer Intern - Data and Software Engineering | Colorado Springs, CO | Summer | No sponsorship, US work auth | $19.76–$23.21/hr | 2026-11-18 | [Apply](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840) |
 | Piper Sandler | Data Engineering Intern | Minneapolis, MN | Summer 2027 |  | $21/hr | 2026-11-18 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805) |
+| Samsung | Business Operations & Data Analytics Intern | Plano, TX |  | No sponsorship |  | 2026-11-18 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135) |
 | Snowflake | Software Engineer Intern - AI / ML | Menlo Park, CA, Bellevue, WA | Summer 2027 |  | $42–$60/hr | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true) |
 | Snowflake | Software Engineer Intern - Core - Infrastructure & Security | Menlo Park, CA, Bellevue, WA | Summer 2027 |  | $42–$60/hr | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true) |
 | Snowflake | Software Engineer Intern - Database Engineering | Menlo Park, CA, Bellevue, WA | Summer 2027 |  | $42–$60/hr | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true) |
@@ -166,6 +168,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Delta Dental | Application Development Intern | Okemos, MI |  |  |  | 2026-11-17 | [Apply](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101534) |
 | HERE Technologies | Data Science Intern | Chicago, IL |  |  | $25–$35/hr | 2026-11-17 | [Apply](https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false) |
 | HERE Technologies | Software Engineer Intern | Chicago, IL |  |  | $25–$35/hr | 2026-11-17 | [Apply](https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false) |
+| Sallie Mae | Software Engineer Intern | Newark, DE | Summer 2027 |  |  | 2026-11-17 | [Apply](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688) |
 | Viavi Solutions | Robotics Intern | Bothell, WA |  |  | $19–$35/hr | 2026-11-17 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1) |
 | Toyota Research Institute | Robotics Intern - Agentic Robotics | Cambridge, MA |  |  | $40–$58/hr | 2026-11-17 | [Apply](https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply) |
 | GEI Consultants | Web Developer Intern | Rancho Cordova, CA |  |  | $23–$27/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv?nl=1&nl=1&fr=false) |
@@ -187,7 +190,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | ECM Tek | Developer Intern - Python Development | Nashville, TN |  |  |  | 2026-11-17 | [Apply](https://ecmtek.bamboohr.com/careers/51/) |
 | IPConfigure | Software Development for Video Surveillance Software Intern | Norfolk, VA |  |  |  | 2026-11-17 | [Apply](https://ipconfigure.bamboohr.com/careers/71/) |
 | All Options | Graduate Quantitative Trader Intern | Austin, TX | Winter/Spring 2027, Summer 2027 | No sponsorship, US work auth |  | 2026-11-17 | [Apply](https://alloptions.bamboohr.com/careers/85/) |
-| HexArmor | Software Engineer Intern | Atlanta, GA |  |  |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) |
 | Basis Research Institute | Research Intern | Cambridge, MA | Summer 2027 |  | $48/hr | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true) |
 | General Dynamics Mission Systems | Systems Engineer Intern | Pittsfield, MA |  |  |  | 2026-11-16 | [Apply](https://careers-gdms.icims.com/jobs/80617/job?mobile=true&needsRedirect=false) |
 | Lean TECHniques | Software Engineer Intern | Johnston, IA |  |  |  | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862/application?embed=true) |
@@ -210,6 +212,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Atalanta | Forward Deployed Engineer Intern | Washington, DC |  | US clearance, US citizenship, No sponsorship | $48–$72/hr | 2026-11-15 | [Apply](https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8/application?embed=true) |
 | Blizzard Entertainment | Data Platform Engineering Intern - Data Platform Engineering | Irvine, CA | Summer 2027 |  | $20–$50/hr | 2026-11-15 | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) |
 | Carnegie Mellon University | AI Engineer Intern - Mission Innovation Lab | Pittsburgh, PA | Summer 2027 | No sponsorship, US work auth |  | 2026-11-15 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) |
+| Carnegie Mellon University | AI Engineer Intern - Mission Innovation Lab | Pittsburgh, PA | Summer 2027 | No sponsorship, US work auth |  | 2026-11-15 | [Apply](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364) |
 | Constellation Brands | Data and AI Enablement Intern | Rochester, NY, Chicago, IL |  |  | $19–$32/hr | 2026-11-15 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721) |
 | Constellation Brands | Data Science Intern | Rochester, NY |  |  | $19–$32/hr | 2026-11-15 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527) |
 | KLA | Firmware Intern | Milpitas, CA |  |  | $32–$43/hr | 2026-11-15 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Intern_2642154) |
@@ -699,14 +702,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Hewlett Packard Enterprise | AI/ML Developer Intern | San Jose, CA |  |  | $35–$41/hr | 2026-10-24 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413) |
 | Skydio | Autonomy Engineer Intern | San Mateo, CA |  |  | $47–$70/hr | 2026-10-24 | [Apply](https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?embed=true) |
 | Skydio | Autonomy Engineer Intern - Deep Learning / Computer Vision | San Mateo, CA | Summer 2027 |  | $47–$70/hr | 2026-10-24 | [Apply](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true) |
-| NextToken | Applied Research Intern | Mountain View, CA |  |  |  | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/nexttoken/f202a966-912e-40b8-b55a-8cca851eef5e/application?embed=true) |
-| John Deere | Software Engineer Intern - Product Engineering | Waterloo, IA, Cary, NC |  | No sponsorship, US work auth | $15–$40/hr | 2026-10-23 | [Apply](https://johndeere.eightfold.ai/careers/job/137483990265) |
-| Siemens | Python Backend Developer Intern - Energy Flexibility Platform | Princeton, NJ |  | No sponsorship, US work auth | $28–$48/hr | 2026-10-23 | [Apply](https://siemens.avature.net/en_US/externaljobs/JobDetail/526984) |
-| Navy Federal | Data Analytics Intern | Pensacola, FL, Vienna, VA |  |  | $17.21–$29.76/hr | 2026-10-23 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33208) |
-| Amazon | Software Engineer Intern | Redmond, WA | Fall 2027, Winter/Spring 2027, Summer 2027 | US citizenship, No sponsorship | $53/hr | 2026-10-23 | [Apply](https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) |
-| Simbe Robotics | Data Analytics & Data Science Intern | Burlingame, CA | Winter/Spring 2027, Summer 2027 |  | $35–$40/hr | 2026-10-23 | [Apply](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply) |
-| Simbe Robotics | Computer Vision / Applied AI Intern | Burlingame, CA | Summer 2027 |  | $48/hr | 2026-10-23 | [Apply](https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply) |
-| Simbe Robotics | Robot Software Engineer Intern | Burlingame, CA | Winter/Spring 2027, Summer 2027 |  | $48/hr | 2026-10-23 | [Apply](https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c/apply) |
-| Amperesand | AI/ML Engineer Intern | Sunnyvale, CA |  | Citizen/PR only |  | 2026-10-23 | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009) |
-| Meta | Research Scientist Intern - AI Core Machine Learning | Seattle, WA, Bellevue, WA (+1) |  |  | $44–$73/hr | 2026-10-23 | [Apply](https://www.metacareers.com/jobs/1648122343381284) |
-| Meta | Research Scientist Intern - Meta Recommendation Systems - Core ML | Seattle, WA, Menlo Park, CA (+1) |  |  | $44–$73/hr | 2026-10-23 | [Apply](https://www.metacareers.com/jobs/1023154190171838) |

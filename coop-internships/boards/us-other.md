@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**263 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 17:02 ET
+**264 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 21:30 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -53,6 +53,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Eridu AI | ASIC Architecture Intern | Saratoga, CA |  |  |  | 2026-11-19 | [Apply](https://ats.rippling.com/eridu-ai/jobs/681e2e82-20b9-4145-b235-38196a64097f) |
 | Fiskars Group | Product Management Intern | Middleton, WI | Summer 2026 |  |  | 2026-11-18 | [Apply](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520) |
 | Graco | Electrical Engineering Intern | Flagstaff, AZ |  | No sponsorship, US work auth | $21–$28/hr | 2026-11-18 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023552) |
+| Megger | Product Manager Intern | Dallas, TX |  |  |  | 2026-11-18 | [Apply](https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Dallas-United-States/Product-Manager-Intern_JR100870) |
 | Lucid | Product Management Intern | Salt Lake City, UT | Summer 2027 |  |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | Lucid | Product Management Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
 | Acuity | Electrical Engineer Intern | Decatur, GA | Summer 2026 | US work auth, Sponsors |  | 2026-11-18 | [Apply](https://careers.acuityinc.com/job/Decatur-Intern-Electrical-Engineer-GA-30035/1451786900/?ats=successfactors) |

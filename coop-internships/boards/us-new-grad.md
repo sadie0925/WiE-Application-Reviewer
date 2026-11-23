@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**444 open** · newest first · removed when closed or after 60 days · Updated 2026-11-22 17:02 ET
+**440 open** · newest first · removed when closed or after 60 days · Updated 2026-11-22 21:30 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Calyx Containers | Junior Software Developer - Print & Packaging | West Valley City, UT |  |  |  | 2026-11-22 | [Apply](https://calyxcontainers.applytojob.com/apply/HHSphZTCc2/Junior-Software-Developer-Print-Packaging) |
 | Affirm | Software Engineer 1 - Backend - Streaming Infra | Remote in USA |  |  | $55–$87/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201469003) |
 | Laansu | Junior Software Developer | Sterling, VA |  | US citizenship, No sponsorship | $38–$43/hr | 2026-11-20 | [Apply](https://laansu.applytojob.com/apply/VlgxKiBUqZ/Junior-Software-Developer) |
 | TransCore | Software Engineer 1 - SQL Development | Nashville, TN |  |  |  | 2026-11-20 | [Apply](https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=3ce5c847-8e02-470d-aed6-9630544aa893) |
@@ -99,6 +100,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Microsoft | Software Engineer Agentic Security | Redmond, WA |  |  | $41–$81/hr | 2026-11-16 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557074643) |
 | Wyetech | Software Engineer 0 or 1 | United States |  | US clearance, US citizenship, No sponsorship | $49.26–$66.71/hr | 2026-11-16 | [Apply](https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1) |
 | Laborie Medical Technologies | Software Engineer 1 | Portsmouth, NH |  | No sponsorship, US work auth |  | 2026-11-16 | [Apply](https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false) |
+| DraftKings | Associate Data Engineer | Boston, MA |  |  | $40–$50/hr | 2026-11-16 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Associate-Data-Engineer_JR15400) |
 | Peraton | Entry-Level Software Engineer - Ignite Innovator Program | Blacksburg, VA |  | US clearance, US citizenship, No sponsorship | $25–$39/hr | 2026-11-16 | [Apply](https://careers-peraton.icims.com/jobs/173920/job?mobile=true&needsRedirect=false) |
 | Torch Technologies | Entry-Level Modeling & Simulation Software Engineer | Huntsville, AL |  | US clearance, US citizenship, No sponsorship |  | 2026-11-16 | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1) |
 | Fortinet | Early Careers: Software Engineer | Sunnyvale, CA |  | No sponsorship, US work auth | $44–$73/hr | 2026-11-16 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960) |
@@ -448,9 +450,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | ZipRecruiter | Software Engineer New Grad - Multiple Teams | Santa Monica, CA |  |  | $62–$72/hr | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108) |
 | Voloridge | Quantitative Developer Grad | Jupiter, FL |  |  |  | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4419326009) |
 | Atlassian | Machine Learning Engineer - 2027 Graduate | Seattle, WA |  | No sponsorship | $59–$92/hr | 2026-09-24 | [Apply](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) |
-| SpaceX | Full Stack Software Engineer - Components | Hawthorne, CA |  | US citizenship, US person | $60–$94/hr | 2026-09-23 | [Apply](https://boards.greenhouse.io/spacex/jobs/8839057002) |
-| Adobe | Software Engineer New Grad | Seattle, WA, Austin, TX (+2) |  |  | $37–$73/hr | 2026-09-23 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) |
-| Commure | Software Engineer - Scribe AI | Mountain View, CA |  |  | $62–$87/hr | 2026-09-23 | [Apply](https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?embed=true) |
-| Qumulo | Software Development Engineer New Grad | Seattle, WA |  | No sponsorship, US work auth | $53–$67/hr | 2026-09-23 | [Apply](https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true) |
-| Noblis | Software Developer - Multiple Levels - Cleared | Reston, VA |  | US clearance, US citizenship, No sponsorship | $36–$56/hr | 2026-09-23 | [Apply](https://careers.noblis.org/jobs/27910?icims=1) |
-| Framatome | Computer Science Engineer 1 - Cranberry Township | Cranberry Township, PA |  |  | $32–$41/hr | 2026-09-23 | [Apply](https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false) |
