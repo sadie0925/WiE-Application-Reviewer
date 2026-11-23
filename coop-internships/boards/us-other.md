@@ -2,7 +2,7 @@
 
 Co-ops and internships in the United States that are not software engineering.
 
-**264 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 21:30 ET
+**266 open** · newest first · removed when closed or after 30 days · Updated 2026-11-23 06:04 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| First Resonance | Product Management Intern | El Segundo, CA | Summer 2027 | US citizenship, US person | $30–$35/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true) |
 | Neros Technologies | Electrical Engineer Intern | Torrance, CA | Summer 2027 |  | $55/hr | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) |
 | iA | Industrial Engineer Intern | Johnson City, NY | Summer 2027 | No sponsorship, US work auth | $18–$26/hr | 2026-11-21 | [Apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) |
 | Etched | Signal Integrity and Power Integrity Intern | San Jose, CA | Summer 2027 |  |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true) |
@@ -42,6 +43,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Littelfuse | R&D Engineering Intern | Rapid City, SD | Summer 2027 |  |  | 2026-11-19 | [Apply](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1) |
 | Microchip Technology | ASIC Verification Engineer Intern | San Jose, CA |  |  | $19–$30/hr | 2026-11-19 | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4973-26) |
 | NVIDIA | Technical Marketing Engineer Intern - Digital Biology and Scientific Computing | Santa Clara, CA | Summer 2027 |  | $20–$86/hr | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) |
+| Sierra Space | Electrical Engineering Intern - Electrical Engineering | Madison, WI, Centennial, CO (+3) | Summer 2027 | US clearance, US citizenship, No sponsorship | $31/hr | 2026-11-19 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1) |
 | Walmart | MBA Product Manager Intern - MBA | Bentonville, AR | Summer 2027 | No sponsorship, US work auth | $26–$51/hr | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) |
 | Texas Instruments | Analog Design Engineer Intern - Gan Device | Santa Clara, CA |  |  |  | 2026-11-19 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020327) |
 | Ralliant | Electrical Design Engineer Intern | Beaverton, OR | Summer 2027 |  |  | 2026-11-19 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) |

@@ -317,19 +317,6 @@
     "source": "mlh"
   },
   {
-    "name": "HackIllinois",
-    "location": "Urbana, Illinois",
-    "url": "https://www.hackillinois.org/",
-    "starts_at": "2027-02-26T01:11:11Z",
-    "ends_at": "2027-02-28T23:59:59Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "FEB 26 - 28",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
     "name": "Hacklytics 2027",
     "location": "Atlanta, GA",
     "url": "https://hacklytics2027.web.app/",

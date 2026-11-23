@@ -1,5 +1,114 @@
 [
   {
+    "id": "c8721b3d-1bb7-4fc0-9c22-09f70904d771",
+    "company_name": "Red Bull",
+    "company_url": "https://simplify.jobs/c/Red-Bull",
+    "title": "Data Science Intern",
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000163139699",
+    "locations": [
+      "Morristown, NJ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795409666,
+    "date_updated": 1795420640,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Spring 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Spring 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Science",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "5a0d7972-1370-47d6-bacf-3777c937018d",
+    "company_name": "Red Bull",
+    "company_url": "https://simplify.jobs/c/Red-Bull",
+    "title": "RBII Team Analysis Intern",
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000163139439",
+    "locations": [
+      "Morristown, NJ"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795409334,
+    "date_updated": 1795420647,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Spring 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Spring 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Analysis",
+      "Data & Analytics"
+    ]
+  },
+  {
+    "id": "f991c7b0-97df-4f9d-a32d-33542afe619f",
+    "company_name": "First Resonance",
+    "company_url": "https://simplify.jobs/c/FirstResonance",
+    "title": "Product Management Intern",
+    "url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795392000,
+    "date_updated": 1795419001,
+    "category": "Product",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$30–$35/hr",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship",
+      "US person"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Product Management",
+      "Product"
+    ]
+  },
+  {
     "id": "f1ba0289-d24f-4662-94ca-892ed2c86b56",
     "company_name": "Calyx Containers",
     "company_url": "https://simplify.jobs/c/Calyx-Containers",
@@ -7191,6 +7300,46 @@
     ]
   },
   {
+    "id": "e65ac273-7487-4451-9dbc-cc524774e498",
+    "company_name": "General Dynamics Information Technology",
+    "company_url": "https://simplify.jobs/c/GDIT",
+    "title": "AI and Estimation Intern - Interns",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867",
+    "locations": [
+      "Falls Church, VA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795132800,
+    "date_updated": 1795400209,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$25.50–$34.50/hr",
+    "detail_auth": [
+      "US citizenship",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Analysis",
+      "Data & Analytics"
+    ]
+  },
+  {
     "id": "fe1b3680-b402-4413-a522-d43c7499a5a9",
     "company_name": "Gorbel",
     "company_url": "https://simplify.jobs/c/Gorbel",
@@ -7254,6 +7403,41 @@
     "functions": [
       "AI Application Engineering",
       "Software Engineering"
+    ]
+  },
+  {
+    "id": "0806705f-44b1-4c91-a264-9d64f360e6b8",
+    "company_name": "Lattice Semiconductor",
+    "company_url": "https://simplify.jobs/c/Lattice-Semiconductor",
+    "title": "Junior BMC Firmware Engineer",
+    "url": "https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-103309",
+    "locations": [
+      "Duluth, GA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795132800,
+    "date_updated": 1795417921,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "US citizenship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering",
+      "Systems Software Engineering"
     ]
   },
   {
@@ -7400,6 +7584,40 @@
     ]
   },
   {
+    "id": "08996931-0906-4f59-8850-7cebf5991d70",
+    "company_name": "Sanofi",
+    "company_url": "https://simplify.jobs/c/Sanofi",
+    "title": "Digital Graduate Program - Product Analyst - Data and AI Engineer",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795132800,
+    "date_updated": 1795401220,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "Canada work auth",
+      "Work auth required"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "ebfeb2eb-8fcc-4883-8688-30e1f57055e0",
     "company_name": "Shield AI",
     "company_url": "https://simplify.jobs/c/Shield-AI",
@@ -7440,34 +7658,80 @@
     ]
   },
   {
-    "id": "61ec4acd-f407-4303-9ca8-5d49036bce4c",
-    "company_name": "Shield AI",
-    "company_url": "https://simplify.jobs/c/Shield-AI",
-    "title": "Operational Analysis Intern - Operational Analysis",
-    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true",
+    "id": "d02efc1c-eb5f-49d1-a6d2-cb54a443c193",
+    "company_name": "Sierra Space",
+    "company_url": "https://simplify.jobs/c/Sierra-Space",
+    "title": "Electrical Engineering Intern - Electrical Engineering",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1",
     "locations": [
-      "Arlington County, Arlington, VA"
+      "Madison, WI",
+      "Centennial, CO",
+      "Durham, NC",
+      "Louisville, CO",
+      "Broomfield, CO"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
     "date_posted": 1795132800,
-    "date_updated": 1795216133,
-    "category": "AI/ML/Data",
+    "date_updated": 1795399641,
+    "category": "Hardware",
     "sponsorship": "Other",
     "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
+      "Bachelor's"
     ],
     "track": "intern",
     "terms": [
       "Summer 2027"
     ],
-    "program": "cs",
-    "detail_pay": "$35–$59/hr",
+    "program": "other",
+    "detail_pay": "$31/hr",
     "detail_auth": [
+      "US work auth",
+      "US citizenship",
       "US clearance"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Hardware Engineering",
+      "Board & Electronics Design"
+    ]
+  },
+  {
+    "id": "955f9057-3b81-448d-8411-92be965c2e8a",
+    "company_name": "Sierra Space",
+    "company_url": "https://simplify.jobs/c/Sierra-Space",
+    "title": "Software Engineering Intern - Software Engineering",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1",
+    "locations": [
+      "Madison, WI",
+      "Centennial, CO",
+      "Durham, NC",
+      "Louisville, CO",
+      "Broomfield, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795132800,
+    "date_updated": 1795399640,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$31/hr",
+    "detail_auth": [
+      "US work auth",
+      "US clearance",
+      "US citizenship"
     ],
     "detail_h1b": null,
     "detail_seasons": [
@@ -7475,8 +7739,7 @@
     ],
     "detail_desc_terms": "",
     "functions": [
-      "Data Analysis",
-      "Data & Analytics"
+      "Software Engineering"
     ]
   },
   {
@@ -9299,38 +9562,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "40ef9e3b-1493-4170-b639-2beafbc6c791",
-    "company_name": "Workstream",
-    "company_url": "https://simplify.jobs/c/Workstream",
-    "title": "Full Stack Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795053901,
-    "date_updated": 1795054690,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "CA$19/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Full-Stack Engineering",
       "Software Engineering"
     ]
   },
@@ -13848,39 +14079,6 @@
     ]
   },
   {
-    "id": "1c985c59-7b90-44d9-a78b-a64792dd2fd5",
-    "company_name": "Zurich Insurance",
-    "company_url": "https://simplify.jobs/c/Zurich-Insurance",
-    "title": "Data Analytics & AI Intern",
-    "url": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794872939,
-    "date_updated": 1794873061,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics",
-      "Business Intelligence"
-    ]
-  },
-  {
     "id": "749a0e9d-85b5-41f9-a4c6-8ae33659d412",
     "company_name": "bioMérieux",
     "company_url": "https://simplify.jobs/c/BioMerieux",
@@ -15251,6 +15449,38 @@
     "functions": [
       "AI Application Engineering",
       "Software Engineering"
+    ]
+  },
+  {
+    "id": "98739a8e-be8d-4278-a61d-45a742339319",
+    "company_name": "Lumentum",
+    "company_url": "https://simplify.jobs/c/Lumentum",
+    "title": "Data Science & Analytics Intern",
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794787200,
+    "date_updated": 1795401218,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$27.75–$54.30/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Science",
+      "Data & Analytics"
     ]
   },
   {
@@ -26434,81 +26664,11 @@
     ]
   },
   {
-    "id": "fad75819-fb09-45d1-8d92-13b71a137ef9",
-    "company_name": "ASML",
-    "company_url": "https://simplify.jobs/c/ASML",
-    "title": "AI Engineer Co-op Intern",
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794182400,
-    "date_updated": 1794268521,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "9ecd59a5-9422-450f-bac2-c3d9c46fdef7",
     "company_name": "ASML",
     "company_url": "https://simplify.jobs/c/ASML",
     "title": "AI Engineer Co-op Intern",
     "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00355629",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794182400,
-    "date_updated": 1794268518,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "5f6fd2ac-8e3b-4fa3-b909-6752048d9a79",
-    "company_name": "ASML",
-    "company_url": "https://simplify.jobs/c/ASML",
-    "title": "AI Engineer Co-op Intern",
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628",
     "locations": [
       "San Diego, CA"
     ],
@@ -30244,42 +30404,6 @@
     ]
   },
   {
-    "id": "3344e973-66b8-44a4-99b3-66715dc4ed29",
-    "company_name": "University of Ottawa",
-    "company_url": "https://simplify.jobs/c/University-Of-Ottawa",
-    "title": "Research Assistant Intern - Data Analysis",
-    "url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793923200,
-    "date_updated": 1793977986,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$33.83–$53.31/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "3efa186d-e0bf-4524-bbed-3899a3ea2a5e",
     "company_name": "Vizient",
     "company_url": "https://simplify.jobs/c/Vizient",
@@ -32149,40 +32273,6 @@
     "functions": [
       "Data & Analytics",
       "Business Intelligence"
-    ]
-  },
-  {
-    "id": "422f2ed4-b031-4aea-943c-0d4be354f9da",
-    "company_name": "Emerson Electric",
-    "company_url": "https://simplify.jobs/c/Emerson-Electric",
-    "title": "Embedded Software Engineer - AI - Web",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013465",
-    "locations": [
-      "Marshalltown, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793844181,
-    "date_updated": 1793844188,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Frontend Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -50175,37 +50265,6 @@
     ]
   },
   {
-    "id": "5d2615fd-5855-468c-b2f7-0ba0cf79d0a5",
-    "company_name": "Vizient",
-    "company_url": "https://simplify.jobs/c/Vizient",
-    "title": "Associate Software Engineer",
-    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35366R",
-    "locations": [
-      "Irving, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792540800,
-    "date_updated": 1792621443,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$29–$49/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "c8e180cd-1a33-4993-bbdc-6e76286d9dd1",
     "company_name": "All Lines Technology",
     "company_url": "https://simplify.jobs/c/All-Lines-Technology",
@@ -53017,6 +53076,40 @@
     "detail_desc_terms": "",
     "functions": [
       "Frontend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "b6602bd5-4182-4573-bc29-7c75e8619910",
+    "company_name": "Sierra Space",
+    "company_url": "https://simplify.jobs/c/Sierra-Space",
+    "title": "Software Engineer 1 - Ground Software",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1",
+    "locations": [
+      "Centennial, CO",
+      "Louisville, CO"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1791331200,
+    "date_updated": 1791413178,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$40–$56/hr",
+    "detail_auth": [
+      "US citizenship",
+      "US clearance"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
       "Software Engineering"
     ]
   },

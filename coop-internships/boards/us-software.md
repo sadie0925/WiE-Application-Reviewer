@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**692 open** · newest first · removed when closed or after 30 days · Updated 2026-11-22 21:30 ET
+**694 open** · newest first · removed when closed or after 30 days · Updated 2026-11-23 06:04 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -10,6 +10,8 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Red Bull | Data Science Intern | Morristown, NJ | Winter/Spring 2027 |  |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139699) |
+| Red Bull | RBII Team Analysis Intern | Morristown, NJ | Winter/Spring 2027 |  |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139439) |
 | Neogen | Embedded Systems Engineer Intern | Oakdale, MN |  |  |  | 2026-11-22 | [Apply](https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064) |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern | Torrance, CA | Summer 2027 |  | $55/hr | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | Neros Technologies | Autonomy Intern | Torrance, CA | Summer 2027 |  | $55/hr | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007) |
@@ -116,9 +118,10 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Draper | Operational Analysis Intern - Summer 2027 | Cambridge, MA | Summer 2027 |  | $20–$45/hr | 2026-11-19 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
 | First Bank & Trust | Data Analyst Intern | Brookings, SD, Sioux Falls, SD |  | No sponsorship |  | 2026-11-19 | [Apply](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864) |
 | First PREMIER Bank | Analytics Intern | Sioux Falls, SD |  |  |  | 2026-11-19 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1) |
+| General Dynamics Information Technology | AI and Estimation Intern - Interns | Falls Church, VA | Summer 2027 | US citizenship, No sponsorship | $25.50–$34.50/hr | 2026-11-19 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867) |
 | Gorbel | Front-End Web Developer Co-op | Victor, NY |  |  | $23–$25/hr | 2026-11-19 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1) |
 | Shield AI | Operational Analysis Intern - Operational Analysis | Arlington County, Arlington, VA | Summer 2027 | US clearance | $35–$59/hr | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) |
-| Shield AI | Operational Analysis Intern - Operational Analysis | Arlington County, Arlington, VA | Summer 2027 | US clearance | $35–$59/hr | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) |
+| Sierra Space | Software Engineering Intern - Software Engineering | Madison, WI, Centennial, CO (+3) | Summer 2027 | US clearance, US citizenship | $31/hr | 2026-11-19 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1) |
 | Symbotic | Software Engineer Intern - Front-End | Austin, TX | Summer 2027 |  | $32–$44/hr | 2026-11-19 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) |
 | Trener Robotics | Robotics Engineer / Lab Technician Intern | San Jose, CA |  |  |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true) |
 | Western Governors University | Technical Intern | Salt Lake City, UT |  | No sponsorship | $29.32–$43.99/hr | 2026-11-19 | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525) |
@@ -216,6 +219,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Constellation Brands | Data and AI Enablement Intern | Rochester, NY, Chicago, IL |  |  | $19–$32/hr | 2026-11-15 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721) |
 | Constellation Brands | Data Science Intern | Rochester, NY |  |  | $19–$32/hr | 2026-11-15 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527) |
 | KLA | Firmware Intern | Milpitas, CA |  |  | $32–$43/hr | 2026-11-15 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Intern_2642154) |
+| Lumentum | Data Science & Analytics Intern | San Jose, CA |  |  | $27.75–$54.30/hr | 2026-11-15 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771) |
 | Reliable Robotics | Displays Software Engineer Intern | Mountain View, CA | Summer 2027 | US citizenship, US person | $62/hr | 2026-11-15 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true) |
 | SRI International | Embedded Software Engineering Co-op | Princeton, NJ |  | US citizenship, No sponsorship | $20–$27/hr | 2026-11-15 | [Apply](https://careers-sri.icims.com/jobs/6542/job?mobile=true&needsRedirect=false) |
 | SRI International | Software Engineering/Full Stack Development Co-op | Princeton, NJ |  | US citizenship, No sponsorship | $20–$27/hr | 2026-11-15 | [Apply](https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false) |
@@ -362,9 +366,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL | Summer 2027 |  |  | 2026-11-09 | [Apply](https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us) |
 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL | Summer 2027 |  |  | 2026-11-09 | [Apply](https://careers.haskell.com/jobs/7415?icims=1&lang=en-us) |
 | Apache Industrial | AI Implementation Intern | Houston, TX | Fall 2026, Winter/Spring 2027 |  |  | 2026-11-08 | [Apply](https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115510) |
-| ASML | AI Engineer Co-op Intern | San Diego, CA |  |  |  | 2026-11-08 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627) |
 | ASML | AI Engineer Co-op Intern | San Diego, CA |  |  |  | 2026-11-08 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00355629) |
-| ASML | AI Engineer Co-op Intern | San Diego, CA |  |  |  | 2026-11-08 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628) |
 | CSAA Insurance Group | Advanced Analysis Intern | Phoenix, AZ | Summer 2027 | No sponsorship, US work auth | $29.50/hr | 2026-11-08 | [Apply](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Advanced-Analysis-Intern_R8005-1) |
 | General Dynamics Mission Systems | Full-Stack Application Development Intern | Chantilly, VA, Pittsfield, MA (+1) | Summer 2027 | US clearance, US citizenship, No sponsorship |  | 2026-11-08 | [Apply](https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false) |
 | General Dynamics Mission Systems | Full-Stack Software Engineer Intern | Chantilly, VA, Pittsfield, MA (+1) | Summer 2027 | US clearance, US citizenship, No sponsorship |  | 2026-11-08 | [Apply](https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false) |

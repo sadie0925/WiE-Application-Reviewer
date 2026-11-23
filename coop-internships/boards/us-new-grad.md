@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in the United States (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**440 open** · newest first · removed when closed or after 60 days · Updated 2026-11-22 21:30 ET
+**440 open** · newest first · removed when closed or after 60 days · Updated 2026-11-23 06:04 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -51,6 +51,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Zepto Life Technology | Software Developer 1 | St Paul, MN |  | US citizenship |  | 2026-11-20 | [Apply](https://zeptolife.bamboohr.com/careers/143/) |
 | Rise Internet | Software Engineer 1 | Irving, TX |  | US work auth |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1) |
 | Qualcomm | DSP Applications Software Engineer - ASICS Engineering | Austin, TX |  |  | $49–$73/hr | 2026-11-20 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722230518) |
+| Lattice Semiconductor | Junior BMC Firmware Engineer | Duluth, GA |  | US citizenship, No sponsorship |  | 2026-11-19 | [Apply](https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-103309) |
 | Toyota | Software Engineer | Plano, TX |  | No sponsorship, US work auth |  | 2026-11-19 | [Apply](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846) |
 | Microsoft | Software Engineer | United States |  | US clearance, US citizenship, No sponsorship | $41–$88/hr | 2026-11-19 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557075456) |
 | Red Arch Solutions | Junior Software Engineer | Annapolis Junction, MD |  | US clearance, No sponsorship | $43–$50/hr | 2026-11-19 | [Apply](https://redarchsolutions.applytojob.com/apply/SjXMZVX4He/Jr-Software-Engineer) |
@@ -208,7 +209,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Peraton | Cloud Software Engineer 1 | Fort Meade, MD |  | US clearance, No sponsorship | $54–$86/hr | 2026-11-05 | [Apply](https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false) |
 | Everwatch | Junior Software Engineer | Annapolis Junction, MD |  | US clearance, No sponsorship | $50.48–$55.29/hr | 2026-11-05 | [Apply](https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false) |
 | Amazon | Software Developer Engineer 1 - Security Platform | Seattle, WA, Irvine, CA |  |  | $53–$89/hr | 2026-11-04 | [Apply](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) |
-| Emerson Electric | Embedded Software Engineer - AI - Web | Marshalltown, IA |  | No sponsorship, US work auth |  | 2026-11-04 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013465) |
 | Twitch | Software Development Engineer 1 - Security Platform | Seattle, WA, Irvine, CA |  |  | $53–$89/hr | 2026-11-04 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931345002) |
 | Twitch | Software Development Engineer 1 - Security Platform | Seattle, WA |  |  | $53–$89/hr | 2026-11-04 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931343002) |
 | Empower Pharmacy | Associate Software Engineer - Full Stack | Houston, TX |  |  |  | 2026-11-04 | [Apply](https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009) |
@@ -313,7 +313,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Comscore | Software Engineer | Portland, OR |  | No sponsorship, US work auth | $36–$43/hr | 2026-10-20 | [Apply](https://comscore.wd5.myworkdayjobs.com/en-US/External/job/OR---Portland-Airport/Software-Engineer_REQ1765) |
 | EBSCO | Software Developer Engineer 1 | Birmingham, AL |  |  | $33–$47/hr | 2026-10-20 | [Apply](https://careers-ebscoind.icims.com/jobs/2112/job?mobile=true&needsRedirect=false) |
 | NCR Voyix | Software Engineer 1 | Atlanta, GA |  |  |  | 2026-10-20 | [Apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033) |
-| Vizient | Associate Software Engineer | Irving, TX |  |  | $29–$49/hr | 2026-10-20 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35366R) |
 | All Lines Technology | Application Developer | Cranberry Township, PA |  |  |  | 2026-10-20 | [Apply](https://alllinestechnology.applytojob.com/apply/Wrf3CfpaGL/Application-Developer) |
 | AQR Capital Management | Software Engineer | Greenwich, CT |  |  | $65–$75/hr | 2026-10-20 | [Apply](https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812) |
 | Quora | Full Stack Software Engineer New Grad | Remote in USA, Remote in Canada |  |  | $47–$69/hr | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
@@ -397,6 +396,7 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Axos Bank | Junior AI Engineer | San Diego, CA |  | US citizenship | $30/hr | 2026-10-06 | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526) |
 | CACI | Entry Level C# Software Engineer | Virginia Beach, VA |  | US clearance, US citizenship, No sponsorship | $28–$56/hr | 2026-10-06 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249) |
 | CACI | Web Application Developer – Early Career | Chantilly, VA, Reston, VA |  |  | $30–$62/hr | 2026-10-06 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158) |
+| Sierra Space | Software Engineer 1 - Ground Software | Centennial, CO, Louisville, CO |  | US clearance, US citizenship, No sponsorship | $40–$56/hr | 2026-10-06 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1) |
 | Pure Storage | Software Engineer New Grad | Santa Clara, CA |  |  | $66–$81/hr | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249851) |
 | Foundation Health | Software Engineer | Orlando, FL |  |  |  | 2026-10-06 | [Apply](https://jobs.ashbyhq.com/foundationhealthcareers/cb0b5a3f-de52-40bd-b485-4f2b243bdee1/application?embed=true) |
 | Teserac | AI Engineer | Santa Clara, CA |  |  |  | 2026-10-06 | [Apply](https://apply.workable.com/teserac-inc/j/01F1C3E218/apply) |
