@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**84 open** · newest first · removed when closed or after 30 days · Updated 2026-11-23 06:04 ET
+**82 open** · newest first · removed when closed or after 30 days · Updated 2026-11-23 17:34 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -26,7 +26,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Mackenzie Investments | AI Program Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$24–CA$25/hr | 2026-11-19 | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) |
 | EUNA Solutions | Associate AI-Enablement Developer Co-op | Oakville, ON, Canada | Winter/Spring 2027 |  | CA$25–CA$35/hr | 2026-11-19 | [Apply](https://euna.bamboohr.com/careers/822/) |
 | Horizon Trading Solutions | Java Developer Intern | Montreal, QC, Canada |  |  |  | 2026-11-19 | [Apply](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101) |
-| Ribbon | Software Developer Co-op - Common Cloud Services | Canada |  |  | CA$26–CA$30/hr | 2026-11-18 | [Apply](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079) |
 | Qualcomm | GPU Compiler Development Intern - Interim Engineering Intern - HW | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722198182) |
 | Roblox | Software Engineer Intern - Engine | Vancouver, BC, Canada | Summer 2027 |  | CA$52/hr | 2026-11-18 | [Apply](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) |
 | Huawei | Researcher Intern - Recursive Self-Improvement | Montreal, QC, Canada |  |  | CA$50–CA$74/hr | 2026-11-18 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi) |
@@ -77,7 +76,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada | Summer 2027 |  | CA$26–CA$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-02 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) |
 | GIRO | Front-End Web Development Intern | Montreal, QC, Canada | Winter/Spring 2027 | Canada work auth |  | 2026-10-31 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317) |
-| AltaLink | Project Support Co-op | Calgary, AB, Canada | Fall 2027 |  |  | 2026-10-30 | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) |
 | Waterworth | Computer Science Co-op | Victoria, BC, Canada | Winter/Spring 2027 |  | CA$24–CA$29/hr | 2026-10-29 | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) |
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$26–CA$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
 | Qualcomm | AI Software Systems Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA$26–CA$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |

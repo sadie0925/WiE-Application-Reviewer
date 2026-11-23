@@ -213,6 +213,19 @@
     "source": "mlh"
   },
   {
+    "name": "HackBU",
+    "location": "Vestal, NY",
+    "url": "https://hackbu.org/",
+    "starts_at": "2027-01-30T15:00:00Z",
+    "ends_at": "2027-01-31T21:00:00Z",
+    "deadline_at": "",
+    "deadline_kind": "",
+    "when": "JAN 30 - 31",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
     "name": "Hack@Brown 2027",
     "location": "Providence, RI",
     "url": "https://hackatbrown.org/",
@@ -312,19 +325,6 @@
     "deadline_at": "",
     "deadline_kind": "",
     "when": "FEB 20 - 21",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
-    "name": "Hacklytics 2027",
-    "location": "Atlanta, GA",
-    "url": "https://hacklytics2027.web.app/",
-    "starts_at": "2027-02-26T01:11:11Z",
-    "ends_at": "2027-02-28T23:59:59Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "FEB 26 - 28",
     "status": "Upcoming",
     "tier": "major",
     "source": "mlh"

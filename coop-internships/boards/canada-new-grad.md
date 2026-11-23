@@ -2,7 +2,7 @@
 
 Software engineering new-grad / entry-level / early-career roles in Canada (software, full-stack, web, mobile, ML/AI, data, DevOps, firmware). Other engineering, analyst, and data-science roles are left off, as are Master's/PhD-only and senior roles.
 
-**54 open** · newest first · removed when closed or after 60 days · Updated 2026-11-23 06:04 ET
+**51 open** · newest first · removed when closed or after 60 days · Updated 2026-11-23 17:34 ET
 
 Term, Work auth, and Pay are read from each posting's page on Simplify (salary, citizenship/clearance/sponsorship rules, and season tags), plus the title and description. Term uses Waterloo's three terms only: Fall, Winter/Spring, and Summer. New-grad roles are full time, so Term is only filled when the posting states a start season. Work auth lists barriers such as US citizenship, US clearance, US person (ITAR), citizen/PR only, no visa sponsorship, or required US / Canada work authorization. Pay is read from the company's own job posting, with Simplify's copy as the fallback. A range shows as min–max and a single fixed pay as one amount, in $, CA$, £, or €. It is always shown per hour; yearly, monthly, or weekly pay is converted at 40 hours a week (2,080 hours a year). A blank cell means the posting does not say.
 
@@ -17,7 +17,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Omnimed | ML Developer - Junior or Intermediate | Cookshire-Eaton, QC, Canada |  |  |  | 2026-11-20 | [Apply](https://omnimed.bamboohr.com/careers/73/) |
 | Keplar | Software Engineer New Grad | Toronto, ON, Canada, Waterloo, ON, Canada |  |  |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true) |
 | Sanofi | Digital Graduate Program - Product Analyst - Data and AI Engineer | Toronto, ON, Canada |  | Canada work auth |  | 2026-11-19 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1) |
-| Journal Technologies | Junior Data Integration Developer | Victoria, BC, Canada, Remote in USA (+1) |  | US citizenship, Canadian citizen/PR, No sponsorship | $26–$36/hr | 2026-11-19 | [Apply](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d) |
 | CDPQ | Developer - Digital Solutions and Analytics - Liquid Markets | Montreal, QC, Canada |  |  |  | 2026-11-18 | [Apply](https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique---Marchs-boursiers_R05211) |
 | Arcadion | Junior AI Developer | Ottawa, ON, Canada |  |  |  | 2026-11-18 | [Apply](https://arcadion.bamboohr.com/careers/52/) |
 | Sony Pictures Imageworks | Associate Software Developer - Infrastructure | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207497003) |
@@ -25,7 +24,6 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Gentec | Junior Software Designer | Québec City, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://gentec.bamboohr.com/careers/31/) |
 | Flexspring | AI Model Training and Deployment Developer New Grad | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://flexspring.bamboohr.com/careers/71/) |
 | Senstar | Machine Learning Developer | Waterloo, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://senstar.bamboohr.com/careers/183/) |
-| American Express | Campus Undergraduate Full-Time Engineer - Software Engineer 1 | Toronto, ON, Canada |  | No sponsorship, Canada work auth | CA$36–CA$60/hr | 2026-11-16 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677) |
 | Fidus Systems | Embedded Software Designer - AI Agents and Tooling | Kitchener, ON, Canada |  | Canadian citizen/PR |  | 2026-11-13 | [Apply](https://apply.workable.com/fidus/j/530C9AAB54/apply) |
 | Fidus Systems | Embedded Software Designer - AI Knowledge and Data | Kitchener, ON, Canada |  | Canadian citizen/PR |  | 2026-11-13 | [Apply](https://apply.workable.com/fidus/j/B945E3C44D/apply) |
 | Affirm | Software Engineer 1 - Backend - Continuous Delivery | Remote in Canada |  |  | CA$49–CA$73/hr | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181185003) |
@@ -63,4 +61,3 @@ Term, Work auth, and Pay are read from each posting's page on Simplify (salary, 
 | Primoris Services | Application Developer | Acheson, AB, Canada |  |  |  | 2026-09-29 | [Apply](https://prim.wd108.myworkdayjobs.com/Primoris/job/Edmonton-AB/Application-Developer_JR102635) |
 | Harbor | Junior Developer - Finance Systems | Remote in Canada |  |  |  | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/harborglobal/jobs/5238900007) |
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA, Remote in Canada |  |  | $47–$69/hr | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) |
-| Nutanix | Software Engineer New Grad - Master’s - Bachelor’s + 2 | Vancouver, BC, Canada |  |  | CA$50–CA$75/hr | 2026-09-25 | [Apply](https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false) |
