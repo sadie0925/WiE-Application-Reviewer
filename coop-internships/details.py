@@ -286,39 +286,18 @@ def fetch_page_pay(listings: list[dict], cache: dict, budget: int = PAGE_BUDGET)
     return done
 
 
-OVERRIDES_PATH = ROOT / "pay-overrides.json"
-
-
-def load_pay_overrides() -> dict[str, str]:
-    """Manual pay for postings whose pay Simplify's copy leaves out.
-
-    Keys are apply URLs; values are the pay text from the posting,
-    e.g. "$20.00 - $50.00". Converted to $/hr like everything else.
-    """
-    try:
-        data = json.loads(OVERRIDES_PATH.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
-        return {}
-    return {k: v for k, v in data.items() if isinstance(v, str) and not k.startswith("_")}
-
-
 def apply_details(listings: list[dict], cache: dict) -> None:
     """Copy cached detail fields onto listings (no network)."""
-    overrides = load_pay_overrides()
     for listing in listings:
-        override = overrides.get(listing.get("url") or "")
-        if override:
-            listing["detail_pay"] = pay_from_text("pay " + override)
         entry = cache.get(listing.get("id") or "")
         if not entry or entry.get("error") or entry.get("missing"):
             continue
-        if not override:
-            # The company's own page wins; Simplify is the fallback.
-            page_pay, simplify_pay = entry.get("page_pay") or "", entry.get("pay") or ""
-            if page_pay.startswith("$") and simplify_pay.startswith("CA$"):
-                # Canadian pages often write plain "$"; Simplify knows it is CAD.
-                page_pay = page_pay.replace("$", "CA$")
-            listing["detail_pay"] = page_pay or simplify_pay
+        # The company's own page wins; Simplify is the fallback.
+        page_pay, simplify_pay = entry.get("page_pay") or "", entry.get("pay") or ""
+        if page_pay.startswith("$") and simplify_pay.startswith("CA$"):
+            # Canadian pages often write plain "$"; Simplify knows it is CAD.
+            page_pay = page_pay.replace("$", "CA$")
+        listing["detail_pay"] = page_pay or simplify_pay
         listing["detail_auth"] = list(entry.get("auth") or [])
         listing["detail_h1b"] = entry.get("sponsors_h1b")
         listing["detail_seasons"] = list(entry.get("seasons") or [])

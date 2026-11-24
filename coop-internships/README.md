@@ -1,35 +1,31 @@
 # Co-op & Internship Listings (US & Canada)
 
-Undergraduate co-op and internship postings in **United States & Canada**, synced automatically from the [Simplify Jobs](https://github.com/SimplifyJobs/Summer2026-Internships) community feed (plus optional ATS scrapers / community submissions).
-
-Boards are separate pages, newest first. Closed applications, and anything added more than 30 days ago, are removed. Internships come from the Simplify Summer feed. Software new-grad roles come from Simplify's New-Grad Positions feed on their own pages, with master's/PhD-only rows dropped. Term and work-authorization cells stay blank unless the posting or feed says them.
-
-The checker runs every 5 minutes, which is the fastest GitHub will schedule it. A new posting shows up on the next check after it appears in the feed. Hackathons are on their own page: Waterloo clubs and committees first, then other Canada and US events. A hackathon is removed as soon as its deadline passes, which is separate from the 30-day job rule. Early undergrad programs (fellows, insight, and first-year programs) are on their own page and are removed as soon as the application deadline passes.
-
-## Quick start
-
-```bash
-cd coop-internships
-python3 -m pip install requests
-python3 main.py sync      # fetch feed + regenerate README (1 HTTP request)
-python3 main.py readme    # regenerate README only
-```
+Co-op, internship, new-grad, and hackathon listings in the United States and Canada for University of Waterloo students. Updated automatically from the [Simplify Jobs](https://github.com/SimplifyJobs/Summer2026-Internships) feeds and company job pages. Pick a board below.
 
 <!-- LISTINGS:START -->
 
-**1538 open listings** · newest first · Updated 2026-11-23 17:34 ET
+**1546 open listings** · newest first · Updated 2026-11-23 20:09 ET
 
-Internships come from the Simplify Summer feed. Software new-grad / entry-level / early-career roles come from Simplify's New-Grad Positions feed. Internships are removed when closed or after **30 days**. New grads are removed when closed or after **60 days**. Master's/PhD-only and senior new-grad rows are left off. Roles in both countries show up on both pages.
+Internships are removed after **30 days** and new-grad roles after **60 days**, or sooner if the posting closes. Roles open in both countries appear on both country pages.
 
 | Board | Open |
 | ----- | ---- |
 | [Canada — Software internships](boards/canada-software.md) | 82 |
-| [United States — Software internships](boards/us-software.md) | 686 |
-| [Canada — Other internships](boards/canada-other.md) | 39 |
+| [United States — Software internships](boards/us-software.md) | 695 |
+| [Canada — Other internships](boards/canada-other.md) | 38 |
 | [United States — Other internships](boards/us-other.md) | 261 |
-| [Canada — Software new grad](boards/canada-new-grad.md) | 51 |
-| [United States — Software new grad](boards/us-new-grad.md) | 426 |
+| [Canada — Software new grad](boards/canada-new-grad.md) | 49 |
+| [United States — Software new grad](boards/us-new-grad.md) | 428 |
 | [Hackathons and innovation challenges](boards/hackathons.md) | 25 (2 Waterloo first) |
 | [Early undergrad programs](boards/programs.md) | 3 |
 
 <!-- LISTINGS:END -->
+
+## Run it yourself
+
+```bash
+cd coop-internships
+python3 -m pip install requests
+python3 main.py sync      # fetch listings + rebuild the boards
+python3 main.py readme    # rebuild the boards only
+```

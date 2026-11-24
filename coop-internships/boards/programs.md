@@ -1,8 +1,8 @@
 # Early undergrad programs
 
-Fellowships, insight programs, and early-year programs for software undergraduates. These are separate from the internship boards. Each row is read from the company's own careers page. A row is removed as soon as its application deadline passes. If the page does not publish an application deadline, the row is removed once the program has started. Master's-only and PhD-only programs are left off. Pay, term, and who it is for stay blank when the page does not say.
+Fellowships, insight programs, and first- and second-year programs for software students. Removed once applications close. A blank cell means the company doesn't say.
 
-**3 open** · soonest deadline first · Updated 2026-11-23 17:34 ET
+**3 open** · soonest deadline first · Updated 2026-11-23 20:09 ET
 
 [All boards](../README.md)
 

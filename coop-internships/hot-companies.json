@@ -1,0 +1,21 @@
+{
+  "_note": "Companies that get a 🔥 on the boards (a 🔥 is also shown for any role paying over $50/hr). Names are matched as whole company names, ignoring case and endings like Inc. or LLC. Add or remove names freely.",
+  "pay_over_per_hour": 50,
+  "companies": [
+    "Meta", "Facebook", "Apple", "Amazon", "Amazon Web Services", "AWS", "Netflix", "Google", "Alphabet", "DeepMind", "Google DeepMind",
+    "Microsoft", "NVIDIA", "OpenAI", "Anthropic", "xAI", "Mistral AI", "Cohere", "Perplexity", "Anysphere", "Cursor",
+    "Harvey", "Scale AI", "Databricks", "Snowflake", "Datadog", "Palantir", "Anduril", "Shield AI", "Skydio",
+    "Tesla", "SpaceX", "Neuralink", "Waymo", "Stripe", "Figma", "Notion", "Ramp", "Rippling", "Plaid", "Brex", "Mercury",
+    "Airbnb", "Uber", "Lyft", "DoorDash", "Instacart", "Coinbase", "Robinhood", "Cloudflare", "MongoDB", "Pinterest",
+    "Reddit", "Discord", "Roblox", "Snap", "Spotify", "Shopify", "Wealthsimple", "Atlassian", "LinkedIn", "Salesforce",
+    "Adobe", "TikTok", "ByteDance", "Bloomberg", "Glean", "Vercel", "Linear", "Retool", "Replit", "Supabase",
+    "Hugging Face", "Character.AI", "ElevenLabs", "Runway", "Cognition", "Decagon", "Sierra", "Applied Intuition",
+    "Figure AI", "Verkada", "Samsara", "Duolingo", "Epic Games", "Riot Games",
+    "Jane Street", "Jane Street Capital", "Hudson River Trading", "HRT", "Citadel", "Citadel Securities", "Point72", "Optiver",
+    "Two Sigma", "D. E. Shaw", "D.E. Shaw", "DE Shaw", "The D. E. Shaw Group", "Jump Trading", "Susquehanna International Group", "SIG",
+    "IMC Trading", "IMC", "Tower Research Capital", "Five Rings", "DRW", "Akuna Capital", "Old Mission Capital",
+    "Virtu Financial", "Millennium", "Millennium Management", "Bridgewater Associates", "Radix Trading", "XTX Markets",
+    "Headlands Technologies", "Squarepoint Capital", "Renaissance Technologies", "Arrowstreet Capital", "Belvedere Trading",
+    "Flow Traders", "Maven Securities", "Voleon", "Qube Research & Technologies", "Hudson Bay Capital"
+  ]
+}
