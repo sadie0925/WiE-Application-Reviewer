@@ -2,7 +2,7 @@
 
 Other co-ops and internships in Canada (not software).
 
-**38 open** · newest first · removed when closed or after 30 days · Updated 2026-11-23 20:09 ET
+**37 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 01:19 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -39,7 +39,6 @@ Other co-ops and internships in Canada (not software).
 | Ciena | Hardware Engineering Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA\$25.50–CA\$35/hr | 2026-11-02 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054) |
 | TechInsights | Teardown Lab Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA\$20–CA\$25/hr | 2026-11-02 | [Apply](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) |
 | Qualcomm | SoC Engineering Intern | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721914045) |
-| Qualcomm | Verification Engineer Intern | Toronto, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada |  |  |  | 2026-11-01 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) |
 | Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) |
 | Qualcomm | Camera Systems Intern | Vancouver, BC, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-10-30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) |

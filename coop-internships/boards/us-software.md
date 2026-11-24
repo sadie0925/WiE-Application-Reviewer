@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**695 open** · newest first · removed when closed or after 30 days · Updated 2026-11-23 20:09 ET
+**697 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 01:19 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,8 @@ Software, data, and AI co-ops and internships in the United States.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| SharkNinja | Firmware Engineer Intern - Advanced Development | Needham, MA | Summer 2027 |  | \$27–\$34/hr | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
+| Illumio | Engineering Intern - Architecture Platform | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$37/hr | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
 | Exowatt | Software & AI Intern | Austin, TX | Winter/Spring 2027 |  |  | 2026-11-23 | [Apply](https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply) |
 | Culver's | Business Analytics Intern | Prairie du Sac, WI | Summer 2027 |  | \$17/hr | 2026-11-23 | [Apply](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79) |
 | Illinois Tool Works | Software or Computer Engineer Intern | Fairmont, MN | Summer 2027 |  | \$17.80–\$25.65/hr | 2026-11-23 | [Apply](https://careers.itw.com/global/en/job/JR11356) |
@@ -28,8 +30,10 @@ Software, data, and AI co-ops and internships in the United States.
 | Red Bull | Data Science Intern | Morristown, NJ | Winter/Spring 2027 |  |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139699) |
 | Red Bull | RBII Team Analysis Intern | Morristown, NJ | Winter/Spring 2027 |  |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139439) |
 | Contoro | Robotics Software Engineer Intern - Autonomy - Automation | Austin, TX |  |  |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434/application?embed=true) |
+| First PREMIER Bank | Collections Analytics Intern | Sioux Falls, SD |  |  |  | 2026-11-22 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565) |
 | First PREMIER Bank | Financial Modeling & Analysis Intern | Sioux Falls, SD |  |  |  | 2026-11-22 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Financial-Modeling---Analysis-Internship_R-517-1) |
 | GrayMatter Robotics | Robotics Engineering Intern: Systems & Applications | Carson, CA | Winter/Spring 2027 | US work auth | \$30–\$40/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true) |
+| Illumio | Security Platforms Engineer Intern - Security Platforms | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$37/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true) |
 | Lifeway | Front-End Engineer Intern | Nashville, TN, Remote in USA | Summer 2027 |  |  | 2026-11-22 | [Apply](https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false) |
 | Lifeway | Software Engineer Intern - Full Stack - Back-End | Remote in USA | Summer 2027 |  |  | 2026-11-22 | [Apply](https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false) |
 | Lifeway | Summer Internship - Business Intelligence | Remote in USA | Summer |  |  | 2026-11-22 | [Apply](https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false) |
@@ -132,7 +136,6 @@ Software, data, and AI co-ops and internships in the United States.
 | Southern Mississippi Trading | AI and Business Analytics Intern | Waynesboro, MS |  |  |  | 2026-11-19 | [Apply](https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern) |
 | Pathlabs | Software and AI Engineer Intern | Missoula, MT |  |  |  | 2026-11-19 | [Apply](https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern) |
 | 🔥 Lucid Motors | Infotainment Software Intern | Newark, CA | Fall 2027, Summer 2027 | No sponsorship | \$53–\$72/hr | 2026-11-19 | [Apply](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007) |
-| 🔥 Lucid Motors | Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving | Newark, CA | Summer 2027 | No sponsorship | \$53–\$72/hr | 2026-11-19 | [Apply](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) |
 | 🔥 Formlabs | API & Automation Intern | Somerville, MA | Summer 2027 |  | \$46–\$56/hr | 2026-11-19 | [Apply](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) |
 | Advance Auto Parts | Data Science Intern | Raleigh, NC | Summer 2027 | No sponsorship, US work auth |  | 2026-11-19 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1) |
 | Draper | Operational Analysis Intern - Summer 2027 | Cambridge, MA | Summer 2027 |  | \$20–\$45/hr | 2026-11-19 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
@@ -256,7 +259,6 @@ Software, data, and AI co-ops and internships in the United States.
 | Piedmont Airlines | Safety Data Analytics Intern | Charlotte, NC |  |  | \$19.50–\$22/hr | 2026-11-12 | [Apply](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590) |
 | 🔥 Reliable Robotics | Flight Software Engineer Intern | Mountain View, CA | Summer 2027 | US citizenship, US person | \$62/hr | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed/application?embed=true) |
 | Valeo | Software Engineer Intern | Troy, MI |  |  |  | 2026-11-12 | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794) |
-| Vertex Pharmaceuticals | Data Analytics Intern - OSD Process Data Analytics | Boston, MA | Summer 2027 | No sponsorship, US work auth | \$23–\$32/hr | 2026-11-12 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312) |
 | Cintas | IT OT Software Engineer Intern | Mason, OH |  |  |  | 2026-11-12 | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-OT-Software-Engineer-OH-45040/1450367200/?ats=successfactors) |
 | Bask Health | AI Engineering Intern | Remote in USA |  |  |  | 2026-11-12 | [Apply](https://apply.workable.com/bask-health-1/j/F0E122E877/apply) |
 | Bask Health | Machine Learning Engineer Intern | Remote in USA |  |  |  | 2026-11-12 | [Apply](https://apply.workable.com/bask-health-1/j/71AEBBCADE/apply) |

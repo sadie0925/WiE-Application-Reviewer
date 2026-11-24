@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**261 open** · newest first · removed when closed or after 30 days · Updated 2026-11-23 20:09 ET
+**263 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 01:19 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -15,6 +15,9 @@ Other co-ops and internships in the United States (not software).
 | L3Harris Technologies | Specialist, Integration/Test Engineering Intern | Greenville, TX |  | US clearance, No sponsorship |  | 2026-11-23 | [Apply](https://jobs.l3harris.com/job/Greenville-(DoD-SkillBridge),-Specialist,-IntegrationTest-Engineering-TX-75402/1452921700/?ats=successfactors) |
 | Electric Power Engineers | Product Management Intern | Austin, TX | Summer 2026 |  | \$20–\$40/hr | 2026-11-22 | [Apply](https://careers-epeconsulting.icims.com/jobs/2449/job?mobile=true&needsRedirect=false) |
 | First Resonance | Product Management Intern | El Segundo, CA | Summer 2027 | US citizenship, US person | \$30–\$35/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true) |
+| Illumio | Product Management Intern - Solution Economics | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$37/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true) |
+| Illumio | Product Manager Intern | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$47/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true) |
+| Illumio | Technical Product Management Intern | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$37/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true) |
 | 🔥 Neros Technologies | Electrical Engineer Intern | Torrance, CA | Summer 2027 |  | \$55/hr | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) |
 | Etched | Signal Integrity and Power Integrity Intern | San Jose, CA | Summer 2027 |  |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true) |
 | Fidelity Bank | Digital Operations Analyst Intern | Wichita, KS |  |  |  | 2026-11-20 | [Apply](https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0) |
@@ -71,7 +74,6 @@ Other co-ops and internships in the United States (not software).
 | Rivian | ADAS HW Systems Validation Intern - ADAS HW Systems Validation | Champaign, IL | Winter/Spring 2027 | No sponsorship | \$25–\$40/hr | 2026-11-17 | [Apply](https://careers.rivian.com/jobs/36514?icims=1&lang=en-us) |
 | Canyon AeroConnect | Electrical Engineer Intern | Prescott, AZ |  |  |  | 2026-11-17 | [Apply](https://canyonaeroconnect.bamboohr.com/careers/165/) |
 | Canyon AeroConnect | Test Engineer Intern | Prescott, AZ |  | US citizenship, US person |  | 2026-11-17 | [Apply](https://canyonaeroconnect.bamboohr.com/careers/166/) |
-| Research Innovations | Department of War SkillBridge Operations SME Intern | Remote in USA |  | US clearance |  | 2026-11-16 | [Apply](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) |
 | SRI International | Electrical Engineering Co-op | Princeton, NJ |  | US citizenship, No sponsorship | \$20–\$27/hr | 2026-11-16 | [Apply](https://careers-sri.icims.com/jobs/6543/job?mobile=true&needsRedirect=false) |
 | GM Financial | Product Owner Intern | Arlington, TX | Summer 2027 | No sponsorship |  | 2026-11-16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) |
 | Bound | Product Management Intern | Ames, IA | Summer 2027 |  |  | 2026-11-16 | [Apply](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) |
