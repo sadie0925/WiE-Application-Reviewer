@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in Canada.
 
-**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-24 01:19 ET
+**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-24 12:57 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,8 @@ Software engineering new-grad and entry-level roles in Canada.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| ServiceRocket | Associate Service Delivery Engineer | Toronto, ON, Canada |  |  |  | 2026-11-24 | [Apply](https://jobs.lever.co/servicerocket/2a00daa6-486e-4d14-8b90-5f78d5645fd8/apply) |
+| Syntronic | RF Test Developer | Gatineau, QC, Canada |  |  |  | 2026-11-24 | [Apply](https://jobs.lever.co/syntronic/3dc9b782-0ba9-4e59-a9ac-9567c81794b0/apply) |
 | Gradient MSP | Junior Full Stack Developer | Remote in Canada |  |  |  | 2026-11-21 | [Apply](https://gradientmsp.bamboohr.com/careers/72/) |
 | 🔥 Affirm | Software Engineer 1 - Backend - Streaming Infra | Remote in Canada |  |  | CA\$49–CA\$73/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201471003) |
 | 🔥 Affirm | Software Engineer 1 - Fullstack - Disputes Platform | Remote in Canada |  |  | CA\$49–CA\$73/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8196691003) |
@@ -35,7 +37,6 @@ Software engineering new-grad and entry-level roles in Canada.
 | 🔥 Google | Software Developer 2 – Early Career | Montreal, QC, Canada, Waterloo, ON, Canada |  |  | CA\$61–CA\$62/hr | 2026-11-02 | [Apply](https://www.google.com/about/careers/applications/jobs/results/93868335938052806) |
 | DraftKings | Software Engineer | Remote in Canada |  |  |  | 2026-10-29 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324-1) |
 | Mitel Networks | Junior Full Stack Web Developer | Ottawa, ON, Canada |  |  |  | 2026-10-29 | [Apply](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211) |
-| Thoughtworks | Associate Developer | Toronto, ON, Canada |  |  | CA\$46/hr | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333236) |
 | 🔥 Ciena | Routing/IP Software Engineer New Grad | Ottawa, ON, Canada |  |  | CA\$35–CA\$55/hr | 2026-10-27 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006) |
 | 🔥 Intuit | Software Developer 1 | Toronto, ON, Canada |  |  | CA\$45–CA\$61/hr | 2026-10-27 | [Apply](https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744) |
 | 🔥 Didero | Forward Deployed Engineer | Toronto, ON, Canada |  |  | CA\$43–CA\$62/hr | 2026-10-26 | [Apply](https://jobs.ashbyhq.com/didero/02895105-d069-47cf-b1e2-be7d24909173/application?embed=true) |

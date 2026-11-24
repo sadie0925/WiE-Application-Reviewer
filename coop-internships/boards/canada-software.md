@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**83 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 01:19 ET
+**80 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 12:57 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -59,10 +59,8 @@ Software, data, and AI co-ops and internships in Canada.
 | Amgen | Computer Engineering Co-op - Large Molecule Discovery - Technology | Burnaby, BC, Canada | Winter/Spring 2027 |  | CA\$22–CA\$26/hr | 2026-11-09 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-11-09 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) |
 | Qualcomm | Firmware Engineering Intern | Toronto, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-11-09 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722038614) |
-| Altera | Software Engineer Intern | Toronto, ON, Canada |  |  | CA\$46–CA\$48/hr | 2026-11-08 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) |
 | Brave | Software Engineer Intern | Remote in Canada | Fall 2026 |  | CA\$35/hr | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/brave/jobs/8360001) |
 | DataRobot | Software Design Engineer Intern | Boston, MA, Seattle, WA (+1) |  |  |  | 2026-11-05 | [Apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) |
-| Royal Bank of Canada | Data Analyst Intern - Wealth Management | Toronto, ON, Canada | Winter/Spring 2027 |  |  | 2026-11-05 | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288) |
 | Qualcomm | Driver and Tools Developer Intern - Telemetry Firmware | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-11-05 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721989047) |
 | Acumatica | Developer Intern | Montreal, QC, Canada | Winter/Spring 2026 |  |  | 2026-11-05 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799) |
 | DataVisor | Software Engineer Intern | Remote in Canada | Winter/Spring 2027 |  | CA\$19/hr | 2026-11-04 | [Apply](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) |
@@ -84,7 +82,6 @@ Software, data, and AI co-ops and internships in Canada.
 | Huawei | Intern Researcher - AI Agents | Montreal, QC, Canada |  |  | CA\$28–CA\$50/hr | 2026-10-29 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1) |
 | Ciena | Embedded Software Engineer Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA\$25–CA\$34/hr | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005) |
 | Ryan | Software Engineer Intern | North York, ON, Canada | Summer 2027 |  |  | 2026-10-28 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1) |
-| Ryan | Software Engineer Intern | North York, ON, Canada | Summer 2027 |  |  | 2026-10-28 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-10-28 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611) |
 | TMX Group | Analyst – Market Insights Intern | Toronto, ON, Canada | Winter/Spring 2027 | Canada work auth | CA\$25–CA\$29/hr | 2026-10-28 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) |
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |

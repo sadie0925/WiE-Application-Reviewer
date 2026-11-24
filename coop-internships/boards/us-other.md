@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**263 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 01:19 ET
+**257 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 12:57 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -141,8 +141,6 @@ Other co-ops and internships in the United States (not software).
 | Legrand | Product Management Intern | Syracuse, NY | Summer 2027 |  |  | 2026-11-10 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) |
 | Constellation Brands | Digital Manufacturing Technology Intern | Rochester, NY, San Antonio, TX |  |  | \$19–\$32/hr | 2026-11-09 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681) |
 | General Dynamics Mission Systems | ASIC/FPGA Engineer Intern | Scottsdale, AZ |  | US citizenship, No sponsorship | \$21.50–\$29/hr | 2026-11-09 | [Apply](https://careers-gdms.icims.com/jobs/80153/job?mobile=true&needsRedirect=false) |
-| HP Inc. | Performance Engineering Co-op | Fort Collins, CO | Summer 2027 | No sponsorship, US work auth | \$29–\$35/hr | 2026-11-09 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-1) |
-| HP Inc. | Performance Engineering Co-op | Fort Collins, CO | Summer 2027 | No sponsorship, US work auth | \$29–\$35/hr | 2026-11-09 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-2) |
 | Rambus | CAD Engineer Intern | San Jose, CA |  |  | \$25.80–\$47.80/hr | 2026-11-09 | [Apply](https://careers-rambus.icims.com/jobs/23121/job?mobile=true&needsRedirect=false) |
 | Cirrus Logic | Layout Design Intern | Austin, TX |  | No sponsorship |  | 2026-11-09 | [Apply](https://jobs.eu.lever.co/cirrus/92cc5842-b83a-4ab3-921d-27fbd8484290/apply) |
 | Pivotal Aero | Electrical Engineering Intern | Palo Alto, CA | Summer 2027 | US citizenship, No sponsorship | \$30–\$35/hr | 2026-11-09 | [Apply](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb/apply) |
@@ -160,7 +158,6 @@ Other co-ops and internships in the United States (not software).
 | KLA Corporation | Electrical Engineering Intern | Milpitas, CA |  |  | \$35–\$47/hr | 2026-11-08 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Electrical-Engineering-Intern_2641972) |
 | Microchip Technology | Device Engineer Intern | San Jose, CA |  |  | \$19–\$30/hr | 2026-11-08 | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---Fortune-Dr-Micrel-HDQ/Intern---Device-Engineer_R4398-26) |
 | 🔥 NVIDIA | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA (+1) | Summer 2027 |  | \$38–\$94/hr | 2026-11-08 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) |
-| RTX | Electronic Warfare Electrical Engineer Intern | Goleta, CA | Summer 2027 | US clearance, US citizenship, No sponsorship | \$20–\$42/hr | 2026-11-08 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electronic-Warfare-Electrical-Engineer-Intern--Summer-2027--Onsite-_01886573) |
 | Schweitzer Engineering Laboratories | Hardware Engineer Intern | Pullman, WA |  |  | \$24.25–\$33/hr | 2026-11-08 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-24373-1) |
 | 🔥 Skydio | Systems Engineering Intern | San Mateo, CA |  | US work auth | \$47–\$70/hr | 2026-11-08 | [Apply](https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a/application?embed=true) |
 | Viavi Solutions | Digital Hardware Engineer Intern | Lenexa, KS |  | US citizenship, US person, No sponsorship |  | 2026-11-08 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Lenexa-KS-USA/Digital-Hardware-Engineering-Intern_260005289-1) |
@@ -187,8 +184,6 @@ Other co-ops and internships in the United States (not software).
 | 🔥 Meta | Hardware Systems Architecture Intern - Performance & Workload Analysis | Redmond, WA |  |  | \$39–\$69/hr | 2026-11-04 | [Apply](https://www.metacareers.com/jobs/1296272445973940) |
 | Applied Materials | Metrology Engineer Co-op Intern | Tempe, AZ | Winter/Spring 2027 |  |  | 2026-11-04 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419) |
 | Eversource Energy | Electric Operations Intern | Dorchester, Boston, MA | Summer 2027 | No sponsorship, US work auth |  | 2026-11-04 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Electric-Operations-Intern--MA-_R-032507) |
-| Invesco | Digital Product Management Intern | Atlanta, GA | Summer 2027 | No sponsorship, US work auth | \$35/hr | 2026-11-04 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) |
-| Invesco | Digital Product Management Intern | Atlanta, GA | Summer 2027 | No sponsorship, US work auth | \$35/hr | 2026-11-04 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876) |
 | RTX | Systems Engineering Co-op | Richardson, TX | Winter/Spring 2027 | US clearance, US citizenship, No sponsorship |  | 2026-11-04 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216) |
 | Uline | Marketing Intern | Waukegan, IL, Milwaukee, WI (+3) | Summer 2027 |  |  | 2026-11-04 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946) |
 | Vizient | Product Operations Intern | Irving, TX | Summer 2027 |  | \$25/hr | 2026-11-04 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R) |
@@ -272,4 +267,3 @@ Other co-ops and internships in the United States (not software).
 | Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA |  |  | \$35–\$41/hr | 2026-10-25 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067) |
 | 🔥 Marvell | Signal and Power Integrity Intern | Santa Clara, CA | Summer 2027 | US citizenship | \$37–\$73/hr | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1) |
 | 🔥 Marvell | Signal and Power Integrity Intern | Santa Clara, CA | Summer 2027 | US citizenship | \$37–\$73/hr | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858) |
-| National Indemnity Company | Marketing Data Intern | Omaha, NE |  | No sponsorship |  | 2026-10-25 | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) |

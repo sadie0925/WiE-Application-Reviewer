@@ -2,7 +2,7 @@
 
 Other co-ops and internships in Canada (not software).
 
-**37 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 01:19 ET
+**36 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 12:57 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -19,7 +19,6 @@ Other co-ops and internships in Canada (not software).
 | Avnan | Electronics Engineering Technologist Co-op | Mississauga, ON, Canada | Winter/Spring 2027 |  |  | 2026-11-20 | [Apply](https://avnan.bamboohr.com/careers/125/) |
 | Honeywell Aerospace | Electrical Engineer Intern | Kanata, Ottawa, ON, Canada |  | Canadian citizen/PR | CA\$24.04–CA\$28.12/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) |
 | Honeywell Aerospace | Embedded Engineer Intern | Kanata, Ottawa, ON, Canada |  | Canadian citizen/PR | CA\$24.04–CA\$28.12/hr | 2026-11-20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) |
-| Canadian Strategic Missions | Engineering Intern - Labs | Waterloo, ON, Canada |  | US clearance, Canadian citizen/PR |  | 2026-11-18 | [Apply](https://csmc.bamboohr.com/careers/51/) |
 | W.W. Grainger | GCAN Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Summer 2027 |  | CA\$25/hr | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) |
 | W.W. Grainger | Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | Summer 2025 |  |  | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors) |
 | Analog Devices | Analog Design Intern | Ottawa, ON, Canada |  | US citizenship |  | 2026-11-11 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) |
