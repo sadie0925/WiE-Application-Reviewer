@@ -2,7 +2,7 @@
 
 Fellowships, insight programs, and first- and second-year programs for software students. Removed once applications close. A blank cell means the company doesn't say.
 
-**3 open** · soonest deadline first · Updated 2026-11-25 05:34 ET
+**3 open** · soonest deadline first · Updated 2026-11-25 15:09 ET
 
 [All boards](../README.md)
 

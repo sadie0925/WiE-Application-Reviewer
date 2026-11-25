@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**258 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 05:34 ET
+**257 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 15:09 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -267,4 +267,3 @@ Other co-ops and internships in the United States (not software).
 | Emerson Electric | Sales and Operations Planning Intern | Austin, TX |  | No sponsorship, US work auth |  | 2026-10-26 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010170) |
 | 🔥 Meta | Battery Engineering Intern | Sunnyvale, CA |  |  | \$42–\$73/hr | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/938682979075854) |
 | Texas Instruments | Analog Design Engineer Intern | Santa Clara, CA |  |  |  | 2026-10-26 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682) |
-| Hive Financial Systems | Product & Program Management Intern | Atlanta, GA | Summer 2027 |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |

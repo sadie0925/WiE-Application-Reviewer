@@ -1,5 +1,44 @@
 [
   {
+    "id": "26ee6493-02d8-49da-a580-97b2be904636",
+    "company_name": "Noblis",
+    "company_url": "https://simplify.jobs/c/Noblis",
+    "title": "AI/ML Research Intern",
+    "url": "https://careers.noblis.org/jobs/28841?icims=1&lang=en-us",
+    "locations": [
+      "United States"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795618980,
+    "date_updated": 1795620085,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Spring 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$23–$38/hr",
+    "detail_auth": [
+      "US citizenship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Spring 2027"
+    ],
+    "detail_desc_terms": "Winter/Spring 2027",
+    "functions": [
+      "AI Research",
+      "AI & Machine Learning"
+    ]
+  },
+  {
     "id": "032204d8-7bcf-491f-9448-13ad5041983d",
     "company_name": "L3Harris Technologies",
     "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
@@ -621,6 +660,74 @@
     "functions": [
       "Product Management",
       "Product"
+    ]
+  },
+  {
+    "id": "ff12fa07-66e0-4a55-9131-b0323a91a0c3",
+    "company_name": "University of St. Thomas",
+    "company_url": "https://simplify.jobs/c/University-Of-St-Thomas",
+    "title": "Graduate Assistant for Data Analytics Intern - Center for Well-Being",
+    "url": "https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "St Paul, MN"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795564800,
+    "date_updated": 1795620091,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "$19/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
+    "id": "540a8cd1-224d-43b7-bcd1-e081d9e57ed7",
+    "company_name": "Waters",
+    "company_url": "https://simplify.jobs/c/Waters-Corporation",
+    "title": "IT Digital Intern",
+    "url": "https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Milford, MA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795564800,
+    "date_updated": 1795619971,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Full-Stack Engineering",
+      "Software Engineering"
     ]
   },
   {
@@ -1755,44 +1862,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "e56c16ed-c43f-4794-87be-c60acdfe34c2",
-    "company_name": "Veolia",
-    "company_url": "https://simplify.jobs/c/Veolia",
-    "title": "Manufacturing Software Engineer Intern",
-    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969",
-    "locations": [
-      "Boulder, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795490016,
-    "date_updated": 1795504148,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$20–$25/hr",
-    "detail_auth": [
-      "Canada work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
       "Software Engineering"
     ]
   },
@@ -4858,45 +4927,6 @@
     ]
   },
   {
-    "id": "be9c1870-7006-4e8b-8a8a-56ff262c8ad4",
-    "company_name": "Milliman",
-    "company_url": "https://simplify.jobs/c/Milliman",
-    "title": "Data Analyst Intern",
-    "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba",
-    "locations": [
-      "Brookfield, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795217973,
-    "date_updated": 1795218174,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$19–$35/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "513802ee-1c64-4abf-bab6-8b1bb6e754ec",
     "company_name": "EP Wealth Advisors",
     "company_url": "https://simplify.jobs/c/EP-Wealth-Advisors",
@@ -4956,36 +4986,6 @@
     "terms": [
       "N/A"
     ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "90c98689-b6d9-4277-80b6-6d8d648b6546",
-    "company_name": "Wellabe",
-    "company_url": "https://simplify.jobs/c/Wellabe",
-    "title": "Software Engineer 1/2/3",
-    "url": "https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7",
-    "locations": [
-      "Des Moines, IA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795217892,
-    "date_updated": 1795218006,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
     "program": "cs",
     "detail_pay": "",
     "detail_auth": [],
@@ -11585,40 +11585,6 @@
     ]
   },
   {
-    "id": "b77f486a-2b51-4a28-aa1a-586e0eee73a6",
-    "company_name": "United Launch Alliance",
-    "company_url": "https://simplify.jobs/c/United-Launch-Alliance",
-    "title": "Ground Software Avionics & Infrastructure Engineer 1",
-    "url": "https://jobs.ulalaunch.com/job/Centennial-Ground-Software-(GSW)-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/?ats=successfactors",
-    "locations": [
-      "Centennial, CO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795130593,
-    "date_updated": 1795130739,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$37–$62/hr",
-    "detail_auth": [
-      "US work auth",
-      "US clearance",
-      "US citizenship"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "bfc7b38a-bae3-4573-8b03-da5a8bbff0de",
     "company_name": "Lucid Motors",
     "company_url": "https://simplify.jobs/c/Lucid-Motors",
@@ -13551,40 +13517,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Game Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "20ddf038-1fb9-4dd1-8fea-ff90c3309e1c",
-    "company_name": "Schneider Electric",
-    "company_url": "https://simplify.jobs/c/Schneider-Electric",
-    "title": "Engineer I - Software",
-    "url": "https://se.jibeapply.com/jobs/141336?icims=1&lang=en-us",
-    "locations": [
-      "Westmont, IL",
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795028820,
-    "date_updated": 1795507212,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$70/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
       "Software Engineering"
     ]
   },
@@ -16796,68 +16728,41 @@
     ]
   },
   {
-    "id": "e516341f-94fb-46d4-acbf-424091977db5",
-    "company_name": "CrossCountry Consulting",
-    "company_url": "https://simplify.jobs/c/CrossCountry-Consulting",
-    "title": "Junior Forward Deployed Software Engineer",
-    "url": "https://jobs.lever.co/crosscountry-consulting/5f8a920b-77ed-4200-b37d-1f5d68c1bc21/apply",
+    "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
+    "company_name": "Forterra",
+    "company_url": "https://simplify.jobs/c/Forterra",
+    "title": "Software Engineer Intern",
+    "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
     "locations": [
-      "Philadelphia, PA"
+      "Winter Park, FL",
+      "Durham, NC",
+      "East Palo Alto, CA",
+      "Clarksburg, MD",
+      "Arlington County, Arlington, VA"
     ],
     "active": true,
     "is_visible": true,
     "source": "simplify",
-    "date_posted": 1794871977,
-    "date_updated": 1794872025,
+    "date_posted": 1794871999,
+    "date_updated": 1794872188,
     "category": "Software",
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
     ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$43–$60/hr",
-    "detail_auth": [
-      "US work auth"
+    "track": "intern",
+    "terms": [
+      "N/A"
     ],
-    "detail_h1b": false,
+    "program": "cs",
+    "detail_pay": "$30–$40/hr",
+    "detail_auth": [
+      "US clearance"
+    ],
+    "detail_h1b": null,
     "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "240c8b54-b581-4a55-8ff5-c992035db71d",
-    "company_name": "CrossCountry Consulting",
-    "company_url": "https://simplify.jobs/c/CrossCountry-Consulting",
-    "title": "Junior Forward Deployed Software Engineer",
-    "url": "https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply",
-    "locations": [
-      "McLean, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794871977,
-    "date_updated": 1794872032,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$43–$60/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
       "Software Engineering"
     ]
   },
@@ -26858,38 +26763,6 @@
     ]
   },
   {
-    "id": "f8dff735-83eb-4c12-bafc-e9568cf30001",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794267495,
-    "date_updated": 1794267618,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$41–$88/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "90b5d92f-64d7-4ce9-a653-023885a5846a",
     "company_name": "Meta",
     "company_url": "https://simplify.jobs/c/Meta",
@@ -35274,43 +35147,6 @@
     "functions": [
       "Product Management",
       "Product"
-    ]
-  },
-  {
-    "id": "540147a8-5c6b-4f1d-8311-8fce3c94c9de",
-    "company_name": "Staples",
-    "company_url": "https://simplify.jobs/c/Staples",
-    "title": "Software Engineer Intern - SDS e-Commerce Team",
-    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133",
-    "locations": [
-      "Framingham, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793747252,
-    "date_updated": 1793747342,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Frontend Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -47747,183 +47583,6 @@
     ]
   },
   {
-    "id": "a56c3be4-35d8-45ca-a8f7-c98206f9e105",
-    "company_name": "Burns Engineering",
-    "company_url": "https://simplify.jobs/c/Burns-Engineering",
-    "title": "Software Engineer Intern",
-    "url": "https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793040714,
-    "date_updated": 1793284275,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "ae65cb8b-ec6b-48b7-a221-afec9b7f068d",
-    "company_name": "Crystal Dynamics",
-    "company_url": "https://simplify.jobs/c/Crystal-Dynamics",
-    "title": "Game Design Intern",
-    "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793040388,
-    "date_updated": 1795084024,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$21–$24/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Spring 2027"
-    ],
-    "detail_desc_terms": "Winter/Spring 2027",
-    "functions": [
-      "Game Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "5e2d95be-4aa3-4837-8222-35bef4eeb890",
-    "company_name": "Hive Financial Systems",
-    "company_url": "https://simplify.jobs/c/Hive-Financial-Systems",
-    "title": "Product & Program Management Intern",
-    "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793028935,
-    "date_updated": 1793052636,
-    "category": "Product",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Product Management",
-      "Product"
-    ]
-  },
-  {
-    "id": "40788700-c5a9-4875-9193-d098f17dbbd8",
-    "company_name": "Hive Financial Systems",
-    "company_url": "https://simplify.jobs/c/Hive-Financial-Systems",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793026080,
-    "date_updated": 1793052629,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "89b3498d-d513-460c-aae2-950c5bfec033",
-    "company_name": "Pattern",
-    "company_url": "https://simplify.jobs/c/Pattern",
-    "title": "Revenue Operations Data Analyst Intern",
-    "url": "https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply",
-    "locations": [
-      "Lehi, UT"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793025814,
-    "date_updated": 1793025959,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "c6a9be94-d5f8-4644-9170-cd986afc5557",
     "company_name": "L3Harris Technologies",
     "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
@@ -49654,35 +49313,6 @@
     ]
   },
   {
-    "id": "6a81d31d-6a36-4f0e-bc20-897ebf83b76b",
-    "company_name": "84 Lumber",
-    "company_url": "https://simplify.jobs/c/84-Lumber",
-    "title": "Associate Web Developer",
-    "url": "https://careers.84lumber.com/jobs/26201?icims=1",
-    "locations": [
-      "Eighty Four, PA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792418160,
-    "date_updated": 1793862542,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Frontend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "75cedc37-d994-453e-a7bf-8afc8ed63a1f",
     "company_name": "Acxiom",
     "company_url": "https://simplify.jobs/c/Acxiom",
@@ -50320,6 +49950,38 @@
     ]
   },
   {
+    "id": "e3dc3916-c56e-4402-833e-d675b99b9d0c",
+    "company_name": "Arcfield",
+    "company_url": "https://simplify.jobs/c/Arcfield",
+    "title": "Software Engineer 1",
+    "url": "https://careers.arcfield.com/jobs/8780?icims=1",
+    "locations": [
+      "Rome, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1792075011,
+    "date_updated": 1792075175,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$28–$49/hr",
+    "detail_auth": [
+      "US clearance"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "a254c38f-5fae-467c-9cff-3dd2e72094f5",
     "company_name": "SirenOpt",
     "company_url": "https://simplify.jobs/c/SirenOpt",
@@ -50511,40 +50173,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Desktop Application Development",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "e7dc5edb-b756-476f-8e46-5d2797edfabe",
-    "company_name": "Truveta",
-    "company_url": "https://simplify.jobs/c/Truveta",
-    "title": "Software Engineer - Security & Trust",
-    "url": "https://job-boards.greenhouse.io/truveta/jobs/6224827004",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1792015989,
-    "date_updated": 1792016153,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$53–$70/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
       "Software Engineering"
     ]
   },

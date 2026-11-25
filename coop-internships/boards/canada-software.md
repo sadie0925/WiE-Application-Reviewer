@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**74 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 05:34 ET
+**74 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 15:09 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 

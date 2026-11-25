@@ -2,7 +2,7 @@
 
 Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline** is when applications close (blank if the organizer hasn't posted one). Events are removed once applications close or the event starts.
 
-**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-25 05:34 ET
+**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-25 15:09 ET
 
 [All boards](../README.md)
 
@@ -22,6 +22,7 @@ Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline*
 | DMA Envision: Marketing & AI Hackathon | McMaster University, Hamilton, ON | 2026-11-28 |  | [Open](https://luma.com/9hezg32g) |
 | Hack Cats | Manhattan, Kansas | 2026-12-04 |  | [Open](https://hackkstate.tech/) |
 | Hack Canada 2027 | Toronto, Ontario | 2027-01-08 |  | [Open](https://hackcanada.org) |
+| SheHacks+ 11 | London, Ontario | 2027-01-08 |  | [Open](https://www.shehacks.ca/) |
 | DeltaHacks | Hamilton, Ontario | 2027-01-09 |  | [Open](https://www.deltahacks.com/) |
 | uOttaHack 9 | Ottawa, Ontario  | 2027-01-14 |  | [Open](https://2027.uottahack.ca/) |
 | UofTHacks | Toronto, Ontario | 2027-01-15 |  | [Open](https://uofthacks.com/) |
@@ -29,7 +30,7 @@ Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline*
 | nwHacks | Vancouver, British Columbia | 2027-01-16 |  | [Open](https://nwhacks.io/) |
 | QWER Hacks | Los Angeles, CA | 2027-01-16 |  | [Open](https://www.qwerhacks.com/) |
 | Hoya Hacks | Washington, DC | 2027-01-22 |  | [Open](https://www.hoyahacks.com/) |
-| Hackville 2027 | Missisauga, Ontario | 2027-01-22 |  | [Open](https://hackville.io/) |
+| Hackville 2027 | Oakville, Ontario | 2027-01-22 |  | [Open](https://hackville.io/) |
 | ElleHacks | Toronto, Ontario | 2027-01-29 |  | [Open](https://ellehacks.com/) |
 | HackBU | Vestal, NY | 2027-01-30 |  | [Open](https://hackbu.org/) |
 | Hack@Brown 2027 | Providence, RI | 2027-02-04 |  | [Open](https://hackatbrown.org/) |
@@ -39,4 +40,3 @@ Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline*
 | InnovateHer | West Lafayette, Indiana | 2027-02-13 |  | [Open](https://innovateherhacks.org/) |
 | MakeUofT | Toronto, Ontario | 2027-02-13 |  | [Open](http://makeuoft.ca/) |
 | SF Hacks | San Francisco, CA | 2027-02-19 |  | [Open](https://sfhacks.io) |
-| CUhackit | Clemson, SC | 2027-02-20 |  | [Open](https://cuhack.it/) |

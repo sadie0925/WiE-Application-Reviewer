@@ -96,6 +96,19 @@
     "source": "mlh"
   },
   {
+    "name": "SheHacks+ 11",
+    "location": "London, Ontario",
+    "url": "https://www.shehacks.ca/",
+    "starts_at": "2027-01-08T22:00:00Z",
+    "ends_at": "2027-01-10T20:00:00Z",
+    "deadline_at": "",
+    "deadline_kind": "",
+    "when": "JAN 08 - 10",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
     "name": "DeltaHacks",
     "location": "Hamilton, Ontario",
     "url": "https://www.deltahacks.com/",
@@ -165,7 +178,7 @@
     "location": "Los Angeles, CA",
     "url": "https://www.qwerhacks.com/",
     "starts_at": "2027-01-16T14:00:00Z",
-    "ends_at": "2027-01-17T03:00:00Z",
+    "ends_at": "2027-01-17T23:59:59Z",
     "deadline_at": "",
     "deadline_kind": "",
     "when": "JAN 16 - 17",
@@ -188,7 +201,7 @@
   },
   {
     "name": "Hackville 2027",
-    "location": "Missisauga, Ontario",
+    "location": "Oakville, Ontario",
     "url": "https://hackville.io/",
     "starts_at": "2027-01-23T01:11:11Z",
     "ends_at": "2027-01-24T23:59:59Z",
@@ -312,19 +325,6 @@
     "deadline_at": "",
     "deadline_kind": "",
     "when": "FEB 19 - 21",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
-    "name": "CUhackit",
-    "location": "Clemson, SC",
-    "url": "https://cuhack.it/",
-    "starts_at": "2027-02-20T15:00:00Z",
-    "ends_at": "2027-02-21T23:59:59Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "FEB 20 - 21",
     "status": "Upcoming",
     "tier": "major",
     "source": "mlh"

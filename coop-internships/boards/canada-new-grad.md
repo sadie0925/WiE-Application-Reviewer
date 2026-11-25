@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in Canada.
 
-**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-25 05:34 ET
+**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-25 15:09 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
