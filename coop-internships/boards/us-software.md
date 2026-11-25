@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**678 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 20:52 ET
+**685 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 05:34 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,15 +10,25 @@ Software, data, and AI co-ops and internships in the United States.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| L3Harris Technologies | Software Engineer Intern | Melbourne, FL |  |  |  | 2026-11-25 | [Apply](https://jobs.l3harris.com/job/Melbourne-Software-Engineer-Intern-FL-32919/1453684500/?ats=successfactors) |
+| The Tech Interactive | STEM Impact & Data Reporting Intern | San Jose, CA | Winter/Spring 2027 |  | \$19/hr | 2026-11-24 | [Apply](https://ats.rippling.com/the-tech/jobs/1681a3cc-c0d0-4161-8fcc-6edac78f0475) |
+| Bandwidth | Software Engineer Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) |
+| Bandwidth | Software Engineer Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414440) |
+| Bandwidth | Software Engineer Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414426) |
+| Bandwidth | Software Engineer Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414436) |
+| Bandwidth | Software Engineer Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414444) |
+| Bandwidth | Software Engineer Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414452) |
+| Bandwidth | Software Engineer Intern | Raleigh, NC | Summer 2027 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414448) |
 | Advanced Energy | Firmware Engineer Intern | Fort Collins, CO | Winter/Spring 2027 |  | \$26–\$36/hr | 2026-11-24 | [Apply](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors) |
 | 🔥 Meta | Research Scientist Intern - Machine Learning for Robust 3D Perception | Redmond, WA |  |  | \$44–\$73/hr | 2026-11-24 | [Apply](https://www.metacareers.com/jobs/1482835147112669) |
 | Kimley-Horn | Data Science Intern | Mesa, AZ | Summer 2027 |  |  | 2026-11-24 | [Apply](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) |
+| SambaNova Systems | Runtime Engineer Intern | Austin, TX, San Jose, CA | Summer 2027 |  |  | 2026-11-24 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) |
 | WSP | Geographic Information Systems Science Intern | Denver, CO | Summer 2027 | US work auth | \$22.60–\$29.38/hr | 2026-11-24 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) |
 | 🔥 Amazon | Front-End Engineer Intern | Seattle, WA, Chicago, IL (+1) | Fall 2027, Winter/Spring 2027, Summer 2027 | US work auth | \$50/hr | 2026-11-24 | [Apply](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) |
 | Johns Hopkins Applied Physics Laboratory | Artificial Intelligence and Complex Systems Intern | Laurel, MD | Summer 2027 | US citizenship, No sponsorship | \$22.60–\$47.95/hr | 2026-11-24 | [Apply](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) |
 | Johns Hopkins Applied Physics Laboratory | Robotics Intern | Laurel, MD |  | US citizenship, No sponsorship | \$22.60–\$47.95/hr | 2026-11-24 | [Apply](https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us) |
+| PatientPoint | Data Engineer Intern | Cincinnati, OH | Summer 2026 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) |
 | Medpace | Clinical Intelligence Intern | Cincinnati, OH | Summer 2027 |  |  | 2026-11-24 | [Apply](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) |
-| RF-SMART | Software Developer Intern | Highlands Ranch, CO, Jacksonville, FL | Summer 2027 | No sponsorship, US work auth | \$25/hr | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5446867008) |
 | BEUMER Group | AI Development Intern | Somerset County, NJ |  |  | \$25/hr | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) |
 | Fervo Energy | GIS Intern | Salt Lake City, UT | Summer 2026 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4512537009) |
 | Veolia | Manufacturing Software Engineer Intern | Boulder, CO | Summer 2027 | No sponsorship, Canada work auth | \$20–\$25/hr | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969) |
@@ -231,7 +241,6 @@ Software, data, and AI co-ops and internships in the United States.
 | GM Financial | Software Engineer Intern | Irving, TX | Summer 2026 | No sponsorship |  | 2026-11-16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261292) |
 | NeuroSpark | AI Hardware Optimization Engineer Intern | Santa Clara, CA |  |  |  | 2026-11-16 | [Apply](https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3) |
 | NeuroSpark | AI Inference & Training Framework Engineer Intern | Santa Clara, CA |  |  |  | 2026-11-16 | [Apply](https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea) |
-| Forterra | Software Engineer Intern | Winter Park, FL, Durham, NC (+3) |  | US clearance | \$30–\$40/hr | 2026-11-16 | [Apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) |
 | Quest Analytics | Software Engineer Intern - C# - ASP.NET | Overland Park, KS | Summer 2027 | No sponsorship, US work auth |  | 2026-11-16 | [Apply](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply) |
 | 🔥 Meta | Research Scientist Intern - Intelligent Camera Systems | Redmond, WA |  |  | \$44–\$73/hr | 2026-11-16 | [Apply](https://www.metacareers.com/jobs/971210335715482) |
 | Minitab | Software Engineer Intern | State College, PA |  | No sponsorship, US work auth |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200708003) |
@@ -626,7 +635,6 @@ Software, data, and AI co-ops and internships in the United States.
 | 🔥 Intuitive Surgical | Manufacturing Software Engineer Intern | Sunnyvale, CA | Summer 2026 |  | \$37–\$58/hr | 2026-10-28 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000158313919) |
 | Infleqtion | Quantum Software Intern - Quantum Software | Chicago, IL | Summer 2027 |  |  | 2026-10-28 | [Apply](https://apply.workable.com/coldquanta/j/EB77DE8198/apply) |
 | Constellation Energy | Geothermal Production Analytics Engineer Intern | Middletown, CA | Summer 2027 | US work auth |  | 2026-10-28 | [Apply](https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us) |
-| 🔥 RosaicLabs | AI Accelerator Design Verification Engineer Intern | Austin, TX, Santa Clara, CA |  |  | \$30–\$55/hr | 2026-10-28 | [Apply](https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply) |
 | 🔥 RosaicLabs | Software Engineering Intern | Austin, TX, Santa Clara, CA |  |  | \$30–\$55/hr | 2026-10-28 | [Apply](https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply) |
 | CAMS | Application Performance Monitoring Predictive Analytics Engineer Intern | Houston, TX |  | No sponsorship, US work auth | \$20–\$25/hr | 2026-10-28 | [Apply](https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply) |
 | Wabtec | Software Engineering Co-op | Schenectady, NY | Winter/Spring 2027 | No sponsorship, US work auth | \$19–\$33/hr | 2026-10-27 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016452226) |
@@ -687,4 +695,3 @@ Software, data, and AI co-ops and internships in the United States.
 | Crystal Dynamics | Game Design Intern | Remote in USA | Winter/Spring 2027 | US work auth | \$21–\$24/hr | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005) |
 | Hive Financial Systems | Software Engineer Intern | Atlanta, GA | Summer 2027 |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007) |
 | Pattern | Revenue Operations Data Analyst Intern | Lehi, UT |  |  |  | 2026-10-26 | [Apply](https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply) |
-| 🔥 Vigil Labs | Software Engineer Intern | Palo Alto, CA | Winter/Spring 2027 |  | \$120/hr | 2026-10-26 | [Apply](https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2) |

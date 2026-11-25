@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**257 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 20:52 ET
+**258 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 05:34 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -236,6 +236,7 @@ Other co-ops and internships in the United States (not software).
 | HP Inc. | Product Management Intern | Spring, TX | Summer 2026 | No sponsorship, US work auth | \$23–\$28/hr | 2026-10-29 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358) |
 | HP Inc. | Product Management Intern | Spring, TX | Summer 2026 | No sponsorship, US work auth | \$23–\$28/hr | 2026-10-29 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1) |
 | Signify | Product Manager Intern | Aurora, CO | Winter/Spring 2027 | No sponsorship, US work auth | \$22–\$31/hr | 2026-10-29 | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Aurora/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366897) |
+| 🔥 Snowflake | Product Management Intern | Menlo Park, CA | Summer 2027 |  | \$60–\$70/hr | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true) |
 | 🔥 Teamworks | Product Management MBA Intern | Remote in USA |  | No sponsorship | \$50–\$60/hr | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06/application?embed=true) |
 | 🔥 Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | \$46.33–\$50.60/hr | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
 | Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO | Summer 2027 |  | \$30/hr | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |

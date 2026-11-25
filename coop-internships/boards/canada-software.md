@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**77 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 20:52 ET
+**74 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 05:34 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -36,7 +36,6 @@ Software, data, and AI co-ops and internships in Canada.
 | SSI | Software Developer Co-op | Victoria, BC, Canada |  | Canadian citizen/PR, US work auth |  | 2026-11-18 | [Apply](https://ssicorporate.bamboohr.com/careers/101/) |
 | Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-11-17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) |
 | Ross Video | Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | Winter/Spring 2027 |  | CA\$24–CA\$35/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) |
-| City of Campbell River | Co-op Student - OMS Project - Capital Projects | Campbell River, BC, Canada |  |  | CA\$24.97/hr | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733) |
 | QSL | Software Development and Artificial Intelligence Intern | Québec City, QC, Canada | Winter/Spring 2027 |  | CA\$24–CA\$27/hr | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/QSL/744000162086264) |
 | Critical Environment Technologies | Computer Science Co-op | Delta, BC, Canada |  |  | CA\$21/hr | 2026-11-17 | [Apply](https://cetci.bamboohr.com/careers/92/) |
 | Birdseye Security Solutions | Software Developer Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) |
@@ -67,14 +66,12 @@ Software, data, and AI co-ops and internships in Canada.
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-11-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada |  |  |  | 2026-11-04 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) |
 | Huawei | Researcher Computer Vision Intern | Markham, ON, Canada |  |  | CA\$28–CA\$50/hr | 2026-11-03 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3) |
-| Botpress Technologies | Software Developer Intern | Montreal, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada |  |  | CA\$21–CA\$23/hr | 2026-11-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) |
 | Ciena | Software Developer Co-op Intern | Remote in Canada, Québec City, QC, Canada | Winter/Spring 2027 |  | CA\$25.50–CA\$35/hr | 2026-11-02 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) |
 | 🔥 Meta | Research Scientist Intern - FAIR - World Model Foundations | Montreal, QC, Canada |  |  | CA\$36–CA\$60/hr | 2026-11-02 | [Apply](https://www.metacareers.com/jobs/1406585275871250) |
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | Winter/Spring 2027 |  |  | 2026-11-02 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) |
 | GIRO | Front-End Web Development Intern | Montreal, QC, Canada | Winter/Spring 2027 | Canada work auth |  | 2026-10-31 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317) |
-| Waterworth | Computer Science Co-op | Victoria, BC, Canada | Winter/Spring 2027 |  | CA\$24–CA\$29/hr | 2026-10-29 | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) |
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA\$26–CA\$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
 | Qualcomm | AI Software Systems Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA\$26–CA\$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | Qualcomm | Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) |

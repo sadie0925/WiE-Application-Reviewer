@@ -1,5 +1,422 @@
 [
   {
+    "id": "032204d8-7bcf-491f-9448-13ad5041983d",
+    "company_name": "L3Harris Technologies",
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Melbourne-Software-Engineer-Intern-FL-32919/1453684500/?ats=successfactors",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795591050,
+    "date_updated": 1795591081,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "N/A"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "b4da1054-8bb0-4994-ab28-a7d8190f5116",
+    "company_name": "TikTok",
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "title": "Backend Software Engineer - Data Lifecycle Management",
+    "url": "https://lifeattiktok.com/search/7710030288165996805",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795590887,
+    "date_updated": 1795590901,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$62–$152/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "5c2a2c7d-778c-41cb-b429-18f64a9e6331",
+    "company_name": "Prolucid Technologies",
+    "company_url": "https://simplify.jobs/c/Prolucid-Technologies",
+    "title": "Junior Software Engineer",
+    "url": "https://apply.workable.com/prolucid-technologies/j/DBA98070BB/apply",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795573001,
+    "date_updated": 1795573119,
+    "category": "Hardware",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "CA$36–CA$46/hr",
+    "detail_auth": [
+      "Canada work auth"
+    ],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Embedded Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "98f1165f-bf4b-4417-bbc9-2922776a829d",
+    "company_name": "The Tech Interactive",
+    "company_url": "https://simplify.jobs/c/The-Tech-Interactive",
+    "title": "STEM Impact & Data Reporting Intern",
+    "url": "https://ats.rippling.com/the-tech/jobs/1681a3cc-c0d0-4161-8fcc-6edac78f0475",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795571326,
+    "date_updated": 1795571531,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$19/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data & Analytics",
+      "Business Intelligence"
+    ]
+  },
+  {
+    "id": "0ac4d045-ae34-4b4e-a936-b96916afbe0a",
+    "company_name": "Bandwidth",
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414430",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795570902,
+    "date_updated": 1795575425,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "3f48a86b-a011-4e52-a82a-10e066c46c6c",
+    "company_name": "Bandwidth",
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414440",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795570874,
+    "date_updated": 1795575425,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "a8cb5ac6-a7fe-44a7-80a9-e11ab5ca605a",
+    "company_name": "Bandwidth",
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414426",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795570840,
+    "date_updated": 1795575425,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "07a728ec-e242-4c6f-b654-ca87efa1aa61",
+    "company_name": "Bandwidth",
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414436",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795570812,
+    "date_updated": 1795575425,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "23609cfe-dbde-4ea2-bb6b-26e6a21acfd4",
+    "company_name": "Bandwidth",
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414444",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795570760,
+    "date_updated": 1795575425,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "b83dd5ca-0ff8-4558-a2ff-f5535e54b006",
+    "company_name": "Bandwidth",
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414452",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795570721,
+    "date_updated": 1795575425,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "0fd475ad-5a8f-4c47-b625-21d0951fbe36",
+    "company_name": "Bandwidth",
+    "company_url": "https://simplify.jobs/c/Bandwidth",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414448",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795570680,
+    "date_updated": 1795575425,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "d1793677-6679-4021-a52b-75b87bbb2676",
+    "company_name": "Metropolitan Transportation Authority",
+    "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+    "title": "Application Developer Analyst Levels 1–2",
+    "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oHP8AfwY?nl=1&nl=1&fr=false",
+    "locations": [
+      "Jamaica, Queens, NY"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795570395,
+    "date_updated": 1795570574,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$27–$43/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "d9f3f34d-35aa-4d1f-833f-71728fed4a1d",
     "company_name": "Veeva Systems",
     "company_url": "https://simplify.jobs/c/Veeva-Systems",
@@ -367,6 +784,45 @@
     "functions": [
       "Data Analysis",
       "Data & Analytics"
+    ]
+  },
+  {
+    "id": "79b96a28-9ba5-4dd5-8ed0-ff6e276f0752",
+    "company_name": "SambaNova Systems",
+    "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+    "title": "Runtime Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795562568,
+    "date_updated": 1795575068,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Software Engineering",
+      "Systems Software Engineering"
     ]
   },
   {
@@ -809,6 +1265,42 @@
     ]
   },
   {
+    "id": "23a7d465-f7ca-4589-9a09-1a20194f2d12",
+    "company_name": "PatientPoint",
+    "company_url": "https://simplify.jobs/c/PatientPoint",
+    "title": "Data Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795550281,
+    "date_updated": 1795574704,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2026"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2026"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Data Engineering",
+      "Data & Analytics"
+    ]
+  },
+  {
     "id": "feab8bd7-d5d9-47f8-9192-0c9ccd70d7d5",
     "company_name": "Rubrik",
     "company_url": "https://simplify.jobs/c/Rubrik",
@@ -874,43 +1366,6 @@
     "functions": [
       "Data & Analytics",
       "Business Intelligence"
-    ]
-  },
-  {
-    "id": "637771ab-fcba-4414-9c25-99bfe21fa777",
-    "company_name": "RF-SMART",
-    "company_url": "https://simplify.jobs/c/RF-SMART",
-    "title": "Software Developer Intern",
-    "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
-    "locations": [
-      "Highlands Ranch, CO",
-      "Jacksonville, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795536121,
-    "date_updated": 1795536197,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$25/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Software Engineering"
     ]
   },
   {
@@ -1336,37 +1791,6 @@
     "detail_seasons": [
       "Summer 2027"
     ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "0b03f09e-f8ed-4344-8984-f9e750cc2440",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer-Securing AI",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795488684,
-    "date_updated": 1795488879,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$41–$88/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
@@ -14846,38 +15270,6 @@
     ]
   },
   {
-    "id": "899ceff5-26e3-46f7-ab8d-a9703c3ae26d",
-    "company_name": "City of Campbell River",
-    "company_url": "https://simplify.jobs/c/City-Of-Campbell-River",
-    "title": "Co-op Student - OMS Project - Capital Projects",
-    "url": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733",
-    "locations": [
-      "Campbell River, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794937558,
-    "date_updated": 1794957121,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "CA$24.97/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Management",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "77c4fdea-8816-4818-9130-dac8b35913f9",
     "company_name": "BGE",
     "company_url": "https://simplify.jobs/c/Bge-Com",
@@ -15749,38 +16141,6 @@
     ]
   },
   {
-    "id": "542753ed-5d89-4aa7-855f-a20530ae5084",
-    "company_name": "Microsoft",
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "title": "Software Engineer Agentic Security",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794883795,
-    "date_updated": 1794883882,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$41–$81/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "d679fa04-c74e-4987-a9aa-2e381ad6fa52",
     "company_name": "Wyetech",
     "company_url": "https://simplify.jobs/c/Wyetech-LLC",
@@ -16433,45 +16793,6 @@
     "functions": [
       "Applied Machine Learning",
       "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "9b07113a-678a-41b9-bb98-fd8e35931087",
-    "company_name": "Forterra",
-    "company_url": "https://simplify.jobs/c/Forterra",
-    "title": "Software Engineer Intern",
-    "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
-    "locations": [
-      "Winter Park, FL",
-      "Durham, NC",
-      "East Palo Alto, CA",
-      "Clarksburg, MD",
-      "Arlington County, Arlington, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794871999,
-    "date_updated": 1794872188,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$30–$40/hr",
-    "detail_auth": [
-      "US clearance"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
     ]
   },
   {
@@ -29695,41 +30016,6 @@
     ]
   },
   {
-    "id": "697c6f79-8bfb-4200-ad97-2a31888e79c4",
-    "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-    "company_url": "https://simplify.jobs/c/LLNL",
-    "title": "Super Intelligence Platform Integration Engineer",
-    "url": "https://jobs.smartrecruiters.com/LLNL/3743990016713536",
-    "locations": [
-      "Livermore, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794007032,
-    "date_updated": 1794007262,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$59–$89/hr",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "e2c0d408-223c-4ea4-8b0f-7a49bb4b7e1a",
     "company_name": "Qualcomm",
     "company_url": "https://simplify.jobs/c/Qualcomm",
@@ -35515,42 +35801,6 @@
     ]
   },
   {
-    "id": "242cf8f3-3e86-497c-9929-78f7c704959b",
-    "company_name": "Botpress Technologies",
-    "company_url": "https://simplify.jobs/c/Botpress-Technologies",
-    "title": "Software Developer Intern",
-    "url": "https://apply.workable.com/botpress/j/9B3CB646E8/apply",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793720277,
-    "date_updated": 1793720342,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "Winter/Spring 2025, Winter/Spring 2027",
-    "functions": [
-      "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "e2bae655-ca7c-44a9-9d27-68eb9e0e23c6",
     "company_name": "Meta",
     "company_url": "https://simplify.jobs/c/Meta",
@@ -40983,6 +41233,42 @@
     ]
   },
   {
+    "id": "def9df22-e128-4dda-9596-1d0de6902d93",
+    "company_name": "Snowflake",
+    "company_url": "https://simplify.jobs/c/Snowflake",
+    "title": "Product Management Intern",
+    "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1793318400,
+    "date_updated": 1793399043,
+    "category": "Product",
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$60–$70/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Product Management",
+      "Product"
+    ]
+  },
+  {
     "id": "df757bc2-dbbd-4572-b2e8-78356ee1a5f4",
     "company_name": "Symbotic",
     "company_url": "https://simplify.jobs/c/Symbotic",
@@ -41354,40 +41640,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "5b1d6184-e8d0-413a-94df-e5abdf39ba54",
-    "company_name": "Waterworth",
-    "company_url": "https://simplify.jobs/c/Waterworth",
-    "title": "Computer Science Co-op",
-    "url": "https://apply.workable.com/waterworth/j/D450C48C96/apply",
-    "locations": [
-      "Victoria, BC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793313056,
-    "date_updated": 1793313181,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "CA$24–CA$29/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI & Machine Learning",
-      "Natural Language Processing & LLMs"
     ]
   },
   {
@@ -44288,42 +44540,6 @@
     "functions": [
       "Data Analysis",
       "Data & Analytics"
-    ]
-  },
-  {
-    "id": "3fc2cdd1-4ad2-454e-bd39-424e1347ddef",
-    "company_name": "RosaicLabs",
-    "company_url": "https://simplify.jobs/c/RosaicLabs",
-    "title": "AI Accelerator Design Verification Engineer Intern",
-    "url": "https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply",
-    "locations": [
-      "Austin, TX",
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793180294,
-    "date_updated": 1793180399,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$30–$55/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering"
     ]
   },
   {
@@ -47735,42 +47951,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "4712ce89-b48c-4c1c-9db2-5b03917f8bb2",
-    "company_name": "Vigil Labs",
-    "company_url": "https://simplify.jobs/c/Vigil-Labs",
-    "title": "Software Engineer Intern",
-    "url": "https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793000696,
-    "date_updated": 1793000696,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$120/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2027",
-      "Spring 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Frontend Engineering",
-      "Full-Stack Engineering",
       "Software Engineering"
     ]
   },
@@ -52870,38 +53050,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Desktop Application Development",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "65631f60-2928-47c7-a3b3-2c66d4748283",
-    "company_name": "Rivian",
-    "company_url": "https://simplify.jobs/c/Rivian",
-    "title": "Attributes Method Engineer",
-    "url": "https://careers.rivian.com/jobs/34080?icims=1",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1790807021,
-    "date_updated": 1790808073,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$51–$63/hr",
-    "detail_auth": [
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
       "Software Engineering"
     ]
   },

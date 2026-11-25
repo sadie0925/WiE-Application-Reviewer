@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in Canada.
 
-**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-24 20:52 ET
+**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-25 05:34 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,7 @@ Software engineering new-grad and entry-level roles in Canada.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Prolucid Technologies | Junior Software Engineer | Mississauga, ON, Canada |  | Canada work auth | CA\$36–CA\$46/hr | 2026-11-24 | [Apply](https://apply.workable.com/prolucid-technologies/j/DBA98070BB/apply) |
 | ServiceRocket | Associate Service Delivery Engineer | Toronto, ON, Canada |  |  |  | 2026-11-24 | [Apply](https://jobs.lever.co/servicerocket/2a00daa6-486e-4d14-8b90-5f78d5645fd8/apply) |
 | Syntronic | RF Test Developer | Gatineau, QC, Canada |  |  |  | 2026-11-24 | [Apply](https://jobs.lever.co/syntronic/3dc9b782-0ba9-4e59-a9ac-9567c81794b0/apply) |
 | Gradient MSP | Junior Full Stack Developer | Remote in Canada |  |  |  | 2026-11-21 | [Apply](https://gradientmsp.bamboohr.com/careers/72/) |
