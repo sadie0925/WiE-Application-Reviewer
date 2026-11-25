@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**257 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 12:57 ET
+**257 open** · newest first · removed when closed or after 30 days · Updated 2026-11-24 20:52 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,14 @@ Other co-ops and internships in the United States (not software).
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Ralliant | Hardware Engineering Co-op | Solon, OH | Winter/Spring 2026 |  |  | 2026-11-24 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451) |
+| Nikkiso | Product Management Intern | Huntington Beach, CA |  |  | \$22/hr | 2026-11-24 | [Apply](https://careers-nikkiso.icims.com/jobs/4528/job?mobile=true&needsRedirect=false) |
+| 🔥 Meta | Battery Engineer Intern - Battery Systems Engineering | Sunnyvale, CA |  |  | \$39–\$69/hr | 2026-11-24 | [Apply](https://www.metacareers.com/jobs/1165674205921515) |
+| Reach Labs | Hardware Prototyping Intern | Redwood City, CA |  |  | \$20/hr | 2026-11-24 | [Apply](https://jobs.lever.co/reachpower/01124bcd-9d13-498d-85ef-4a0fb2389168/apply) |
+| 🔥 Lightmatter | Design Verification Intern | Boston, MA | Summer 2027 | US work auth | \$50–\$55/hr | 2026-11-24 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5493962008) |
+| 🔥 Lightmatter | Design Verification Intern | Mountain View, CA | Summer 2027 | US work auth | \$53–\$57/hr | 2026-11-24 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474684008) |
+| Indie | Camera Host Tools Intern | San Jose, CA |  |  |  | 2026-11-24 | [Apply](https://www.indie.inc/careers/job-opportunities/?gh_jid=5291418007) |
+| 🔥 Intuitive Surgical | Product Management MBA Intern | Sunnyvale, CA | Summer 2027 |  | \$69/hr | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163546809) |
 | Legrand | Electrical Engineer Intern | Canonsburg, PA | Summer 2027 |  |  | 2026-11-23 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1948) |
 | Seasats | Electronics Engineering Intern | San Diego, CA | Winter/Spring 2027 | US citizenship, US person, No sponsorship | \$30/hr | 2026-11-23 | [Apply](https://seasats.breezy.hr/p/58eb0549bc6d/apply) |
 | L3Harris Technologies | Specialist, Integration/Test Engineering Intern | Greenville, TX |  | US clearance, No sponsorship |  | 2026-11-23 | [Apply](https://jobs.l3harris.com/job/Greenville-(DoD-SkillBridge),-Specialist,-IntegrationTest-Engineering-TX-75402/1452921700/?ats=successfactors) |
@@ -116,6 +124,7 @@ Other co-ops and internships in the United States (not software).
 | The Aerospace Corporation | Lidar Undergraduate Intern | El Segundo, CA | Summer 2027 | US clearance, US citizenship, No sponsorship | \$30/hr | 2026-11-11 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200) |
 | Vishay Intertechnology | R&D Engineer Intern | Yankton, SD |  | US citizenship, US person |  | 2026-11-11 | [Apply](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-21904) |
 | Vizient | Contract Operations Intern - Analytics | Irving, TX | Summer 2027 |  | \$25/hr | 2026-11-11 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
+| McDonald's | Global Tech Infrastructure & Operations Intern | Chicago, IL | Summer 2027 | No sponsorship, US work auth | \$32/hr | 2026-11-11 | [Apply](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) |
 | Exelon | Forestry/Vegetation Management Intern | Oakbrook Terrace, IL | Summer 2026 |  | \$20–\$31/hr | 2026-11-11 | [Apply](https://careers.comed.com/jobs/33847?icims=1&lang=en-us) |
 | 🔥 Lightmatter | Analog Engineering Intern - Summer 2027 | Mountain View, CA | Summer 2027 | US work auth | \$53–\$57/hr | 2026-11-11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473774008) |
 | 🔥 Lightmatter | Analog Engineering Intern | Mountain View, CA | Summer 2027 |  | \$53–\$57/hr | 2026-11-11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473749008) |
@@ -140,7 +149,6 @@ Other co-ops and internships in the United States (not software).
 | SharkNinja | Product Test Engineering Co-op | Needham, MA | Winter/Spring 2027 |  | \$28–\$34/hr | 2026-11-10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006) |
 | Legrand | Product Management Intern | Syracuse, NY | Summer 2027 |  |  | 2026-11-10 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) |
 | Constellation Brands | Digital Manufacturing Technology Intern | Rochester, NY, San Antonio, TX |  |  | \$19–\$32/hr | 2026-11-09 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681) |
-| General Dynamics Mission Systems | ASIC/FPGA Engineer Intern | Scottsdale, AZ |  | US citizenship, No sponsorship | \$21.50–\$29/hr | 2026-11-09 | [Apply](https://careers-gdms.icims.com/jobs/80153/job?mobile=true&needsRedirect=false) |
 | Rambus | CAD Engineer Intern | San Jose, CA |  |  | \$25.80–\$47.80/hr | 2026-11-09 | [Apply](https://careers-rambus.icims.com/jobs/23121/job?mobile=true&needsRedirect=false) |
 | Cirrus Logic | Layout Design Intern | Austin, TX |  | No sponsorship |  | 2026-11-09 | [Apply](https://jobs.eu.lever.co/cirrus/92cc5842-b83a-4ab3-921d-27fbd8484290/apply) |
 | Pivotal Aero | Electrical Engineering Intern | Palo Alto, CA | Summer 2027 | US citizenship, No sponsorship | \$30–\$35/hr | 2026-11-09 | [Apply](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb/apply) |
@@ -259,11 +267,3 @@ Other co-ops and internships in the United States (not software).
 | 🔥 Meta | Battery Engineering Intern | Sunnyvale, CA |  |  | \$42–\$73/hr | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/938682979075854) |
 | Texas Instruments | Analog Design Engineer Intern | Santa Clara, CA |  |  |  | 2026-10-26 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682) |
 | Hive Financial Systems | Product & Program Management Intern | Atlanta, GA | Summer 2027 |  |  | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
-| ABB | Product Management Intern | New Berlin, WI | Summer 2027 | No sponsorship, US work auth | \$20–\$34/hr | 2026-10-25 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) |
-| Analog Devices | Embedded Systems Co-op | Boston, MA |  | US citizenship | \$22–\$41/hr | 2026-10-25 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) |
-| Axos Bank | Product Intern | San Diego, CA | Summer 2026 | US citizenship | \$17.85–\$24.15/hr | 2026-10-25 | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/Los-Angeles-CA/Product-Intern_JR5661) |
-| Federal Home Loan Bank of Dallas | Accounting Tech Solutions Intern | Irving, TX | Summer 2027 |  |  | 2026-10-25 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444) |
-| General Dynamics Mission Systems | Systems Engineering Intern - Sonar | Manassas, VA |  | US clearance, US citizenship, No sponsorship |  | 2026-10-25 | [Apply](https://careers-gdms.icims.com/jobs/75796/job?mobile=true&needsRedirect=false) |
-| Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA |  |  | \$35–\$41/hr | 2026-10-25 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067) |
-| 🔥 Marvell | Signal and Power Integrity Intern | Santa Clara, CA | Summer 2027 | US citizenship | \$37–\$73/hr | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1) |
-| 🔥 Marvell | Signal and Power Integrity Intern | Santa Clara, CA | Summer 2027 | US citizenship | \$37–\$73/hr | 2026-10-25 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858) |

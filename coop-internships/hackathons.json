@@ -135,19 +135,6 @@
     "source": "mlh"
   },
   {
-    "name": "QWER Hacks",
-    "location": "Los Angeles, CA",
-    "url": "https://www.qwerhacks.com/",
-    "starts_at": "2027-01-16T01:11:11Z",
-    "ends_at": "2027-01-17T23:59:59Z",
-    "deadline_at": "",
-    "deadline_kind": "",
-    "when": "JAN 16 - 17",
-    "status": "Upcoming",
-    "tier": "major",
-    "source": "mlh"
-  },
-  {
     "name": "HackBI X",
     "location": "Alexandria, Virginia",
     "url": "https://hackbi.org/",
@@ -166,6 +153,19 @@
     "url": "https://nwhacks.io/",
     "starts_at": "2027-01-16T14:00:00Z",
     "ends_at": "2027-01-17T23:00:00Z",
+    "deadline_at": "",
+    "deadline_kind": "",
+    "when": "JAN 16 - 17",
+    "status": "Upcoming",
+    "tier": "major",
+    "source": "mlh"
+  },
+  {
+    "name": "QWER Hacks",
+    "location": "Los Angeles, CA",
+    "url": "https://www.qwerhacks.com/",
+    "starts_at": "2027-01-16T14:00:00Z",
+    "ends_at": "2027-01-17T03:00:00Z",
     "deadline_at": "",
     "deadline_kind": "",
     "when": "JAN 16 - 17",

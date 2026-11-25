@@ -2,7 +2,7 @@
 
 Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline** is when applications close (blank if the organizer hasn't posted one). Events are removed once applications close or the event starts.
 
-**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-24 12:57 ET
+**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-24 20:52 ET
 
 [All boards](../README.md)
 
@@ -25,9 +25,9 @@ Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline*
 | DeltaHacks | Hamilton, Ontario | 2027-01-09 |  | [Open](https://www.deltahacks.com/) |
 | uOttaHack 9 | Ottawa, Ontario  | 2027-01-14 |  | [Open](https://2027.uottahack.ca/) |
 | UofTHacks | Toronto, Ontario | 2027-01-15 |  | [Open](https://uofthacks.com/) |
-| QWER Hacks | Los Angeles, CA | 2027-01-15 |  | [Open](https://www.qwerhacks.com/) |
 | HackBI X | Alexandria, Virginia | 2027-01-16 |  | [Open](https://hackbi.org/) |
 | nwHacks | Vancouver, British Columbia | 2027-01-16 |  | [Open](https://nwhacks.io/) |
+| QWER Hacks | Los Angeles, CA | 2027-01-16 |  | [Open](https://www.qwerhacks.com/) |
 | Hoya Hacks | Washington, DC | 2027-01-22 |  | [Open](https://www.hoyahacks.com/) |
 | Hackville 2027 | Missisauga, Ontario | 2027-01-22 |  | [Open](https://hackville.io/) |
 | ElleHacks | Toronto, Ontario | 2027-01-28 |  | [Open](https://ellehacks.com/) |

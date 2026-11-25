@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in Canada.
 
-**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-24 12:57 ET
+**49 open** · newest first · removed when closed or after 60 days · Updated 2026-11-24 20:52 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -59,4 +59,3 @@ Software engineering new-grad and entry-level roles in Canada.
 | EvenUp | Software Engineer New Grad - AI Entities | Toronto, ON, Canada |  |  |  | 2026-09-30 | [Apply](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true) |
 | Primoris Services | Application Developer | Acheson, AB, Canada |  |  |  | 2026-09-29 | [Apply](https://prim.wd108.myworkdayjobs.com/Primoris/job/Edmonton-AB/Application-Developer_JR102635) |
 | Harbor | Junior Developer - Finance Systems | Remote in Canada |  |  |  | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/harborglobal/jobs/5238900007) |
-| 🔥 Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA, Remote in Canada |  |  | \$47–\$69/hr | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) |

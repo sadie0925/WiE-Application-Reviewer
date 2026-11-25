@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in the United States.
 
-**434 open** · newest first · removed when closed or after 60 days · Updated 2026-11-24 12:57 ET
+**435 open** · newest first · removed when closed or after 60 days · Updated 2026-11-24 20:52 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,14 @@ Software engineering new-grad and entry-level roles in the United States.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| 🔥 Veeva Systems | Associate Software Engineer New Grad | Raleigh, NC |  | No sponsorship, US work auth | \$54/hr | 2026-11-24 | [Apply](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f/apply) |
+| 🔥 Deloitte | Software Engineer | Hermitage, Nashville, TN |  | No sponsorship, US work auth | \$33–\$69/hr | 2026-11-24 | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512) |
+| 🔥 Dell Technologies | Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement | Hopkinton, MA |  |  | \$44–\$57/hr | 2026-11-24 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999) |
+| SAIC | Computer Programmer Level 1 | Oklahoma City, OK |  |  |  | 2026-11-24 | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619464) |
+| 🔥 Amazon | Front-End Engineer | Seattle, WA |  |  | \$59/hr | 2026-11-24 | [Apply](https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us) |
+| 🔥 Eide Bailly | AI Engineer | Remote in USA |  | No sponsorship, US work auth | \$43–\$60/hr | 2026-11-24 | [Apply](https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us) |
+| 🔥 Eide Bailly | AI Engineer | Remote in USA |  | No sponsorship, US work auth | \$43–\$60/hr | 2026-11-24 | [Apply](https://careers.eidebailly.com/jobs/10092?icims=1&lang=en-us) |
+| 🔥 Rubrik | Software Engineer - Data Protection | Palo Alto, CA |  |  | \$63–\$95/hr | 2026-11-24 | [Apply](https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058) |
 | JP Morgan Chase | Software Engineer 1 - Multiple Teams | Newark, DE |  |  |  | 2026-11-24 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021) |
 | Howmet Aerospace | AI Engineer | Pittsburgh, PA |  | No sponsorship, US work auth | \$18–\$21/hr | 2026-11-24 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703) |
 | Dakota Kitchen & Bath | Visual Basic Developer & Systems Support Specialist | Sioux Falls, SD |  |  |  | 2026-11-24 | [Apply](https://dakotakitchen.bamboohr.com/careers/215/) |
@@ -19,12 +27,11 @@ Software engineering new-grad and entry-level roles in the United States.
 | 🔥 Serko | Software Engineer 1 | Seattle, WA |  |  | \$43–\$53/hr | 2026-11-24 | [Apply](https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply) |
 | 🔥 Microsoft | Software Engineer-Securing AI | Redmond, WA |  |  | \$41–\$88/hr | 2026-11-23 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557073425) |
 | 🔥 X Development | AI/ML Engineer & Applied Researcher - Early Stage Projects | Mountain View, CA |  |  | \$71–\$106/hr | 2026-11-23 | [Apply](https://x.company/careers/8959513002?gh_jid=8959513002) |
+| 🔥 Beyond New Horizons | ID&C Software Engineer | Tullahoma, TN |  | US clearance, US citizenship, No sponsorship | \$37–\$61/hr | 2026-11-23 | [Apply](https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false) |
 | Peraton | Software Engineering - Ignite Innovator Pgm | Blacksburg, VA |  | US clearance, US citizenship, No sponsorship | \$25–\$39/hr | 2026-11-23 | [Apply](https://careers-peraton.icims.com/jobs/177377/job?mobile=true&needsRedirect=false) |
 | GHD | Graduate Developer | Farmington Hills, MI, King of Prussia, PA (+6) |  |  |  | 2026-11-23 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29509) |
 | 🔥 Wyetech | Software Engineer Level 1 | Hanover, MD |  | US clearance, US citizenship, No sponsorship | \$57.90–\$83.90/hr | 2026-11-23 | [Apply](https://wyetech.applytojob.com/apply/Erj5wQF10w/Software-Engineer-Level-1) |
 | 🔥 Wyetech | Computer Network Operations Analyst/Programmer 1 | Hanover, MD |  | US clearance, US citizenship, No sponsorship | \$68.35–\$98.09/hr | 2026-11-23 | [Apply](https://wyetech.applytojob.com/apply/I6yESx7fUy/CNO-AnalystProgrammer-1) |
-| Sorenson | Software Engineer | Salt Lake City, UT |  | No sponsorship, US work auth |  | 2026-11-23 | [Apply](https://recruiting2.ultipro.com/sor1001sore/JobBoard/1fe5e40e-4e0c-4b11-86e3-9a8e1f396263/OpportunityDetail?opportunityId=06b49418-36cf-4c00-9ff1-e3e181278d25) |
-| Koddi | Associate Software Engineer | Fort Worth, TX |  |  |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/koddi/jobs/8944769002) |
 | AbbVie | AI Engineer | North Chicago, IL |  |  | \$28–\$50/hr | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017034256) |
 | Wyetech | Software Engineer Level 0 - Full Stack Development | Annapolis Junction, MD |  | US clearance, US citizenship, No sponsorship | \$35.97–\$48.71/hr | 2026-11-23 | [Apply](https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer) |
 | 🔥 L3Harris Technologies | Associate – Software Engineering | Yorba Linda, CA |  | US clearance | \$36–\$68/hr | 2026-11-23 | [Apply](https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineering-CA-92887/1452910400/?ats=successfactors) |
@@ -35,7 +42,6 @@ Software engineering new-grad and entry-level roles in the United States.
 | Merchants Insurance Group | Junior SQL Developer | Buffalo, NY |  |  | \$26–\$39/hr | 2026-11-20 | [Apply](https://recruiting.ultipro.com/mer1018mmic/JobBoard/1b36f9bd-51dd-d343-e324-b2b56c792814/OpportunityDetail?opportunityId=47ed54ca-64f0-4dd1-8ffd-c275f0cf58db) |
 | Phoenix Defense | Software Engineer 1 | United States |  | US clearance, US citizenship, No sponsorship |  | 2026-11-20 | [Apply](https://recruiting2.ultipro.com/pho1004phox/JobBoard/acd90700-5979-43ba-b9f1-2d34847188e0/OpportunityDetail?opportunityId=887af972-6506-40d8-a121-db264168ce36) |
 | Miami HEAT | Front-End Web Developer | Miami, FL |  |  |  | 2026-11-20 | [Apply](https://recruiting.ultipro.com/mia1004mhlp/JobBoard/b34868a3-6ce1-4a28-b8fb-afb1cd5be9d3/OpportunityDetail?opportunityId=8e02edd4-aa49-4769-87af-48efdcbc9984) |
-| NRG Energy | AI-Enabled Developer Analyst 1 | Houston, TX |  |  |  | 2026-11-20 | [Apply](https://careers.nrgenergy.com/nrg/job/Houston-Developer-Analyst-I-TX-77010/1452758500/?ats=successfactors) |
 | 🔥 Milliman | AI Product Engineer | Brookfield, WI, Remote in USA |  | No sponsorship, US work auth | \$41–\$85/hr | 2026-11-20 | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=caa572e4-f514-48c0-80c6-620b7465a91e) |
 | Wellabe | Software Engineer 1/2/3 | Des Moines, IA |  |  |  | 2026-11-20 | [Apply](https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7) |
 | Applied Research Associates | Junior Software Developer | Albuquerque, NM |  | US clearance, US citizenship, No sponsorship |  | 2026-11-20 | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca) |
@@ -51,6 +57,7 @@ Software engineering new-grad and entry-level roles in the United States.
 | Garmin | Software Engineer 1 | Salem, OR |  |  |  | 2026-11-20 | [Apply](https://careers.garmin.com/jobs/21486?icims=1&lang=en-us) |
 | Vertex Service Partners | Junior AI Engineer | Charlotte, NC |  |  |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009) |
 | 🔥 STR | Software Engineer | Arlington County, Arlington, VA |  | US clearance, US citizenship, No sponsorship | \$53–\$67/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4727237006) |
+| 🔥 Zscaler | Software Development Engineer | Santa Clara, CA |  |  | \$49–\$70/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5283494007) |
 | Further | Analytics Developer New Grad | Cleveland, OH |  | No sponsorship | \$31–\$33/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002) |
 | Further | Entry-Level AI/Data Engineer | Cleveland, OH |  | No sponsorship | \$31–\$33/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002) |
 | Further | Entry Level Developer New Grad | Dallas, TX |  | No sponsorship | \$33–\$34/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002) |
@@ -201,7 +208,6 @@ Software engineering new-grad and entry-level roles in the United States.
 | 🔥 Lawrence Livermore National Laboratory (LLNL) | Super Intelligence Platform Integration Engineer | Livermore, CA |  | US clearance, US citizenship, No sponsorship | \$59–\$89/hr | 2026-11-06 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016713536) |
 | ASM International | Software Engineer – Early Career | Phoenix, AZ |  |  |  | 2026-11-06 | [Apply](https://www.asm.com/open-vacancies/?gh_jid=5019821101) |
 | 🔥 Chewy | Software Engineer 1 - Full Stack - Promotions | Boston, MA |  |  | \$47–\$77/hr | 2026-11-05 | [Apply](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442) |
-| Nightwing Intelligence Solutions | Software Developer 1 - System Security | Huntsville, AL |  | US clearance, US citizenship, No sponsorship |  | 2026-11-05 | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/AL600--600-Boulevard-South-Ste-301-Huntsville-AL-35802/Software-Developer-I--System-Security-_JR102225) |
 | Connecticut State Community College | Web Developer | Hartford, CT |  | No sponsorship, US work auth | \$37.74/hr | 2026-11-05 | [Apply](https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer) |
 | 🔥 Amazon | Software Development Engineer – Early Career | Redmond, WA |  | US citizenship, No sponsorship | \$62/hr | 2026-11-05 | [Apply](https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us) |
 | 🔥 Amazon | Software Development Engineer – Early Career - Embedded Systems | Redmond, WA, Northridge, LA |  | US citizenship, No sponsorship | \$62–\$67/hr | 2026-11-05 | [Apply](https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us) |
@@ -213,8 +219,6 @@ Software engineering new-grad and entry-level roles in the United States.
 | 🔥 Amazon | Software Developer Engineer 1 - Security Platform | Seattle, WA, Irvine, CA |  |  | \$53–\$89/hr | 2026-11-04 | [Apply](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) |
 | 🔥 Twitch | Software Development Engineer 1 - Security Platform | Seattle, WA, Irvine, CA |  |  | \$53–\$89/hr | 2026-11-04 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931345002) |
 | 🔥 Twitch | Software Development Engineer 1 - Security Platform | Seattle, WA |  |  | \$53–\$89/hr | 2026-11-04 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931343002) |
-| Empower Pharmacy | Associate Software Engineer - Full Stack | Houston, TX |  |  |  | 2026-11-04 | [Apply](https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009) |
-| Hardin Design | Entry Level Web Developer | Madison, WI |  | No sponsorship | \$26–\$34/hr | 2026-11-04 | [Apply](https://jobs.smartrecruiters.com/HardinDesign/744000159682070) |
 | 🔥 Keysight Technologies | R&D Software Engineer - Sampling Oscilloscope Applications - DevOps | Santa Rosa, CA |  | No sponsorship | \$61–\$100/hr | 2026-11-04 | [Apply](https://jobs.keysight.com/jobs/55298?icims=1) |
 | CAE | Visualization Engineer | Arlington, TX |  | US clearance, US citizenship, No sponsorship |  | 2026-11-03 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Visualization-Engineer_124526) |
 | 🔥 Draper | Software Engineer 1 | Cambridge, MA |  | US clearance | \$40–\$106/hr | 2026-11-03 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Flight-Engr_JR003108) |
@@ -360,7 +364,6 @@ Software engineering new-grad and entry-level roles in the United States.
 | 🔥 Apple | OS Software Engineer - Evaluation | Cupertino, CA |  |  | \$62–\$108/hr | 2026-10-12 | [Apply](https://jobs.apple.com/en-us/details/200688625) |
 | KLA | Software Engineer 1 | Ann Arbor, MI |  |  | \$32–\$48/hr | 2026-10-12 | [Apply](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057) |
 | 🔥 Thales | Graduate AI Engineer | Orlando, FL |  | No sponsorship, US work auth | \$42–\$69/hr | 2026-10-12 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) |
-| 🔥 Visa | Software Engineer | Austin, TX |  |  | \$42–\$65/hr | 2026-10-12 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF089187W) |
 | Datacor | Software Engineer | Remote in USA |  |  | \$31–\$50/hr | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5257433007) |
 | Brillio | Full Stack AI Engineer | Coppell, TX |  |  | \$36–\$43/hr | 2026-10-12 | [Apply](https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2/apply) |
 | 🔥 Vigil Labs | Founding Software Engineer | Palo Alto, CA |  | Sponsors | \$87–\$120/hr | 2026-10-09 | [Apply](https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f) |
@@ -442,5 +445,3 @@ Software engineering new-grad and entry-level roles in the United States.
 | M&T Bank | Management Development Program New Grad - IS Forward Deployed Product Analyst | Wilmington, DE |  |  | \$29.57–\$43.99/hr | 2026-09-27 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst--Wilmington--DE-_R89997) |
 | 🔥 RTX | Research Software Engineer 1 | Cambridge, MA |  | US clearance, US citizenship, No sponsorship | \$28–\$52/hr | 2026-09-27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338) |
 | 🔥 Visa | Software Engineer | Austin, TX |  |  | \$42–\$65/hr | 2026-09-27 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W) |
-| 🔥 Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA, Remote in Canada |  |  | \$47–\$69/hr | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) |
-| 🔥 CoreWeave | Software Engineer - Inference | Bellevue, WA, Sunnyvale, CA |  |  | \$58–\$77/hr | 2026-09-25 | [Apply](https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006) |
