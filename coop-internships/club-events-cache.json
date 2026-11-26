@@ -4,7 +4,7 @@
   "events": []
  },
  "uwcsclub": {
-  "checked": 1795637353,
+  "checked": 1795661234,
   "events": [
    {
     "deadline_at": "",
@@ -23,7 +23,7 @@
   ]
  },
  "uwdsc": {
-  "checked": 1795637349,
+  "checked": 1795661229,
   "events": [
    {
     "deadline_at": "",
@@ -43,46 +43,31 @@
   ]
  },
  "uwengsoc": {
-  "checked": 1795637357,
+  "checked": 1795661237,
   "events": []
  },
  "uwfintech": {
-  "checked": 1795637364,
+  "checked": 1795661245,
   "events": []
  },
  "uwieee": {
-  "checked": 1795637371,
+  "checked": 1795661252,
   "events": []
  },
  "uwpm": {
-  "checked": 1795637374,
+  "checked": 1795661255,
   "events": []
  },
  "uwstartups": {
-  "checked": 1795637368,
+  "checked": 1795661248,
   "events": []
  },
  "uwuxwaterloo": {
-  "checked": 1795637382,
-  "events": [
-   {
-    "deadline_at": "",
-    "deadline_kind": "",
-    "ends_at": "2026-11-29T01:30:00.000Z",
-    "location": "Science Teaching Complex (STC), Waterloo, ON",
-    "name": "Rekindle Designathon",
-    "organizer": "UW/UX",
-    "source": "club-luma",
-    "starts_at": "2026-11-28T14:00:00+00:00",
-    "status": "Open",
-    "tier": "uw",
-    "url": "https://luma.com/tltktpl2",
-    "when": "2026-11-28"
-   }
-  ]
+  "checked": 1795661262,
+  "events": []
  },
  "uwwie": {
-  "checked": 1795637379,
+  "checked": 1795661259,
   "events": []
  }
 }

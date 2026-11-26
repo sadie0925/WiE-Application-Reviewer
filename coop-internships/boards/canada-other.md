@@ -2,7 +2,7 @@
 
 Other co-ops and internships in Canada (not software).
 
-**36 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 15:09 ET
+**35 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 21:47 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -45,4 +45,3 @@ Other co-ops and internships in Canada (not software).
 | Qualcomm | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA\$26–CA\$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) |
 | Ciena | Hardware Characterization Automation Co-op | Ottawa, ON, Canada | Winter/Spring 2027 |  | CA\$25.50–CA\$35/hr | 2026-10-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014) |
 | Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) |
-| Trimble | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada |  |  |  | 2026-10-26 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) |

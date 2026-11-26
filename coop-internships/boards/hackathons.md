@@ -2,7 +2,7 @@
 
 Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline** is when applications close (blank if the organizer hasn't posted one). Events are removed once applications close or the event starts.
 
-**25 upcoming** · 2 Waterloo · 23 other Canada/US · Updated 2026-11-25 15:09 ET
+**23 upcoming** · 1 Waterloo · 22 other Canada/US · Updated 2026-11-25 21:47 ET
 
 [All boards](../README.md)
 
@@ -10,7 +10,6 @@ Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline*
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
-| Rekindle Designathon | Science Teaching Complex (STC), Waterloo, ON | 2026-11-28 |  | [Open](https://luma.com/tltktpl2) |
 | CXC - Waterloo's Largest AI Hackathon | University of Waterloo | February 2027 |  | [Open](https://cxc.uwdatascience.ca) |
 
 ## Other Canada and US hackathons
@@ -19,7 +18,7 @@ Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline*
 | ----- | ----- | ---- | -------- | ---- |
 | K-DUB Hacks | Spur Innovation Center - SPUR Campus, Waterloo, ON | 2026-11-27 |  | [Open](https://luma.com/z74d7lgs) |
 | LooHacks | Waterloo | 2026-11-27 |  | [Open](https://www.hackathonradar.com/database/hackathon/loohacks-2026) |
-| DMA Envision: Marketing & AI Hackathon | McMaster University, Hamilton, ON | 2026-11-28 |  | [Open](https://luma.com/9hezg32g) |
+| Workday Internal Hackathon | Pleasanton, CA | 2026-11-30 |  | [Open](https://connect.events.workday.com/aiaf) |
 | Hack Cats | Manhattan, Kansas | 2026-12-04 |  | [Open](https://hackkstate.tech/) |
 | Hack Canada 2027 | Toronto, Ontario | 2027-01-08 |  | [Open](https://hackcanada.org) |
 | SheHacks+ 11 | London, Ontario | 2027-01-08 |  | [Open](https://www.shehacks.ca/) |
@@ -39,4 +38,3 @@ Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline*
 | Hack_NCState | Raleigh, North Carolina | 2027-02-06 |  | [Open](https://hackncstate.org/) |
 | InnovateHer | West Lafayette, Indiana | 2027-02-13 |  | [Open](https://innovateherhacks.org/) |
 | MakeUofT | Toronto, Ontario | 2027-02-13 |  | [Open](http://makeuoft.ca/) |
-| SF Hacks | San Francisco, CA | 2027-02-19 |  | [Open](https://sfhacks.io) |

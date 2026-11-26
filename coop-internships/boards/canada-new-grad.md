@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in Canada.
 
-**50 open** · newest first · removed when closed or after 60 days · Updated 2026-11-25 15:09 ET
+**51 open** · newest first · removed when closed or after 60 days · Updated 2026-11-25 21:47 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,8 @@ Software engineering new-grad and entry-level roles in Canada.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| WELLSTAR Technologies | Junior Software Developer | Remote in Canada |  |  | CA\$34–CA\$38/hr | 2026-11-25 | [Apply](https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer) |
+| WELLSTAR Technologies | Junior Software Developer | Remote in Canada |  |  | CA\$34–CA\$38/hr | 2026-11-25 | [Apply](https://wellhealthtechnologiescorp.applytojob.com/apply/5kq5CE1n76/Junior-Software-Developer) |
 | Prolucid Technologies | Junior Software Engineer | Mississauga, ON, Canada |  | Canada work auth | CA\$36–CA\$46/hr | 2026-11-24 | [Apply](https://apply.workable.com/prolucid-technologies/j/DBA98070BB/apply) |
 | ServiceRocket | Associate Service Delivery Engineer | Toronto, ON, Canada |  |  |  | 2026-11-24 | [Apply](https://jobs.lever.co/servicerocket/2a00daa6-486e-4d14-8b90-5f78d5645fd8/apply) |
 | Syntronic | RF Test Developer | Gatineau, QC, Canada |  |  |  | 2026-11-24 | [Apply](https://jobs.lever.co/syntronic/3dc9b782-0ba9-4e59-a9ac-9567c81794b0/apply) |
@@ -24,7 +26,6 @@ Software engineering new-grad and entry-level roles in Canada.
 | Arcadion | Junior AI Developer | Ottawa, ON, Canada |  |  |  | 2026-11-18 | [Apply](https://arcadion.bamboohr.com/careers/52/) |
 | Sony Pictures Imageworks | Associate Software Developer - Infrastructure | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207497003) |
 | Sony Pictures Imageworks | Associate Software Engineer | Vancouver, BC, Canada |  |  | CA\$32–CA\$43/hr | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207482003) |
-| Gentec | Junior Software Designer | Québec City, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://gentec.bamboohr.com/careers/31/) |
 | Flexspring | AI Model Training and Deployment Developer New Grad | Montreal, QC, Canada |  |  |  | 2026-11-17 | [Apply](https://flexspring.bamboohr.com/careers/71/) |
 | Senstar | Machine Learning Developer | Waterloo, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://senstar.bamboohr.com/careers/183/) |
 | 🔥 Affirm | Software Engineer 1 - Backend - Continuous Delivery | Remote in Canada |  |  | CA\$49–CA\$73/hr | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181185003) |

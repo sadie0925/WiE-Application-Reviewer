@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**257 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 15:09 ET
+**258 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 21:47 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,7 +10,20 @@ Other co-ops and internships in the United States (not software).
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Total Quality Logistics | Product Management Intern | Cincinnati, OH | Summer 2027 | No sponsorship | \$17/hr | 2026-11-25 | [Apply](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19765) |
+| OpenSesame | Product Intern | Remote in USA | Summer 2027 |  | \$20/hr | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418204) |
+| QuEra Computing | Technical Product Management Intern | Boston, MA |  |  |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) |
+| Acuity | Engineering Intern - Labs | Decatur, GA | Summer 2026 |  |  | 2026-11-25 | [Apply](https://careers.acuityinc.com/job/Decatur-Engineering-Intern-Labs-GA-30035/1453809400/?ats=successfactors) |
+| Texas Instruments | Web Marketing Intern - Digital Experience Analytics | Dallas, TX |  |  |  | 2026-11-25 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507) |
+| Docusign | Product Manager Intern | Seattle, WA |  | No sponsorship, US work auth | \$38–\$44/hr | 2026-11-25 | [Apply](https://careers.docusign.com/jobs/32541?icims=1&lang=en-us) |
+| SambaNova Systems | DFT Engineer Intern | Austin, TX, San Jose, CA | Summer 2027 |  |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004) |
+| SambaNova Systems | Physical Design Engineer Intern | Austin, TX, San Jose, CA | Summer 2027 |  |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004) |
+| SambaNova Systems | RTL Design Engineer Intern | Austin, TX, San Jose, CA | Summer 2026 |  |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271328004) |
+| SambaNova Systems | Design Verification Engineer Intern | Austin, TX, San Jose, CA | Summer 2026 |  |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271308004) |
+| SambaNova Systems | Post-Silicon Validation Engineer Intern | Austin, TX, San Jose, CA | Summer 2027 |  |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004) |
+| 🔥 Docusign | Product Manager Intern - Abuse Protection | Seattle, WA |  | No sponsorship, US work auth | \$48–\$59/hr | 2026-11-25 | [Apply](https://careers.docusign.com/jobs/32212?icims=1&lang=en-us) |
 | Ralliant | Hardware Engineering Co-op | Solon, OH | Winter/Spring 2026 |  |  | 2026-11-24 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451) |
+| Ancestry | Product Manager Co-op - DNA to Family History - Bridges | Remote in USA |  |  |  | 2026-11-24 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Product-Manager-Co-op---DNA-to-Family-History--Bridges-_R003505) |
 | Nikkiso | Product Management Intern | Huntington Beach, CA |  |  | \$22/hr | 2026-11-24 | [Apply](https://careers-nikkiso.icims.com/jobs/4528/job?mobile=true&needsRedirect=false) |
 | 🔥 Meta | Battery Engineer Intern - Battery Systems Engineering | Sunnyvale, CA |  |  | \$39–\$69/hr | 2026-11-24 | [Apply](https://www.metacareers.com/jobs/1165674205921515) |
 | Reach Labs | Hardware Prototyping Intern | Redwood City, CA |  |  | \$20/hr | 2026-11-24 | [Apply](https://jobs.lever.co/reachpower/01124bcd-9d13-498d-85ef-4a0fb2389168/apply) |
@@ -73,7 +86,6 @@ Other co-ops and internships in the United States (not software).
 | Acuity | Electrical Engineer Intern | Decatur, GA | Summer 2026 | US work auth, Sponsors |  | 2026-11-18 | [Apply](https://careers.acuityinc.com/job/Decatur-Intern-Electrical-Engineer-GA-30035/1451786900/?ats=successfactors) |
 | PsiQuantum | Quantum Architecture Intern | Palo Alto, CA |  |  | \$27.50–\$47/hr | 2026-11-18 | [Apply](https://www.psiquantum.com/apply?gh_jid=6536805003) |
 | Pyrotek | Product Management Intern | Spokane, WA | Summer 2027 |  | \$22/hr | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000162385949) |
-| Ecliptic Enterprises | Engineering Intern | San Luis Obispo, CA |  | US citizenship, No sponsorship |  | 2026-11-17 | [Apply](https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply) |
 | Blount Fine Foods | Manufacturing Operations Analytics Intern | Fall River, MA |  |  | \$19–\$20/hr | 2026-11-17 | [Apply](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
 | BGE | Business Analyst Intern - GIS | Oakbrook Terrace, IL | Summer 2026 |  | \$20–\$31/hr | 2026-11-17 | [Apply](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |
 | Lightmatter | Product & Test Engineering Intern | Mountain View, CA | Summer 2027 | US work auth | \$40–\$45/hr | 2026-11-17 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474690008) |
@@ -160,7 +172,6 @@ Other co-ops and internships in the United States (not software).
 | Lutron Electronics | Electronics Technician Work Study Intern | Austin, TX |  | No sponsorship, US work auth |  | 2026-11-09 | [Apply](https://careers.lutron.com/jobs/5648?icims=1&lang=en-us) |
 | Badger Meter | Product Management Intern | Milwaukee, WI | Summer 2027 |  |  | 2026-11-08 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) |
 | Constellation Brands | IT Intern - Marketing Technology Product Management | Rochester, NY, Chicago, IL |  |  | \$19–\$32/hr | 2026-11-08 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678) |
-| General Dynamics Mission Systems | FPGA Engineer Intern | Scottsdale, AZ |  | US clearance, US citizenship, No sponsorship |  | 2026-11-08 | [Apply](https://careers-gdms.icims.com/jobs/78722/job?mobile=true&needsRedirect=false) |
 | Hewlett Packard Enterprise | Wireless Hardware Engineer Intern | San Jose, CA |  |  | \$35–\$41/hr | 2026-11-08 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) |
 | KLA Corporation | Electrical Engineering Intern | Milpitas, CA |  |  | \$35–\$47/hr | 2026-11-08 | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Electrical-Engineering-Intern_2641972-1) |
 | KLA Corporation | Electrical Engineering Intern | Milpitas, CA |  |  | \$35–\$47/hr | 2026-11-08 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Electrical-Engineering-Intern_2641972) |
@@ -257,13 +268,3 @@ Other co-ops and internships in the United States (not software).
 | Keysight Technologies | Electrical Engineering Intern - R&D Design Validation - Test Automation | Budd Lake, Mt Olive, NJ |  |  |  | 2026-10-27 | [Apply](https://jobs.keysight.com/jobs/55190?icims=1) |
 | Keysight Technologies | Quantum R&D Engineer Intern | Cambridge, MA |  |  | \$30.34–\$32.68/hr | 2026-10-27 | [Apply](https://jobs.keysight.com/jobs/55183?icims=1) |
 | Mayo Clinic | Graduate Engineer Intern - Electronics | Rochester, MN | Fall 2027, Summer 2027 |  | \$33.94/hr | 2026-10-27 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) |
-| AeroVironment | Test Engineer Intern - Space Technologies | Albuquerque, NM | Summer 2026 | US citizenship, US person, No sponsorship |  | 2026-10-26 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) |
-| Boston Dynamics | Electrical Engineer Co-op | Waltham, MA |  | No sponsorship, US work auth | \$30–\$35/hr | 2026-10-26 | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315) |
-| Dover | Product Management Intern | Keosauqua, IA |  |  |  | 2026-10-26 | [Apply](https://dover.wd103.myworkdayjobs.com/Dover/job/Keosauqua-Iowa-USA/Product-Management-Intern_JR102326) |
-| 🔥 Micron Technology | CMBU Product Management Intern | San Jose, CA |  |  | \$55.82/hr | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) |
-| Micron Technology | NAND Storage Strategic Roadmap Planning Intern | Boise, ID |  | US work auth |  | 2026-10-26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) |
-| Oregon State University | Technical Student Assistant Intern - OPEnS Lab | Corvallis, OR | Fall 2026 | US citizenship |  | 2026-10-26 | [Apply](https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Technical-Student-Assistant---OPEnS-Lab_JR0001736) |
-| RTX | Systems Engineering Co-op | St. Petersburg, FL |  | US clearance, US citizenship, No sponsorship | \$18–\$39/hr | 2026-10-26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435) |
-| Emerson Electric | Sales and Operations Planning Intern | Austin, TX |  | No sponsorship, US work auth |  | 2026-10-26 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010170) |
-| 🔥 Meta | Battery Engineering Intern | Sunnyvale, CA |  |  | \$42–\$73/hr | 2026-10-26 | [Apply](https://www.metacareers.com/jobs/938682979075854) |
-| Texas Instruments | Analog Design Engineer Intern | Santa Clara, CA |  |  |  | 2026-10-26 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682) |
