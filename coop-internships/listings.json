@@ -3040,85 +3040,6 @@
     ]
   },
   {
-    "id": "ccee3e39-6a88-4c3c-b913-c7af244fc90c",
-    "company_name": "Johns Hopkins Applied Physics Laboratory",
-    "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
-    "title": "Artificial Intelligence and Complex Systems Intern",
-    "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795552140,
-    "date_updated": 1795563572,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$22.60–$47.95/hr",
-    "detail_auth": [
-      "US work auth",
-      "US citizenship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Research",
-      "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "5c4ff4e4-2ba8-4244-9b38-08135d57623f",
-    "company_name": "Johns Hopkins Applied Physics Laboratory",
-    "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
-    "title": "Robotics Intern",
-    "url": "https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795552080,
-    "date_updated": 1795563568,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$22.60–$47.95/hr",
-    "detail_auth": [
-      "US citizenship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Robotics & Autonomous Systems",
-      "AI & Machine Learning"
-    ]
-  },
-  {
     "id": "23a7d465-f7ca-4589-9a09-1a20194f2d12",
     "company_name": "PatientPoint",
     "company_url": "https://simplify.jobs/c/PatientPoint",
@@ -5483,6 +5404,45 @@
     "functions": [
       "Full-Stack Engineering",
       "Software Engineering"
+    ]
+  },
+  {
+    "id": "043e1238-ba2a-410a-8bcb-baa0657e8cf4",
+    "company_name": "Zebra Technologies",
+    "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+    "title": "Product Management Intern",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660",
+    "locations": [
+      "Lincolnshire, IL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795392000,
+    "date_updated": 1795704488,
+    "category": "Product",
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "$29–$34/hr",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "Product Management",
+      "Product"
     ]
   },
   {
@@ -47059,110 +47019,6 @@
     ]
   },
   {
-    "id": "515bc7ee-5cb6-4df0-904a-19e675ac3476",
-    "company_name": "SageSure",
-    "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
-    "title": "Data Science Product Analyst Intern",
-    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006",
-    "locations": [
-      "Fairfield, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793132246,
-    "date_updated": 1793349547,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "87acb85e-cd09-4d20-a939-f2a1a598ba32",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "Electrical Engineering Intern - R&D Design Validation - Test Automation",
-    "url": "https://jobs.keysight.com/jobs/55190?icims=1",
-    "locations": [
-      "Budd Lake, Mt Olive, NJ"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793131200,
-    "date_updated": 1793139843,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering"
-    ]
-  },
-  {
-    "id": "0cfe16e4-2974-4718-96e1-30a03de9940e",
-    "company_name": "Hive Financial Systems",
-    "company_url": "https://simplify.jobs/c/Hive-Financial-Systems",
-    "title": "Analytics Intern",
-    "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793129285,
-    "date_updated": 1793139716,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics",
-      "Business Intelligence"
-    ]
-  },
-  {
     "id": "2ca476b1-e283-4e45-8f5d-12dcfa6b20e8",
     "company_name": "SambaNova Systems",
     "company_url": "https://simplify.jobs/c/SambaNova-Systems",
@@ -47262,325 +47118,6 @@
     "functions": [
       "Software Engineering",
       "Systems Software Engineering"
-    ]
-  },
-  {
-    "id": "93650f16-42f9-4c04-94ac-bfc94bfa23da",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "Quantum R&D Engineer Intern",
-    "url": "https://jobs.keysight.com/jobs/55183?icims=1",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793127000,
-    "date_updated": 1793139843,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "$30.34–$32.68/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering"
-    ]
-  },
-  {
-    "id": "16cc4f32-9167-49ad-8133-830054443080",
-    "company_name": "Nasdaq",
-    "company_url": "https://simplify.jobs/c/Nasdaq",
-    "title": "Back End Software Developer Co-op Intern",
-    "url": "https://job-boards.greenhouse.io/nasdaq/jobs/4453620009",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793124223,
-    "date_updated": 1794467896,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "1e8a3975-ed86-4ea2-ac8a-6cb86af700b5",
-    "company_name": "Keysight Technologies",
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "title": "Application Development Intern",
-    "url": "https://jobs.keysight.com/jobs/55157?icims=1",
-    "locations": [
-      "Santa Rosa, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793122980,
-    "date_updated": 1793139843,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$32.03–$34.49/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Full-Stack Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "a52db0c1-d350-4198-a39f-785d617afe4e",
-    "company_name": "Atoms",
-    "company_url": "https://simplify.jobs/c/Atoms",
-    "title": "AI Research Intern",
-    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8919606002",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793118793,
-    "date_updated": 1793139492,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$70/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Research",
-      "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "0c313974-08f1-4243-ba93-7f56899641c0",
-    "company_name": "Atoms",
-    "company_url": "https://simplify.jobs/c/Atoms",
-    "title": "AI Research Intern",
-    "url": "https://job-boards.greenhouse.io/atoms/jobs/8919596002",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793118791,
-    "date_updated": 1793138943,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$70/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Research",
-      "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "018f57c0-2519-4072-80fe-679c055ee4d6",
-    "company_name": "EQT Corporation",
-    "company_url": "https://simplify.jobs/c/EQT-Corporation",
-    "title": "AI Intern",
-    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008",
-    "locations": [
-      "Remote in USA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793110276,
-    "date_updated": 1793111041,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI & Machine Learning",
-      "Natural Language Processing & LLMs"
-    ]
-  },
-  {
-    "id": "aac5d00d-dcfd-4a76-86c2-2a47a7ced9dc",
-    "company_name": "Mayo Clinic",
-    "company_url": "https://simplify.jobs/c/Mayo-Clinic",
-    "title": "Graduate Engineer Intern - Electronics",
-    "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029",
-    "locations": [
-      "Rochester, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793110021,
-    "date_updated": 1793110352,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027",
-      "Fall 2027"
-    ],
-    "program": "other",
-    "detail_pay": "$33.94/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027",
-      "Fall 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Engineering",
-      "Board & Electronics Design"
-    ]
-  },
-  {
-    "id": "51056e1e-d945-4e0d-a103-a44b919853a3",
-    "company_name": "Mayo Clinic",
-    "company_url": "https://simplify.jobs/c/Mayo-Clinic",
-    "title": "Graduate Engineer Intern - Software Development",
-    "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190",
-    "locations": [
-      "Rochester, MN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793110020,
-    "date_updated": 1793110347,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027",
-      "Fall 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$33.94/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027",
-      "Fall 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "9ec1752c-1474-4db2-b945-15fdc3102303",
-    "company_name": "Lila Sciences",
-    "company_url": "https://simplify.jobs/c/Lila-Sciences",
-    "title": "Robot Perception & State Estimation Co-op",
-    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4467398009",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793108078,
-    "date_updated": 1793111618,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Spring 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Robotics & Autonomous Systems",
-      "AI & Machine Learning"
     ]
   },
   {

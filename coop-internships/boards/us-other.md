@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**258 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 06:33 ET
+**256 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 15:30 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -39,6 +39,7 @@ Other co-ops and internships in the United States (not software).
 | Illumio | Product Management Intern - Solution Economics | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$37/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true) |
 | Illumio | Product Manager Intern | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$47/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true) |
 | Illumio | Technical Product Management Intern | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$37/hr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true) |
+| Zebra Technologies | Product Management Intern | Lincolnshire, IL | Summer 2027 | No sponsorship, US work auth | \$29–\$34/hr | 2026-11-22 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660) |
 | 🔥 Neros Technologies | Electrical Engineer Intern | Torrance, CA | Summer 2027 |  | \$55/hr | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) |
 | Etched | Signal Integrity and Power Integrity Intern | San Jose, CA | Summer 2027 |  |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true) |
 | Fidelity Bank | Digital Operations Analyst Intern | Wichita, KS |  |  |  | 2026-11-20 | [Apply](https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0) |
@@ -265,6 +266,3 @@ Other co-ops and internships in the United States (not software).
 | Draper | Analog ASIC Design Intern | Cambridge, MA | Summer 2027 | US clearance | \$20–\$45/hr | 2026-10-27 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
 | RTX | Hardware Electrical Engineering Co-op | Cambridge, MA | Winter/Spring 2027 | US clearance, US citizenship, No sponsorship |  | 2026-10-27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598) |
 | Viavi Solutions | Hardware Engineer Co-op Intern | Germantown, MD |  |  | \$19–\$35/hr | 2026-10-27 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_260005108-1) |
-| Keysight Technologies | Electrical Engineering Intern - R&D Design Validation - Test Automation | Budd Lake, Mt Olive, NJ |  |  |  | 2026-10-27 | [Apply](https://jobs.keysight.com/jobs/55190?icims=1) |
-| Keysight Technologies | Quantum R&D Engineer Intern | Cambridge, MA |  |  | \$30.34–\$32.68/hr | 2026-10-27 | [Apply](https://jobs.keysight.com/jobs/55183?icims=1) |
-| Mayo Clinic | Graduate Engineer Intern - Electronics | Rochester, MN | Fall 2027, Summer 2027 |  | \$33.94/hr | 2026-10-27 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) |

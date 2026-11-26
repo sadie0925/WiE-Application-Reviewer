@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**72 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 06:33 ET
+**71 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 15:30 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -81,4 +81,3 @@ Software, data, and AI co-ops and internships in Canada.
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |
 | 🔥 Uber | Software Engineer Intern | Toronto, ON, Canada |  |  | CA\$48.40/hr | 2026-10-27 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) |
 | Lumerate | Data Associate Intern | Canada, Remote in Canada | Winter/Spring 2027 | Canadian citizen/PR | CA\$20/hr | 2026-10-27 | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) |
-| Nasdaq | Back End Software Developer Co-op Intern | Toronto, ON, Canada |  |  |  | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/nasdaq/jobs/4453620009) |

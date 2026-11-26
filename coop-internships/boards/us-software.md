@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**682 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 06:33 ET
+**672 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 15:30 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -52,8 +52,6 @@ Software, data, and AI co-ops and internships in the United States.
 | SambaNova Systems | Runtime Engineer Intern | Austin, TX, San Jose, CA | Summer 2027 |  |  | 2026-11-24 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) |
 | WSP | Geographic Information Systems Science Intern | Denver, CO | Summer 2027 | US work auth | \$22.60–\$29.38/hr | 2026-11-24 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) |
 | 🔥 Amazon | Front-End Engineer Intern | Seattle, WA, Chicago, IL (+1) | Fall 2027, Winter/Spring 2027, Summer 2027 | US work auth | \$50/hr | 2026-11-24 | [Apply](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) |
-| Johns Hopkins Applied Physics Laboratory | Artificial Intelligence and Complex Systems Intern | Laurel, MD | Summer 2027 | US citizenship, No sponsorship | \$22.60–\$47.95/hr | 2026-11-24 | [Apply](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) |
-| Johns Hopkins Applied Physics Laboratory | Robotics Intern | Laurel, MD |  | US citizenship, No sponsorship | \$22.60–\$47.95/hr | 2026-11-24 | [Apply](https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us) |
 | PatientPoint | Data Engineer Intern | Cincinnati, OH | Summer 2026 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) |
 | Medpace | Clinical Intelligence Intern | Cincinnati, OH | Summer 2027 |  |  | 2026-11-24 | [Apply](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) |
 | BEUMER Group | AI Development Intern | Somerset County, NJ |  |  | \$25/hr | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) |
@@ -684,11 +682,3 @@ Software, data, and AI co-ops and internships in the United States.
 | 🔥 Meta | Research Scientist Intern - Neural Representations Compression | Redmond, WA |  |  | \$44–\$73/hr | 2026-10-27 | [Apply](https://www.metacareers.com/jobs/2368433610564528) |
 | Commonwealth Fusion Systems | Plasma Physics Intern | Devens, MA | Summer 2027 | US work auth | \$25–\$38/hr | 2026-10-27 | [Apply](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) |
 | Protagonist | Software Engineer Intern | Washington, DC |  | US clearance, US work auth | \$20/hr | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/protagonist/jobs/6236620004) |
-| SageSure | Data Science Product Analyst Intern | Fairfield, CA |  |  |  | 2026-10-27 | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) |
-| Hive Financial Systems | Analytics Intern | Atlanta, GA | Summer 2027 |  |  | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007) |
-| Keysight Technologies | Application Development Intern | Santa Rosa, CA |  |  | \$32.03–\$34.49/hr | 2026-10-27 | [Apply](https://jobs.keysight.com/jobs/55157?icims=1) |
-| 🔥 Atoms | AI Research Intern | Mountain View, CA |  |  | \$70/hr | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8919606002) |
-| 🔥 Atoms | AI Research Intern | Mountain View, CA |  |  | \$70/hr | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8919596002) |
-| EQT Corporation | AI Intern | Remote in USA |  |  |  | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
-| Mayo Clinic | Graduate Engineer Intern - Software Development | Rochester, MN | Fall 2027, Summer 2027 |  | \$33.94/hr | 2026-10-27 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190) |
-| Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA | Winter/Spring 2027 |  |  | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4467398009) |
