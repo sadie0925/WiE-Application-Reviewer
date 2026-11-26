@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**683 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 21:47 ET
+**682 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 06:33 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -59,6 +59,7 @@ Software, data, and AI co-ops and internships in the United States.
 | BEUMER Group | AI Development Intern | Somerset County, NJ |  |  | \$25/hr | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) |
 | Fervo Energy | GIS Intern | Salt Lake City, UT | Summer 2026 |  |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4512537009) |
 | SharkNinja | Firmware Engineer Intern - Advanced Development | Needham, MA | Summer 2027 |  | \$27–\$34/hr | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
+| Blizzard Entertainment | Tech Art Intern | Irvine, CA | Summer 2027 |  | \$20–\$50/hr | 2026-11-23 | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383) |
 | Charles Schwab | Treasury Modeling Intern | Lone Tree, CO | Summer 2027 |  |  | 2026-11-23 | [Apply](https://career-schwab.icims.com/jobs/126255/job?mobile=true&needsRedirect=false) |
 | First PREMIER Bank | Customer Care Intern | Sioux Falls, SD |  |  |  | 2026-11-23 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/Customer-Care-Intern_R-514-1) |
 | Illumio | Engineering Intern - Architecture Platform | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$37/hr | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
@@ -197,7 +198,6 @@ Software, data, and AI co-ops and internships in the United States.
 | Trener Robotics | Robotics Engineer / Lab Technician Intern | San Jose, CA |  |  |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true) |
 | Western Governors University | Technical Intern | Salt Lake City, UT |  | No sponsorship | \$29.32–\$43.99/hr | 2026-11-19 | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525) |
 | Ford Motor Company | Vehicle Access System Engineering Intern - Advanced EV | Allen Park, MI |  | No sponsorship, US work auth |  | 2026-11-19 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) |
-| Blue Cross Blue Shield of Michigan | Object Oriented Programming Intern | Detroit, MI | Summer 2027 |  |  | 2026-11-19 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) |
 | 🔥 Meta | Research Scientist Intern - AI Agents for Autonomous Laboratories | Redmond, WA |  |  | \$44–\$73/hr | 2026-11-19 | [Apply](https://www.metacareers.com/jobs/29481973694788756) |
 | Vertiv | AI Intern | Westerville, OH, Fort Lauderdale, FL (+1) | Summer 2027 |  |  | 2026-11-19 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) |
 | Vertiv | AI Intern | Westerville, OH, Fort Lauderdale, FL (+1) | Summer 2027 |  |  | 2026-11-19 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621) |
@@ -570,7 +570,6 @@ Software, data, and AI co-ops and internships in the United States.
 | Envoy Air | College Intern - Maintenance Programs | Irving, TX | Summer 2026 | No sponsorship, US work auth | \$22/hr | 2026-11-01 | [Apply](https://us-envoyair.icims.com/jobs/13091/job?mobile=true&needsRedirect=false) |
 | Envoy Air | College Intern - Reliability Technical Services | Irving, TX | Summer 2026 |  | \$22/hr | 2026-11-01 | [Apply](https://us-envoyair.icims.com/jobs/13089/job?mobile=true&needsRedirect=false) |
 | General Dynamics Information Technology | Technical Writer / Data Analytics Analyst Intern | Bossier City, LA | Summer 2026 | US citizenship, No sponsorship | \$18.22–\$24.15/hr | 2026-11-01 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/Intern---Technical-Writer---Data-Analytics-Analyst_RQ231236) |
-| JSX | Commercial Intern | Dallas, TX | Summer 2027 |  | \$16.80–\$19.80/hr | 2026-11-01 | [Apply](https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729) |
 | LabCorp | Agentic AI Developer Co-op | Durham, NC, Burlington, NC | Winter/Spring 2027 | No sponsorship |  | 2026-11-01 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1) |
 | LabCorp | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC, Burlington, NC | Winter/Spring 2027, Summer 2027 | No sponsorship |  | 2026-11-01 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
 | Micron Technology | System Engineer Intern | Boise, ID |  |  |  | 2026-11-01 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469) |

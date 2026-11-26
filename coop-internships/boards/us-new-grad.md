@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in the United States.
 
-**429 open** · newest first · removed when closed or after 60 days · Updated 2026-11-25 21:47 ET
+**431 open** · newest first · removed when closed or after 60 days · Updated 2026-11-26 06:33 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,7 +10,10 @@ Software engineering new-grad and entry-level roles in the United States.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| 🔥 Cisco | Software Engineer | Research Triangle Park, Durham, NC |  |  | \$50–\$71/hr | 2026-11-26 | [Apply](https://careers.cisco.com/global/en/job/2030715) |
 | 🔥 Dell Technologies | Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement | Hopkinton, MA |  |  | \$44–\$57/hr | 2026-11-25 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300003) |
+| 🔥 Scout AI | AI Engineer New Grad - AI/ML and Agent Harnessing | Sunnyvale, CA |  | US clearance, No sponsorship, US work auth | \$65–\$91/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true) |
+| 🔥 Scout AI | Software Engineer New Grad - Core Systems | Sunnyvale, CA |  | US clearance, No sponsorship, US work auth | \$65–\$91/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true) |
 | 🔥 Bluesight | Data Engineer | Remote in USA |  |  | \$53–\$62/hr | 2026-11-25 | [Apply](https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply) |
 | 🔥 XPENG Motors | Software Engineer New Grad - Computing Platform | Santa Clara, CA |  |  | \$60–\$101/hr | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) |
 | 🔥 Vestwell | Associate Software Engineer | King of Prussia, PA, Austin, TX (+1) |  |  | \$46–\$53/hr | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/vestwell/jobs/8209363003) |
@@ -64,7 +67,6 @@ Software engineering new-grad and entry-level roles in the United States.
 | Garmin | Software Engineer 1 | Salem, OR |  |  |  | 2026-11-20 | [Apply](https://careers.garmin.com/jobs/21486?icims=1&lang=en-us) |
 | Vertex Service Partners | Junior AI Engineer | Charlotte, NC |  |  |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009) |
 | 🔥 STR | Software Engineer | Arlington County, Arlington, VA |  | US clearance, US citizenship, No sponsorship | \$53–\$67/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4727237006) |
-| 🔥 Zscaler | Software Development Engineer | Santa Clara, CA |  |  | \$49–\$70/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5283494007) |
 | Further | Analytics Developer New Grad | Cleveland, OH |  | No sponsorship | \$31–\$33/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002) |
 | Further | Entry-Level AI/Data Engineer | Cleveland, OH |  | No sponsorship | \$31–\$33/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002) |
 | Further | Entry Level Developer New Grad | Dallas, TX |  | No sponsorship | \$33–\$34/hr | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002) |
@@ -87,7 +89,6 @@ Software engineering new-grad and entry-level roles in the United States.
 | Red Arch Solutions | Junior Software Engineer | Annapolis Junction, MD |  | US clearance, No sponsorship | \$43–\$50/hr | 2026-11-19 | [Apply](https://redarchsolutions.applytojob.com/apply/SjXMZVX4He/Jr-Software-Engineer) |
 | 🔥 Koch Industries | Software Engineer - AI Agents | Fremont, CA |  |  | \$53–\$58/hr | 2026-11-19 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197657) |
 | 🔥 MetaPhase | Junior Forward Deployed Engineer | Reston, VA |  | US citizenship, No sponsorship | \$41–\$55/hr | 2026-11-19 | [Apply](https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws?nl=1&nl=1&fr=false) |
-| 🔥 Applied Engineering | Electrical Engineer: Embedded Software | West Bend, WI |  | No sponsorship, US work auth | \$40.45–\$59.24/hr | 2026-11-19 | [Apply](https://www.go-applied.com/careers/openings/?gh_jid=4515468009) |
 | 🔥 ViaSat | Associate Software Engineer – Early Career | Carlsbad, CA |  | US work auth | \$46–\$72/hr | 2026-11-19 | [Apply](https://careers.viasat.com/jobs/7077?icims=1&lang=en-us) |
 | 🔥 Intelliforce-IT Solutions Group | Junior Software Engineer - Prime | Annapolis Junction, MD |  | US clearance, US citizenship, No sponsorship | \$49–\$62/hr | 2026-11-19 | [Apply](https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime) |
 | 🔥 Formlabs | Embedded Software Engineer | Boston, MA |  |  | \$53–\$67/hr | 2026-11-19 | [Apply](https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093) |
@@ -415,6 +416,7 @@ Software engineering new-grad and entry-level roles in the United States.
 | 🔥 Resmed | Associate Android Developer | San Diego, CA |  |  | \$43–\$65/hr | 2026-10-04 | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1) |
 | 🔥 RTX | Software Engineer 1 | Tucson, AZ |  | US clearance, US citizenship, No sponsorship | \$30–\$58/hr | 2026-10-04 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432) |
 | Apptronik | Firmware Engineer - Hands | Austin, TX |  |  |  | 2026-10-02 | [Apply](https://boards.greenhouse.io/apptronik/jobs/6216205004) |
+| K1 | AI Engineer | Manhattan Beach, CA |  |  | \$40/hr | 2026-10-02 | [Apply](https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer) |
 | 🔥 Amazon | Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC | Seattle, WA, Jessup, MD (+3) |  | US clearance, US citizenship, No sponsorship | \$62/hr | 2026-10-02 | [Apply](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) |
 | Accuray | Motion Controls & Robotics Software Engineer | Madison, WI |  | No sponsorship, US work auth |  | 2026-10-01 | [Apply](https://accuray.wd5.myworkdayjobs.com/external/job/Madison-WI/Motion-Controls---Robotics-Software-Engineer_3259-1) |
 | 🔥 Pinterest | University Grad Software Engineer | Remote in USA |  | No sponsorship, US work auth | \$62–\$84/hr | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) |

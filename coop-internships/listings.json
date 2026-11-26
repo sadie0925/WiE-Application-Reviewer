@@ -1,5 +1,37 @@
 [
   {
+    "id": "f11a83b2-59da-43ef-9f7c-3b67a7e3411c",
+    "company_name": "Cisco",
+    "company_url": "https://simplify.jobs/c/Cisco",
+    "title": "Software Engineer",
+    "url": "https://careers.cisco.com/global/en/job/2030715",
+    "locations": [
+      "Research Triangle Park, Durham, NC"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795679710,
+    "date_updated": 1795679821,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$50–$71/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "aa031ee1-e663-49f6-9e69-d617595a1032",
     "company_name": "Dell Technologies",
     "company_url": "https://simplify.jobs/c/Dell-Technologies",
@@ -27,6 +59,75 @@
     "detail_desc_terms": "",
     "functions": [
       "AI Application Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "ce4b0306-3a42-44c1-8789-44f4d7ba9f45",
+    "company_name": "Scout AI",
+    "company_url": "https://simplify.jobs/c/Scout-AI",
+    "title": "AI Engineer New Grad - AI/ML and Agent Harnessing",
+    "url": "https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795651200,
+    "date_updated": 1795661857,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$65–$91/hr",
+    "detail_auth": [
+      "US work auth",
+      "US clearance"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Applied Machine Learning",
+      "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "9c007171-49c7-45fe-ae89-8fbe69996d96",
+    "company_name": "Scout AI",
+    "company_url": "https://simplify.jobs/c/Scout-AI",
+    "title": "Software Engineer New Grad - Core Systems",
+    "url": "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795651200,
+    "date_updated": 1795661853,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$65–$91/hr",
+    "detail_auth": [
+      "US work auth",
+      "US clearance"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
       "Software Engineering"
     ]
   },
@@ -3617,6 +3718,45 @@
     ]
   },
   {
+    "id": "18fb7fb1-2e9a-4339-bab0-009982dfb6c8",
+    "company_name": "Blizzard Entertainment",
+    "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+    "title": "Tech Art Intern",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795478400,
+    "date_updated": 1795663815,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "$20–$50/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Game Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "4e617c54-d8d6-419c-8227-7acd67ed01b7",
     "company_name": "Charles Schwab",
     "company_url": "https://simplify.jobs/c/Charles-Schwab",
@@ -6011,42 +6151,6 @@
     "functions": [
       "Data & Analytics",
       "Business Intelligence"
-    ]
-  },
-  {
-    "id": "95d9a24b-d178-47f6-b2eb-e2ca86cb444d",
-    "company_name": "Mawer Investment Management",
-    "company_url": "https://simplify.jobs/c/Mawer-Investment-Management",
-    "title": "AI Orchestrator Student Intern",
-    "url": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0",
-    "locations": [
-      "Calgary, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795219070,
-    "date_updated": 1795219252,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "Canada work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -9397,35 +9501,6 @@
     ]
   },
   {
-    "id": "bb4df03f-cdf9-493c-8743-3f139dc83df3",
-    "company_name": "Zscaler",
-    "company_url": "https://simplify.jobs/c/Zscaler",
-    "title": "Software Development Engineer",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795196320,
-    "date_updated": 1795218665,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$49–$70/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Backend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "d652a6ec-f5ba-492d-8d33-a78eec19f57a",
     "company_name": "Further",
     "company_url": "https://simplify.jobs/c/Further",
@@ -12650,39 +12725,6 @@
     ]
   },
   {
-    "id": "2390d275-b07c-4391-a69a-b60197aee08b",
-    "company_name": "Blue Cross Blue Shield of Michigan",
-    "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
-    "title": "Object Oriented Programming Intern",
-    "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795132588,
-    "date_updated": 1795132665,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "71d51955-83c3-40f4-b49d-17df92603b43",
     "company_name": "Microsoft",
     "company_url": "https://simplify.jobs/c/Microsoft",
@@ -13364,40 +13406,6 @@
     "functions": [
       "Hardware Validation & Testing",
       "Hardware Engineering"
-    ]
-  },
-  {
-    "id": "79e776f8-34ef-4c18-9385-a94306716e3c",
-    "company_name": "Applied Engineering",
-    "company_url": "https://simplify.jobs/c/Applied-Engineering",
-    "title": "Electrical Engineer: Embedded Software",
-    "url": "https://www.go-applied.com/careers/openings/?gh_jid=4515468009",
-    "locations": [
-      "West Bend, WI"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795123263,
-    "date_updated": 1795255206,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$40.45–$59.24/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Embedded Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -17221,6 +17229,45 @@
     "functions": [
       "Applied Machine Learning",
       "AI & Machine Learning"
+    ]
+  },
+  {
+    "id": "77f0d4c4-57a5-49b8-81ed-085e150c6551",
+    "company_name": "Angel Host",
+    "company_url": "https://simplify.jobs/c/Angel-Host",
+    "title": "AI Product Engineer Intern Co-op",
+    "url": "https://angelhost.bamboohr.com/careers/123/",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794900400,
+    "date_updated": 1794900447,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "intern",
+    "terms": [
+      "Winter 2026",
+      "Winter 2027"
+    ],
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "Canada work auth",
+      "Canadian citizen/PR"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [
+      "Winter 2026",
+      "Winter 2027"
+    ],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
+      "Software Engineering"
     ]
   },
   {
@@ -40137,42 +40184,6 @@
     ]
   },
   {
-    "id": "3776b303-0849-4822-8f8b-efd9d1b813dc",
-    "company_name": "JSX",
-    "company_url": "https://simplify.jobs/c/JSX",
-    "title": "Commercial Intern",
-    "url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793577600,
-    "date_updated": 1794553928,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$16.80–$19.80/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "9769870e-4b9e-4899-a798-7811da36ffe5",
     "company_name": "LabCorp",
     "company_url": "https://simplify.jobs/c/LabCorp",
@@ -52497,6 +52508,38 @@
     "detail_desc_terms": "",
     "functions": [
       "Embedded Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "ab501bad-862f-4f37-963c-78590ba637c1",
+    "company_name": "K1",
+    "company_url": "https://simplify.jobs/c/K1",
+    "title": "AI Engineer",
+    "url": "https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer",
+    "locations": [
+      "Manhattan Beach, CA"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1790921742,
+    "date_updated": 1795689361,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "$40/hr",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
       "Software Engineering"
     ]
   },

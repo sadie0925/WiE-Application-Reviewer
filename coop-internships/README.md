@@ -4,18 +4,18 @@ Co-op, internship, new-grad, and hackathon listings in the United States and Can
 
 <!-- LISTINGS:START -->
 
-**1522 open listings** · newest first · Updated 2026-11-25 21:47 ET
+**1523 open listings** · newest first · Updated 2026-11-26 06:33 ET
 
 Internships are removed after **30 days** and new-grad roles after **60 days**, or sooner if the posting closes. Roles open in both countries appear on both country pages.
 
 | Board | Open |
 | ----- | ---- |
 | [Canada — Software internships](boards/canada-software.md) | 72 |
-| [United States — Software internships](boards/us-software.md) | 683 |
+| [United States — Software internships](boards/us-software.md) | 682 |
 | [Canada — Other internships](boards/canada-other.md) | 35 |
 | [United States — Other internships](boards/us-other.md) | 258 |
 | [Canada — Software new grad](boards/canada-new-grad.md) | 51 |
-| [United States — Software new grad](boards/us-new-grad.md) | 429 |
+| [United States — Software new grad](boards/us-new-grad.md) | 431 |
 | [Hackathons and innovation challenges](boards/hackathons.md) | 23 (1 Waterloo first) |
 | [Early undergrad programs](boards/programs.md) | 3 |
 

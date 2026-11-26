@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**72 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 21:47 ET
+**72 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 06:33 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -14,7 +14,6 @@ Software, data, and AI co-ops and internships in Canada.
 | City of Campbell River | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | Winter/Spring 2027 |  | CA\$24.97/hr | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) |
 | KPMG | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada (+12) |  |  | CA\$23–CA\$29/hr | 2026-11-24 | [Apply](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) |
 | Brave | Software Development Intern - Web3 Core | Remote in Canada | Winter/Spring 2026 |  | CA\$34.62/hr | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532) |
-| Mawer Investment Management | AI Orchestrator Student Intern | Calgary, AB, Canada | Winter/Spring 2027 | Canada work auth |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0) |
 | Pason Systems | Software Developer Intern - Datahub | Calgary, AB, Canada | Summer 2027 |  |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8) |
 | HME | Development Intern | St-Bruno-de-Montarville, QC, Canada |  |  |  | 2026-11-20 | [Apply](https://hmeukg.rec.pro.ukg.net/HME1500HMEN/JobBoard/616b8ff0-9933-405d-9892-26f121d3a657/OpportunityDetail?opportunityId=85e04b3e-3362-406f-8d3e-b46fe7b5590f) |
 | MDA Space | Engineering Student Co-op - AI/ML Specialist | Richmond, BC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR | CA\$25–CA\$29/hr | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f) |
@@ -36,6 +35,7 @@ Software, data, and AI co-ops and internships in Canada.
 | Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-11-17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) |
 | QSL | Software Development and Artificial Intelligence Intern | Québec City, QC, Canada | Winter/Spring 2027 |  | CA\$24–CA\$27/hr | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/QSL/744000162086264) |
 | Critical Environment Technologies | Computer Science Co-op | Delta, BC, Canada |  |  | CA\$21/hr | 2026-11-17 | [Apply](https://cetci.bamboohr.com/careers/92/) |
+| Angel Host | AI Product Engineer Intern Co-op | Montreal, QC, Canada | Winter/Spring 2026, Winter/Spring 2027 | Canadian citizen/PR |  | 2026-11-17 | [Apply](https://angelhost.bamboohr.com/careers/123/) |
 | Birdseye Security Solutions | Software Developer Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) |
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/287/) |
 | Birdseye Security Solutions | Computer Vision Intern | Mississauga, ON, Canada |  |  |  | 2026-11-17 | [Apply](https://birdseyeaccount.bamboohr.com/careers/289/) |

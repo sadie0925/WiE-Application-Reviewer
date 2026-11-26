@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**258 open** · newest first · removed when closed or after 30 days · Updated 2026-11-25 21:47 ET
+**258 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 06:33 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
