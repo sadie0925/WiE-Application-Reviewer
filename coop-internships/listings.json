@@ -2546,6 +2546,74 @@
     ]
   },
   {
+    "id": "f5de8d35-3ebe-4a7b-9eac-bdc9b583dc88",
+    "company_name": "Toyota",
+    "company_url": "https://simplify.jobs/c/Toyota",
+    "title": "Software Engineer",
+    "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10332851",
+    "locations": [
+      "Plano, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795564800,
+    "date_updated": 1795753261,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": "0c96f624-8843-4aa7-818e-5d2f023f18fd",
+    "company_name": "Toyota",
+    "company_url": "https://simplify.jobs/c/Toyota",
+    "title": "Software Engineer",
+    "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10325070",
+    "locations": [
+      "Plano, TX"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795564800,
+    "date_updated": 1795753261,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US work auth",
+      "No sponsorship"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Backend Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "ff12fa07-66e0-4a55-9131-b0323a91a0c3",
     "company_name": "University of St. Thomas",
     "company_url": "https://simplify.jobs/c/University-Of-St-Thomas",
@@ -4030,6 +4098,39 @@
     ]
   },
   {
+    "id": "0acee63a-793e-447f-9a73-89f32ed4241f",
+    "company_name": "Torch Technologies",
+    "company_url": "https://simplify.jobs/c/Torch-Technologies",
+    "title": "Entry-Level Software Engineer",
+    "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry--Level-Software-Engineer_R2227",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1795478400,
+    "date_updated": 1795766592,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [
+      "US citizenship",
+      "US clearance"
+    ],
+    "detail_h1b": false,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "60fe2bfd-5d70-4125-a0fd-2ff792996d47",
     "company_name": "Exowatt",
     "company_url": "https://simplify.jobs/c/Exowatt",
@@ -4717,37 +4818,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Embedded Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "91e76f54-acbb-48eb-a85d-21784efd168e",
-    "company_name": "AbbVie",
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "title": "AI Engineer",
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990017034256",
-    "locations": [
-      "North Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795450318,
-    "date_updated": 1795476061,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$28–$50/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
       "Software Engineering"
     ]
   },
@@ -27183,6 +27253,35 @@
     ]
   },
   {
+    "id": "ec63f9af-9d7b-4d83-859f-b199f9f3c0ac",
+    "company_name": "Appodeal",
+    "company_url": "https://simplify.jobs/c/Appodeal",
+    "title": "Junior Software Engineer",
+    "url": "https://job-boards.greenhouse.io/appodeal/jobs/4918549008",
+    "locations": [
+      "Parkland, FL"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794324366,
+    "date_updated": 1795603692,
+    "category": "Software",
+    "sponsorship": "Other",
+    "degrees": [],
+    "track": "new_grad",
+    "program": "cs",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [],
+    "detail_desc_terms": "",
+    "functions": [
+      "AI Application Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
     "id": "ad7a72cf-ccd7-4926-a711-e4ff9a6f8520",
     "company_name": "Legrand",
     "company_url": "https://simplify.jobs/c/Legrand",
@@ -45799,145 +45898,6 @@
     "functions": [
       "Data Analysis",
       "Data & Analytics"
-    ]
-  },
-  {
-    "id": "89d2a6e2-57e1-47a3-8384-7a80c0ec8d47",
-    "company_name": "RosaicLabs",
-    "company_url": "https://simplify.jobs/c/RosaicLabs",
-    "title": "CPU Design Verification Engineer Intern",
-    "url": "https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply",
-    "locations": [
-      "Austin, TX",
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793180285,
-    "date_updated": 1793180397,
-    "category": "Hardware",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "$30–$55/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Hardware Validation & Testing",
-      "Hardware Engineering"
-    ]
-  },
-  {
-    "id": "4df74a84-8306-470c-a342-936bd9335db1",
-    "company_name": "RosaicLabs",
-    "company_url": "https://simplify.jobs/c/RosaicLabs",
-    "title": "Software Engineering Intern",
-    "url": "https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply",
-    "locations": [
-      "Austin, TX",
-      "Santa Clara, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793180285,
-    "date_updated": 1793180395,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$30–$55/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "3d71e6c6-0c7a-4c03-b33e-1aa5b68f53e8",
-    "company_name": "CAMS",
-    "company_url": "https://simplify.jobs/c/CAMS",
-    "title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
-    "url": "https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply",
-    "locations": [
-      "Houston, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793167454,
-    "date_updated": 1793167690,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$20–$25/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Applied Machine Learning",
-      "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "be409c15-d7f8-4de9-a9eb-56f6fd1af705",
-    "company_name": "Wabtec",
-    "company_url": "https://simplify.jobs/c/Wabtec",
-    "title": "Software Engineering Co-op",
-    "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016452226",
-    "locations": [
-      "Schenectady, NY"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793157694,
-    "date_updated": 1793169739,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Spring 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$19–$33/hr",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Spring 2027"
-    ],
-    "detail_desc_terms": "Winter/Spring 2027",
-    "functions": [
-      "Software Engineering"
     ]
   },
   {

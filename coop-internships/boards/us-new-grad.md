@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in the United States.
 
-**427 open** · newest first · removed when closed or after 60 days · Updated 2026-11-26 22:07 ET
+**430 open** · newest first · removed when closed or after 60 days · Updated 2026-11-27 07:03 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -25,6 +25,8 @@ Software engineering new-grad and entry-level roles in the United States.
 | 🔥 Dell Technologies | Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement | Hopkinton, MA |  |  | \$44–\$57/hr | 2026-11-24 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999) |
 | 🔥 Parallel Web Systems | Early Career Software Engineer - Developer Experience | Palo Alto, CA |  | Sponsors | \$72–\$144/hr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?embed=true) |
 | 🔥 Sonos | Junior Software Development Engineer - Web | Boston, MA, Seattle, WA |  | No sponsorship, US work auth | \$45–\$56/hr | 2026-11-24 | [Apply](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Junior-Software-Development-Engineer--Web_R2912) |
+| Toyota | Software Engineer | Plano, TX |  | No sponsorship, US work auth |  | 2026-11-24 | [Apply](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10332851) |
+| Toyota | Software Engineer | Plano, TX |  | No sponsorship, US work auth |  | 2026-11-24 | [Apply](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10325070) |
 | SAIC | Computer Programmer Level 1 | Oklahoma City, OK |  |  |  | 2026-11-24 | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619464) |
 | 🔥 Amazon | Front-End Engineer | Seattle, WA |  |  | \$59/hr | 2026-11-24 | [Apply](https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us) |
 | 🔥 Eide Bailly | AI Engineer | Remote in USA |  | No sponsorship, US work auth | \$43–\$60/hr | 2026-11-24 | [Apply](https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us) |
@@ -40,10 +42,10 @@ Software engineering new-grad and entry-level roles in the United States.
 | 🔥 X Development | AI/ML Engineer & Applied Researcher - Early Stage Projects | Mountain View, CA |  |  | \$71–\$106/hr | 2026-11-23 | [Apply](https://x.company/careers/8959513002?gh_jid=8959513002) |
 | 🔥 Beyond New Horizons | ID&C Software Engineer | Tullahoma, TN |  | US clearance, US citizenship, No sponsorship | \$37–\$61/hr | 2026-11-23 | [Apply](https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false) |
 | Peraton | Software Engineering - Ignite Innovator Pgm | Blacksburg, VA |  | US clearance, US citizenship, No sponsorship | \$25–\$39/hr | 2026-11-23 | [Apply](https://careers-peraton.icims.com/jobs/177377/job?mobile=true&needsRedirect=false) |
+| Torch Technologies | Entry-Level Software Engineer | Huntsville, AL |  | US clearance, US citizenship, No sponsorship |  | 2026-11-23 | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry--Level-Software-Engineer_R2227) |
 | GHD | Graduate Developer | Farmington Hills, MI, King of Prussia, PA (+6) |  |  |  | 2026-11-23 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29509) |
 | 🔥 Wyetech | Software Engineer Level 1 | Hanover, MD |  | US clearance, US citizenship, No sponsorship | \$57.90–\$83.90/hr | 2026-11-23 | [Apply](https://wyetech.applytojob.com/apply/Erj5wQF10w/Software-Engineer-Level-1) |
 | 🔥 Wyetech | Computer Network Operations Analyst/Programmer 1 | Hanover, MD |  | US clearance, US citizenship, No sponsorship | \$68.35–\$98.09/hr | 2026-11-23 | [Apply](https://wyetech.applytojob.com/apply/I6yESx7fUy/CNO-AnalystProgrammer-1) |
-| AbbVie | AI Engineer | North Chicago, IL |  |  | \$28–\$50/hr | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017034256) |
 | Wyetech | Software Engineer Level 0 - Full Stack Development | Annapolis Junction, MD |  | US clearance, US citizenship, No sponsorship | \$35.97–\$48.71/hr | 2026-11-23 | [Apply](https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer) |
 | 🔥 L3Harris Technologies | Associate – Software Engineering | Yorba Linda, CA |  | US clearance | \$36–\$68/hr | 2026-11-23 | [Apply](https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineering-CA-92887/1452910400/?ats=successfactors) |
 | 🔥 Visa | Software Engineer - Agentic Developer | Denver, CO |  |  | \$42–\$65/hr | 2026-11-22 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W) |
@@ -186,6 +188,7 @@ Software engineering new-grad and entry-level roles in the United States.
 | Goldman Sachs | Software Engineer - Software Engineering | Dallas, TX |  |  |  | 2026-11-10 | [Apply](https://higher.gs.com/roles/188640) |
 | Biointellisense | Android Engineer | Redwood City, CA, Golden, CO |  |  | \$29–\$38/hr | 2026-11-10 | [Apply](https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28/apply) |
 | Promega | Software Integration Engineer | Madison, WI |  |  |  | 2026-11-10 | [Apply](https://careers.promega.com/jobs/4373?icims=1&lang=en-us) |
+| Appodeal | Junior Software Engineer | Parkland, FL |  |  |  | 2026-11-10 | [Apply](https://job-boards.greenhouse.io/appodeal/jobs/4918549008) |
 | Eagle Wireless | Test Automation Engineer | St Louis Park, MN |  |  |  | 2026-11-10 | [Apply](https://ats.rippling.com/eagle-wireless/jobs/ada461d3-5a62-4dcf-bf3f-c561bc264c38) |
 | 🔥 Multi Media | Software Engineer 1/2 | Remote in USA |  |  | \$62–\$79/hr | 2026-11-09 | [Apply](https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs) |
 | Kyndryl | Early Career Consult Program - Associate Data Engineer | Frisco, TX |  | No sponsorship, US work auth | \$37/hr | 2026-11-09 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870) |

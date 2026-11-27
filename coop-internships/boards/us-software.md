@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**650 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 22:07 ET
+**647 open** · newest first · removed when closed or after 30 days · Updated 2026-11-27 07:03 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -657,6 +657,3 @@ Software, data, and AI co-ops and internships in the United States.
 | 🔥 Intuitive Surgical | Manufacturing Software Engineer Intern | Sunnyvale, CA | Summer 2026 |  | \$37–\$58/hr | 2026-10-28 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000158313919) |
 | Infleqtion | Quantum Software Intern - Quantum Software | Chicago, IL | Summer 2027 |  |  | 2026-10-28 | [Apply](https://apply.workable.com/coldquanta/j/EB77DE8198/apply) |
 | Constellation Energy | Geothermal Production Analytics Engineer Intern | Middletown, CA | Summer 2027 | US work auth |  | 2026-10-28 | [Apply](https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us) |
-| 🔥 RosaicLabs | Software Engineering Intern | Austin, TX, Santa Clara, CA |  |  | \$30–\$55/hr | 2026-10-28 | [Apply](https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply) |
-| CAMS | Application Performance Monitoring Predictive Analytics Engineer Intern | Houston, TX |  | No sponsorship, US work auth | \$20–\$25/hr | 2026-10-28 | [Apply](https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply) |
-| Wabtec | Software Engineering Co-op | Schenectady, NY | Winter/Spring 2027 | No sponsorship, US work auth | \$19–\$33/hr | 2026-10-27 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016452226) |

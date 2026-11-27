@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**251 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 22:07 ET
+**250 open** · newest first · removed when closed or after 30 days · Updated 2026-11-27 07:03 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -260,4 +260,3 @@ Other co-ops and internships in the United States (not software).
 | Uline | Sales Analyst Intern | Waukegan, IL, Milwaukee, WI (+3) | Summer 2027 |  |  | 2026-10-28 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774) |
 | Texas Instruments | Product/Test Engineering Intern | Santa Clara, CA |  | No sponsorship, US work auth |  | 2026-10-28 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016391) |
 | Lila Sciences | Finance Co-op | Cambridge, MA |  |  |  | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469146009) |
-| 🔥 RosaicLabs | CPU Design Verification Engineer Intern | Austin, TX, Santa Clara, CA |  |  | \$30–\$55/hr | 2026-10-28 | [Apply](https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply) |
