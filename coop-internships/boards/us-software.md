@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**647 open** · newest first · removed when closed or after 30 days · Updated 2026-11-27 07:03 ET
+**637 open** · newest first · removed when closed or after 30 days · Updated 2026-11-27 16:04 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -22,7 +22,6 @@ Software, data, and AI co-ops and internships in the United States.
 | Veeva Systems | Software Engineer Intern | Pleasanton, CA | Summer 2027 | No sponsorship, US work auth | \$40/hr | 2026-11-25 | [Apply](https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply) |
 | Veeva Systems | Software Engineer Intern | Boston, MA | Summer 2027 | No sponsorship, US work auth | \$35/hr | 2026-11-25 | [Apply](https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply) |
 | Tombras | Data Science Intern | Knoxville, TN | Winter/Spring 2027 |  | \$18/hr | 2026-11-25 | [Apply](https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9) |
-| ManTech | C++ Developer Intern | Lexington Park, MD | Summer 2027 | US clearance, US citizenship, No sponsorship |  | 2026-11-25 | [Apply](https://mantech.avature.net/en_US/careers/JobDetail/67268) |
 | 🔥 Tesla | Robotics Audio DSP Engineer Intern | Palo Alto, CA | Summer 2027 |  |  | 2026-11-25 | [Apply](https://www.tesla.com/careers/search/job/291227) |
 | Starkey | Software Engineer Intern | Eden Prairie, MN |  |  | \$25/hr | 2026-11-25 | [Apply](https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a) |
 | IXL Learning | Software Engineer Intern | San Mateo, CA | Summer 2026 |  | \$29–\$46/hr | 2026-11-25 | [Apply](https://www.ixl.com/company/jobs?gh_jid=8963039002) |
@@ -68,7 +67,6 @@ Software, data, and AI co-ops and internships in the United States.
 | Illinois Tool Works | Software or Computer Engineer Intern | Fairmont, MN | Summer 2027 |  | \$17.80–\$25.65/hr | 2026-11-23 | [Apply](https://careers.itw.com/global/en/job/JR11356) |
 | John Deere | Simulation Engineering Student Intern - Product Engineering | Urbandale, IA |  |  | \$15–\$40/hr | 2026-11-23 | [Apply](https://johndeere.eightfold.ai/careers/job/137484510505) |
 | Paccar | Vehicle Software Integration Engineer Intern | Denton, TX, Sunnyvale, CA | Winter/Spring 2027 |  | \$25–\$30/hr | 2026-11-23 | [Apply](https://jobs.paccar.com/job/Sunnyvale-2027-Spring-Internship-Vehicle-Software-Integration-Engineer-CA-94089/1459888133/?ats=successfactors) |
-| Milliman | Data Scientist Intern | Indianapolis, IN |  | No sponsorship, US work auth |  | 2026-11-23 | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420) |
 | 🔥 Amazon | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA (+2) | Summer 2027 |  | \$53–\$61/hr | 2026-11-23 | [Apply](https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) |
 | Blueprint AI (Mental Health) | Product Engineering Intern | Remote in USA |  |  | \$25/hr | 2026-11-23 | [Apply](https://apply.workable.com/blueprint-health/j/6C902886A5/apply) |
 | CornerStone Partners | AI and Automation Intern | Charlottesville, VA | Summer 2027 |  | \$23.63/hr | 2026-11-23 | [Apply](https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027) |
@@ -234,8 +232,6 @@ Software, data, and AI co-ops and internships in the United States.
 | Bose | Software Engineer Co-op | Framingham, MA | Winter/Spring 2027 | No sponsorship, US work auth | \$29–\$37.25/hr | 2026-11-17 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387) |
 | Delta Dental | Application Development Intern | Okemos, MI |  |  |  | 2026-11-17 | [Apply](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101534) |
 | DriveWealth | AI Consulting Associate Program People Analytics Intern | Chicago, IL | Summer 2027 | No sponsorship, US work auth | \$35–\$40/hr | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true) |
-| HERE Technologies | Data Science Intern | Chicago, IL |  |  | \$25–\$35/hr | 2026-11-17 | [Apply](https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false) |
-| HERE Technologies | Software Engineer Intern | Chicago, IL |  |  | \$25–\$35/hr | 2026-11-17 | [Apply](https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false) |
 | Sallie Mae | Software Engineer Intern | Newark, DE | Summer 2027 |  |  | 2026-11-17 | [Apply](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688) |
 | Viavi Solutions | Robotics Intern | Bothell, WA |  |  | \$19–\$35/hr | 2026-11-17 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1) |
 | 🔥 Toyota Research Institute | Robotics Intern - Agentic Robotics | Cambridge, MA |  |  | \$40–\$58/hr | 2026-11-17 | [Apply](https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply) |
@@ -651,9 +647,3 @@ Software, data, and AI co-ops and internships in the United States.
 | Berkshire Hathaway Energy | Data Systems Intern | Bridgeport, WV | Summer 2027 |  | \$22–\$27/hr | 2026-10-28 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005970) |
 | Garda Capital Partners | Software Engineer Intern - C# | Wayzata, MN | Summer 2027 |  | \$45/hr | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6238021004) |
 | Systems Planning and Analysis | Data Engineer Intern | Alexandria, VA | Summer 2027 | US clearance, US citizenship, No sponsorship | \$23–\$33/hr | 2026-10-28 | [Apply](https://spa.jibeapply.com/jobs/23698?icims=1) |
-| 🔥 Anduril | Library Science Co-op | Santa Ana, CA | Summer 2027 | US person, No sponsorship, US work auth | \$24–\$40/hr | 2026-10-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5278662007) |
-| SharkNinja | Consumer Insights Co-op | Needham, MA | Winter/Spring 2027 |  | \$28–\$34/hr | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724022006) |
-| Lila Sciences | Data Extraction Co-op | Cambridge, MA |  |  |  | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469150009) |
-| 🔥 Intuitive Surgical | Manufacturing Software Engineer Intern | Sunnyvale, CA | Summer 2026 |  | \$37–\$58/hr | 2026-10-28 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000158313919) |
-| Infleqtion | Quantum Software Intern - Quantum Software | Chicago, IL | Summer 2027 |  |  | 2026-10-28 | [Apply](https://apply.workable.com/coldquanta/j/EB77DE8198/apply) |
-| Constellation Energy | Geothermal Production Analytics Engineer Intern | Middletown, CA | Summer 2027 | US work auth |  | 2026-10-28 | [Apply](https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us) |

@@ -2098,27 +2098,6 @@
 "sponsors_h1b": null,
 "v": 3
 },
-"15d1fca0-add9-47d8-9d9d-87f8cbbd3f73": {
-"auth": [
-"US work auth",
-"US person"
-],
-"desc_terms": "Summer 2027",
-"fetched": 1795231281,
-"functions": [
-"Data Management",
-"Data & Analytics"
-],
-"page_checked": 1795232824,
-"page_pay": "$24–$40/hr",
-"page_status": 200,
-"pay": "$24–$40/hr",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": false,
-"v": 3
-},
 "15d406e9-3878-4d74-9dad-5e1263d13af7": {
 "auth": [
 "US citizenship"
@@ -2337,10 +2316,10 @@
 "Game Engineering",
 "Software Engineering"
 ],
-"page_checked": 1795780944,
+"page_checked": 1795813401,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 4,
+"page_tries": 5,
 "pay": "$20–$50/hr",
 "seasons": [
 "Summer 2027"
@@ -8231,26 +8210,6 @@
 "sponsors_h1b": null,
 "v": 3
 },
-"51b7a000-c0de-4e4b-9552-970634b7d2e7": {
-"auth": [
-"Canada work auth"
-],
-"desc_terms": "",
-"fetched": 1795231099,
-"functions": [
-"Data Science",
-"Data & Analytics"
-],
-"page_checked": 1795232693,
-"page_pay": "",
-"page_status": 200,
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
-"v": 3
-},
 "51f894db-f59f-4dfc-abc5-251d66cd750c": {
 "auth": [],
 "desc_terms": "",
@@ -11011,22 +10970,6 @@
 "sponsors_h1b": null,
 "v": 3
 },
-"6a41b107-e8c4-4787-a685-fa948468c79f": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1795231093,
-"functions": [
-"Applied Machine Learning",
-"AI & Machine Learning"
-],
-"page_checked": 1795232637,
-"page_pay": "$25–$35/hr",
-"page_status": 200,
-"pay": "$25–$35/hr",
-"seasons": [],
-"sponsors_h1b": null,
-"v": 3
-},
 "6ad57247-699c-41de-9362-2395f80865d4": {
 "auth": [],
 "desc_terms": "",
@@ -11714,22 +11657,6 @@
 "seasons": [
 "Summer 2027"
 ],
-"sponsors_h1b": null,
-"v": 3
-},
-"708423f4-aa00-4c3a-b562-bfd7b1c0b7d0": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1795231093,
-"functions": [
-"Data Engineering",
-"Data & Analytics"
-],
-"page_checked": 1795232637,
-"page_pay": "$25–$35/hr",
-"page_status": 200,
-"pay": "$25–$35/hr",
-"seasons": [],
 "sponsors_h1b": null,
 "v": 3
 },
@@ -13155,10 +13082,10 @@
 "Frontend Engineering",
 "Software Engineering"
 ],
-"page_checked": 1795780944,
+"page_checked": 1795813401,
 "page_pay": "",
 "page_status": 429,
-"page_tries": 5,
+"page_tries": 6,
 "pay": "$45–$56/hr",
 "seasons": [],
 "sponsors_h1b": false,
@@ -13646,22 +13573,6 @@
 "sponsors_h1b": null,
 "v": 3
 },
-"81b53a9d-31ff-4481-83c9-87505d06dbab": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1795231281,
-"functions": [
-"AI Application Engineering",
-"Software Engineering"
-],
-"page_checked": 1795232824,
-"page_pay": "",
-"page_status": 200,
-"pay": "",
-"seasons": [],
-"sponsors_h1b": null,
-"v": 3
-},
 "81c02098-fabd-4911-9699-cabf8accf9c1": {
 "auth": [
 "US citizenship",
@@ -13739,24 +13650,6 @@
 "Summer 2027"
 ],
 "sponsors_h1b": false,
-"v": 3
-},
-"8255a98d-744a-4c7a-8b06-3b5a4efb25ac": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1795231281,
-"functions": [
-"Data Analysis",
-"Data & Analytics"
-],
-"page_checked": 1795232824,
-"page_pay": "$28–$34/hr",
-"page_status": 200,
-"pay": "$26–$35/hr",
-"seasons": [
-"Winter 2027"
-],
-"sponsors_h1b": null,
 "v": 3
 },
 "8294c7c7-66b5-4770-b125-1ad606214411": {
@@ -15153,27 +15046,6 @@
 "pay": "$38–$53/hr",
 "seasons": [],
 "sponsors_h1b": null,
-"v": 3
-},
-"907ac2b0-1ba3-4cc3-bce0-e61334c9d123": {
-"auth": [
-"US citizenship",
-"US clearance"
-],
-"desc_terms": "Summer 2027",
-"fetched": 1795661192,
-"functions": [
-"Software Engineering"
-],
-"page_checked": 1795661194,
-"page_pay": "",
-"page_status": -1,
-"page_tries": 1,
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": false,
 "v": 3
 },
 "907d3b52-55d6-452f-9bba-020ddfea985b": {
@@ -17149,26 +17021,6 @@
 "sponsors_h1b": null,
 "v": 3
 },
-"a13ec5a5-3635-45bd-83ca-08be107e7ef1": {
-"auth": [
-"US work auth"
-],
-"desc_terms": "",
-"fetched": 1795231281,
-"functions": [
-"Data Analysis",
-"Data & Analytics"
-],
-"page_checked": 1795232825,
-"page_pay": "",
-"page_status": 200,
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
-"sponsors_h1b": null,
-"v": 3
-},
 "a16f6364-c8ef-464c-b114-5bac258930e4": {
 "auth": [],
 "desc_terms": "",
@@ -19065,23 +18917,6 @@
 "sponsors_h1b": null,
 "v": 3
 },
-"b49479c8-08f3-4e18-b9aa-00ebbcbf2f9d": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1795231281,
-"functions": [
-"Software Engineering"
-],
-"page_checked": 1795232824,
-"page_pay": "$37–$58/hr",
-"page_status": 200,
-"pay": "$37–$58/hr",
-"seasons": [
-"Summer 2026"
-],
-"sponsors_h1b": null,
-"v": 3
-},
 "b4ab6293-700b-4816-9b35-bbc9edcf6990": {
 "auth": [],
 "desc_terms": "",
@@ -19491,22 +19326,6 @@
 "sponsors_h1b": null,
 "v": 3
 },
-"b77305d7-9883-4121-855c-b583a9ee72db": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1795231281,
-"functions": [
-"AI & Machine Learning",
-"Natural Language Processing & LLMs"
-],
-"page_checked": 1795232824,
-"page_pay": "",
-"page_status": 200,
-"pay": "",
-"seasons": [],
-"sponsors_h1b": null,
-"v": 3
-},
 "b7e26578-8425-42c2-9cef-eeb79757cbe2": {
 "auth": [],
 "desc_terms": "",
@@ -19701,24 +19520,6 @@
 "page_status": 200,
 "pay": "$17/hr",
 "seasons": [],
-"sponsors_h1b": null,
-"v": 3
-},
-"b8ebd7b8-bd94-4af7-8d80-9bdd6cfa8c52": {
-"auth": [],
-"desc_terms": "Summer 2027",
-"fetched": 1795231281,
-"functions": [
-"Software Engineering",
-"Systems Software Engineering"
-],
-"page_checked": 1795232825,
-"page_pay": "",
-"page_status": 200,
-"pay": "",
-"seasons": [
-"Summer 2027"
-],
 "sponsors_h1b": null,
 "v": 3
 },
@@ -23725,9 +23526,9 @@
 "Game Engineering",
 "Software Engineering"
 ],
-"page_checked": 1795780944,
+"page_checked": 1795813401,
 "page_status": "error: HTTPSConnectionPool(host='careers.roblox.com', port=443): Read timed out. (read ",
-"page_tries": 13,
+"page_tries": 14,
 "pay": "$52/hr",
 "seasons": [
 "Summer 2027"
@@ -25557,23 +25358,6 @@
 "sponsors_h1b": false,
 "v": 3
 },
-"ec63f9af-9d7b-4d83-859f-b199f9f3c0ac": {
-"auth": [],
-"desc_terms": "",
-"fetched": 1795780944,
-"functions": [
-"AI Application Engineering",
-"Software Engineering"
-],
-"page_checked": 1795780944,
-"page_pay": "",
-"page_status": 200,
-"page_tries": 1,
-"pay": "",
-"seasons": [],
-"sponsors_h1b": null,
-"v": 3
-},
 "ec7f63ef-e6eb-4cd7-9183-0a490bba7fea": {
 "auth": [
 "US work auth",
@@ -27337,25 +27121,6 @@
 "Summer 2026"
 ],
 "sponsors_h1b": null,
-"v": 3
-},
-"fcb08f49-b9ed-4c1d-87f3-7191ff497a33": {
-"auth": [
-"US work auth"
-],
-"desc_terms": "",
-"fetched": 1795480409,
-"functions": [
-"Data Science",
-"Data & Analytics"
-],
-"page_checked": 1795480434,
-"page_pay": "",
-"page_status": 200,
-"page_tries": 1,
-"pay": "",
-"seasons": [],
-"sponsors_h1b": false,
 "v": 3
 },
 "fce71d08-ec97-468e-aa90-37ca3597e43f": {

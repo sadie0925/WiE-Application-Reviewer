@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in the United States.
 
-**430 open** · newest first · removed when closed or after 60 days · Updated 2026-11-27 07:03 ET
+**429 open** · newest first · removed when closed or after 60 days · Updated 2026-11-27 16:04 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -188,7 +188,6 @@ Software engineering new-grad and entry-level roles in the United States.
 | Goldman Sachs | Software Engineer - Software Engineering | Dallas, TX |  |  |  | 2026-11-10 | [Apply](https://higher.gs.com/roles/188640) |
 | Biointellisense | Android Engineer | Redwood City, CA, Golden, CO |  |  | \$29–\$38/hr | 2026-11-10 | [Apply](https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28/apply) |
 | Promega | Software Integration Engineer | Madison, WI |  |  |  | 2026-11-10 | [Apply](https://careers.promega.com/jobs/4373?icims=1&lang=en-us) |
-| Appodeal | Junior Software Engineer | Parkland, FL |  |  |  | 2026-11-10 | [Apply](https://job-boards.greenhouse.io/appodeal/jobs/4918549008) |
 | Eagle Wireless | Test Automation Engineer | St Louis Park, MN |  |  |  | 2026-11-10 | [Apply](https://ats.rippling.com/eagle-wireless/jobs/ada461d3-5a62-4dcf-bf3f-c561bc264c38) |
 | 🔥 Multi Media | Software Engineer 1/2 | Remote in USA |  |  | \$62–\$79/hr | 2026-11-09 | [Apply](https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs) |
 | Kyndryl | Early Career Consult Program - Associate Data Engineer | Frisco, TX |  | No sponsorship, US work auth | \$37/hr | 2026-11-09 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870) |

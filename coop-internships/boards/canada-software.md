@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**70 open** · newest first · removed when closed or after 30 days · Updated 2026-11-27 07:03 ET
+**69 open** · newest first · removed when closed or after 30 days · Updated 2026-11-27 16:04 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -50,7 +50,6 @@ Software, data, and AI co-ops and internships in Canada.
 | Canadian Tire | Programmer Analyst Intern | Mississauga, ON, Canada | Winter/Spring 2027 |  | CA\$23–CA\$37/hr | 2026-11-12 | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) |
 | Ciena | Technical Solution Engineer Intern - SE&I | Montreal, QC, Canada, Ottawa, ON, Canada | Winter/Spring 2027 |  | CA\$25.50–CA\$35/hr | 2026-11-12 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) |
 | 🔥 Huawei | Researcher Intern - Embodied AI | Edmonton, AB, Canada |  |  | CA\$50–CA\$74/hr | 2026-11-12 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) |
-| Capital Power | Student Intern - Data Science | Edmonton, AB, Canada | Summer 2027 | Canada work auth |  | 2026-11-11 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) |
 | Capital Power | Summer Student Intern - Data Analytics | Calgary, AB, Canada | Summer | Canada work auth |  | 2026-11-11 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222) |
 | TMX Group | AI Engineer Intern | Toronto, ON, Canada | Winter/Spring 2027 | Canada work auth | CA\$25–CA\$28/hr | 2026-11-11 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680) |
 | Amgen | Computer Engineering Co-op - Large Molecule Discovery - Technology | Burnaby, BC, Canada | Winter/Spring 2027 |  | CA\$22–CA\$26/hr | 2026-11-09 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920) |

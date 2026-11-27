@@ -15,18 +15,17 @@
     "organizer": "UW Data Science Club"
   },
   {
-    "name": "K-DUB Hacks",
-    "location": "Spur Innovation Center - SPUR Campus, Waterloo, ON",
-    "url": "https://luma.com/z74d7lgs",
-    "starts_at": "2026-11-27T20:30:00+00:00",
-    "ends_at": "2026-11-29T13:30:00.000Z",
+    "name": "K-Dub Hacks",
+    "location": "Waterloo",
+    "url": "https://www.hackathonradar.com/database/hackathon/k-dub-hacks-2026",
+    "starts_at": "2026-11-27T23:59:59-05:00",
+    "ends_at": "",
     "deadline_at": "",
     "deadline_kind": "",
     "when": "2026-11-27",
-    "status": "Open",
+    "status": "Upcoming",
     "tier": "major",
-    "source": "luma",
-    "organizer": "AWS Student Builder Group at Wilfrid Laurier University"
+    "source": "hackathon-radar"
   },
   {
     "name": "LooHacks",

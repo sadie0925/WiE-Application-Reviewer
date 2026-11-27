@@ -914,45 +914,6 @@
     ]
   },
   {
-    "id": "907ac2b0-1ba3-4cc3-bce0-e61334c9d123",
-    "company_name": "ManTech",
-    "company_url": "https://simplify.jobs/c/ManTech",
-    "title": "C++ Developer Intern",
-    "url": "https://mantech.avature.net/en_US/careers/JobDetail/67268",
-    "locations": [
-      "Lexington Park, MD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795649040,
-    "date_updated": 1795649047,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "US citizenship",
-      "US clearance"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
     "id": "e3e053b8-8e7b-4690-9875-c136637ed047",
     "company_name": "Tesla",
     "company_url": "https://simplify.jobs/c/Tesla",
@@ -4448,43 +4409,6 @@
     "functions": [
       "Backend Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "fcb08f49-b9ed-4c1d-87f3-7191ff497a33",
-    "company_name": "Milliman",
-    "company_url": "https://simplify.jobs/c/Milliman",
-    "title": "Data Scientist Intern",
-    "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420",
-    "locations": [
-      "Indianapolis, IN"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795475585,
-    "date_updated": 1795475701,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Science",
-      "Data & Analytics"
     ]
   },
   {
@@ -15706,70 +15630,6 @@
     ]
   },
   {
-    "id": "6a41b107-e8c4-4787-a685-fa948468c79f",
-    "company_name": "HERE Technologies",
-    "company_url": "https://simplify.jobs/c/HERE-Technologies",
-    "title": "Data Science Intern",
-    "url": "https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794960000,
-    "date_updated": 1795045514,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$25–$35/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Applied Machine Learning",
-      "AI & Machine Learning"
-    ]
-  },
-  {
-    "id": "708423f4-aa00-4c3a-b562-bfd7b1c0b7d0",
-    "company_name": "HERE Technologies",
-    "company_url": "https://simplify.jobs/c/HERE-Technologies",
-    "title": "Software Engineer Intern",
-    "url": "https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794960000,
-    "date_updated": 1795045514,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$25–$35/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Engineering",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "a64de37c-5495-494f-b664-ea86288f3242",
     "company_name": "Sallie Mae",
     "company_url": "https://simplify.jobs/c/Sallie-Mae",
@@ -22913,45 +22773,6 @@
     ]
   },
   {
-    "id": "51b7a000-c0de-4e4b-9552-970634b7d2e7",
-    "company_name": "Capital Power",
-    "company_url": "https://simplify.jobs/c/Capital-Power",
-    "title": "Student Intern - Data Science",
-    "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
-    "locations": [
-      "Edmonton, AB, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794441600,
-    "date_updated": 1794525879,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "Canada work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Science",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "4b6595b0-8640-4fa9-a6e9-3bac5d43b1ad",
     "company_name": "Capital Power",
     "company_url": "https://simplify.jobs/c/Capital-Power",
@@ -27250,35 +27071,6 @@
     "functions": [
       "Data & Analytics",
       "Business Intelligence"
-    ]
-  },
-  {
-    "id": "ec63f9af-9d7b-4d83-859f-b199f9f3c0ac",
-    "company_name": "Appodeal",
-    "company_url": "https://simplify.jobs/c/Appodeal",
-    "title": "Junior Software Engineer",
-    "url": "https://job-boards.greenhouse.io/appodeal/jobs/4918549008",
-    "locations": [
-      "Parkland, FL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794324366,
-    "date_updated": 1795603692,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
     ]
   },
   {
@@ -45575,83 +45367,6 @@
     ]
   },
   {
-    "id": "15d1fca0-add9-47d8-9d9d-87f8cbbd3f73",
-    "company_name": "Anduril",
-    "company_url": "https://simplify.jobs/c/Anduril",
-    "title": "Library Science Co-op",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278662007",
-    "locations": [
-      "Santa Ana, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793220288,
-    "date_updated": 1793226818,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$24–$40/hr",
-    "detail_auth": [
-      "US work auth",
-      "US person"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
-    "functions": [
-      "Data Management",
-      "Data & Analytics"
-    ]
-  },
-  {
-    "id": "8255a98d-744a-4c7a-8b06-3b5a4efb25ac",
-    "company_name": "SharkNinja",
-    "company_url": "https://simplify.jobs/c/SharkNinja",
-    "title": "Consumer Insights Co-op",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724022006",
-    "locations": [
-      "Needham, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793216786,
-    "date_updated": 1793225485,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Winter 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$28–$34/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Winter 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
-    ]
-  },
-  {
     "id": "0727f717-7671-410b-a2ce-72856c4f8adb",
     "company_name": "AMD",
     "company_url": "https://simplify.jobs/c/AMD",
@@ -45681,149 +45396,6 @@
     "detail_h1b": false,
     "detail_seasons": [],
     "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering",
-      "Systems Software Engineering"
-    ]
-  },
-  {
-    "id": "b77305d7-9883-4121-855c-b583a9ee72db",
-    "company_name": "Lila Sciences",
-    "company_url": "https://simplify.jobs/c/Lila-Sciences",
-    "title": "Data Extraction Co-op",
-    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469150009",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793206517,
-    "date_updated": 1793226279,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI & Machine Learning",
-      "Natural Language Processing & LLMs"
-    ]
-  },
-  {
-    "id": "81b53a9d-31ff-4481-83c9-87505d06dbab",
-    "company_name": "Lila Sciences",
-    "company_url": "https://simplify.jobs/c/Lila-Sciences",
-    "title": "Finance Co-op",
-    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469146009",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793206456,
-    "date_updated": 1793226278,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "other",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Application Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "b49479c8-08f3-4e18-b9aa-00ebbcbf2f9d",
-    "company_name": "Intuitive Surgical",
-    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-    "title": "Manufacturing Software Engineer Intern",
-    "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313919",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793198514,
-    "date_updated": 1793225749,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2026"
-    ],
-    "program": "cs",
-    "detail_pay": "$37–$58/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2026"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "b8ebd7b8-bd94-4af7-8d80-9bdd6cfa8c52",
-    "company_name": "Infleqtion",
-    "company_url": "https://simplify.jobs/c/Infleqtion",
-    "title": "Quantum Software Intern - Quantum Software",
-    "url": "https://apply.workable.com/coldquanta/j/EB77DE8198/apply",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793196709,
-    "date_updated": 1793196833,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "Summer 2027",
     "functions": [
       "Software Engineering",
       "Systems Software Engineering"
@@ -45860,44 +45432,6 @@
       "AI Application Engineering",
       "Full-Stack Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "a13ec5a5-3635-45bd-83ca-08be107e7ef1",
-    "company_name": "Constellation Energy",
-    "company_url": "https://simplify.jobs/c/Constellation-Energy",
-    "title": "Geothermal Production Analytics Engineer Intern",
-    "url": "https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us",
-    "locations": [
-      "Middletown, CA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793195400,
-    "date_updated": 1793869135,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [
-      "US work auth"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Data Analysis",
-      "Data & Analytics"
     ]
   },
   {
