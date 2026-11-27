@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**71 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 15:30 ET
+**70 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 22:07 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,7 @@ Software, data, and AI co-ops and internships in Canada.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Encepta | GIS Data Technician Intern | Victoria, BC, Canada, Burnaby, BC, Canada | Winter/Spring 2026 |  |  | 2026-11-26 | [Apply](https://encepta.bamboohr.com/careers/181/) |
 | Tecsys | Developer Intern | Montreal, QC, Canada |  |  |  | 2026-11-25 | [Apply](https://apply.workable.com/tecsys/j/B6D2B7128A/apply) |
 | City of Campbell River | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | Winter/Spring 2027 |  | CA\$24.97/hr | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) |
 | KPMG | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada (+12) |  |  | CA\$23–CA\$29/hr | 2026-11-24 | [Apply](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) |
@@ -79,5 +80,3 @@ Software, data, and AI co-ops and internships in Canada.
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-10-28 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611) |
 | TMX Group | Analyst – Market Insights Intern | Toronto, ON, Canada | Winter/Spring 2027 | Canada work auth | CA\$25–CA\$29/hr | 2026-10-28 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) |
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-10-28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |
-| 🔥 Uber | Software Engineer Intern | Toronto, ON, Canada |  |  | CA\$48.40/hr | 2026-10-27 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) |
-| Lumerate | Data Associate Intern | Canada, Remote in Canada | Winter/Spring 2027 | Canadian citizen/PR | CA\$20/hr | 2026-10-27 | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) |

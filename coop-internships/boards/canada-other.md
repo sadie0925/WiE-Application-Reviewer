@@ -2,7 +2,7 @@
 
 Other co-ops and internships in Canada (not software).
 
-**35 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 15:30 ET
+**36 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 22:07 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,7 @@ Other co-ops and internships in Canada (not software).
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | Summer 2027 |  |  | 2026-11-26 | [Apply](https://synopsys.avature.net/careers/JobDetail/19725) |
 | MDA Space | Engineering Student Intern - FPGA | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=216d347b-2abb-43e8-8fbc-268adecf0aa3) |
 | MDA Space | Engineering Student Intern - FPGA Verification | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=e40bbead-0940-4adb-9ae8-2b3d4d3d6874) |
 | MDA Space | Engineering Intern - Test Procedure Engineering | Sainte-Anne-de-Bellevue, QC, Canada | Winter/Spring 2027 | US clearance, Canadian citizen/PR |  | 2026-11-20 | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=23ba7a5c-469f-40f6-b33c-6e7bcbcf5355) |

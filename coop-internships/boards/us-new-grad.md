@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in the United States.
 
-**431 open** · newest first · removed when closed or after 60 days · Updated 2026-11-26 15:30 ET
+**427 open** · newest first · removed when closed or after 60 days · Updated 2026-11-26 22:07 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,7 @@ Software engineering new-grad and entry-level roles in the United States.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Synectic Solutions | Software Engineer 1 | Norco, CA |  | US clearance, US citizenship, No sponsorship | \$38.29–\$46.97/hr | 2026-11-26 | [Apply](https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I) |
 | 🔥 Cisco | Software Engineer | Research Triangle Park, Durham, NC |  |  | \$50–\$71/hr | 2026-11-26 | [Apply](https://careers.cisco.com/global/en/job/2030715) |
 | 🔥 Dell Technologies | Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement | Hopkinton, MA |  |  | \$44–\$57/hr | 2026-11-25 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300003) |
 | 🔥 Scout AI | AI Engineer New Grad - AI/ML and Agent Harnessing | Sunnyvale, CA |  | US clearance, No sponsorship, US work auth | \$65–\$91/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true) |
@@ -436,8 +437,3 @@ Software engineering new-grad and entry-level roles in the United States.
 | 🔥 SpaceX | Software Engineer New Grad - Software - Starfall | Hawthorne, CA |  | US citizenship, US person, No sponsorship | \$60–\$94/hr | 2026-09-28 | [Apply](https://boards.greenhouse.io/spacex/jobs/8854394002) |
 | 🔥 Early Warning | Software Engineer - Java - Paze | Chicago, IL, Scottsdale, AZ |  | US citizenship, No sponsorship | \$47–\$63/hr | 2026-09-28 | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933) |
 | 🔥 RTX | Software Engineer 1 | Cedar Rapids, IA |  | US clearance, US citizenship, No sponsorship | \$28–\$52/hr | 2026-09-28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662) |
-| M&T Bank | Forward Deployed Digital Product Analyst New Grad - IS | Wilmington, DE |  |  | \$29.57–\$43.99/hr | 2026-09-27 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst---Wilmington--DE-_R89998) |
-| M&T Bank | Management Development Program Forward Deployed Digital Product Analyst | Wilmington, DE |  |  | \$29.57–\$43.99/hr | 2026-09-27 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product--Wilmington--DE-_R89996) |
-| M&T Bank | Management Development Program New Grad - IS Forward Deployed Product Analyst | Wilmington, DE |  |  | \$29.57–\$43.99/hr | 2026-09-27 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst--Wilmington--DE-_R89997) |
-| 🔥 RTX | Research Software Engineer 1 | Cambridge, MA |  | US clearance, US citizenship, No sponsorship | \$28–\$52/hr | 2026-09-27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338) |
-| 🔥 Visa | Software Engineer | Austin, TX |  |  | \$42–\$65/hr | 2026-09-27 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W) |

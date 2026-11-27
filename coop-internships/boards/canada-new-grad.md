@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in Canada.
 
-**51 open** · newest first · removed when closed or after 60 days · Updated 2026-11-26 15:30 ET
+**51 open** · newest first · removed when closed or after 60 days · Updated 2026-11-26 22:07 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,7 @@ Software engineering new-grad and entry-level roles in Canada.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| Orion Digital | Junior Full Stack AI Engineer | Remote in Canada |  |  | CA\$31–CA\$41/hr | 2026-11-26 | [Apply](https://mogo.applytojob.com/apply/yLhCvCiypq/Junior-Full-Stack-AI-Engineer) |
 | WELLSTAR Technologies | Junior Software Developer | Remote in Canada |  |  | CA\$34–CA\$38/hr | 2026-11-25 | [Apply](https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer) |
 | WELLSTAR Technologies | Junior Software Developer | Remote in Canada |  |  | CA\$34–CA\$38/hr | 2026-11-25 | [Apply](https://wellhealthtechnologiescorp.applytojob.com/apply/5kq5CE1n76/Junior-Software-Developer) |
 | Prolucid Technologies | Junior Software Engineer | Mississauga, ON, Canada |  | Canada work auth | CA\$36–CA\$46/hr | 2026-11-24 | [Apply](https://apply.workable.com/prolucid-technologies/j/DBA98070BB/apply) |
@@ -50,7 +51,6 @@ Software engineering new-grad and entry-level roles in Canada.
 | Aptiv | Associate Cloud Engineer | Kanata, Ottawa, ON, Canada |  |  | CA\$31–CA\$38/hr | 2026-10-21 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000701887) |
 | 🔥 Quora | Full Stack Software Engineer New Grad | Remote in USA, Remote in Canada |  |  | \$47–\$69/hr | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
 | GIRO | Front-End Web Developer | Montreal, QC, Canada |  | Canada work auth |  | 2026-10-18 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-web--Front-end_R-100000287) |
-| GIRO | Junior C++ Developer | Montreal, QC, Canada |  | US work auth |  | 2026-10-18 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346) |
 | Wonderbrands | Fullstack Software Developer New Grad | Etobicoke, ON, Canada |  |  |  | 2026-10-18 | [Apply](https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false) |
 | 🔥 Quora | Machine Learning Engineer New Grad | Remote in USA, Remote in Canada |  |  | \$52–\$76/hr | 2026-10-15 | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true) |
 | 🔥 Affirm | Software Engineer 1 - Fullstack - Search | Remote in Canada |  |  | CA\$49–CA\$73/hr | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017342003) |

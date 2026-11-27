@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**672 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 15:30 ET
+**650 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 22:07 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -10,6 +10,7 @@ Software, data, and AI co-ops and internships in the United States.
 
 | Company | Role | Location | Term | Work auth | Pay | Added | Apply |
 | ------- | ---- | -------- | ---- | --------- | --- | ----- | ----- |
+| 🔥 Atoms | Software Engineer Intern | Seattle, WA, Mountain View, CA | Summer 2027 |  | \$70/hr | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8963704002) |
 | Total Quality Logistics | Software Development Intern | Cincinnati, OH | Summer 2027 | No sponsorship, US work auth | \$22/hr | 2026-11-25 | [Apply](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763) |
 | Total Quality Logistics | AI Product Intern | Cincinnati, OH | Summer 2027 | No sponsorship, US work auth | \$17/hr | 2026-11-25 | [Apply](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757) |
 | Total Quality Logistics | Data Science & Analytics Intern | Cincinnati, OH | Summer 2027 | No sponsorship | \$22/hr | 2026-11-25 | [Apply](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) |
@@ -659,26 +660,3 @@ Software, data, and AI co-ops and internships in the United States.
 | 🔥 RosaicLabs | Software Engineering Intern | Austin, TX, Santa Clara, CA |  |  | \$30–\$55/hr | 2026-10-28 | [Apply](https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply) |
 | CAMS | Application Performance Monitoring Predictive Analytics Engineer Intern | Houston, TX |  | No sponsorship, US work auth | \$20–\$25/hr | 2026-10-28 | [Apply](https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply) |
 | Wabtec | Software Engineering Co-op | Schenectady, NY | Winter/Spring 2027 | No sponsorship, US work auth | \$19–\$33/hr | 2026-10-27 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016452226) |
-| 🔥 Meta | Research Scientist Intern - Ads Recommendations | Menlo Park, CA |  |  | \$44–\$73/hr | 2026-10-27 | [Apply](https://www.metacareers.com/jobs/1691709792593561) |
-| FUTO | Software Engineer Intern | Austin, TX | Summer 2027 |  |  | 2026-10-27 | [Apply](https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply) |
-| Allegion | Software Systems Engineering Intern | Golden, CO |  | No sponsorship, US work auth | \$25–\$26/hr | 2026-10-27 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1) |
-| Allegion | Software Systems Engineering Intern | Golden, CO | Summer 2026 | No sponsorship, US work auth | \$25–\$26/hr | 2026-10-27 | [Apply](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395) |
-| Applied Materials | Data Scientist Intern | Austin, TX | Summer 2027 |  |  | 2026-10-27 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409) |
-| Axiom Math | Member of Technical Staff Intern | Palo Alto, CA |  |  |  | 2026-10-27 | [Apply](https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e/application?embed=true) |
-| Federal Home Loan Bank of Indianapolis | MPP Data Analytics Intern | Indianapolis, IN | Summer 2027 |  |  | 2026-10-27 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641) |
-| FormFactor | Electrical Design Automation Intern - AI & EDA Automation | Livermore, CA |  |  | \$30.95–\$40.64/hr | 2026-10-27 | [Apply](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304) |
-| GAF | R&D Commercial Product Development Engineer Intern | Parsippany-Troy Hills, NJ |  |  | \$20/hr | 2026-10-27 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/R-D-Commercial-Product-Development-Engineer-Intern_26417) |
-| National Laboratory of the Rockies | Graduate Intern - Power Data Analysis for AI Data Centers | Golden, CO |  |  | \$21–\$34/hr | 2026-10-27 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Power-Data-Analysis-for-AI-Data-Centers_R14575) |
-| Pennsylvania State University | Research and Development Engineer Intern | State College, PA |  | US clearance, US citizenship, No sponsorship |  | 2026-10-27 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000083854-1) |
-| Revantage Corporate Services | Insurance Technology & AI Analytics Intern | Dallas, TX, Chicago, IL | Summer 2027 |  | \$25–\$30/hr | 2026-10-27 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539) |
-| Subtotal | Software Engineer Intern | Remote in USA |  |  | \$30/hr | 2026-10-27 | [Apply](https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true) |
-| T-Mobile | Associate AI Engineer Intern | Frisco, TX, Overland Park, KS | Summer 2027 | US work auth | \$27–\$50/hr | 2026-10-27 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492) |
-| Valmont | AI and Data Engineering Intern | Omaha, NE | Winter/Spring 2027 |  |  | 2026-10-27 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310) |
-| 🔥 Meta | Research Scientist Intern - AI Research - Speech & Audio | Menlo Park, CA |  |  | \$44–\$73/hr | 2026-10-27 | [Apply](https://www.metacareers.com/jobs/1567168005156007) |
-| 🔥 Meta | Research Scientist Intern - Video Generation Self-Improvement | Seattle, WA, Menlo Park, CA |  |  | \$44–\$73/hr | 2026-10-27 | [Apply](https://www.metacareers.com/jobs/29358420983776961) |
-| 🔥 Meta | Research Scientist Intern - Ranking & Recommendations | Menlo Park, CA, Bellevue, WA |  |  | \$44–\$73/hr | 2026-10-27 | [Apply](https://www.metacareers.com/jobs/1625515955324134) |
-| 🔥 Meta | Research Scientist Intern - Computer Vision - Video Intelligence | Menlo Park, CA, Bellevue, WA |  |  | \$44–\$73/hr | 2026-10-27 | [Apply](https://www.metacareers.com/jobs/1789380188995838) |
-| 🔥 Meta | Research Scientist Intern - User Modeling and Reinforcement Learning | Menlo Park, CA, Bellevue, WA |  |  | \$44–\$73/hr | 2026-10-27 | [Apply](https://www.metacareers.com/jobs/1751935042548465) |
-| 🔥 Meta | Research Scientist Intern - Neural Representations Compression | Redmond, WA |  |  | \$44–\$73/hr | 2026-10-27 | [Apply](https://www.metacareers.com/jobs/2368433610564528) |
-| Commonwealth Fusion Systems | Plasma Physics Intern | Devens, MA | Summer 2027 | US work auth | \$25–\$38/hr | 2026-10-27 | [Apply](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) |
-| Protagonist | Software Engineer Intern | Washington, DC |  | US clearance, US work auth | \$20/hr | 2026-10-27 | [Apply](https://job-boards.greenhouse.io/protagonist/jobs/6236620004) |

@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**256 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 15:30 ET
+**251 open** · newest first · removed when closed or after 30 days · Updated 2026-11-26 22:07 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -251,7 +251,6 @@ Other co-ops and internships in the United States (not software).
 | 🔥 Snowflake | Product Management Intern | Menlo Park, CA | Summer 2027 |  | \$60–\$70/hr | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true) |
 | 🔥 Teamworks | Product Management MBA Intern | Remote in USA |  | No sponsorship | \$50–\$60/hr | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06/application?embed=true) |
 | 🔥 Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | \$46.33–\$50.60/hr | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
-| Loft Orbital | Test Engineering Intern - Test Engineering | Golden, CO | Summer 2027 |  | \$30/hr | 2026-10-29 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
 | Diversified Automation | Hardware Engineering Co-op | Louisville, KY |  |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3/apply) |
 | 🔥 Cloudflare | Product Manager Intern | Austin, TX | Summer 2027 | No sponsorship |  | 2026-10-29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790) |
 | ASML | Optical Engineer Co-op Intern | Wilton, CT |  | US work auth | \$18–\$48/hr | 2026-10-28 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324) |
@@ -262,7 +261,3 @@ Other co-ops and internships in the United States (not software).
 | Texas Instruments | Product/Test Engineering Intern | Santa Clara, CA |  | No sponsorship, US work auth |  | 2026-10-28 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016391) |
 | Lila Sciences | Finance Co-op | Cambridge, MA |  |  |  | 2026-10-28 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469146009) |
 | 🔥 RosaicLabs | CPU Design Verification Engineer Intern | Austin, TX, Santa Clara, CA |  |  | \$30–\$55/hr | 2026-10-28 | [Apply](https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply) |
-| 🔥 Booz Allen | Design and Verification Engineer Intern | Beavercreek, OH | Winter/Spring 2030 | US clearance | \$27–\$61/hr | 2026-10-27 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482) |
-| Draper | Analog ASIC Design Intern | Cambridge, MA | Summer 2027 | US clearance | \$20–\$45/hr | 2026-10-27 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
-| RTX | Hardware Electrical Engineering Co-op | Cambridge, MA | Winter/Spring 2027 | US clearance, US citizenship, No sponsorship |  | 2026-10-27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598) |
-| Viavi Solutions | Hardware Engineer Co-op Intern | Germantown, MD |  |  | \$19–\$35/hr | 2026-10-27 | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_260005108-1) |
