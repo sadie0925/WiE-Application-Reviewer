@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**82 open** · newest first · removed when closed or after 30 days · Updated 2026-11-27 22:14 ET
+**81 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 06:46 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -65,7 +65,6 @@ Software, data, and AI co-ops and internships in Canada.
 | 🔥 Shopify | Software Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada (+1) | Summer 2027 | No sponsorship, Canada work auth | CA\$37–CA\$41/hr | 2026-11-16 | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) |
 | IPEX | Manufacturing Excellence Co-op | Oakville, ON, Canada | Winter/Spring 2027 |  | CA\$24.50/hr | 2026-11-14 | [Apply](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) |
 | W.W. Grainger | Customer Experience Intern | Thornhill, Vaughan, ON, Canada | Summer 2027 |  | CA\$25/hr | 2026-11-13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) |
-| Canadian Tire | Programmer Analyst Intern | Mississauga, ON, Canada | Winter/Spring 2027 |  | CA\$23–CA\$37/hr | 2026-11-12 | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) |
 | Ciena | Technical Solution Engineer Intern - SE&I | Montreal, QC, Canada, Ottawa, ON, Canada | Winter/Spring 2027 |  | CA\$25.50–CA\$35/hr | 2026-11-12 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) |
 | 🔥 Huawei | Researcher Intern - Embodied AI | Edmonton, AB, Canada |  |  | CA\$50–CA\$74/hr | 2026-11-12 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) |
 | Capital Power | Summer Student Intern - Data Analytics | Calgary, AB, Canada | Summer | Canada work auth |  | 2026-11-11 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222) |

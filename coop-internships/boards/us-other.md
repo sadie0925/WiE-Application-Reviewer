@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**288 open** · newest first · removed when closed or after 30 days · Updated 2026-11-27 22:14 ET
+**289 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 06:46 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -36,6 +36,7 @@ Other co-ops and internships in the United States (not software).
 | 🔥 Intuitive Surgical | Product Management MBA Intern | Sunnyvale, CA | Summer 2027 |  | \$69/hr | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163546809) |
 | CrowdStrike | Product Engineer Intern - Falcon Guardian | Redmond, WA, Sunnyvale, CA | Summer 2027 | US work auth | \$38–\$45/hr | 2026-11-23 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622) |
 | First PREMIER Bank | Marketing Analytics Intern | Sioux Falls, SD |  |  |  | 2026-11-23 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Marketing-Analytics-Internship_R-568-1) |
+| Intel | Design Verification Engineer Intern | Austin, TX, Santa Clara, CA (+2) | Summer 2027 |  | \$44/hr | 2026-11-23 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287646) |
 | Northrop Grumman | Digital Engineer Intern | Manhattan Beach, CA | Summer 2027 | US clearance, US citizenship, No sponsorship | \$21.50–\$48/hr | 2026-11-23 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Digital-Engineer-Intern---Manhattan-Beach-CA_R10262090) |
 | Northrop Grumman | Electronics Engineer Intern | Manhattan Beach, CA | Summer 2027 | US clearance, US citizenship, No sponsorship | \$21.50–\$48/hr | 2026-11-23 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Electronics-Engineer-Intern---Manhattan-Beach-CA_R10262075) |
 | Northrop Grumman | Electronics Engineer Intern | Azusa, CA | Summer 2027 | US clearance, US citizenship, No sponsorship | \$21.50–\$48/hr | 2026-11-23 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Electronics-Engineer-Intern---Azusa-CA_R10262073-1) |
@@ -81,8 +82,8 @@ Other co-ops and internships in the United States (not software).
 | Lawrence Livermore National Laboratory (LLNL) | Engineering Intern | Livermore, CA | Summer 2027 | US clearance, US citizenship | \$23.26–\$31.62/hr | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016986011) |
 | Centier Bank | Marketing Analyst Intern | Merrillville, IN |  |  | \$19/hr | 2026-11-19 | [Apply](https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999) |
 | First PREMIER Bank | Digital Innovation & Strategy Intern | Sioux Falls, SD |  |  |  | 2026-11-19 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Digital-Innovation---Strategy-Internship_R-551-1) |
+| Intel | Signal Integrity Engineer Intern | Phoenix, AZ | Summer 2026 |  | \$41/hr | 2026-11-19 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Signal-Integrity-Engineering-Intern_JR0289449) |
 | Littelfuse | R&D Engineering Intern | Rapid City, SD | Summer 2027 |  |  | 2026-11-19 | [Apply](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1) |
-| 🔥 NVIDIA | Technical Marketing Engineer Intern - Digital Biology and Scientific Computing | Santa Clara, CA | Summer 2027 |  | \$20–\$86/hr | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) |
 | Philips | Electrical Engineer Intern | San Diego, CA | Summer 2027 | No sponsorship, US work auth | \$29–\$32/hr | 2026-11-19 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Intern---Electrical-Engineer---San-Diego--CA---Summer-2027_594811) |
 | Sierra Space | Electrical Engineering Intern - Electrical Engineering | Madison, WI, Centennial, CO (+3) | Summer 2027 | US clearance, US citizenship, No sponsorship | \$31/hr | 2026-11-19 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1) |
 | State Street | Product Internship - Data Intelligence | Cambridge, MA | Summer 2027 |  |  | 2026-11-19 | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/State-Street-Product-Team---Data-Intelligence---2027-Summer-Internship_R-801340) |

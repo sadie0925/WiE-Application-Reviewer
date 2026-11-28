@@ -2,7 +2,7 @@
 
 Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline** is when applications close (blank if the organizer hasn't posted one). Events are removed once applications close or the event starts.
 
-**23 upcoming** · 1 Waterloo · 22 other Canada/US · Updated 2026-11-27 22:14 ET
+**23 upcoming** · 1 Waterloo · 22 other Canada/US · Updated 2026-11-28 06:46 ET
 
 [All boards](../README.md)
 
@@ -16,8 +16,8 @@ Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline*
 
 | Event | Where | When | Deadline | Link |
 | ----- | ----- | ---- | -------- | ---- |
-| K-Dub Hacks | Waterloo | 2026-11-27 |  | [Open](https://www.hackathonradar.com/database/hackathon/k-dub-hacks-2026) |
-| LooHacks | Waterloo | 2026-11-27 |  | [Open](https://www.hackathonradar.com/database/hackathon/loohacks-2026) |
+| K-Dub Hacks | Waterloo | 2026-11-28 |  | [Open](https://www.hackathonradar.com/database/hackathon/k-dub-hacks-2026) |
+| LooHacks | Waterloo | 2026-11-28 |  | [Open](https://www.hackathonradar.com/database/hackathon/loohacks-2026) |
 | Workday Internal Hackathon | Pleasanton, CA | 2026-11-30 |  | [Open](https://connect.events.workday.com/aiaf) |
 | Hack Cats | Manhattan, Kansas | 2026-12-04 |  | [Open](https://hackkstate.tech/) |
 | Hack Canada 2027 | Toronto, Ontario | 2027-01-08 |  | [Open](https://hackcanada.org) |
