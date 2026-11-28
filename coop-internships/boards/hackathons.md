@@ -2,7 +2,7 @@
 
 Upcoming hackathons and innovation challenges, Waterloo clubs first. **Deadline** is when applications close (blank if the organizer hasn't posted one). Events are removed once applications close or the event starts.
 
-**23 upcoming** · 1 Waterloo · 22 other Canada/US · Updated 2026-11-27 16:04 ET
+**23 upcoming** · 1 Waterloo · 22 other Canada/US · Updated 2026-11-27 22:14 ET
 
 [All boards](../README.md)
 
