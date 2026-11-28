@@ -2,7 +2,7 @@
 
 Other co-ops and internships in the United States (not software).
 
-**289 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 06:46 ET
+**289 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 14:10 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -145,6 +145,7 @@ Other co-ops and internships in the United States (not software).
 | 🔥 Meta | Research Scientist Intern - Perception - Displays and Graphics | Sunnyvale, CA |  |  | \$44–\$73/hr | 2026-11-16 | [Apply](https://www.metacareers.com/jobs/1500136678656794) |
 | Impulse Space | Digital Design Engineering Intern - FPGA/ASIC | Redondo Beach, CA | Summer 2027 |  | \$34/hr | 2026-11-16 | [Apply](https://impulsespace.pinpointhq.com/en/postings/829256fd-cd06-4f0d-91c9-8bb59eaf6772?ats=pinpointhq) |
 | Integration Innovation (i3) | Embedded Systems Reverse Engineer Intern | Washington, DC | Summer 2027 | US clearance, US citizenship, No sponsorship | \$25–\$48/hr | 2026-11-16 | [Apply](https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us) |
+| L.L.Bean | Marketing Analytics Intern | Freeport, ME | Summer 2027 |  |  | 2026-11-15 | [Apply](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Marketing-Analytics-Intern--Summer-2027-_JR11305) |
 | RTX | Advanced Effector Guidance Systems Electrical Engineer Intern | Tucson, AZ | Summer 2027 | US clearance, US citizenship, No sponsorship | \$18–\$39/hr | 2026-11-15 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Advanced-Effector-Guidance-Systems-Electrical-Engineer-Intern--Summer-2027-_01870393-1) |
 | Samsung | Technical Product Management Intern - D2C Shopping Experiences - Mobile & Consumer Electronics | Mountain View, CA |  | No sponsorship, US work auth |  | 2026-11-15 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020) |
 | Southern States, LLC | Electrical Engineer Intern | Hampton, GA | Summer 2027 |  |  | 2026-11-15 | [Apply](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1) |
@@ -298,4 +299,3 @@ Other co-ops and internships in the United States (not software).
 | 🔥 Teamworks | Product Management MBA Intern | Remote in USA |  | No sponsorship | \$50–\$60/hr | 2026-10-29 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06/application?embed=true) |
 | 🔥 Dell Technologies | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX (+1) |  |  | \$46.33–\$50.60/hr | 2026-10-29 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
 | Diversified Automation | Hardware Engineering Co-op | Louisville, KY |  |  |  | 2026-10-29 | [Apply](https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3/apply) |
-| 🔥 Cloudflare | Product Manager Intern | Austin, TX | Summer 2027 | No sponsorship |  | 2026-10-29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790) |

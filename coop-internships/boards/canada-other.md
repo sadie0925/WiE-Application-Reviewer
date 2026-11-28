@@ -2,7 +2,7 @@
 
 Other co-ops and internships in Canada (not software).
 
-**42 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 06:46 ET
+**42 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 14:10 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 

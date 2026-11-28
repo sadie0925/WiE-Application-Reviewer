@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in Canada.
 
-**81 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 06:46 ET
+**80 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 14:10 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -90,4 +90,3 @@ Software, data, and AI co-ops and internships in Canada.
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA\$26–CA\$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
 | Qualcomm | AI Software Systems Co-op Intern | Toronto, ON, Canada | Winter/Spring 2027 |  | CA\$26–CA\$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | Qualcomm | Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 |  | CA\$26–CA\$50/hr | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) |
-| Huawei | Intern Researcher - AI Agents | Montreal, QC, Canada |  |  | CA\$28–CA\$50/hr | 2026-10-29 | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1) |

@@ -6068,40 +6068,6 @@
     ]
   },
   {
-    "id": "278adf4e-1f34-4ace-b345-17eff150d8df",
-    "company_name": "First PREMIER Bank",
-    "company_url": "https://simplify.jobs/c/First-PREMIER-Bank",
-    "title": "Customer Care Intern",
-    "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/Customer-Care-Intern_R-514-1",
-    "locations": [
-      "Sioux Falls, SD"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1795478400,
-    "date_updated": 1795568583,
-    "category": "Quant",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Quantitative Finance",
-      "Quantitative Risk"
-    ]
-  },
-  {
     "id": "256b1ade-b5cb-4c2e-a3e7-3212d1b09239",
     "company_name": "First PREMIER Bank",
     "company_url": "https://simplify.jobs/c/First-PREMIER-Bank",
@@ -27432,6 +27398,42 @@
     ]
   },
   {
+    "id": "31c47d4d-261e-4d94-a922-da1d8e31f5f2",
+    "company_name": "L.L.Bean",
+    "company_url": "https://simplify.jobs/c/LL-Bean",
+    "title": "Marketing Analytics Intern",
+    "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Marketing-Analytics-Intern--Summer-2027-_JR11305",
+    "locations": [
+      "Freeport, ME"
+    ],
+    "active": true,
+    "is_visible": true,
+    "source": "simplify",
+    "date_posted": 1794787200,
+    "date_updated": 1795865942,
+    "category": "AI/ML/Data",
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "track": "intern",
+    "terms": [
+      "Summer 2027"
+    ],
+    "program": "other",
+    "detail_pay": "",
+    "detail_auth": [],
+    "detail_h1b": null,
+    "detail_seasons": [
+      "Summer 2027"
+    ],
+    "detail_desc_terms": "Summer 2027",
+    "functions": [
+      "Data Analysis",
+      "Data & Analytics"
+    ]
+  },
+  {
     "id": "d80df633-aba8-4523-8b32-569f18ec0677",
     "company_name": "LabCorp",
     "company_url": "https://simplify.jobs/c/LabCorp",
@@ -29341,42 +29343,6 @@
     "functions": [
       "Game Engineering",
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "e269fc40-0943-4e09-bb96-e5d7ecdffddc",
-    "company_name": "Boeing",
-    "company_url": "https://simplify.jobs/c/Boeing",
-    "title": "Design and Analysis Engineer Entry Level or Associate",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/C-17-Design-and-Analysis-Engineer--Entry-Level-or-Associate-_JR2026525656-1",
-    "locations": [
-      "Oklahoma City, OK"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1794528000,
-    "date_updated": 1794611281,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "new_grad",
-    "program": "cs",
-    "detail_pay": "$33–$55/hr",
-    "detail_auth": [
-      "US work auth",
-      "US citizenship",
-      "US clearance",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering",
-      "Systems Software Engineering"
     ]
   },
   {
@@ -51767,189 +51733,6 @@
     "detail_desc_terms": "",
     "functions": [
       "Software Engineering"
-    ]
-  },
-  {
-    "id": "4d0ce369-45ff-46bb-96d8-544aba88d73a",
-    "company_name": "Nintendo",
-    "company_url": "https://simplify.jobs/c/Nintendo",
-    "title": "Software Engineer Intern - Connectivity",
-    "url": "https://careers.nintendo.com/?gh_jid=4472147009",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793298004,
-    "date_updated": 1794468832,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "cs",
-    "detail_pay": "$45/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "b4f1d153-4ecd-4b94-884f-4d49046d3e01",
-    "company_name": "Interco",
-    "company_url": "https://simplify.jobs/c/Interco",
-    "title": "Software Development Intern - Software Development - React",
-    "url": "https://jobs.smartrecruiters.com/Interco/744000158581114",
-    "locations": [
-      "St. Louis, MO"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793296295,
-    "date_updated": 1793312320,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$15/hr",
-    "detail_auth": [
-      "US work auth",
-      "No sponsorship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Frontend Engineering",
-      "Software Engineering"
-    ]
-  },
-  {
-    "id": "652f3077-6f25-4999-8c39-03aeffa12c53",
-    "company_name": "Cloudflare",
-    "company_url": "https://simplify.jobs/c/Cloudflare",
-    "title": "Product Manager Intern",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8274790",
-    "locations": [
-      "Austin, TX"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793288497,
-    "date_updated": 1793313181,
-    "category": "Product",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "track": "intern",
-    "terms": [
-      "Summer 2027"
-    ],
-    "program": "other",
-    "detail_pay": "",
-    "detail_auth": [
-      "No sponsorship"
-    ],
-    "detail_h1b": null,
-    "detail_seasons": [
-      "Summer 2027"
-    ],
-    "detail_desc_terms": "",
-    "functions": [
-      "Product Management",
-      "Product"
-    ]
-  },
-  {
-    "id": "bfa01257-724c-4c7e-9a32-1bd1a99d9b9e",
-    "company_name": "Two Six Technologies",
-    "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-    "title": "Systems Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004",
-    "locations": [
-      "Arlington County, Arlington, VA"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793283993,
-    "date_updated": 1793284962,
-    "category": "Software",
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$25–$40/hr",
-    "detail_auth": [
-      "US citizenship"
-    ],
-    "detail_h1b": false,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "Software Engineering",
-      "Systems Software Engineering"
-    ]
-  },
-  {
-    "id": "751cb9fa-f552-4980-b185-35dd46e6f18e",
-    "company_name": "Huawei",
-    "company_url": "https://simplify.jobs/c/Huawei-Tech",
-    "title": "Intern Researcher - AI Agents",
-    "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "active": true,
-    "is_visible": true,
-    "source": "simplify",
-    "date_posted": 1793279889,
-    "date_updated": 1794538280,
-    "category": "AI/ML/Data",
-    "sponsorship": "Other",
-    "degrees": [],
-    "track": "intern",
-    "terms": [
-      "N/A"
-    ],
-    "program": "cs",
-    "detail_pay": "$28–$50/hr",
-    "detail_auth": [],
-    "detail_h1b": null,
-    "detail_seasons": [],
-    "detail_desc_terms": "",
-    "functions": [
-      "AI Research",
-      "AI & Machine Learning"
     ]
   },
   {

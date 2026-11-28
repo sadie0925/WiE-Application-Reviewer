@@ -2,7 +2,7 @@
 
 Software engineering new-grad and entry-level roles in the United States.
 
-**466 open** · newest first · removed when closed or after 60 days · Updated 2026-11-28 06:46 ET
+**465 open** · newest first · removed when closed or after 60 days · Updated 2026-11-28 14:10 ET
 
 **Term**: Fall, Winter/Spring, or Summer (new-grad roles only show one when the posting gives a start season). **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -178,7 +178,6 @@ Software engineering new-grad and entry-level roles in the United States.
 | H2O.ai | Software Engineer | Remote in USA |  | US clearance |  | 2026-11-13 | [Apply](https://h2oai.applytojob.com/apply/FQrRrbP34W/Software-Engineer) |
 | 🔥 Cambridge Mobile Telematics | Software Engineer 1, Cloud | Cambridge, MA |  |  | \$45–\$56/hr | 2026-11-13 | [Apply](https://job-boards.greenhouse.io/cmt/jobs/8385978) |
 | 🔥 Empowerly | Full Stack Software Engineer | Remote in USA |  |  | \$60–\$70/hr | 2026-11-13 | [Apply](https://ats.rippling.com/empowerly/jobs/bf9b3e41-e94a-409e-8dc6-620f2cc0171b) |
-| 🔥 Boeing | Design and Analysis Engineer Entry Level or Associate | Oklahoma City, OK |  | US clearance, US citizenship, No sponsorship | \$33–\$55/hr | 2026-11-12 | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/C-17-Design-and-Analysis-Engineer--Entry-Level-or-Associate-_JR2026525656-1) |
 | Fort Bend County | Web Developer - Web Development - Information Technology | Richmond, TX |  |  | \$25/hr | 2026-11-12 | [Apply](https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers/job/Richmond-TX/Temporary-Position---Web-Development---Information-Technology_JR1694-11-26) |
 | Q2 | Software Engineer | Austin, TX |  | No sponsorship, US work auth |  | 2026-11-12 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953) |
 | 🔥 Sierra Nevada Corporation | Software Engineer 1 | Lone Tree, CO |  | US clearance, US citizenship, No sponsorship | \$41–\$57/hr | 2026-11-12 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292) |

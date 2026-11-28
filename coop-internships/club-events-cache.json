@@ -4,7 +4,7 @@
   "events": []
  },
  "uwcsclub": {
-  "checked": 1795866343,
+  "checked": 1795892967,
   "events": [
    {
     "deadline_at": "",
@@ -23,7 +23,7 @@
   ]
  },
  "uwdsc": {
-  "checked": 1795866339,
+  "checked": 1795892964,
   "events": [
    {
     "deadline_at": "",
@@ -43,31 +43,31 @@
   ]
  },
  "uwengsoc": {
-  "checked": 1795866346,
+  "checked": 1795892973,
   "events": []
  },
  "uwfintech": {
-  "checked": 1795866353,
+  "checked": 1795892980,
   "events": []
  },
  "uwieee": {
-  "checked": 1795866359,
+  "checked": 1795892987,
   "events": []
  },
  "uwpm": {
-  "checked": 1795866363,
+  "checked": 1795892991,
   "events": []
  },
  "uwstartups": {
-  "checked": 1795866356,
+  "checked": 1795892984,
   "events": []
  },
  "uwuxwaterloo": {
-  "checked": 1795866370,
+  "checked": 1795892998,
   "events": []
  },
  "uwwie": {
-  "checked": 1795866366,
+  "checked": 1795892994,
   "events": []
  }
 }

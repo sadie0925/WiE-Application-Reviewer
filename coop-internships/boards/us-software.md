@@ -2,7 +2,7 @@
 
 Software, data, and AI co-ops and internships in the United States.
 
-**739 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 06:46 ET
+**735 open** · newest first · removed when closed or after 30 days · Updated 2026-11-28 14:10 ET
 
 **Term**: Fall, Winter/Spring, or Summer. **Work auth**: citizenship, clearance, or visa limits the posting states. **Pay**: per hour; salaries are converted at 2,080 hours a year. 🔥 = popular tech or quant company, or pays over \$50/hr. A blank cell means the posting doesn't say.
 
@@ -86,7 +86,6 @@ Software, data, and AI co-ops and internships in the United States.
 | Charles Schwab | Treasury Modeling Intern | Lone Tree, CO | Summer 2027 |  |  | 2026-11-23 | [Apply](https://career-schwab.icims.com/jobs/126255/job?mobile=true&needsRedirect=false) |
 | Draper | Simulation Engineer Intern | Cambridge, MA | Summer 2027 | US clearance | \$20–\$45/hr | 2026-11-23 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181) |
 | Elevance Health | Undergraduate Clinical Analytics Intern | Chicago, IL | Summer 2027 | No sponsorship, US work auth | \$28.18–\$40.25/hr | 2026-11-23 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/IL-CHICAGO-8600-W-BRYN-MAWR-AVE-10th--11th-FL/Undergraduate-Clinical-Analytics-Intern--Summer-2027_JR210774) |
-| First PREMIER Bank | Customer Care Intern | Sioux Falls, SD |  |  |  | 2026-11-23 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/Customer-Care-Intern_R-514-1) |
 | General Dynamics Information Technology | Artificial Intelligence/Machine Learning Software Development and Engineer Intern | Bossier City, LA | Summer 2027 | US citizenship, No sponsorship | \$22.97–\$31.07/hr | 2026-11-23 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ233023) |
 | Illumio | Engineering Intern - Architecture Platform | Sunnyvale, CA | Summer 2027 | No sponsorship, US work auth | \$37/hr | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
 | 🔥 Moderna | mRNA Design Co-op - mRNA Design Engineering | Cambridge, MA | Winter/Spring 2027 | US person, Citizen/PR only, No sponsorship, US work auth | \$20–\$60/hr | 2026-11-23 | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20129) |
@@ -746,6 +745,3 @@ Software, data, and AI co-ops and internships in the United States.
 | 🔥 Microsoft | Applied Scientist Intern | Redmond, WA |  |  | \$32.83–\$64.67/hr | 2026-10-29 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557050150) |
 | 🔥 Meta | Research Scientist Intern - Multiple Teams | Seattle, WA, Bellevue, WA |  |  | \$44–\$73/hr | 2026-10-29 | [Apply](https://www.metacareers.com/jobs/1105933535765181) |
 | GM financial | Data Engineer Intern | Arlington, TX | Summer 2027 | No sponsorship |  | 2026-10-29 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197) |
-| Nintendo | Software Engineer Intern - Connectivity | Redmond, WA | Summer 2027 | No sponsorship, US work auth | \$45/hr | 2026-10-29 | [Apply](https://careers.nintendo.com/?gh_jid=4472147009) |
-| Interco | Software Development Intern - Software Development - React | St. Louis, MO |  | No sponsorship, US work auth | \$15/hr | 2026-10-29 | [Apply](https://jobs.smartrecruiters.com/Interco/744000158581114) |
-| Two Six Technologies | Systems Software Engineer Intern | Arlington County, Arlington, VA |  | US citizenship, No sponsorship | \$25–\$40/hr | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004) |
